@@ -12,7 +12,7 @@ repo: https://github.com/GSA/plainlanguage-website
 exclude:
 - CONTRIBUTING.md
 - _config.yml
-- .travis.yml
+- circle.yml
 - .gitignore
 - Gemfile
 - Gemfile.lock

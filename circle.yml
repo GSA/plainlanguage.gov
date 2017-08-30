@@ -1,0 +1,12 @@
+machine:
+  environment:
+    NOKOGIRI_USE_SYSTEM_LIBRARIES: true # speeds up installation of html-proofer
+
+dependencies:
+  post:
+    - bundle install
+    - bundle exec jekyll build
+
+test:
+  post:
+    - bundle exec htmlproofer _site --check-html

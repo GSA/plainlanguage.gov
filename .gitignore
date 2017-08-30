@@ -1,9 +1,7 @@
-.sass-cache
-_site
-.DS_Store
-todo.txt
+_site/
+.sass-cache/
+node_modules/
 .jekyll-metadata
-/vendor
-.ruby-version
-*.pyc
-creds.txt
+.python-version
+*.log
+.DS_Store
