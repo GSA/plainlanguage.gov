@@ -1,0 +1,39 @@
+{% if page.sidenav %}
+<ul class="usa-sidenav-list">
+  {% for link in include.links %}
+    {% assign _href = link.href %}
+    {% assign _current = false %}
+    {% if link.href == page.url or link.href == page.permalink %}
+      {% assign _current = true %}
+    {% endif %}
+  <li>
+    <a href="{{ _href | relative_url }}"{% if _current %}
+      class="usa-current"{% endif %}{% if page.url contains link.href or page.permalink contains link.href %} class="current-parent"{% endif %}>
+      {{ link.text }}
+    </a>
+    {% if link.subnav %}
+    <ul class="usa-sidenav-sub_list">
+      {% for link in link.subnav %}
+        {% assign _current = false %}
+        {% if link.href == page.url or link.href == page.permalink %}
+          {% assign _current = true %}
+        {% endif %}
+      <li>
+        <a {% if _current %}class="usa-current"{% endif %} href="{{ link.href | relative_url }}">
+          {{ link.text }}
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </li>
+  {% endfor %}
+</ul>
+{% endif %}
+
+{% if page.url == page.permalink and page.subnav %}
+<h6 class="usa-sidenav-contents-heading">Contents</h6>
+<ul class="usa-sidenav-contents usa-unstyled-list">
+  {% include subnav.html links=page.subnav %}
+</ul>
+{% endif %}

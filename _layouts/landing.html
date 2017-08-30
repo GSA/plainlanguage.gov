@@ -1,0 +1,38 @@
+---
+layout: base
+---
+
+{% assign hero = page.hero %}
+
+<section class="usa-section hero">
+  <div class="usa-grid">
+    <h2 class="hero-heading">
+      <span class="hero-heading-callout">{{ hero.heading }} </span>{{ hero.content }}
+    </h2>
+    <a class="usa-button usa-button-big usa-button-primary-alt"
+      href="{{ hero.button.href | relative_url }}">
+      {{ hero.button.text }}
+    </a>
+    <a class="hero-link" href="{{ hero.link.href }}">{{ hero.link.text }}</a>
+  </div>
+</section>
+
+{% if page.tagline and page.intro %}
+<section class="usa-grid usa-section">
+  <div class="usa-width-one-third">
+    <h2>{{ page.tagline }}</h2>
+  </div>
+  <div class="usa-width-two-thirds">
+    {{ page.intro | markdownify }}
+  </div>
+</section>
+{% endif %}
+
+{% capture _graphics %}
+  {% include graphic-list.html graphics=page.graphics %}
+{% endcapture %}
+{% if page.graphics_position != 'after' %}{{ _graphics }}{% endif %}
+
+{{ content }}
+
+{% if page.graphics_position == 'after' %}{{ _graphics }}{% endif %}
