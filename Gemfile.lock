@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/18F/uswds-jekyll.git
-  revision: 1a8a3d68729282992249d55b25fe67d6ac0e9c6d
+  revision: ab47170d54a6f818347bed62822471c7f26952d0
   specs:
-    uswds-jekyll (1.1.1)
+    uswds-jekyll (1.2.0)
       jekyll (~> 3.4)
 
 GEM
