@@ -7,7 +7,7 @@ description: Resources to help writers achieve the goal of clear communication f
 
 # GA and GitHub data
 # google_analytics_ua: UA-99995535-1
-repo: https://github.com/GSA/plainlanguage-website
+repo: https://github.com/GSA/plainlanguage.gov
 
 exclude:
 - CONTRIBUTING.md
