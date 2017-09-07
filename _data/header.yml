@@ -1,7 +1,14 @@
 primary:
-  links: primary
-type: basic
+  links:
+    - text: Law and requirements
+      href: /law/
+    - text: Writing guidelines
+      href: /guidelines/
+    - text: Training
+      href: /training/
+    - text: Resources
+      href: /resources/
+    - text: About us
+      href: /about/
 
-# secondary:
-#   links: secondary
-#   search: false
+type: basic

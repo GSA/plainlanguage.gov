@@ -1,27 +1,20 @@
 ---
 title: Home
-layout: landing
+layout: base
 permalink: /
 top: false
-
-hero:
-  heading: Help writers achieve the goal of clear communication from the Federal Government to the public.
-  content: Plain language (also called Plain English) is communication your audience can understand the first time they read or hear it.
-  button:
-    text: Learn more
-    href: /
-  link:
-    text:
-    href:
 ---
 
-<section class="usa-section">
-  <div class="usa-grid usa-content">
-<div class="usa-width-one-third">
-## Recent updates
+<section class="usa-section usa-grid flex items-stretch">
+<div class="usa-width-one-half">
+  <h2>
+    Plain language (also called Plain English) is communication your audience can understand the first time they read or hear it.
+  </h2>
+  <a class="usa-button usa-button-big usa-button-primary-alt" href="/law/">
+    Learn more
+  </a>
 </div>
+<div class="usa-width-one-half">
 
-<div class="usa-width-two-thirds">
-</div>
 </div>
 </section>
