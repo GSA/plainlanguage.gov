@@ -1,0 +1,16 @@
+guidelines:
+  - text: Think about your audience
+    href: /guidelines/audience/
+    subnav:
+      - text: Identify and write for your audience
+        href: '/guidelines/audience/identify/'
+      - text: Address separate audiences separately
+        href: '/guidelines/audience/separate-audiences/'
+  - text: Organize
+    href: /guidelines/organize/
+  - text: Write your document
+    href: /guidelines/write/
+  - text: Write for the web
+    href: /guidelines/web/
+  - text: Test
+    href: /guidelines/test/

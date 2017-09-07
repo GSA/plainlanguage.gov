@@ -1,0 +1,25 @@
+---
+title: Have a topic sentence
+layout: docs
+
+sidenav: guidelines
+---
+
+
+
+
+
+
+
+	<p>If you tell your reader what they're going to read about, they're less likely to have to read your paragraph again. Headings help, but they're not enough. Establish a context for your audience before you provide them with the details. If you flood readers with details first, they become impatient and may resist hearing your message. A good topic sentence draws the audience into your paragraph.</p>
+<p>We often write the way we think, putting our premises first and then our conclusion. It may be the natural way to develop our thoughts, but we wind up with the topic sentence at the end of the paragraph. Move it up front and let users know where you're going. Don't make readers hold a lot of information in their heads before they get to your point.</p>
+<p>Also, busy readers want to skim your document, stopping only for what they want or need to know. You can help them by giving each a paragraph a good introduction. Readers should be able to get good general understanding of your document by skimming your topic sentences.</p>
+<p>A side benefit of good topic sentences (and good headings) is that they help you see if your document is well-organized. If it isn't, topic sentences make it easier for you to rearrange your material.</p>
+
+
+
+		<h2>Sources</h2>
+
+		<ul>
+			<li>Garner, Bryan A., <cite>Legal Writing in Plain English</cite>, 2001, University of Chicago Press, Chicago, pp. 65-66.</li>
+		</ul>

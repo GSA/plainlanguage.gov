@@ -15,6 +15,18 @@ h6 {
   .usa-nav-primary > li > a {
     font-weight: 400;
   }
+
+  .usa-nav-primary a.current-parent span, {
+      border-bottom: 0.7rem solid #0071bc;
+      padding-bottom: 1rem;
+  }
+}
+
+.usa-sidenav-list a.current-parent {
+    border-left: 0.4rem solid #0071bc;
+    color: #0071bc;
+    font-weight: 700;
+    padding-left: 1.4rem;
 }
 
 // Footer
