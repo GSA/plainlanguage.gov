@@ -5,7 +5,7 @@ sidenav: guidelines
 
 **One-on-one usability testing sessions with users** work best when the participant actually uses the document to find and understand information.
 
-Usability testing is the best technique for documents where people have to find the information before understanding it. (See [National Cancer Institute testing success](NCItest.cfm))
+Usability testing is the best technique for documents where people have to find the information before understanding it. (See [National Cancer Institute testing success]({{ site.baseurl }}{% link _guidelines/test/successes/NCItest.md %}))
 
 ## When should I test?
 
@@ -44,7 +44,7 @@ Variations on the one-on-one usability test:
 
 - **Two people working together** (co-discovery). Their discussion is an easy form of think aloud.
 - **Several people working independently** at the same time followed by a group discussion. This speeds up the time you spend in usability test sessions, but it only works if you have several usability test note-takers so you have someone watching and listening to each participant before you bring all the participants together for the discussion.
-- **Comparative usability tests**. You can include different versions of your document. Because you have a small number of people, it is best to have each person work with both versions. You have to alternate which version people start with.(See [Controlled Comparative Studies](control.cfm))
+- **Comparative usability tests**. You can include different versions of your document. Because you have a small number of people, it is best to have each person work with both versions. You have to alternate which version people start with.(See [Controlled Comparative Studies]({{ site.baseurl }}{% link _guidelines/test/control.md %}))
 - **Remote moderated usability testing**. With web-based tools, you do not have to be in the same place as the participant. These tools allow you to draw participants from a wide geographic range without travel costs.
 - **Remote unmoderated usability testing**. You can have large numbers of people participate through remote testing tools. (For federal agencies, this may require clearance through OMB.)
 
@@ -60,15 +60,9 @@ Chisnell, Dana, and Rubin, Jeff. _The Handbook of Usability Testing_, 2nd editio
 
 Krug, Steve. _Rocket Surgery Made Easy_, New Riders, 2009.
 
-### Courses
-
-[Web Manager University (WMU)](http://www.webcontent.gov) offers webinars, seminars, and one- and two-day courses in usability topics.
-
-"[Conducting Usability Testing in the Wild](http://www.usa.gov/webcontent/wmu/spring2009/quickeasyinsightful.shtml)" presented by Dana Chisnell (free archived WMU webinar)
-
 ### Conferences
 
-[Usability Professionals' Association Annual Conference](http://www.upassoc.org)
+[Usability Professionals' Association Annual Conference](http://uxpa.org/)
 
 [Nielsen Norman Group](http://www.nngroup.com/events/) conferences
 
@@ -76,8 +70,6 @@ Krug, Steve. _Rocket Surgery Made Easy_, New Riders, 2009.
 
 ### Additional resources:
 
-[Webcontent.gov](http://www.webcontent.gov)
-
 [Usability.gov](http://www.usability.gov)
 
-[Usability Professionals Association](http://upassoc.org/chapters/index.html) has local chapters which offer training and networking events
+[Usability Professionals Association](http://uxpa.org/chapters-sigs) has local chapters which offer training and networking events

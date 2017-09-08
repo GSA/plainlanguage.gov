@@ -16,6 +16,7 @@ exclude:
 - Gemfile.lock
 - LICENSE.md
 - README.md
+- vendor
 
 styles:
   - /assets/css/main.css

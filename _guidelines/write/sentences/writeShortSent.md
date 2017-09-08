@@ -24,7 +24,7 @@ If you take less than your entitled share of production for any month, but you p
 
 - Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P., _Clear & Effective Legal Writing_, 4th edition, 2007, Aspen Publishers, New York, NY, pp. 163-165.
 - Garner, Bryan A., _Legal Writing in Plain English_, 2001, University of Chicago Press, Chicago, pp. 19-21.
-- Kimble, Joseph, _Guiding Principles for Restyling the Federal Rules of Civil Procedure (Part 1)_, Michigan Bar Journal, September 2005, pp. 56-57\. [www.michbar.org/journal/pdf/pdf4article909.pdf](http://www.michbar.org/journal/pdf/pdf4article909.pdf).
+- Kimble, Joseph, _Guiding Principles for Restyling the Federal Rules of Civil Procedure (Part 1)_, Michigan Bar Journal, September 2005, pp. 56-57.
 - Kimble, Joseph, _Lifting the Fog of Legalese_, 2006, Carolina Academic Press, Durham, NC, p. 96.
 - Murawski, Thomas A., _Writing Readable Regulations_, 1999, Carolina Academic Press Durham, NC, p. 77.
 - Office of the Federal Register, _Document Drafting Handbook_, 1998, MMR-5\. [www.archives.gov/federal-register/write/handbook/ddh.pdf](http://www.archives.gov/federal-register/write/handbook/ddh.pdf).

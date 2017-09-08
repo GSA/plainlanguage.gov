@@ -24,6 +24,5 @@ Here is an image of one of the eye tracking pages. The red shows where the user 
 ## Sources
 
 - [www.useit.com/alertbox/percent-text-read.html](http://www.useit.com/alertbox/percent-text-read.html)
-- [www.customercarewords.com/what-it-is.html](http://www.customercarewords.com/what-it-is.html)
 - _Eyetracking Web Usability_, New Riders Press, December 14, 2009
 - [www.uie.com/articles/five_second_test/](http://www.uie.com/articles/five_second_test/)

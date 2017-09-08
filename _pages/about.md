@@ -10,7 +10,7 @@ The Plain Language Action and Information Network (PLAIN) is a group of federal 
 
 Originally called the Plain English Network, PLAIN has been meeting informally since the mid 1990s. Our goal is to promote the use of plain language for all government communications. We believe that using plain language will save federal agencies time and money and provide better service to the American public.
 
-We meet monthly to discuss plain language issues. Our meetings are open to all federal employees. See our [meetings section](#level#news/currentEvents.cfm?topic=current) for information on attending a future meeting.
+We meet monthly to discuss plain language issues. Our meetings are open to all federal employees. See our [meetings section](#) for information on attending a future meeting.
 
 To promote plain language, we
 
@@ -19,7 +19,7 @@ To promote plain language, we
 - comment on agency documents, especially regulations
 - offer a short half day introduction to plain language and writing for the web free of charge to any federal agency
 
-Please [contact us](#level#site/contactus.cfm?subject=training) if:
+Please [contact us](#) if:
 
 - we can help your agency with plain language issues
 - you want us to present a half day training program at your agency
@@ -36,7 +36,7 @@ Miriam Vincent, Staff Attorney, Office of the Federal Register, National Archive
 
 ### About Our Site
 
-PLAIN launched our original site in 1994\. We redesigned plainlanguage.gov in 2004 with volunteers from PLAIN and student work facilitated by Thom Haller, writing and information architecture instructor. Read [Thom Haller's article](aboutArticle.cfm) about this process.
+PLAIN launched our original site in 1994\. We redesigned plainlanguage.gov in 2004 with volunteers from PLAIN and student work facilitated by Thom Haller, writing and information architecture instructor. Read [Thom Haller's article](#) about this process.
 
 Students gathered information on audiences, evaluated content based on what we learned audiences would want to do, categorized and grouped content, tested structure and usability of the site, and built the site to respond to user needs.
 

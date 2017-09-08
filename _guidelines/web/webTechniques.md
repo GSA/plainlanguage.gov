@@ -9,19 +9,19 @@ When writing web content
 
 ## USE:
 
-- [Logical Organization](orgAud.cfm)
-- [Informative Headings](orgHeadings.cfm)
-- [Active Voice](writeActive.cfm)
-- [Use Pronouns](writeYou.cfm)
-- [Common Words](writeShort.cfm)
-- Use [lists](writeLists.cfm) and [tables](writeTables.cfm)
+- [Logical Organization]({{ site.baseurl }}{% link _guidelines/organize/orgAud.md %})
+- [Informative Headings]({{ site.baseurl }}{% link _guidelines/organize/orgHeadings.md %})
+- [Active Voice]({{ site.baseurl }}{% link _guidelines/write/words/verbs/writeActive.md %})
+- [Use Pronouns]({{ site.baseurl }}{% link _guidelines/write/words/nouns/writeYou.md %})
+- [Common Words]({{ site.baseurl }}{% link _guidelines/write/words/other/writeShort.md %})
+- Use [lists]({{ site.baseurl }}{% link _guidelines/write/aids/writeLists.md %}) and [tables]({{ site.baseurl }}{% link _guidelines/write/aids/writeTables.md %})
 
 ## AVOID:
 
-- [Jargon and legalese](writeNoJargon.cfm)
-- [Hidden Verbs](writeNoVerbNouns.cfm)
-- [Passive Voice](writeActive.cfm)
-- Long [sentences](writeShortSent.cfm) or [paragraphs](writeShortPara.cfm)
-- [Abbreviations](writeNoAbbrev.cfm)
-- [Unnecessary Words](writeOmitUnnecc.cfm)
-- [Information the user doesn't want](organize.cfm)
+- [Jargon and legalese]({{ site.baseurl }}{% link _guidelines/write/words/other/writeNoJargon.md %})
+- [Hidden Verbs]({{ site.baseurl }}{% link _guidelines/write/words/verbs/writeNoVerbNouns.md %})
+- [Passive Voice]({{ site.baseurl }}{% link _guidelines/write/words/verbs/writeActive.md %})
+- Long [sentences]({{ site.baseurl }}{% link _guidelines/write/sentences/writeShortSent.md %}) or [paragraphs]({{ site.baseurl }}{% link _guidelines/write/paragraphs/writeShortPara.md %})
+- [Abbreviations]({{ site.baseurl }}{% link _guidelines/write/words/nouns/writeNoAbbrev.md %})
+- [Unnecessary Words]({{ site.baseurl }}{% link _guidelines/write/words/other/writeOmitUnnecc.md %})
+- [Information the user doesn't want]({{ site.baseurl }}{% link _guidelines/organize/index.md %})

@@ -23,11 +23,11 @@ And the original, using stronger, simpler words:
 
 In making your word choices, pick the familiar or frequently used word over the unusual or obscure. There are many lists of complex words and suggested substitutes, for example
 
-[www.plainlanguage.gov/howto/wordsuggestions/simplewords.cfm](#level#howto/wordsuggestions/simplewords.cfm');)
+[www.plainlanguage.gov/howto/wordsuggestions/simplewords.cfm](#)
 
 . See also the lists in Kimble (2006).
 
 ## Sources
 
 - Kimble, Joseph, _Lifting the Fog of Legalese_, 2006, Carolina Academic Press, Durham, NC, pp. 11, 165-174.
-- McGinty, Kathy, _Nine Easy Steps to Longer Sentences_, [www.plainlanguage.gov/examples/humor/9easysteps.cfm](#level#examples/humor/9easysteps.cfm');)
+- McGinty, Kathy, _Nine Easy Steps to Longer Sentences_, [www.plainlanguage.gov/examples/humor/9easysteps.cfm](#)

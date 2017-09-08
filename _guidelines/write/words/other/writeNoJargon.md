@@ -16,7 +16,7 @@ involuntarily undomiciled                                                       
 The patient is being given positive-pressure ventilatory support.                                                                                                                        | The patient is on a respirator.
 Most refractory coatings to date exhibit a lack of reliability when subject to the impingement of entrained particulate matter in the propellant stream under extended firing durations. | The exhaust gas eventually damages the coating of most existing ceramics.
 
-When you have no way to express an idea except to use technical language, make sure you define your terms. However, it's best to keep definitions to a minimum. Remember to write to communicate, not to impress. If you do that, you should naturally use less jargon. For more on definitions, see [Dealing with definitions](writeDefs.cfm).
+When you have no way to express an idea except to use technical language, make sure you define your terms. However, it's best to keep definitions to a minimum. Remember to write to communicate, not to impress. If you do that, you should naturally use less jargon. For more on definitions, see [Dealing with definitions]({{ site.baseurl }}{% link _guidelines/write/words/other/writeDefs.md %}).
 
 ## Legal language
 
@@ -36,7 +36,7 @@ Legal language in regulations and other documents is a major source of annoying 
 - wherein
 - whereof ------------------------------------------------------------------------------------------ | -----------------------------------------------------------------------------
 
-Another term that is losing its popularity in legal circles is "shall." Obviously, it's especially important in regulations to use words of authority clearly, and many top legal writing experts now recommend avoiding the archaic and ambiguous "shall" in favor of another word, depending on your meaning. Read more about "shall" in [Use "must" to convey requirements.](writeMust.cfm)
+Another term that is losing its popularity in legal circles is "shall." Obviously, it's especially important in regulations to use words of authority clearly, and many top legal writing experts now recommend avoiding the archaic and ambiguous "shall" in favor of another word, depending on your meaning. Read more about "shall" in [Use "must" to convey requirements.]({{ site.baseurl }}{% link _guidelines/write/words/verbs/writeMust.md %})
 
 ## Sources
 

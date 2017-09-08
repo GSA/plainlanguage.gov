@@ -32,7 +32,7 @@ Don't say | Say
 
 - You must notify any settler, by registered mail, that you have applied to use timber from your lease. Include in your notice the amount and the kind of timber you intend to use as fuel.
 
-Many legal scholars have written about the problem of "shall." Read a brief summary of several arguments at: [www.plainlanguage.gov/howto/wordsuggestions/shallmust.cfm](#level#howto/wordsuggestions/shallmust.cfm).
+Many legal scholars have written about the problem of "shall." Read a brief summary of several arguments at: [www.plainlanguage.gov/howto/wordsuggestions/shallmust.cfm](#).
 
 ## Sources
 
@@ -40,5 +40,5 @@ Many legal scholars have written about the problem of "shall." Read a brief summ
 - Garner, Bryan A., _A Dictionary of Modern Legal Usage_, 2nd edition, 1995, Oxford University Press, Oxford and New York, pp. 939-942.
 - Garner, Bryan A., _Legal Writing in Plain English_, 2001, University of Chicago Press, Chicago, pp. 105-106.
 - Kimble, Joseph, _Lifting the Fog of Legalese_, 2006, Carolina Academic Press, Durham, NC, pp. 159-160.
-- US Courts, _Federal Rules of Appellate Procedure_, 2009, US Government Printing Office, Washington, DC. [www.uscourts.gov/uscourts/rulesandpolicies/rules/ap2009.pdf](http://www.uscourts.gov/uscourts/rulesandpolicies/rules/ap2009.pdf).
+- US Courts, _Federal Rules of Appellate Procedure_, 2009, US Government Printing Office, Washington, DC. <http://www.uscourts.gov/rules-policies/archives/superseded-rules/federal-rules-appellate-procedure-2009>.
 - Wydick, Richard, _Plain English for Lawyers_, 5th<edition, 2005, Carolina Academic Press, Durham, NC, p. 64.

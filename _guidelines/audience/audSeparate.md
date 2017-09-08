@@ -5,7 +5,7 @@ sidenav: guidelines
 
 An important part of writing for your audience is addressing separate audiences separately. Many documents address more than one audience. Documents that mix material intended for different audiences may confuse readers. By addressing different audiences in the same place, you make it harder for each audience to find the material that applies to them. In regulations, this may make it difficult for each audience to comply with your agency's requirements.
 
-The following example shows a regulation that treats each regulated group separately in its own subpart, rather than mixing all the groups together in the same subpart. For an example of a rule that does not address separate groups separately, see 5 CFR 1320 (<http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div5&view=text&node=5:3.0.2.3.9&idno=5>).
+The following example shows a regulation that treats each regulated group separately in its own subpart, rather than mixing all the groups together in the same subpart. For an example of a rule that does not address separate groups separately, see [5 CFR 1320](https://www.ecfr.gov/cgi-bin/text-idx?tpl=/ecfrbrowse/Title05/5cfr1320_main_02.tpl).
 
 Title 40--Protection of Environment
 

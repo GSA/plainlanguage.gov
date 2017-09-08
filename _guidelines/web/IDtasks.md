@@ -13,7 +13,3 @@ In order to write for your users, you need to know who they are! Here are some g
   - What top search phrases do people use?
 
 There are many techniques to help you learn about your users. For details and best practices visit [www.usability.gov](http://www.usability.gov).
-
-## Sources
-
-- [www.customercarewords.com/how-it-works.html](http://www.customercarewords.com/how-it-works.html)

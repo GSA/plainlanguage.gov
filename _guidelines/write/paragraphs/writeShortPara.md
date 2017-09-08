@@ -28,7 +28,7 @@ In addition, the Department of State has asked its embassies and consulates to c
 
 In addition to breaking material into more, shorter, paragraphs, consider using a heading for each paragraph, as we did in this example.
 
-See also [Cover only one topic in each paragraph](write1Issue.cfm).
+See also [Cover only one topic in each paragraph]({{ site.baseurl }}{% link _guidelines/write/paragraphs/write1Issue.md %}).
 
 ## Sources
 

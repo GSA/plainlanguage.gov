@@ -5,7 +5,7 @@ sidenav: guidelines
 
 Wordy, dense construction is one of the biggest problems in government writing. Nothing is more confusing to the user than long, complex sentences containing multiple phrases and clauses. Unnecessary words come in all shapes and sizes, and it's difficult to put them into distinct categories. To address the problem, writers must become more critical of their own writing. They must consider whether they need every word.
 
-Unnecessary words waste your audience's time on the web as well. Remember great web content is like a conversation. Omit information that the audience doesn't need to know. This can be difficult as a subject matter expert so it is important to have someone look at the information from the audience's perspective. (See [Write web content](writeWeb.cfm) for more information on writing for the web.)
+Unnecessary words waste your audience's time on the web as well. Remember great web content is like a conversation. Omit information that the audience doesn't need to know. This can be difficult as a subject matter expert so it is important to have someone look at the information from the audience's perspective. (See [Write web content]({{ site.baseurl }}{% link _guidelines/web/writeWeb.md %}) for more information on writing for the web.)
 
 One place to start working on this problem in your own writing is to watch out for "of," "to," "on," and other _**prepositions**_. They often mark phases you can reduce to one or two words.
 
@@ -69,7 +69,7 @@ Don't say | Say
 - (either one)
 - start
 
-Other ways to omit unnecessary words include eliminating hidden verbs, using pronouns, and using active voice. See the guidance on those three topics ([Avoid hidden verbs](writeNoVerbNouns.cfm), [Use pronouns to speak directly to readers](writeYou.cfm), and [Use active voice](writeActive.cfm)) for more information.
+Other ways to omit unnecessary words include eliminating hidden verbs, using pronouns, and using active voice. See the guidance on those three topics ([Avoid hidden verbs]({{ site.baseurl }}{% link _guidelines/write/words/verbs/writeNoVerbNouns.md %}), [Use pronouns to speak directly to readers]({{ site.baseurl }}{% link _guidelines/write/words/nouns/writeYou.md %}), and [Use active voice]({{ site.baseurl }}{% link _guidelines/write/words/verbs/writeActive.md %})) for more information.
 
 Here's an example that uses several of the techniques discussed above to cut a 54 word sentence down to 22 words, with no loss of meaning.
 

@@ -17,8 +17,8 @@ If you need to post a PDF use a gateway page – a web page that includes inform
 - How large the file is
 - Who might find the information helpful
 
-Remember to follow 508-compliance guidelines when using PDFs. See [www.section508.gov](javascript:openWin('http://www.section508.gov');) for more information on 508-compliance.
+Remember to follow 508-compliance guidelines when using PDFs. See [www.section508.gov](http://www.section508.gov) for more information on 508-compliance.
 
 ## Sources
 
-- [www.useit.com/alertbox/20030714.html](javascript:openWin('http://www.useit.com/alertbox/20030714.html');)
+- [www.useit.com/alertbox/20030714.html](http://www.useit.com/alertbox/20030714.html)

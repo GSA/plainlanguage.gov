@@ -26,4 +26,4 @@ The production of accurate statistics is important for the committee in the asse
 - Garner, Bryan A., _Legal Writing in Plain English_, 2001, University of Chicago Press, Chicago, p. 38 (14.)
 - Kimble, Joseph, _Lifting the Fog of Legalese_, 2006, Carolina Academic Press, Durham, NC., p. 71 (D.4).
 - Securities and Exchange Commission, _Plain English Handbook_, 1998, Securities and Exchange Commission, Washington, DC., p. 21.
-- Wright, Nick, at [www.plainlanguage.gov/howto/wordsuggestions/hiddenverbs.cfm](#level#howto/wordsuggestions/hiddenverbs.cfm).
+- Wright, Nick, at [www.plainlanguage.gov/howto/wordsuggestions/hiddenverbs.cfm](#).
