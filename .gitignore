@@ -1,7 +1,4 @@
 _site/
 .sass-cache/
 node_modules/
-.jekyll-metadata
-.python-version
-*.log
 .DS_Store
