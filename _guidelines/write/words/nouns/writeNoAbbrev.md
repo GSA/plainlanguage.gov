@@ -20,7 +20,7 @@ Fire and Police Employee Relations Act      | FPERA      | the Act
 
 There's a short list of abbreviations that have entered common usage. When you use them, don't define them, you're just taking up space and annoying your user. But make sure the abbreviation you're using is on the list. Examples include IBM, ATM, BMW, PhD, CIA.
 
-A closely related guideline is, "don't define something that's obvious to the user." Most federal agencies, when writing a letter responding to an inquiry, insist on defining the agency name, as in, "Thank you for writing to the Federal Aviation Administration (FAA) about your concerns �" The letterhead says the name of the agency. The person wrote to the agency, and now the agency is writing back. The user is not going to be confused about what FAA means!
+A closely related guideline is, "don't define something that's obvious to the user." Most federal agencies, when writing a letter responding to an inquiry, insist on defining the agency name, as in, "Thank you for writing to the Federal Aviation Administration (FAA) about your concerns" The letterhead says the name of the agency. The person wrote to the agency, and now the agency is writing back. The user is not going to be confused about what FAA means!
 
 ## If you must abbreviate
 

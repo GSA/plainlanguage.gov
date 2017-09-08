@@ -5,7 +5,7 @@ permalink: /guidelines/
 sidenav: guidelines
 ---
 
-The Plain Language Action and Information Network (PLAIN) is a community of federal employees dedicated to the idea that citizens deserve clear communications from government. We first developed this document in the mid-90s. We continue to revise it every few years to provide updated advice on clear communication. We hope you find this document useful, and that it helps you improve your writing -- and your agency�s writing -- so your users can
+The Plain Language Action and Information Network (PLAIN) is a community of federal employees dedicated to the idea that citizens deserve clear communications from government. We first developed this document in the mid-90s. We continue to revise it every few years to provide updated advice on clear communication. We hope you find this document useful, and that it helps you improve your writing -- and your agency's writing -- so your users can
 
 - find what they need,
 - understand what they find; and
