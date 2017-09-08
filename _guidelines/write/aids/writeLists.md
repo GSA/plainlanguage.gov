@@ -1,6 +1,5 @@
 ---
 title: Use lists
-layout: docs
 sidenav: guidelines
 ---
 
@@ -71,26 +70,7 @@ The bullet "Mail it express mail" does not work with the rest of the list. The o
 
 ## Sources
 
-- Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.
-
-  <cite>Clear &amp; Effective Legal Writing,</cite>
-
-  4th edition, 2007, Aspen Publishers, New York, NY, pp. 181-182.
-
-- Garner, Bryan A.,
-
-  <cite>Legal Writing in Plain English</cite>
-
-  , 2001, University of Chicago Press, Chicago, pp. 100, 125.
-
-- Murawski, Thomas A.,
-
-  <cite>Writing Readable Regulations</cite>
-
-  , 1999, Carolina Academic Press Durham, NC, pp. 25, 81-84.
-
-- Securities and Exchange Commission,
-
-  <cite>Plain English Handbook</cite>
-
-  , 1998, Washington, DC, p. 34.
+- Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P., _Clear & Effective Legal Writing_, 4th edition, 2007, Aspen Publishers, New York, NY, pp. 181-182.
+- Garner, Bryan A., _Legal Writing in Plain English_, 2001, University of Chicago Press, Chicago, pp. 100, 125.
+- Murawski, Thomas A., _Writing Readable Regulations_, 1999, Carolina Academic Press Durham, NC, pp. 25, 81-84.
+- Securities and Exchange Commission, _Plain English Handbook_, 1998, Washington, DC, p. 34.

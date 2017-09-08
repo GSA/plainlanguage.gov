@@ -1,6 +1,5 @@
 ---
 title: Identify your users and their top tasks
-layout: docs
 sidenav: guidelines
 ---
 
@@ -13,8 +12,8 @@ In order to write for your users, you need to know who they are! Here are some g
   - What are your most-visited pages and where do people spend the most time?
   - What top search phrases do people use?
 
-There are many techniques to help you learn about your users. For details and best practices visit [www.usability.gov](javascript:openWin('http://www.usability.gov');).
+There are many techniques to help you learn about your users. For details and best practices visit [www.usability.gov](http://www.usability.gov).
 
 ## Sources
 
-- [www.customercarewords.com/how-it-works.html](javascript:openWin('http://www.customercarewords.com/how-it-works.html');)
+- [www.customercarewords.com/how-it-works.html](http://www.customercarewords.com/how-it-works.html)

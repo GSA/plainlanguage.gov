@@ -1,6 +1,5 @@
 ---
 title: 'Avoid legal, foreign, and technical jargon'
-layout: docs
 sidenav: guidelines
 ---
 
@@ -41,20 +40,6 @@ Another term that is losing its popularity in legal circles is "shall." Obviousl
 
 ## Sources
 
-- Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.
-
-  <cite>Clear &amp; Effective Legal Writing,</cite>
-
-  4th edition, 2007, Aspen Publishers, New York, NY, pp. 188-191.
-
-- Garner, Bryan A.,
-
-  <cite>Garner’s Modern American Usage</cite>
-
-  , 2003, Oxford University Press, Oxford and New York, pp. 472-473.
-
-- Kimble, Joseph,
-
-  <cite>Lifting the Fog of Legalese</cite>
-
-  , 2006, Carolina Academic Press, Durham, NC, pp.173-174.
+- Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P., _Clear & Effective Legal Writing_, 4th edition, 2007, Aspen Publishers, New York, NY, pp. 188-191.
+- Garner, Bryan A., _Garner's Modern American Usage_, 2003, Oxford University Press, Oxford and New York, pp. 472-473.
+- Kimble, Joseph, _Lifting the Fog of Legalese_, 2006, Carolina Academic Press, Durham, NC, pp.173-174.

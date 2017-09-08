@@ -1,6 +1,5 @@
 ---
 title: Minimize cross-references
-layout: docs
 sidenav: guidelines
 ---
 
@@ -10,7 +9,7 @@ Nothing is more annoying than coming upon cross-references in reading material. 
 | -----------------------------------------------
 | "
 
-<cite>Section 1250 capital gain</cite>
+_Section 1250 capital gain
 
 --(i) _Definition._ For purposes of this section, _section 1250 capital gain_ means the capital gain (not otherwise treated as ordinary income) that would be treated as ordinary income if section 1250(b)(1) included all depreciation and the applicable percentage under section 1250(a) were 100 percent."
 
@@ -86,22 +85,5 @@ There is no hard and fast rule about when it's reasonable to use a cross-referen
 
 ## Sources
 
-- Flesch, Rudolf,
-
-  <cite>How to Write in Plain English, A Book for Lawyers and Consumers</cite>
-
-  , 1979, Harper and Rowe, New York, pp. 82-93.
-
-- Office of the Federal Register,
-
-  <cite>Document Drafting Handbook</cite>
-
-  , 1998, 1-15). [www.archives.gov/federal-register/write/handbook/ddh.pdf
-
-  <cfoutput>
-    <img src="#level#graphics/pdf_icon.gif" alt="Adobe Acrobat Reader icon" width="10" height="12" border="0">
-  </cfoutput>
-
-  ](javascript:openWin('<http://www.archives.gov/federal-register/write/handbook/ddh.pdf>');)
-
-  .
+- Flesch, Rudolf, _How to Write in Plain English, A Book for Lawyers and Consumers_, 1979, Harper and Rowe, New York, pp. 82-93.
+- Office of the Federal Register, _Document Drafting Handbook_, 1998, 1-15). [www.archives.gov/federal-register/write/handbook/ddh.pdf](http://www.archives.gov/federal-register/write/handbook/ddh.pdf).

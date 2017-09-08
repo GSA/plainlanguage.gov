@@ -1,6 +1,5 @@
 ---
 title: Design your document for easy reading
-layout: docs
 sidenav: guidelines
 ---
 
@@ -20,8 +19,4 @@ Here are a few brief guidelines for good document design:
 
 ## Sources
 
-- Schriver, Karen,
-
-  <cite>Dynamics in Document Design: Creating Text for Readers</cite>
-
-  , 1996, John Wiley and Sons, Hoboken, NJ.
+- Schriver, Karen, _Dynamics in Document Design: Creating Text for Readers_, 1996, John Wiley and Sons, Hoboken, NJ.

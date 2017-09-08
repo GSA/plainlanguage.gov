@@ -1,6 +1,5 @@
 ---
 title: Place words carefully
-layout: docs
 sidenav: guidelines
 ---
 
@@ -27,8 +26,4 @@ If you are determined to have a disability, we will pay you the following: | If 
 
 ## Sources
 
-- Garner, Bryan A.,
-
-  <cite>Garner’s Modern American Usage,</cite>
-
-  2003, Oxford University Press, Oxford and New York, pp. 566-567.
+- Garner, Bryan A., _Garner's Modern American Usage_, 2003, Oxford University Press, Oxford and New York, pp. 566-567.

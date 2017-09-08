@@ -1,6 +1,5 @@
 ---
 title: Avoid noun strings
-layout: docs
 sidenav: guidelines
 ---
 
@@ -18,13 +17,13 @@ National Highway Traffic Safety Administration's automobile seat belt interlock 
 
 - Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.
 
-  <cite>Clear &amp; Effective Legal Writing,</cite>
+  _Clear &amp; Effective Legal Writing,_
 
   4th edition, 2007, Aspen Publishers, New York, NY, pp. 192-193.
 
 - Garner, Bryan A.,
 
-  <cite>A Dictionary of Modern Legal Usage</cite>
+  _A Dictionary of Modern Legal Usage_
 
   , 2
 
@@ -34,13 +33,13 @@ National Highway Traffic Safety Administration's automobile seat belt interlock 
 
 - Garner, Bryan A.,
 
-  <cite>Garner’s Modern American Usage</cite>
+  _Garner’s Modern American Usage_
 
   , 2003, Oxford University Press, Oxford and New York, p. 557.
 
 - Wydick, Richard,
 
-  <cite>Plain English for Lawyers</cite>
+  _Plain English for Lawyers_
 
   , 5
 
@@ -50,7 +49,7 @@ National Highway Traffic Safety Administration's automobile seat belt interlock 
 
 - Zinsser, William,
 
-  <cite>On Writing Well</cite>
+  _On Writing Well_
 
   , 6
 

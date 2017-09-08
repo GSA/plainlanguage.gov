@@ -1,6 +1,5 @@
 ---
 title: Use lots of useful headings
-layout: docs
 sidenav: guidelines
 ---
 
@@ -74,34 +73,7 @@ You must publish a notice of your operations in a local newspaper before you beg
 
 ## Sources
 
-- Garner, Bryan A.,
-
-  <cite>Legal Writing in Plain English</cite>
-
-  , 2001, University of Chicago Press, Chicago, p. 14-16.
-
-- Kimble, Joseph,
-
-  <cite>Lifting the Fog of Legalese</cite>
-
-  , 2006, Carolina Academic Press, Durham, NC, p. 70 (C).
-
-- Murawski, Thomas A.,
-
-  <cite>Writing Readable Regulations</cite>
-
-  , 1999, Carolina Academic Press Durham, NC, pp. 10-12, 27.
-
-- Office of the Federal Register,
-
-  <cite>Document Drafting Handbook</cite>
-
-  , 1998, MMR-2\. [www.archives.gov/federal-register/write/handbook/ddh.pdf
-
-  <cfoutput>
-    <img src="#level#graphics/pdf_icon.gif" alt="Adobe Acrobat Reader icon" width="10" height="12" border="0">
-  </cfoutput>
-
-  ](javascript:openWin('<http://www.archives.gov/federal-register/write/handbook/ddh.pdf>');)
-
-  .
+- Garner, Bryan A., _Legal Writing in Plain English_, 2001, University of Chicago Press, Chicago, p. 14-16.
+- Kimble, Joseph, _Lifting the Fog of Legalese_, 2006, Carolina Academic Press, Durham, NC, p. 70 (C).
+- Murawski, Thomas A., _Writing Readable Regulations_, 1999, Carolina Academic Press Durham, NC, pp. 10-12, 27.
+- Office of the Federal Register, _Document Drafting Handbook_, 1998, MMR-2\. [www.archives.gov/federal-register/write/handbook/ddh.pdf](http://www.archives.gov/federal-register/write/handbook/ddh.pdf).

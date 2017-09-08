@@ -1,6 +1,5 @@
 ---
 title: Use the same term consistently for a specific thought or object
-layout: docs
 sidenav: guidelines
 ---
 

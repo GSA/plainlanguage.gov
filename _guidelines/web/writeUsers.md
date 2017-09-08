@@ -1,6 +1,5 @@
 ---
 title: Write for your users
-layout: docs
 sidenav: guidelines
 ---
 

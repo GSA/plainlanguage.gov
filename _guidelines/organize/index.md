@@ -1,6 +1,5 @@
 ---
 title: Organize
-layout: docs
 sidenav: guidelines
 permalink: /guidelines/organize/
 ---

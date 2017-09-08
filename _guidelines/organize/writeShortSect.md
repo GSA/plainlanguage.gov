@@ -1,6 +1,5 @@
 ---
 title: Write short sections
-layout: docs
 sidenav: guidelines
 ---
 
@@ -38,14 +37,5 @@ Select lands in quarter sections where they are available unless there is not en
 
 ## Sources
 
-- Kimble, Joseph,
-
-  <cite>Lifting the Fog of Legalese</cite>
-
-  , 2006, Carolina Academic Press, Durham, NC, pp. 11, 165-174.
-
-- Murawski, Thomas A.,
-
-  <cite>Writing Readable Regulations</cite>
-
-  , 1999, Carolina Academic Press Durham, NC, pp. 9-10.
+- Kimble, Joseph, _Lifting the Fog of Legalese_, 2006, Carolina Academic Press, Durham, NC, pp. 11, 165-174.
+- Murawski, Thomas A., _Writing Readable Regulations_, 1999, Carolina Academic Press Durham, NC, pp. 9-10.

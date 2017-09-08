@@ -1,6 +1,5 @@
 ---
 title: Organize to meet your readers&rsquo; needs
-layout: docs
 sidenav: guidelines
 ---
 
@@ -88,40 +87,8 @@ If you have more than one audience for your document, address each one separatel
 
 ## Sources
 
-- Kimble, Joseph,
-
-  <cite>Lifting the Fog of Legalese</cite>
-
-  , 2006, Carolina Academic Press, Durham, NC, p. 70 (C).
-
-- Murawski, Thomas A.,
-
-  <cite>Writing Readable Regulations</cite>
-
-  , 1999, Carolina Academic Press Durham, NC, pp. 3-5.
-
-- Office of the Federal Register,
-
-  <cite>Document Drafting Handbook</cite>
-
-  , 1998, §1-23, [www.archives.gov/federal-register/write/handbook/ddh.pdf
-
-  <cfoutput>
-    <img src="#level#graphics/pdf_icon.gif" alt="Adobe Acrobat Reader icon" width="10" height="12" border="0">
-  </cfoutput>
-
-  ](javascript:openWin('<http://www.archives.gov/federal-register/write/handbook/ddh.pdf>');)
-
-  .
-
-- Redish, Janice C.,
-
-  <cite>How to Write Regulations and Other Legal Documents in Clear English</cite>
-
-  , 1991, American Institutes for Research, Washington, DC, pp. 12-21.
-
-- Securities and Exchange Commission,
-
-  <cite>Plain English Handbook</cite>
-
-  , 1998, Washington, DC, p. 15.
+- Kimble, Joseph, _Lifting the Fog of Legalese_, 2006, Carolina Academic Press, Durham, NC, p. 70 (C).
+- Murawski, Thomas A., _Writing Readable Regulations_, 1999, Carolina Academic Press Durham, NC, pp. 3-5.
+- Office of the Federal Register, _Document Drafting Handbook_, 1998, §1-23, [www.archives.gov/federal-register/write/handbook/ddh.pdf](http://www.archives.gov/federal-register/write/handbook/ddh.pdf).
+- Redish, Janice C., _How to Write Regulations and Other Legal Documents in Clear English_, 1991, American Institutes for Research, Washington, DC, pp. 12-21.
+- Securities and Exchange Commission, _Plain English Handbook_, 1998, Washington, DC, p. 15.

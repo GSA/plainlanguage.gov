@@ -1,6 +1,5 @@
 ---
 title: Write short paragraphs
-layout: docs
 sidenav: guidelines
 ---
 
@@ -33,14 +32,5 @@ See also [Cover only one topic in each paragraph](write1Issue.cfm).
 
 ## Sources
 
-- Garner, Bryan A.,
-
-  <cite>Legal Writing in Plain English</cite>
-
-  , 2001, University of Chicago Press, Chicago, pp. 72-73.
-
-- Murawski, Thomas A.,
-
-  <cite>Writing Readable Regulations</cite>
-
-  , 1999, Carolina Academic Press Durham, NC, pp. 24-25.
+- Garner, Bryan A., _Legal Writing in Plain English_, 2001, University of Chicago Press, Chicago, pp. 72-73.
+- Murawski, Thomas A., _Writing Readable Regulations_, 1999, Carolina Academic Press Durham, NC, pp. 24-25.

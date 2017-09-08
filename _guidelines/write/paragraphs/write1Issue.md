@@ -1,6 +1,5 @@
 ---
 title: Cover only one topic in each paragraph
-layout: docs
 sidenav: guidelines
 ---
 

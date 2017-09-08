@@ -1,6 +1,5 @@
 ---
 title: Verbs
-layout: docs
 sidenav: guidelines
 permalink: /guidelines/write/words/verbs/
 ---

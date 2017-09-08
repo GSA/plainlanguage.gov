@@ -1,6 +1,5 @@
 ---
 title: Controlled Comparative Studies
-layout: docs
 sidenav: guidelines
 ---
 

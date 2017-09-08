@@ -1,6 +1,5 @@
 ---
 title: Use active voice
-layout: docs
 sidenav: guidelines
 ---
 
@@ -36,58 +35,11 @@ In a very few instances, passive voice may be appropriate. For example, when one
 
 #### Sources
 
-- Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.
-
-  <cite>Clear &amp; Effective Legal Writing,</cite>
-
-  4th edition, 2007, Aspen Publishers, New York, NY, pp. 173-175.
-
-- Garner, Bryan A.,
-
-  <cite>A Dictionary of Modern Legal Usage</cite>
-
-  , 2nd edition, 1995, Oxford University Press, Oxford and New York, pp. 643-644.
-
-- Garner, Bryan A.,
-
-  <cite>Legal Writing in Plain English</cite>
-
-  , 2001, University of Chicago Press, Chicago, pp. 24-26.
-
-- Garner, Bryan A.,
-
-  <cite>Garner’s Modern American Usage,</cite>
-
-  2003\. Oxford University Press, Oxford and New York, pp. 892-893.
-
-- Murawski, Thomas A.,
-
-  <cite>Writing Readable Regulations</cite>
-
-  , 1999, Carolina Academic Press Durham, NC, pp. 73-75.
-
-- Office of the Federal Register,
-
-  <cite>Document Drafting Handbook</cite>
-
-  , 1998, p. MMR-5\. [www.archives.gov/federal-register/write/handbook/ddh.pdf
-
-  <cfoutput>
-    <img src="#level#graphics/pdf_icon.gif" alt="Adobe Acrobat Reader icon" width="10" height="12" border="0">
-  </cfoutput>
-
-  ](javascript:openWin('<http://www.archives.gov/federal-register/write/handbook/ddh.pdf>');)
-
-  .
-
-- Redish, Janice C.,
-
-  <cite>How to Write Regulations and Other Legal Documents in Clear English,</cite>
-
-  1991, American Institutes for Research, Washington, DC, p. 26.
-
-- Securities and Exchange Commission,
-
-  <cite>Plain English Handbook</cite>
-
-  , 1998, Washington, DC, pp. 19 –20.
+- Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P., _Clear & Effective Legal Writing_, 4th edition, 2007, Aspen Publishers, New York, NY, pp. 173-175.
+- Garner, Bryan A., _A Dictionary of Modern Legal Usage_, 2nd edition, 1995, Oxford University Press, Oxford and New York, pp. 643-644.
+- Garner, Bryan A., _Legal Writing in Plain English_, 2001, University of Chicago Press, Chicago, pp. 24-26.
+- Garner, Bryan A., _Garner's Modern American Usage_, 2003\. Oxford University Press, Oxford and New York, pp. 892-893.
+- Murawski, Thomas A., _Writing Readable Regulations_, 1999, Carolina Academic Press Durham, NC, pp. 73-75.
+- Office of the Federal Register, _Document Drafting Handbook_, 1998, p. MMR-5\. [www.archives.gov/federal-register/write/handbook/ddh.pdf](http://www.archives.gov/federal-register/write/handbook/ddh.pdf).
+- Redish, Janice C., _How to Write Regulations and Other Legal Documents in Clear English_, 1991, American Institutes for Research, Washington, DC, p. 26.
+- Securities and Exchange Commission, _Plain English Handbook_, 1998, Washington, DC, pp. 19 –20.

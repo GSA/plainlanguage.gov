@@ -1,6 +1,5 @@
 ---
 title: Use transition words
-layout: docs
 sidenav: guidelines
 ---
 
@@ -36,8 +35,4 @@ Explicit connectives between sentences and paragraphs can be overdone, but more 
 
 ## Sources
 
-- Garner, Bryan A.,
-
-  <cite>Legal Writing in Plain English</cite>
-
-  , 2001, University of Chicago Press, Chicago, pp. 67-71.
+- Garner, Bryan A., _Legal Writing in Plain English_, 2001, University of Chicago Press, Chicago, pp. 67-71.

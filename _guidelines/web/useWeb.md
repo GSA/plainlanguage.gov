@@ -1,6 +1,5 @@
 ---
 title: How do people use the web?
-layout: docs
 sidenav: guidelines
 ---
 
@@ -20,18 +19,11 @@ Users often scan pages in an F pattern focusing on the top left side of the page
 
 Here is an image of one of the eye tracking pages. The red shows where the user looked the most:
 
-<cfoutput>
-  <img src="#level#graphics/f-pattern.JPG" width="640" height="512" alt="display of how people look at web pages, with highest areas viewed in red, in the shape of an F">
-</cfoutput>
+![display of how people look at web pages, with highest areas viewed in red, in the shape of an F](#level#graphics/f-pattern.JPG)
 
 ## Sources
 
-- [www.useit.com/alertbox/percent-text-read.html](javascript:openWin('http://www.useit.com/alertbox/percent-text-read.html');)
-- [www.customercarewords.com/what-it-is.html](javascript:openWin('http://www.customercarewords.com/what-it-is.html');)
-- <cite>
-    <strong>Eyetracking Web Usability</strong>
-  </cite>
-
-  , New Riders Press, December 14, 2009
-
-- [www.uie.com/articles/five_second_test/](javascript:openWin('http://www.uie.com/articles/five_second_test/');)
+- [www.useit.com/alertbox/percent-text-read.html](http://www.useit.com/alertbox/percent-text-read.html)
+- [www.customercarewords.com/what-it-is.html](http://www.customercarewords.com/what-it-is.html)
+- _Eyetracking Web Usability_, New Riders Press, December 14, 2009
+- [www.uie.com/articles/five_second_test/](http://www.uie.com/articles/five_second_test/)

@@ -1,6 +1,5 @@
 ---
 title: Avoid hidden verbs
-layout: docs
 sidenav: guidelines
 ---
 
@@ -23,34 +22,8 @@ The production of accurate statistics is important for the committee in the asse
 
 ## Sources
 
-- Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.
-
-  <cite>Clear &amp; Effective Legal Writing,</cite>
-
-  4th edition, 2007, Aspen Publishers, New York, NY, pp. 176-178.
-
-- Garner, Bryan A.,
-
-  <cite>Legal Writing in Plain English</cite>
-
-  , 2001, University of Chicago Press, Chicago, p. 38 (14.)
-
-- Kimble, Joseph,
-
-  <cite>Lifting the Fog of Legalese</cite>
-
-  , 2006, Carolina Academic Press, Durham, NC., p. 71 (D.4).
-
-- Securities and Exchange Commission,
-
-  <cite>Plain English Handbook,</cite>
-
-  1998, Securities and Exchange Commission, Washington, DC., p. 21.
-
-- Wright, Nick, at
-
-  <cfoutput>
-    <a href="javascript:openWin('#level#howto/wordsuggestions/hiddenverbs.cfm');">www.plainlanguage.gov/howto/wordsuggestions/hiddenverbs.cfm</a>
-  </cfoutput>
-
-  .
+- Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P., _Clear & Effective Legal Writing_, 4th edition, 2007, Aspen Publishers, New York, NY, pp. 176-178.
+- Garner, Bryan A., _Legal Writing in Plain English_, 2001, University of Chicago Press, Chicago, p. 38 (14.)
+- Kimble, Joseph, _Lifting the Fog of Legalese_, 2006, Carolina Academic Press, Durham, NC., p. 71 (D.4).
+- Securities and Exchange Commission, _Plain English Handbook_, 1998, Securities and Exchange Commission, Washington, DC., p. 21.
+- Wright, Nick, at [www.plainlanguage.gov/howto/wordsuggestions/hiddenverbs.cfm](#level#howto/wordsuggestions/hiddenverbs.cfm).

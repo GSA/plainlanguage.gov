@@ -1,6 +1,5 @@
 ---
 title: Use examples
-layout: docs
 sidenav: guidelines
 ---
 
@@ -16,8 +15,4 @@ The Internal Revenue Service makes extensive use of examples in its regulations 
 
 ## Sources
 
-- Murawski, Thomas A.,
-
-  <cite>Writing Readable Regulations</cite>
-
-  , 1999, Carolina Academic Press Durham, NC, pp. 45-46.
+- Murawski, Thomas A., _Writing Readable Regulations_, 1999, Carolina Academic Press Durham, NC, pp. 45-46.

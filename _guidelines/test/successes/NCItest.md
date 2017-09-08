@@ -1,6 +1,5 @@
 ---
 title: Usability testing from the National Cancer Institute
-layout: docs
 sidenav: guidelines
 ---
 

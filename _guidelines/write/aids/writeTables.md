@@ -1,6 +1,5 @@
 ---
 title: Use tables to make complex material easier to understand
-layout: docs
 sidenav: guidelines
 ---
 
@@ -47,32 +46,7 @@ If-then tables are powerful tools for simplifying complicated material. And tabl
 
 ## Sources
 
-- Kimble, Joseph,
-
-  <cite>Lifting the Fog of Legalese</cite>
-
-  , 2006, Carolina Academic Press, Durham, NC, p. 70(B).
-
-- Murawski, Thomas A.,
-
-  <cite>Writing Readable Regulations</cite>
-
-  , 1999, Carolina Academic Press Durham, NC, pp. 39-44.
-
-- Office of the Federal Register,
-
-  <cite>Document Drafting Handbook</cite>
-
-  , 1998, MMR 4\. [www.archives.gov/federal-register/write/handbook/ddh.pdf](javascript:openWin('http://www.archives.gov/federal-register/write/handbook/ddh.pdf');)
-
-  <cfoutput>
-    <img src="#level#graphics/pdf_icon.gif" alt="Adobe Acrobat Reader icon" width="10" height="12" border="0">
-  </cfoutput>
-
-  .
-
-- Securities and Exchange Commission,
-
-  <cite>Plain English Handbook</cite>
-
-  , 1998, Washington, DC, pp. 49-52.
+- Kimble, Joseph, _Lifting the Fog of Legalese_, 2006, Carolina Academic Press, Durham, NC, p. 70(B).
+- Murawski, Thomas A., _Writing Readable Regulations_, 1999, Carolina Academic Press Durham, NC, pp. 39-44.
+- Office of the Federal Register, _Document Drafting Handbook_, 1998, MMR 4\. [www.archives.gov/federal-register/write/handbook/ddh.pdf](http://www.archives.gov/federal-register/write/handbook/ddh.pdf).
+- Securities and Exchange Commission, _Plain English Handbook_, 1998, Washington, DC, pp. 49-52.

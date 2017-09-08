@@ -1,6 +1,5 @@
 ---
 title: Use emphasis to highlight important concepts
-layout: docs
 sidenav: guidelines
 ---
 

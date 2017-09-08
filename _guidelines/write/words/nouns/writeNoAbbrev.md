@@ -1,6 +1,5 @@
 ---
 title: Minimize abbreviations
-layout: docs
 sidenav: guidelines
 ---
 
@@ -30,24 +29,6 @@ When you are considering whether to use an abbreviation, or how many you can get
 
 ## Sources
 
-- Garner, Bryan A.,
-
-  <cite>A Dictionary of Modern Legal Usage</cite>
-
-  , 2
-
-  <sup>nd</sup>
-
-  edition, 1995, Oxford University Press, Oxford and New York, pp. 447-488.
-
-- Garner, Bryan A.,
-
-  <cite>Legal Writing in Plain English</cite>
-
-  , 2001, University of Chicago Press, Chicago, pp. 46-48.
-
-- Kimble, Joseph,
-
-  <cite>Lifting the Fog of Legalese</cite>
-
-  , 2006, Carolina Academic Press, Durham, NC, p. 155.
+- Garner, Bryan A., _A Dictionary of Modern Legal Usage_, 2nd edition, 1995, Oxford University Press, Oxford and New York, pp. 447-488.
+- Garner, Bryan A., _Legal Writing in Plain English_, 2001, University of Chicago Press, Chicago, pp. 46-48.
+- Kimble, Joseph, _Lifting the Fog of Legalese_, 2006, Carolina Academic Press, Durham, NC, p. 155.

@@ -1,6 +1,5 @@
 ---
 title: Use plain-language techniques on the web
-layout: docs
 sidenav: guidelines
 ---
 

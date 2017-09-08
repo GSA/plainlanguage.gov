@@ -1,6 +1,5 @@
 ---
 title: 'Keep the subject, verb, and close object together'
-layout: docs
 sidenav: guidelines
 ---
 
@@ -32,30 +31,7 @@ For more information on tables see [Use tables to make complex material easier t
 
 ## Sources
 
-- Garner, Bryan A.,
-
-  <cite>Legal Writing in Plain English</cite>
-
-  , 2001, University of Chicago Press, Chicago, pp. 23-4, 102.
-
-- Murawski, Thomas A.,
-
-  <cite>Writing Readable Regulations</cite>
-
-  , 1999, Carolina Academic Press Durham, NC, pp.77-78.
-
-- Office of the Federal Register,
-
-  <cite>Document Drafting Handbook</cite>
-
-  , 1998, MMR-6\. [www.archives.gov/federal-register/write/handbook/ddh.pdf](javascript:openWin('http://www.archives.gov/federal-register/write/handbook/ddh.pdf');)
-
-  <cfoutput>
-    <img src="#level#graphics/pdf_icon.gif" alt="Adobe Acrobat Reader icon" width="10" height="12" border="0">
-  </cfoutput>
-
-- Securities and Exchange Commission,
-
-  <cite>Plain English Handbook</cite>
-
-  , 1998, Washington, DC, p. 32.
+- Garner, Bryan A., _Legal Writing in Plain English_, 2001, University of Chicago Press, Chicago, pp. 23-4, 102.
+- Murawski, Thomas A., _Writing Readable Regulations_, 1999, Carolina Academic Press Durham, NC, pp.77-78.
+- Office of the Federal Register, _Document Drafting Handbook_, 1998, MMR-6\. [www.archives.gov/federal-register/write/handbook/ddh.pdf](http://www.archives.gov/federal-register/write/handbook/ddh.pdf)
+- Securities and Exchange Commission, _Plain English Handbook_, 1998, Washington, DC, p. 32.

@@ -1,6 +1,5 @@
 ---
 title: Paraphrase Testing
-layout: docs
 sidenav: guidelines
 ---
 
@@ -21,11 +20,11 @@ Ask the participant to read to a specific stopping point, known as a cue. Each t
   - What about the document might work well for them?
   - What about the document might cause them problems?
 
-This last question is important because sometimes people are more comfortable telling you what they think others might find confusing, rather than admitting that they don�t understand something themselves.
+This last question is important because sometimes people are more comfortable telling you what they think others might find confusing, rather than admitting that they don't understand something themselves.
 
-## Don�t ask yes/no questions.
+## Don't ask yes/no questions.
 
-You won�t get much usable information from that type of question.
+You won't get much usable information from that type of question.
 
 With only 6 to 9 participants, paraphrase testing will not take a lot of time, and the time invested is worth it. Taking the time to test your document and change it based on what you learn may save you hundreds of hours later answering questions from your users or producing a second document clarifying the first one.
 

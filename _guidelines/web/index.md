@@ -1,6 +1,5 @@
 ---
 title: Write for the web
-layout: docs
 sidenav: guidelines
 permalink: /guidelines/web/
 ---

@@ -1,6 +1,5 @@
 ---
 title: Dealing with definitions
-layout: docs
 sidenav: guidelines
 ---
 
@@ -60,60 +59,10 @@ Again, this seems obvious. But writers seem to automatically define terms they t
 
 ## Sources
 
-- Cohen, Morris,
-
-  <cite>Reason and Law</cite>
-
-  , 1950, The Free Press, Glencoe, IL, p.77.
-
-- Dickerson, Reed,
-
-  <cite>Fundamentals of Legal Drafting</cite>
-
-  , 1986, 2
-
-  <sup>nd</sup>
-
-  edition, Little, Brown and Company, Boston and Toronto, pp. 137, 144.
-
-- Flesch, Rudolf,
-
-  <cite>How to Write in Plain English</cite>
-
-  ,
-
-  <cite>A Book for Lawyers and Consumers</cite>
-
-  , 1979, Harper and Rowe, New York, pp. 58-69, 79.
-
-- Garner, Bryan A.,
-
-  <cite>A Dictionary of Modern Legal Usage</cite>
-
-  , 2
-
-  <sup>nd</sup>
-
-  edition, 1995, Oxford University Press, Oxford and New York, p. 257-258.
-
-- Garner, Bryan A.,
-
-  <cite>Legal Writing in Plain English</cite>
-
-  , 2001, University of Chicago Press, Chicago, pp. 97-99.
-
-- Kimble, Joseph,
-
-  <cite>Lifting the Fog of Legalese</cite>
-
-  , Carolina Academic Press, 2006, Durham, NC.
-
-- Office of the Federal Register, Document Drafting Handbook, 1998, § 8.15\. [www.archives.gov/federal-register/write/handbook/ddh.pdf
-
-  <cfoutput>
-    <img src="#level#graphics/pdf_icon.gif" alt="Adobe Acrobat Reader icon" width="10" height="12" border="0">
-  </cfoutput>
-
-  ](javascript:openWin('<http://www.archives.gov/federal-register/write/handbook/ddh.pdf>');)
-
-  .
+- Cohen, Morris, _Reason and Law_, 1950, The Free Press, Glencoe, IL, p.77.
+- Dickerson, Reed, _Fundamentals of Legal Drafting_, 1986, 2nd edition, Little, Brown and Company, Boston and Toronto, pp. 137, 144.
+- Flesch, Rudolf, _How to Write in Plain English_, _A Book for Lawyers and Consumers_, 1979, Harper and Rowe, New York, pp. 58-69, 79.
+- Garner, Bryan A., _A Dictionary of Modern Legal Usage_, 2nd edition, 1995, Oxford University Press, Oxford and New York, p. 257-258.
+- Garner, Bryan A., _Legal Writing in Plain English_, 2001, University of Chicago Press, Chicago, pp. 97-99.
+- Kimble, Joseph, _Lifting the Fog of Legalese_, Carolina Academic Press, 2006, Durham, NC.
+- Office of the Federal Register, Document Drafting Handbook, 1998, § 8.15\. [www.archives.gov/federal-register/write/handbook/ddh.pdf](http://www.archives.gov/federal-register/write/handbook/ddh.pdf).

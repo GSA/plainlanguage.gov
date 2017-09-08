@@ -1,6 +1,5 @@
 ---
 title: Use contractions when appropriate
-layout: docs
 sidenav: guidelines
 ---
 
@@ -16,20 +15,6 @@ No pilot in command of a civil aircraft may allow any object to be dropped from 
 
 ## Sources
 
-- Danielson, Wayne A. and Dominic L. Larosa, A New Readability Formula Based on the Stylistic Age of Novels, 33
-
-  <cite>Journal of Reading</cite>
-
-  (1989), pp. 194, 196.
-
-- Garner, Bryan A.,
-
-  <cite>Legal Writing in Plain English</cite>
-
-  , 2001, University of Chicago Press, Chicago, pp. 49-50.
-
-- Garner, Bryan A.,
-
-  <cite>The Elements of Legal Style</cite>
-
-  , 2002, Oxford Univ. Press, Oxford and New York, pp. 81-2.
+- Danielson, Wayne A. and Dominic L. Larosa, A New Readability Formula Based on the Stylistic Age of Novels, 33 _Journal of Reading_, (1989), pp. 194, 196.
+- Garner, Bryan A., _Legal Writing in Plain English_, 2001, University of Chicago Press, Chicago, pp. 49-50.
+- Garner, Bryan A., _The Elements of Legal Style_, 2002, Oxford Univ. Press, Oxford and New York, pp. 81-2.

@@ -1,6 +1,5 @@
 ---
 title: Paragraphs
-layout: docs
 sidenav: guidelines
 permalink: /guidelines/write/paragraphs/
 ---

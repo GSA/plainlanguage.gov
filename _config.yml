@@ -1,9 +1,9 @@
-# Using https://github.com/18F/uswds-jekyll
-theme: uswds-jekyll
-
-# OpenGraph / Twitter metadata
+# Site settings
 title: PlainLanguage.gov
 description: Resources to help writers achieve the goal of clear communication from the federal government to the public.
+
+# Using https://github.com/18F/uswds-jekyll
+theme: uswds-jekyll
 
 # GA and GitHub data
 # google_analytics_ua: UA-99995535-1
@@ -11,19 +11,21 @@ repo: https://github.com/GSA/plainlanguage.gov
 
 exclude:
 - CONTRIBUTING.md
-- _config.yml
 - circle.yml
-- .gitignore
 - Gemfile
 - Gemfile.lock
 - LICENSE.md
 - README.md
-- vendor
 
 styles:
   - /assets/css/main.css
 
 defaults:
+  - scope:
+      path: ""
+      type: "guidelines"
+    values:
+      layout: "docs"
   - scope:
       path: ""
       type: "pages"

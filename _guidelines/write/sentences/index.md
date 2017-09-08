@@ -1,6 +1,5 @@
 ---
 title: Sentences
-layout: docs
 sidenav: guidelines
 permalink: /guidelines/write/sentences/
 ---

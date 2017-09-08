@@ -1,6 +1,5 @@
 ---
 title: Write web content
-layout: docs
 sidenav: guidelines
 ---
 
@@ -22,20 +21,6 @@ Your content is NOT clear unless your users can:
 
 ## Sources
 
-- Nielsen, Jakob,
-
-  <cite>Designing Web Usability: The Practice of Simplicity (and other works)</cite>
-
-  , 1999, New Riders Publishing, Indianapolis.
-
-- McGovern, Gerry,
-
-  <cite>Killer Web Content: Make the Sale, Deliver the Service, Build the Brand (and other works)</cite>
-
-  , 2006, A&C Black.
-
-- Redish, Janice,
-
-  <cite>Writing Web Content that Works</cite>
-
-  , 2007, Morgan Kaufmann Publishers, San Francisco.
+- Nielsen, Jakob, _Designing Web Usability: The Practice of Simplicity (and other works)_, 1999, New Riders Publishing, Indianapolis.
+- McGovern, Gerry, _Killer Web Content: Make the Sale, Deliver the Service, Build the Brand (and other works)_, 2006, A&C Black.
+- Redish, Janice, _Writing Web Content that Works_, 2007, Morgan Kaufmann Publishers, San Francisco.

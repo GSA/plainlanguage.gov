@@ -1,6 +1,5 @@
 ---
 title: Repurpose print material for the web
-layout: docs
 sidenav: guidelines
 ---
 
@@ -22,4 +21,4 @@ Pick out necessary information in your print document that will help your web us
 
 ## Sources
 
-- [www.useit.com/alertbox/print-vs-online-content.html](javascript:openWin('http://www.useit.com/alertbox/print-vs-online-content.html');)
+- [www.useit.com/alertbox/print-vs-online-content.html](http://www.useit.com/alertbox/print-vs-online-content.html)

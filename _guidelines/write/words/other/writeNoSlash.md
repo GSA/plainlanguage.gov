@@ -1,6 +1,5 @@
 ---
 title: Don&rsquo;t use slashes
-layout: docs
 sidenav: guidelines
 ---
 
@@ -10,14 +9,5 @@ Often when writers use slashes, a hyphen is more appropriate to join equal or li
 
 ## Sources
 
-- Garner, Bryan A.,
-
-  <cite>Legal Writing in Plain English</cite>
-
-  , 2001, University of Chicago Press, Chicago, p. 163.
-
-- Kimble, Joseph,
-
-  <cite>Lifting the Fog of Legalese</cite>
-
-  , 2006, Carolin aAcademic Press, Durham, NC, pp. 155-156.
+- Garner, Bryan A., _Legal Writing in Plain English_, 2001, University of Chicago Press, Chicago, p. 163.
+- Kimble, Joseph, _Lifting the Fog of Legalese_, 2006, Carolin aAcademic Press, Durham, NC, pp. 155-156.

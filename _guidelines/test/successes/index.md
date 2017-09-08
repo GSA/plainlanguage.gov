@@ -1,6 +1,5 @@
 ---
 title: Testing Successes
-layout: docs
 sidenav: guidelines
 permalink: /guidelines/test/successes/
 ---

@@ -1,6 +1,5 @@
 ---
 title: Paraphrase testing from the Veterans Benefits Administration
-layout: docs
 sidenav: guidelines
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Avoid meaningless formal language
-layout: docs
 sidenav: guidelines
 ---
 
@@ -19,10 +18,5 @@ Here is a brief list of meaningless filler phrases:
 
 ## Sources
 
-- [www.contentini.com/writing-better-tips/](javascript:openWin('http://www.contentini.com/writing-better-tips/');).
-
-- Redish, Janice C.,
-
-  <cite>Writing Web Content that Works,</cite>
-
-  , 2007, Morgan Kaufmann Publishers, San Francisco
+- [www.contentini.com/writing-better-tips/](http://www.contentini.com/writing-better-tips/).
+- Redish, Janice C., _Writing Web Content that Works_, 2007, Morgan Kaufmann Publishers, San Francisco

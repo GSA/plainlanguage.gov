@@ -1,6 +1,5 @@
 ---
 title: Omit unnecessary words
-layout: docs
 sidenav: guidelines
 ---
 
@@ -82,20 +81,6 @@ Omitting excess words can cut documents significantly. Be diligent in challengin
 
 ## Sources
 
-- Garner, Bryan A.,
-
-  <cite>Legal Writing in Plain English</cite>
-
-  , 2001, University of Chicago Press, Chicago, pp. 43, 40, 34.
-
-- Kimble, Joseph,
-
-  <cite>Lifting the Fog of Legalese</cite>
-
-  , Carolina Academic Press, 2006, Durham, NC, pp. 93, 170.
-
-- Securities and Exchange Commission,
-
-  <cite>Plain English Handbook</cite>
-
-  , 1998, Washington, DC, p. 25.
+- Garner, Bryan A., _Legal Writing in Plain English_, 2001, University of Chicago Press, Chicago, pp. 43, 40, 34.
+- Kimble, Joseph, _Lifting the Fog of Legalese_, Carolina Academic Press, 2006, Durham, NC, pp. 93, 170.
+- Securities and Exchange Commission, _Plain English Handbook_, 1998, Washington, DC, p. 25.

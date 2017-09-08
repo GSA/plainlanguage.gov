@@ -1,6 +1,5 @@
 ---
 title: Use pronouns to speak directly to your reader
-layout: docs
 sidenav: guidelines
 ---
 
@@ -57,31 +56,31 @@ After the Administrator appoints an Assistant Administrator, he or she must ... 
 
 - Garner, Bryan A.,
 
-  <cite>A Dictionary of Modern Legal Usage</cite>
+  _A Dictionary of Modern Legal Usage_
 
   , 2nd edition, 1995, Oxford University Press, Oxford and New York, p. 643.
 
 - Garner, Bryan A.,
 
-  <cite>Legal Writing in Plain English</cite>
+  _Legal Writing in Plain English_
 
   , 2001, University of Chicago Press, Chicago, p. 50.
 
 - Murawski, Thomas A.,
 
-  <cite>Writing Readable Regulations</cite>
+  _Writing Readable Regulations_
 
   , 1999, Carolina Academic Press Durham, NC, pp. 33-38.
 
 - Securities and Exchange Commission,
 
-  <cite>Plain English Handbook</cite>
+  _Plain English Handbook_
 
   , 1998, Washington, DC, p. 22.
 
 - Wydick, Richard,
 
-  <cite>Plain English for Lawyers</cite>
+  _Plain English for Lawyers_
 
   , 5
 

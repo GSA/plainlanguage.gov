@@ -1,6 +1,5 @@
 ---
 title: Use the simplest form of a verb
-layout: docs
 sidenav: guidelines
 ---
 

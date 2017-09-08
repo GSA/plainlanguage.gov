@@ -1,6 +1,5 @@
 ---
 title: Usability Testing
-layout: docs
 sidenav: guidelines
 ---
 
@@ -18,11 +17,11 @@ You need to find three people to test your website or document.
 
 Identify who your intended readers are. For example, individuals searching for medical information; taxpayers and tax professionals looking for forms; travelers wanting a passport.
 
-Develop simple criteria and find three people who match them. For example, for travelers, the criteria might be: Adult U.S. citizens who haven�t applied for or renewed a passport lately. The criteria don�t need to be complicated.
+Develop simple criteria and find three people who match them. For example, for travelers, the criteria might be: Adult U.S. citizens who haven't applied for or renewed a passport lately. The criteria don't need to be complicated.
 
-Using your network of colleagues, friends, and family, find three people who, more or less, meet the criteria and will give you an hour of their time. Don�t use members of your own team, but employees from a different team down the hall may be fine.
+Using your network of colleagues, friends, and family, find three people who, more or less, meet the criteria and will give you an hour of their time. Don't use members of your own team, but employees from a different team down the hall may be fine.
 
-You�re not required to get any special permission to do a usability test with only three people. Set aside a morning to conduct your test, and give each of the volunteers an appointment, one hour apart from each other.
+You're not required to get any special permission to do a usability test with only three people. Set aside a morning to conduct your test, and give each of the volunteers an appointment, one hour apart from each other.
 
 ## What happens in a typical session?
 
@@ -55,66 +54,30 @@ Almost anyone can conduct a simple usability test and fix problems that you see 
 
 ### Books
 
-Barnum, Carol,
+Barnum, Carol, _Usability Testing Essentials: Ready, Set...Test!_, Morgan-Kaufmann/Elsevier, 2011
 
-<cite>Usability Testing Essentials:  Ready, Set...Test!</cite>
+Chisnell, Dana, and Rubin, Jeff. _The Handbook of Usability Testing_, 2nd edition, Wiley, May 2008.
 
-, Morgan-Kaufmann/Elsevier, 2011
-
-Chisnell, Dana, and Rubin, Jeff.
-
-<cite>The Handbook of Usability Testing</cite>
-
-, 2
-
-<sup>nd</sup>
-
-edition, Wiley, May 2008.
-
-Krug, Steve.
-
-<cite>Rocket Surgery Made Easy</cite>
-
-, New Riders, 2009.
+Krug, Steve. _Rocket Surgery Made Easy_, New Riders, 2009.
 
 ### Courses
 
-[Web Manager University (WMU)](javascript:openWin('http://www.webcontent.gov');) offers webinars, seminars, and one- and two-day courses in usability topics.
+[Web Manager University (WMU)](http://www.webcontent.gov) offers webinars, seminars, and one- and two-day courses in usability topics.
 
-"[Conducting Usability Testing in the Wild](javascript:openWin('http://www.usa.gov/webcontent/wmu/spring2009/quickeasyinsightful.shtml');)"
-
-<cfoutput>
-  <img src="#level#graphics/#exitIcon#" alt="external link icon" width="14" height="14" border="0">
-</cfoutput>
-
-presented by Dana Chisnell (free archived WMU webinar)
+"[Conducting Usability Testing in the Wild](http://www.usa.gov/webcontent/wmu/spring2009/quickeasyinsightful.shtml)" presented by Dana Chisnell (free archived WMU webinar)
 
 ### Conferences
 
-[Usability Professionals' Association Annual Conference](javascript:openWin('http://www.upassoc.org');)
+[Usability Professionals' Association Annual Conference](http://www.upassoc.org)
 
-<cfoutput>
-  <img src="#level#graphics/#exitIcon#" alt="external link icon" width="14" height="14" border="0">
-</cfoutput>
+[Nielsen Norman Group](http://www.nngroup.com/events/) conferences
 
-[Nielsen Norman Group](javascript:openWin('http://www.nngroup.com/events/');)
+[User Interface Engineering](http://www.uie.com/events/#ui) holds an annual conference and training events
 
-<cfoutput>
-  <img src="#level#graphics/#exitIcon#" alt="external link icon" width="14" height="14" border="0">
-</cfoutput>
+### Additional resources:
 
-conferences
+[Webcontent.gov](http://www.webcontent.gov)
 
-[User Interface Engineering
+[Usability.gov](http://www.usability.gov)
 
-<cfoutput>
-  <img src="#level#graphics/#exitIcon#" alt="external link icon" width="14" height="14" border="0">
-</cfoutput>
-
-](javascript:openWin('<http://www.uie.com/events/#ui>');) holds an annual conference and training events ### Additional resources: [Webcontent.gov](javascript:openWin('http://www.webcontent.gov');) [Usability.gov](javascript:openWin('http://www.usability.gov');) [Usability Professionals Association](javascript:openWin('http://upassoc.org/chapters/index.html');)
-
-<cfoutput>
-  <img src="#level#graphics/#exitIcon#" alt="external link icon" width="14" height="14" border="0">
-</cfoutput>
-
-has local chapters which offer training and networking events
+[Usability Professionals Association](http://upassoc.org/chapters/index.html) has local chapters which offer training and networking events

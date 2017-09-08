@@ -1,6 +1,5 @@
 ---
 title: Write your document
-layout: docs
 sidenav: guidelines
 permalink: /guidelines/write/
 ---

@@ -1,6 +1,5 @@
 ---
 title: Place the main idea before exceptions and conditions
-layout: docs
 sidenav: guidelines
 ---
 
@@ -70,30 +69,7 @@ Alabama, Alaska,... and Wyoming (a list of 47 states) must | Each state except T
 
 ## Sources
 
-- Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.
-
-  <cite>Clear &amp; Effective Legal Writing,</cite>
-
-  4th edition, 2007, Aspen Publishers, New York, NY, pp. 166-167.
-
-- Garner, Bryan A.,
-
-  <cite>Guidelines for Drafting and Editing Court Rules</cite>
-
-  , 1996, Administrative Office of the US Courts, Washington, DC, pp. 5-9.
-
-- Office of the Federal Register,
-
-  <cite>Drafting Legal Documents</cite>
-
-  , 1998, § 7\. [www.archives.gov/federal-register/write/legal-docs/](javascript:openWin('http://www.archives.gov/federal-register/write/legal-docs/');)
-
-- Wydick, Richard,
-
-  <cite>Plain English for Lawyers</cite>
-
-  , 5
-
-  <sup>th</sup>
-
-  edition, 2005, Carolina Academic Press, Durham, NC, pp. 46-47.
+- Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P., _Clear & Effective Legal Writing_, 4th edition, 2007, Aspen Publishers, New York, NY, pp. 166-167.
+- Garner, Bryan A., _Guidelines for Drafting and Editing Court Rules_, 1996, Administrative Office of the US Courts, Washington, DC, pp. 5-9.
+- Office of the Federal Register, _Drafting Legal Documents_, 1998, § 7\. [www.archives.gov/federal-register/write/legal-docs/](http://www.archives.gov/federal-register/write/legal-docs/)
+- Wydick, Richard, _Plain English for Lawyers_, 5th edition, 2005, Carolina Academic Press, Durham, NC, pp. 46-47.

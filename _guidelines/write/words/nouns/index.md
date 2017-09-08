@@ -1,6 +1,5 @@
 ---
 title: Nouns and pronouns
-layout: docs
 sidenav: guidelines
 permalink: /guidelines/write/words/nouns/
 ---

@@ -1,6 +1,5 @@
 ---
 title: Think about your audience
-layout: docs
 sidenav: guidelines
 permalink: /guidelines/audience/
 ---

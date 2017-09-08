@@ -1,6 +1,5 @@
 ---
 title: Consider using illustrations
-layout: docs
 sidenav: guidelines
 ---
 

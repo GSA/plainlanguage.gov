@@ -1,6 +1,5 @@
 ---
 title: Words
-layout: docs
 sidenav: guidelines
 permalink: /guidelines/write/words/
 ---

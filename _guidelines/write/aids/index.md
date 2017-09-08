@@ -1,6 +1,5 @@
 ---
 title: Other aids to clarity
-layout: docs
 sidenav: guidelines
 permalink: /guidelines/write/aids/
 ---

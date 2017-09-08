@@ -1,6 +1,5 @@
 ---
 title: Avoid double negatives and exceptions to exceptions
-layout: docs
 sidenav: guidelines
 ---
 
@@ -37,30 +36,7 @@ Applicants may be granted a permit to prospect for geothermal resources on any f
 
 ## Sources
 
-- Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.
-
-  <cite>Clear &amp; Effective Legal Writing,</cite>
-
-  4th edition, 2007, Aspen Publishers, New York, NY, pp. 178-180.
-
-- Flesch, Rudolf,
-
-  <cite>How to Write in Plain English, A Book for Lawyers and Consumers</cite>
-
-  , 1979, Harper and Rowe, New York, p. 95.
-
-- Garner, Bryan A.,
-
-  <cite>Guidelines for Drafting and Editing Court Rules</cite>
-
-  , 1996, Administrative Office of the US Courts, Washington, DC, pp. 30-31.
-
-- Wydick, Richard,
-
-  <cite>Plain English for Lawyers</cite>
-
-  , 5
-
-  <sup>th</sup>
-
-  edition, 2005, Carolina Academic Press, Durham, NC, pp. 75-76.
+- Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P., _Clear & Effective Legal Writing_, 4th edition, 2007, Aspen Publishers, New York, NY, pp. 178-180.
+- Flesch, Rudolf, _How to Write in Plain English, A Book for Lawyers and Consumers_, 1979, Harper and Rowe, New York, p. 95.
+- Garner, Bryan A., _Guidelines for Drafting and Editing Court Rules_, 1996, Administrative Office of the US Courts, Washington, DC, pp. 30-31.
+- Wydick, Richard, _Plain English for Lawyers_, 5th edition, 2005, Carolina Academic Press, Durham, NC, pp. 75-76.

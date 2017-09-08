@@ -1,6 +1,5 @@
 ---
 title: Avoid PDF overload
-layout: docs
 sidenav: guidelines
 ---
 

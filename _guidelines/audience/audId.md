@@ -1,6 +1,5 @@
 ---
 title: Identify and write for your audience
-layout: docs
 sidenav: guidelines
 ---
 

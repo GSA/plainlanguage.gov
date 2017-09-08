@@ -1,6 +1,5 @@
 ---
 title: 'Address one person, not a group'
-layout: docs
 sidenav: guidelines
 ---
 
@@ -23,24 +22,6 @@ The applicant must provide his or her mailing address and his or her identificat
 
 ## Sources
 
-- Garner, Bryan A.,
-
-  <cite>Legal Writing in Plain English</cite>
-
-  , 2001, University of Chicago Press, Chicago, p. 114.
-
-- Murawski, Thomas A.,
-
-  <cite>Writing Readable Regulations</cite>
-
-  , 1999, Carolina Academic Press Durham, NC, p. 70.
-
-- Wydick, Richard,
-
-  <cite>Plain English for Lawyers</cite>
-
-  , 5
-
-  <sup>th</sup>
-
-  edition, 2005, Carolina Academic Press, Durham, NC, p. 62.
+- Garner, Bryan A., _Legal Writing in Plain English_, 2001, University of Chicago Press, Chicago, p. 114.
+- Murawski, Thomas A., _Writing Readable Regulations_, 1999, Carolina Academic Press Durham, NC, p. 70.
+- Wydick, Richard, _Plain English for Lawyers_, 5th edition, 2005, Carolina Academic Press, Durham, NC, p. 62.

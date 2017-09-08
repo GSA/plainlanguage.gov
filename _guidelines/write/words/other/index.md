@@ -1,6 +1,5 @@
 ---
 title: Other word issues
-layout: docs
 sidenav: guidelines
 permalink: /guidelines/write/words/other/
 ---

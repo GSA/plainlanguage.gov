@@ -1,6 +1,5 @@
 ---
 title: Write effective links
-layout: docs
 sidenav: guidelines
 ---
 
@@ -17,16 +16,6 @@ Remember, some of your users might be visually disabled. Do not use "Click Here"
 
 ## Sources
 
-- McGovern, Gerry,
-
-  <cite>Killer Web Content: Make the Sale, Deliver the Service, Build the Brand (and other works)</cite>
-
-  , 2006, A&C Black.
-
-- Nielsen, Jakob,
-
-  <cite>Designing Web Usability: The Practice of Simplicity (and other works)</cite>
-
-  , 1999, New Riders Publishing, Indianapolis.
-
-- [www.useit.com/alertbox/nanocontent.html](javascript:openWin('http://www.useit.com/alertbox/nanocontent.html');)
+- McGovern, Gerry, _Killer Web Content: Make the Sale, Deliver the Service, Build the Brand (and other works)_, 2006, A&C Black.
+- Nielsen, Jakob, _Designing Web Usability: The Practice of Simplicity (and other works)_, 1999, New Riders Publishing, Indianapolis.
+- [www.useit.com/alertbox/nanocontent.html](http://www.useit.com/alertbox/nanocontent.html)
