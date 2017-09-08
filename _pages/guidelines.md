@@ -1,6 +1,7 @@
 ---
 title: Introduction
 layout: docs
+permalink: /guidelines/
 sidenav: guidelines
 ---
 

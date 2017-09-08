@@ -2,6 +2,7 @@
 title: Test
 layout: docs
 sidenav: guidelines
+permalink: /guidelines/test/
 ---
 
 Testing your documents should be an integral part of your plain-language planning and writing process, not something you do after the fact to see if your document (or your website) is a success. It�s especially important if you�re writing to hundreds, thousands, or even millions of people. The information gained in testing can save time in answering questions about your document later. Although we refer to "documents" in this section, use these same techniques to test individual web pages or complete websites. In fact, we recommend testing websites, documents, brochures, applications, mobile websites, videos, social media, and public affairs messages.

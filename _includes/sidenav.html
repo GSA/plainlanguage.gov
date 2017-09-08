@@ -10,11 +10,31 @@
     <a href="{% if link.external == true %}{{ link.href }}{% else %}{{ link.href | relative_url }}{% endif %}" class="{% if _current %}usa-current{% endif %} {% if page.url contains _href or page.permalink contains _href %}current-parent{% endif %}">
       {{ link.text }}
     </a>
-    {% if link.subnav %}
+    {% if (_current or (page.url contains _href or page.permalink contains _href)) and link.subnav %}
     <ul class="usa-sidenav-sub_list">
       {% for sublink in link.subnav %}
         <li>
-          <a href="{% if sublink.external == true %}{{ sublink.href }}{% else %}{{ sublink.href | relative_url }}{% endif %}">{{ sublink.text }}</a>
+          <a href="{% if sublink.external == true %}{{ sublink.href }}{% else %}{{ sublink.href | relative_url }}{% endif %}" {% if page.url contains sublink.href or page.permalink contains sublink.href %}class="usa-current"{% endif %}>{{ sublink.text }}</a>
+
+          {% if sublink.subnav %}
+          <ul class="usa-sidenav-sub_list">
+            {% for subsublink in sublink.subnav %}
+              <li>
+                <a href="{% if subsublink.external == true %}{{ subsublink.href }}{% else %}{{ subsublink.href | relative_url }}{% endif %}" {% if page.url contains subsublink.href or page.permalink contains subsublink.href %}class="usa-current"{% endif %}>{{ subsublink.text }}</a>
+
+                {% if subsublink.subnav %}
+                <ul class="usa-sidenav-sub_list">
+                  {% for subsubsublink in subsublink.subnav %}
+                    <li>
+                      <a href="{% if subsubsublink.external == true %}{{ subsubsublink.href }}{% else %}{{ subsubsublink.href | relative_url }}{% endif %}" {% if page.url contains subsubsublink.href or page.permalink contains subsubsublink.href %}class="usa-current"{% endif %}>{{ subsubsublink.text }}</a>
+                    </li>
+                  {% endfor %}
+                </ul>
+                {% endif %}
+              </li>
+            {% endfor %}
+          </ul>
+          {% endif %}
         </li>
       {% endfor %}
     </ul>
