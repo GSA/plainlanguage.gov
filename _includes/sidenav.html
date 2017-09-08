@@ -15,14 +15,12 @@
       {% for sublink in link.subnav %}
         <li>
           <a href="{% if sublink.external == true %}{{ sublink.href }}{% else %}{{ sublink.href | relative_url }}{% endif %}" {% if page.url contains sublink.href or page.permalink contains sublink.href %}class="usa-current"{% endif %}>{{ sublink.text }}</a>
-
-          {% if sublink.subnav %}
+          {% if ((sublink.href == page.url or sublink.href == page.permalink) or (page.url contains sublink.href or page.permalink contains sublink.href)) and sublink.subnav %}
           <ul class="usa-sidenav-sub_list">
             {% for subsublink in sublink.subnav %}
               <li>
                 <a href="{% if subsublink.external == true %}{{ subsublink.href }}{% else %}{{ subsublink.href | relative_url }}{% endif %}" {% if page.url contains subsublink.href or page.permalink contains subsublink.href %}class="usa-current"{% endif %}>{{ subsublink.text }}</a>
-
-                {% if subsublink.subnav %}
+                {% if ((subsublink.href == page.url or subsublink.href == page.permalink) or (page.url contains subsublink.href or page.permalink contains subsublink.href)) and subsublink.subnav %}
                 <ul class="usa-sidenav-sub_list">
                   {% for subsubsublink in subsublink.subnav %}
                     <li>

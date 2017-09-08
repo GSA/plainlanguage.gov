@@ -21,47 +21,47 @@ guidelines:
     href: /guidelines/write/
     subnav:
       - text: Words
-        href: '/guidelines/write/words/index/'
+        href: '/guidelines/write/words/'
         subnav:
           - text: Verbs
             href: '/guidelines/write/words/verbs/'
             subnav:
               - text: Use active voice
-                href: '/guidelines/write/words/writeActive/'
+                href: '/guidelines/write/words/verbs/writeActive/'
               - text: Use the simplest form of a verb
-                href: '/guidelines/write/words/writeSimpleVerb/'
+                href: '/guidelines/write/words/verbs/writeSimpleVerb/'
               - text: Avoid hidden verbs
-                href: '/guidelines/write/words/writeNoVerbNouns/'
+                href: '/guidelines/write/words/verbs/writeNoVerbNouns/'
               - text: Use “must” to indicate requirements
-                href: '/guidelines/write/words/writeMust/'
+                href: '/guidelines/write/words/verbs/writeMust/'
               - text: Use contractions when appropriate
-                href: '/guidelines/write/words/writeContract/'
+                href: '/guidelines/write/words/verbs/writeContract/'
           - text: Nouns and pronouns
             href: '/guidelines/write/words/nouns/'
             subnav:
               - text: Avoid noun strings
-                href: '/guidelines/write/words/writeNoNounStrings/'
+                href: '/guidelines/write/words/nouns/writeNoNounStrings/'
               - text: Use pronouns to speak directly to your reader
-                href: '/guidelines/write/words/writeYou/'
+                href: '/guidelines/write/words/nouns/writeYou/'
               - text: Minimize abbreviations
-                href: '/guidelines/write/words/writeNoAbbrev/'
+                href: '/guidelines/write/words/nouns/writeNoAbbrev/'
           - text: Other word issues
-            href: '/guidelines/write/words/otherWords/'
+            href: '/guidelines/write/words/other/'
             subnav:
               - text: Use short, simple words
-                href: '/guidelines/write/words/writeShort/'
+                href: '/guidelines/write/words/other/writeShort/'
               - text: Omit unnecessary words
-                href: '/guidelines/write/words/writeOmitUnnecc/'
+                href: '/guidelines/write/words/other/writeOmitUnnecc/'
               - text: Dealing with definitions
-                href: '/guidelines/write/words/writeDefs/'
+                href: '/guidelines/write/words/other/writeDefs/'
               - text: Use the same term consistently for a specific thought or object
-                href: '/guidelines/write/words/writeTermUse/'
+                href: '/guidelines/write/words/other/writeTermUse/'
               - text: Avoid legal, foreign, and technical jargon
-                href: '/guidelines/write/words/writeNoJargon/'
+                href: '/guidelines/write/words/other/writeNoJargon/'
               - text: Don’t use slashes
-                href: '/guidelines/write/words/writeNoSlash/'
+                href: '/guidelines/write/words/other/writeNoSlash/'
       - text: Sentences
-        href: '/guidelines/write/sentences/index/'
+        href: '/guidelines/write/sentences/'
         subnav:
           - text: Write short sentences
             href: '/guidelines/write/sentences/writeShortSent/'
@@ -74,7 +74,7 @@ guidelines:
           - text: Place words carefully
             href: '/guidelines/write/sentences/writeWordPlace/'
       - text: Paragraphs
-        href: '/guidelines/write/paragraphs/index/'
+        href: '/guidelines/write/paragraphs/'
         subnav:
           - text: Have a topic sentence
             href: '/guidelines/write/paragraphs/writeTopic/'
@@ -85,7 +85,7 @@ guidelines:
           - text: Cover only one topic in each paragraph
             href: '/guidelines/write/paragraphs/write1Issue/'
       - text: Other aids to clarity
-        href: '/guidelines/write/aids/index/'
+        href: '/guidelines/write/aids/'
         subnav:
           - text: Use examples
             href: '/guidelines/write/aids/writeExamples/'
@@ -132,9 +132,9 @@ guidelines:
       - text: Controlled Comparative Studies
         href: '/guidelines/test/control/'
       - text: Testing Successes
-        href: '/guidelines/test/testsuccess/'
+        href: '/guidelines/test/successes/'
         subnav:
           - text: Paraphrase testing from the Veterans Benefits Administration
-            href: '/guidelines/test/VBAtest/'
+            href: '/guidelines/test/successes/VBAtest/'
           - text: Usability testing from the National Cancer Institute
-            href: '/guidelines/test/NCItest/'
+            href: '/guidelines/test/successes/NCItest/'
