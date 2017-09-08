@@ -1,6 +1,6 @@
 # Site settings
-title: PlainLanguage.gov
-description: Resources to help writers achieve the goal of clear communication from the federal government to the public.
+title: plainlanguage.gov
+description: Resources to help federal employees deliver clear communications to the public.
 
 # Using https://github.com/18F/uswds-jekyll
 theme: uswds-jekyll
