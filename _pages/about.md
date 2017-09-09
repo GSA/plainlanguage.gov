@@ -47,6 +47,6 @@ Please [contact us]({{ site.baseurl }}/contact/) if:
 
 This site launched in 1994, and was redesigned in 2004 with volunteers from PLAIN and student work facilitated by [Thom Haller](http://onlinelibrary.wiley.com/doi/10.1002/bult.2006.1720320411/epdf).
 
-In 2017, we partnered with [18F](https://18f.gsa.gov/) to redesign the site and make it more accessible in modern browsers. plainlanguage.gov is built with the [U.S. Web Design Standards](https://standards.usa.gov/)  and is hosted by [Federalist](https://federalist.18f.gov/).
+In 2017, we partnered with [18F](https://18f.gsa.gov/) to redesign the site and make it more accessible in modern browsers. plainlanguage.gov is built with the [U.S. Web Design Standards](https://standards.usa.gov/) and is hosted on [Federalist](https://federalist.18f.gov/) by the [General Services Administration](https://www.gsa.gov/portal/category/25729).
 
 We are continuing to improve the site and welcome your feedback.
