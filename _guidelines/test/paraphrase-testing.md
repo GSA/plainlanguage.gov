@@ -5,7 +5,7 @@ sidenav: guidelines
 
 **One-on-one paraphrase testing sessions with users** work best for short documents, short web pages, and when testing the questions on a survey.
 
-Paraphrase testing will tell you what a reader thinks a document means and will help you know if the reader is interpreting your message as you intended. (See [VBA testing success]({{ site.baseurl }}{% link _guidelines/test/successes/VBAtest.md %}))
+Paraphrase testing will tell you what a reader thinks a document means and will help you know if the reader is interpreting your message as you intended. (See [VBA testing success]({{ site.baseurl }}{% link _guidelines/test/successes/paraphrase-testing-from-the-veterans-benefits-administration.md %}))
 
 ## Try to conduct 6 to 9 interviews on each document.
 
@@ -28,4 +28,4 @@ You won't get much usable information from that type of question.
 
 With only 6 to 9 participants, paraphrase testing will not take a lot of time, and the time invested is worth it. Taking the time to test your document and change it based on what you learn may save you hundreds of hours later answering questions from your users or producing a second document clarifying the first one.
 
-For longer documents where finding information is also important do [usability testing]({{ site.baseurl }}{% link _guidelines/test/usability.md %}). Usability testing is the best technique for booklets, regulations, and web sites. With usability testing, you test the document as a whole, not just individual paragraphs.
+For longer documents where finding information is also important do [usability testing]({{ site.baseurl }}{% link _guidelines/test/usability-testing.md %}). Usability testing is the best technique for booklets, regulations, and web sites. With usability testing, you test the document as a whole, not just individual paragraphs.

@@ -1,5 +1,5 @@
 ---
-title: Use &ldquo;must&rdquo; to indicate requirements
+title: Use "must" to indicate requirements
 sidenav: guidelines
 ---
 

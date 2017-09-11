@@ -3,20 +3,20 @@ guidelines:
     href: /guidelines/audience/
     subnav:
       - text: Identify and write for your audience
-        href: '/guidelines/audience/audId/'
+        href: '/guidelines/audience/identify-and-write-for-your-audience/'
       - text: Address separate audiences separately
-        href: '/guidelines/audience/audSeparate/'
+        href: '/guidelines/audience/address-separate-audiences-separately/'
   - text: Organize
     href: /guidelines/organize/
     subnav:
       - text: Organize to meet your readers’ needs
-        href: '/guidelines/organize/orgAud/'
+        href: '/guidelines/organize/organize-to-meet-your-readers-needs/'
       - text: Address one person, not a group
-        href: '/guidelines/organize/orgOnePerson/'
+        href: '/guidelines/organize/address-one-person-not-a-group/'
       - text: Use lots of useful headings
-        href: '/guidelines/organize/orgHeadings/'
+        href: '/guidelines/organize/use-lots-of-useful-headings/'
       - text: Write short sections
-        href: '/guidelines/organize/writeShortSect/'
+        href: '/guidelines/organize/write-short-sections/'
   - text: Write your document
     href: /guidelines/write/
     subnav:
@@ -27,114 +27,114 @@ guidelines:
             href: '/guidelines/write/words/verbs/'
             subnav:
               - text: Use active voice
-                href: '/guidelines/write/words/verbs/writeActive/'
+                href: '/guidelines/write/words/verbs/use-active-voice/'
               - text: Use the simplest form of a verb
-                href: '/guidelines/write/words/verbs/writeSimpleVerb/'
+                href: '/guidelines/write/words/verbs/use-the-simplest-form-of-a-verb/'
               - text: Avoid hidden verbs
-                href: '/guidelines/write/words/verbs/writeNoVerbNouns/'
+                href: '/guidelines/write/words/verbs/avoid-hidden-verbs/'
               - text: Use “must” to indicate requirements
-                href: '/guidelines/write/words/verbs/writeMust/'
+                href: '/guidelines/write/words/verbs/use-must-to-indicate-requirements/'
               - text: Use contractions when appropriate
-                href: '/guidelines/write/words/verbs/writeContract/'
+                href: '/guidelines/write/words/verbs/use-contractions-when-appropriate/'
           - text: Nouns and pronouns
             href: '/guidelines/write/words/nouns/'
             subnav:
               - text: Avoid noun strings
-                href: '/guidelines/write/words/nouns/writeNoNounStrings/'
+                href: '/guidelines/write/words/nouns/avoid-noun-strings/'
               - text: Use pronouns to speak directly to your reader
-                href: '/guidelines/write/words/nouns/writeYou/'
+                href: '/guidelines/write/words/nouns/use-pronouns-to-speak-directly-to-your-reader/'
               - text: Minimize abbreviations
-                href: '/guidelines/write/words/nouns/writeNoAbbrev/'
+                href: '/guidelines/write/words/nouns/minimize-abbreviations/'
           - text: Other word issues
             href: '/guidelines/write/words/other/'
             subnav:
               - text: Use short, simple words
-                href: '/guidelines/write/words/other/writeShort/'
+                href: '/guidelines/write/words/other/use-short-simple-words/'
               - text: Omit unnecessary words
-                href: '/guidelines/write/words/other/writeOmitUnnecc/'
+                href: '/guidelines/write/words/other/omit-unnecessary-words/'
               - text: Dealing with definitions
-                href: '/guidelines/write/words/other/writeDefs/'
+                href: '/guidelines/write/words/other/dealing-with-definitions/'
               - text: Use the same term consistently for a specific thought or object
-                href: '/guidelines/write/words/other/writeTermUse/'
+                href: '/guidelines/write/words/other/use-the-same-term-consistently-for-a-specific-thought-or-object/'
               - text: Avoid legal, foreign, and technical jargon
-                href: '/guidelines/write/words/other/writeNoJargon/'
+                href: '/guidelines/write/words/other/avoid-legal-foreign-and-technical-jargon/'
               - text: Don’t use slashes
-                href: '/guidelines/write/words/other/writeNoSlash/'
+                href: '/guidelines/write/words/other/dont-use-slashes/'
       - text: Sentences
         href: '/guidelines/write/sentences/'
         subnav:
           - text: Write short sentences
-            href: '/guidelines/write/sentences/writeShortSent/'
+            href: '/guidelines/write/sentences/write-short-sentences/'
           - text: Keep the subject, verb, and close object together
-            href: '/guidelines/write/sentences/writeProximity/'
+            href: '/guidelines/write/sentences/keep-the-subject-verb-and-close-object-together/'
           - text: Avoid double negatives and exceptions to exceptions
-            href: '/guidelines/write/sentences/writeNo2Negs/'
+            href: '/guidelines/write/sentences/avoid-double-negatives-and-exceptions-to-exceptions/'
           - text: Place the main idea before exceptions and conditions
-            href: '/guidelines/write/sentences/writeExceptLast/'
+            href: '/guidelines/write/sentences/place-the-main-idea-before-exceptions-and-conditions/'
           - text: Place words carefully
-            href: '/guidelines/write/sentences/writeWordPlace/'
+            href: '/guidelines/write/sentences/place-words-carefully/'
       - text: Paragraphs
         href: '/guidelines/write/paragraphs/'
         subnav:
           - text: Have a topic sentence
-            href: '/guidelines/write/paragraphs/writeTopic/'
+            href: '/guidelines/write/paragraphs/have-a-topic-sentence/'
           - text: Use transition words
-            href: '/guidelines/write/paragraphs/writeTransitions/'
+            href: '/guidelines/write/paragraphs/use-transition-words/'
           - text: Write short paragraphs
-            href: '/guidelines/write/paragraphs/writeShortPara/'
+            href: '/guidelines/write/paragraphs/write-short-paragraphs/'
           - text: Cover only one topic in each paragraph
-            href: '/guidelines/write/paragraphs/write1Issue/'
+            href: '/guidelines/write/paragraphs/cover-only-one-topic-in-each-paragraph/'
       - text: Other aids to clarity
         href: '/guidelines/write/aids/'
         subnav:
           - text: Use examples
-            href: '/guidelines/write/aids/writeExamples/'
+            href: '/guidelines/write/aids/use-examples/'
           - text: Use lists
-            href: '/guidelines/write/aids/writeLists/'
+            href: '/guidelines/write/aids/use-lists/'
           - text: Use tables to make complex material easier to understand
-            href: '/guidelines/write/aids/writeTables/'
+            href: '/guidelines/write/aids/use-tables-to-make-complex-material-easier-to-understand/'
           - text: Consider using illustrations
-            href: '/guidelines/write/aids/writeIllustrat/'
+            href: '/guidelines/write/aids/consider-using-illustrations/'
           - text: Use emphasis to highlight important concepts
-            href: '/guidelines/write/aids/writeEmph/'
+            href: '/guidelines/write/aids/use-emphasis-to-highlight-important-concepts/'
           - text: Minimize cross-references
-            href: '/guidelines/write/aids/writeNoXRefs/'
+            href: '/guidelines/write/aids/minimize-cross-references/'
           - text: Design your document for easy reading
-            href: '/guidelines/write/aids/writeDesign/'
+            href: '/guidelines/write/aids/design-your-document-for-easy-reading/'
   - text: Write for the web
     href: /guidelines/web/
     subnav:
       - text: How do people use the web?
-        href: '/guidelines/web/useWeb/'
+        href: '/guidelines/web/how-do-people-use-the-web/'
       - text: Write for your users
-        href: '/guidelines/web/writeUsers/'
+        href: '/guidelines/web/write-for-your-users/'
       - text: Identify your users and their top tasks
-        href: '/guidelines/web/IDtasks/'
+        href: '/guidelines/web/identify-your-users-and-their-top-tasks/'
       - text: Write web content
-        href: '/guidelines/web/writeWeb/'
+        href: '/guidelines/web/write-web-content/'
       - text: Repurpose print material for the web
-        href: '/guidelines/web/repurpose/'
+        href: '/guidelines/web/repurpose-print-material-for-the-web/'
       - text: Avoid PDF overload
-        href: '/guidelines/web/avoidPDF/'
+        href: '/guidelines/web/avoid-pdf-overload/'
       - text: Use plain-language techniques on the web
-        href: '/guidelines/web/webTechniques/'
+        href: '/guidelines/web/use-plain-language-techniques-on-the-web/'
       - text: Avoid meaningless formal language
-        href: '/guidelines/web/avoidFormal/'
+        href: '/guidelines/web/avoid-meaningless-formal-language/'
       - text: Write effective links
-        href: '/guidelines/web/links/'
+        href: '/guidelines/web/write-effective-links/'
   - text: Test
     href: /guidelines/test/
     subnav:
       - text: Paraphrase Testing
-        href: '/guidelines/test/paraphrase/'
+        href: '/guidelines/test/paraphrase-testing/'
       - text: Usability Testing
-        href: '/guidelines/test/usability/'
+        href: '/guidelines/test/usability-testing/'
       - text: Controlled Comparative Studies
-        href: '/guidelines/test/control/'
+        href: '/guidelines/test/controlled-comparative-studies/'
       - text: Testing Successes
         href: '/guidelines/test/successes/'
         subnav:
           - text: Paraphrase testing from the Veterans Benefits Administration
-            href: '/guidelines/test/successes/VBAtest/'
+            href: '/guidelines/test/successes/paraphrase-testing-from-the-veterans-benefits-administration/'
           - text: Usability testing from the National Cancer Institute
-            href: '/guidelines/test/successes/NCItest/'
+            href: '/guidelines/test/successes/usability-testing-from-the-national-cancer-institute/'
