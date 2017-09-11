@@ -3,7 +3,7 @@ title: Address separate audiences separately
 sidenav: guidelines
 ---
 
-An important part of writing for your audience is addressing separate audiences separately. Websites and documents often address more than one audience. Mixing material intended for different audiences may confuse readers. By addressing different audiences in the same place, you make it harder for each audience to find the material that applies to them. In regulations, this may make it difficult for each audience to comply with your agency's requirements.
+An important part of writing for your audience is addressing separate audiences separately. Many documents and websites address more than one audience. Mixing material intended for different audiences may confuse readers. By addressing different audiences in the same place, you make it harder for each audience to find the material that applies to them. In regulations, this may make it difficult for each audience to comply with your agency's requirements.
 
 ## Example
 
