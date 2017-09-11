@@ -7,52 +7,20 @@ The bulk of government and technical writing uses too many noun strings - groups
 
 Bring these constructions under control by eliminating descriptive words that aren't essential. If you can't do that, open up the construction by using more prepositions and articles to clarify the relationships among the words.
 
-Avoid nouns strings like these                                                       | Instead, say
+Avoid nouns strings like these | Instead, say
 ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------
-Underground mine worker safety protection procedures development                     | Developing procedures to protect the safety of workers in underground mines
-Draft laboratory animal rights protection regulations                                | Draft regulations to protect the rights of laboratory animals
+Underground mine worker safety protection procedures development | Developing procedures to protect the safety of workers in underground mines
+Draft laboratory animal rights protection regulations | Draft regulations to protect the rights of laboratory animals
 National Highway Traffic Safety Administration's automobile seat belt interlock rule | The National Highway Traffic Safety Administration's interlock rule applies to automotive seat belts
 
 ## Sources
 
-- Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.
+- Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P. _Clear &amp; Effective Legal Writing,_ 4th edition, 2007, Aspen Publishers, New York, NY, pp. 192-193.
 
-  _Clear &amp; Effective Legal Writing,_
+- Garner, Bryan A., _A Dictionary of Modern Legal Usage_, 2nd edition, 1995, Oxford University Press, Oxford and New York, pp. 601-602.
 
-  4th edition, 2007, Aspen Publishers, New York, NY, pp. 192-193.
+- Garner, Bryan A., _Garner’s Modern American Usage_, 2003, Oxford University Press, Oxford and New York, p. 557.
 
-- Garner, Bryan A.,
+- Wydick, Richard,_Plain English for Lawyers_, 5th edition, 2005, Carolina Academic Press, Durham, NC, p. 71.
 
-  _A Dictionary of Modern Legal Usage_
-
-  , 2
-
-  <sup>nd</sup>
-
-  edition, 1995, Oxford University Press, Oxford and New York, pp. 601-602.
-
-- Garner, Bryan A.,
-
-  _Garner’s Modern American Usage_
-
-  , 2003, Oxford University Press, Oxford and New York, p. 557.
-
-- Wydick, Richard,
-
-  _Plain English for Lawyers_
-
-  , 5
-
-  <sup>th</sup>
-
-  edition, 2005, Carolina Academic Press, Durham, NC, p. 71.
-
-- Zinsser, William,
-
-  _On Writing Well_
-
-  , 6
-
-  <sup>th</sup>
-
-  edition, 2001, HarperCollins, New York, pp. 77-78.
+- Zinsser, William, _On Writing Well_, 6<sup>th</sup> edition, 2001, HarperCollins, New York, pp. 77-78.

@@ -3,7 +3,7 @@ title: How do people use the web?
 sidenav: guidelines
 ---
 
-People use the internet to easily find, understand, and use information to complete a task. Unlike print media, people do not read entire web pages. They scan instead. Nielsen and Morkes, in a famous 1997 study, found that 79 percent of their test users always scanned any new page they came across; only 16 percent read word-by-word.
+People use the internet to easily find, understand, and use information to complete a task. Unlike print media, people do not read entire web pages. They scan instead. In a famous 1997 study, Nielsen and Morkes found that 79 percent of their test users always scanned any new page they came across; only 16 percent read word-by-word.
 
 Even with more people using the web, the percent of content that is read on a website has not increased by much. Here are some facts to consider when writing web content:
 
@@ -23,6 +23,6 @@ Here is an image of one of the eye tracking pages. The red shows where the user 
 
 ## Sources
 
-- [www.useit.com/alertbox/percent-text-read.html](http://www.useit.com/alertbox/percent-text-read.html)
+- [How Little Do Users Read?](https://www.nngroup.com/articles/how-little-do-users-read/), Nielsen Norman Group
 - _Eyetracking Web Usability_, New Riders Press, December 14, 2009
-- [www.uie.com/articles/five_second_test/](http://www.uie.com/articles/five_second_test/)
+- [5-Second Tests: Measuring Your Site’s Content Pages](https://articles.uie.com/five_second_test/),

@@ -65,4 +65,4 @@ Again, this seems obvious. But writers seem to automatically define terms they t
 - Garner, Bryan A., _A Dictionary of Modern Legal Usage_, 2nd edition, 1995, Oxford University Press, Oxford and New York, p. 257-258.
 - Garner, Bryan A., _Legal Writing in Plain English_, 2001, University of Chicago Press, Chicago, pp. 97-99.
 - Kimble, Joseph, _Lifting the Fog of Legalese_, Carolina Academic Press, 2006, Durham, NC.
-- Office of the Federal Register, Document Drafting Handbook, 1998, § 8.15\. [www.archives.gov/federal-register/write/handbook/ddh.pdf](http://www.archives.gov/federal-register/write/handbook/ddh.pdf).
+- [Office of the Federal Register, Document Drafting Handbook](http://www.archives.gov/federal-register/write/handbook/ddh.pdf), 1998, § 8.15.

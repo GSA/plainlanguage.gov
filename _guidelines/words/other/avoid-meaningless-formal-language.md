@@ -18,5 +18,5 @@ Here is a brief list of meaningless filler phrases:
 
 ## Sources
 
-- [www.contentini.com/writing-better-tips/](http://www.contentini.com/writing-better-tips/).
+- [Writing Better: Tips for Avoiding Cliches, Jargon and Other Filler](http://www.contentini.com/writing-better-tips/)
 - Redish, Janice C., _Writing Web Content that Works_, 2007, Morgan Kaufmann Publishers, San Francisco

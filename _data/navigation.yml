@@ -6,7 +6,7 @@ guidelines:
         href: '/guidelines/audience/identify-and-write-for-your-audience/'
       - text: Address separate audiences separately
         href: '/guidelines/audience/address-separate-audiences-separately/'
-  - text: Organize
+  - text: Organize the information
     href: /guidelines/organize/
     subnav:
       - text: Organize to meet your readers’ needs
@@ -122,17 +122,17 @@ guidelines:
         href: '/guidelines/web/avoid-meaningless-formal-language/'
       - text: Write effective links
         href: '/guidelines/web/write-effective-links/'
-  - text: Test
+  - text: Test your assumptions
     href: /guidelines/test/
     subnav:
-      - text: Paraphrase Testing
-        href: '/guidelines/test/paraphrase-testing/'
-      - text: Usability Testing
-        href: '/guidelines/test/usability-testing/'
-      - text: Controlled Comparative Studies
-        href: '/guidelines/test/controlled-comparative-studies/'
-      - text: Testing Successes
-        href: '/guidelines/test/successes/'
+      - text: Paraphrase testing
+        href: '/guidelines/test-your-assumptions/paraphrase-testing/'
+      - text: Usability testing
+        href: '/guidelines/test-your-assumptions/usability-testing/'
+      - text: Controlled comparative studies
+        href: '/guidelines/test-your-assumptions/controlled-comparative-studies/'
+      - text: Testing successes
+        href: '/guidelines/test-your-assumptions/successes/'
         subnav:
           - text: Paraphrase testing from the Veterans Benefits Administration
             href: '/guidelines/test/successes/paraphrase-testing-from-the-veterans-benefits-administration/'

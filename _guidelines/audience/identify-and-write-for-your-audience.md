@@ -9,7 +9,7 @@ Tell your audience why the material is important to them. Say, "If you want a re
 
 ## Do your research
 
-Start by [identifying your users and their top tasks]({{ site.baseurl }}{% link _guidelines/web/IDtasks.md %}). This will help you write clearly and focus on user needs.
+Start by [identifying your users and their top tasks]({{ site.baseurl }}{% link _guidelines/audience/identify-your-users-and-their-top-tasks.md %}). This will help you write clearly and focus on user needs.
 
 Think about what your audience knows about the situation now. Then, guide them from their current knowledge to what they need to know. To help you do this, try answering the following questions:
 

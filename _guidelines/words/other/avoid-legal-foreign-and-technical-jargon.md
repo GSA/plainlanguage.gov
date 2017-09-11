@@ -9,14 +9,14 @@ When we say not to use jargon, we're not advocating leaving out necessary techni
 
 Special terms can be useful shorthand within a group and may be the clearest way to communicate inside the group. However, going beyond necessary technical terms to write in jargon can cause misunderstanding or alienation, even if your only readers are specialists. Readers complain about jargon more than any other writing fault, because writers often fail to realize that terms they know well may be difficult or meaningless to their audience. Try to substitute everyday language for jargon as often as possible. Consider the following pairs. The plainer version conveys technical information just as accurately as and more clearly than the jargon-laden version.
 
-Don't say                                                                                                                                                                                | Say
+Don't say  | Say
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------
-riverine avifauna                                                                                                                                                                        | river birds
-involuntarily undomiciled                                                                                                                                                                | homeless
-The patient is being given positive-pressure ventilatory support.                                                                                                                        | The patient is on a respirator.
+riverine avifauna | river birds
+involuntarily undomiciled | homeless
+The patient is being given positive-pressure ventilatory support. | The patient is on a respirator.
 Most refractory coatings to date exhibit a lack of reliability when subject to the impingement of entrained particulate matter in the propellant stream under extended firing durations. | The exhaust gas eventually damages the coating of most existing ceramics.
 
-When you have no way to express an idea except to use technical language, make sure you define your terms. However, it's best to keep definitions to a minimum. Remember to write to communicate, not to impress. If you do that, you should naturally use less jargon. For more on definitions, see [Dealing with definitions]({{ site.baseurl }}{% link _guidelines/write/words/other/dealing-with-definitions.md %}).
+When you have no way to express an idea except to use technical language, make sure you define your terms. However, it's best to keep definitions to a minimum. Remember to write to communicate, not to impress. If you do that, you should naturally use less jargon. For more on definitions, see [Dealing with definitions]({{ site.baseurl }}{% link _guidelines/words/other/dealing-with-definitions.md %}).
 
 ## Legal language
 
@@ -36,7 +36,7 @@ Legal language in regulations and other documents is a major source of annoying 
 - wherein
 - whereof ------------------------------------------------------------------------------------------ | -----------------------------------------------------------------------------
 
-Another term that is losing its popularity in legal circles is "shall." Obviously, it's especially important in regulations to use words of authority clearly, and many top legal writing experts now recommend avoiding the archaic and ambiguous "shall" in favor of another word, depending on your meaning. Read more about "shall" in [Use "must" to convey requirements.]({{ site.baseurl }}{% link _guidelines/write/words/verbs/use-must-to-indicate-requirements.md %})
+Another term that is losing its popularity in legal circles is "shall." Obviously, it's especially important in regulations to use words of authority clearly, and many top legal writing experts now recommend avoiding the archaic and ambiguous "shall" in favor of another word, depending on your meaning. Read more about "shall" in [Use "must" to convey requirements.]({{ site.baseurl }}{% link _guidelines/words/verbs/use-must-to-indicate-requirements.md %})
 
 ## Sources
 

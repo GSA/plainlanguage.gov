@@ -1,5 +1,5 @@
 ---
-title: Organize
+title: Organize the information
 sidenav: guidelines
 permalink: /guidelines/organize/
 ---

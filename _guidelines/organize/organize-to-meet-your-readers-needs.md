@@ -81,10 +81,6 @@ How to Appeal Agency Decisions
 
 Crafting documents with four, five, or even more levels makes it difficult for your audience to keep track of where they are in the structure of your document. You should address this problem in your initial structuring of the document. Dividing your document into more pieces at the top levels should allow you to limit subdivisions below the major level to two. The Office of the Federal Register recommends that regulations contain no more than three levels, noting that more than three levels make regulations hard to read and use.
 
-## Address separate audiences separately
-
-If you have more than one audience for your document, address each one separately. No one wants to have to wade through material meant for someone else. For more discussion of this issue, see the Guideline [Address separate audiences separately]({{ site.baseurl }}{% link _guidelines/audience/address-separate-audiences-separately.md %}).
-
 ## Sources
 
 - Kimble, Joseph, _Lifting the Fog of Legalese_, 2006, Carolina Academic Press, Durham, NC, p. 70 (C).
