@@ -1,5 +1,5 @@
 ---
-title: Organize to meet your readers&rsquo; needs
+title: Organize to meet your readers' needs
 sidenav: guidelines
 ---
 
@@ -83,7 +83,7 @@ Crafting documents with four, five, or even more levels makes it difficult for y
 
 ## Address separate audiences separately
 
-If you have more than one audience for your document, address each one separately. No one wants to have to wade through material meant for someone else. For more discussion of this issue, see the Guideline [Address separate audiences separately]({{ site.baseurl }}{% link _guidelines/audience/audSeparate.md %}).
+If you have more than one audience for your document, address each one separately. No one wants to have to wade through material meant for someone else. For more discussion of this issue, see the Guideline [Address separate audiences separately]({{ site.baseurl }}{% link _guidelines/audience/address-separate-audiences-separately.md %}).
 
 ## Sources
 

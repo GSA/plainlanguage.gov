@@ -5,7 +5,7 @@ sidenav: guidelines
 
 **One-on-one usability testing sessions with users** work best when the participant actually uses the document to find and understand information.
 
-Usability testing is the best technique for documents where people have to find the information before understanding it. (See [National Cancer Institute testing success]({{ site.baseurl }}{% link _guidelines/test/successes/NCItest.md %}))
+Usability testing is the best technique for documents where people have to find the information before understanding it. (See [National Cancer Institute testing success]({{ site.baseurl }}{% link _guidelines/test/successes/usability-testing-from-the-national-cancer-institute.md %}))
 
 ## When should I test?
 
@@ -44,7 +44,7 @@ Variations on the one-on-one usability test:
 
 - **Two people working together** (co-discovery). Their discussion is an easy form of think aloud.
 - **Several people working independently** at the same time followed by a group discussion. This speeds up the time you spend in usability test sessions, but it only works if you have several usability test note-takers so you have someone watching and listening to each participant before you bring all the participants together for the discussion.
-- **Comparative usability tests**. You can include different versions of your document. Because you have a small number of people, it is best to have each person work with both versions. You have to alternate which version people start with.(See [Controlled Comparative Studies]({{ site.baseurl }}{% link _guidelines/test/control.md %}))
+- **Comparative usability tests**. You can include different versions of your document. Because you have a small number of people, it is best to have each person work with both versions. You have to alternate which version people start with.(See [Controlled Comparative Studies]({{ site.baseurl }}{% link _guidelines/test/controlled-comparative-studies.md %}))
 - **Remote moderated usability testing**. With web-based tools, you do not have to be in the same place as the participant. These tools allow you to draw participants from a wide geographic range without travel costs.
 - **Remote unmoderated usability testing**. You can have large numbers of people participate through remote testing tools. (For federal agencies, this may require clearance through OMB.)
 

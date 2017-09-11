@@ -1,5 +1,5 @@
 ---
-title: Don&rsquo;t use slashes
+title: Don't use slashes
 sidenav: guidelines
 ---
 
