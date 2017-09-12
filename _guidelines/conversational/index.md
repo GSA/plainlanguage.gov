@@ -1,7 +1,7 @@
 ---
-title: Verbs
+title: Keep it conversational
 sidenav: guidelines
-permalink: /guidelines/words/verbs/
+permalink: /guidelines/conversational/
 ---
 
 Verbs are the fuel of writing. They give your sentences power and direction. They enliven your writing and make it more interesting.

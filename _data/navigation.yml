@@ -13,58 +13,63 @@ guidelines:
     subnav:
       - text: Organize to meet your readers’ needs
         href: '/guidelines/organize/organize-to-meet-your-readers-needs/'
-      - text: Address one person, not a group
-        href: '/guidelines/organize/address-one-person-not-a-group/'
-      - text: Use lots of useful headings
-        href: '/guidelines/organize/use-lots-of-useful-headings/'
-      - text: Write short sections
-        href: '/guidelines/organize/write-short-sections/'
+      - text: Have a topic sentence
+        href: '/guidelines/organize/have-a-topic-sentence/'
+      - text: Use transition words
+        href: '/guidelines/organize/use-transition-words/'
+      - text: Add useful headings
+        href: '/guidelines/organize/add-useful-headings/'
   - text: Choose your words carefully
     href: '/guidelines/words/'
     subnav:
-      - text: Verbs
-        href: '/guidelines/words/verbs/'
-        subnav:
-          - text: Use active voice
-            href: '/guidelines/words/verbs/use-active-voice/'
-          - text: Use the present tense
-            href: '/guidelines/words/verbs/use-the-present-tense/'
-          - text: Use contractions
-            href: '/guidelines/words/verbs/use-contractions/'
-          - text: Avoid hidden verbs
-            href: '/guidelines/words/verbs/avoid-hidden-verbs/'
-          - text: Use “must” to indicate requirements
-            href: '/guidelines/words/verbs/use-must-to-indicate-requirements/'
-      - text: Nouns
-        href: '/guidelines/words/nouns/'
-        subnav:
-          - text: Avoid noun strings
-            href: '/guidelines/words/nouns/avoid-noun-strings/'
-          - text: Minimize abbreviations
-            href: '/guidelines/words/nouns/minimize-abbreviations/'
-      - text: Other word issues
-        href: '/guidelines/words/other/'
-        subnav:
-          - text: Avoid legal, foreign, and technical jargon
-            href: '/guidelines/words/other/avoid-legal-foreign-and-technical-jargon/'
-          - text: Use short, simple words
-            href: '/guidelines/words/other/use-short-simple-words/'
-          - text: Omit unnecessary words
-            href: '/guidelines/words/other/omit-unnecessary-words/'
-          - text: Use the same term consistently for a specific thought or object
-            href: '/guidelines/words/other/use-the-same-term-consistently-for-a-specific-thought-or-object/'
-          - text: Don’t use slashes
-            href: '/guidelines/words/other/dont-use-slashes/'
-          - text: Dealing with definitions
-            href: '/guidelines/words/other/dealing-with-definitions/'
+      - text: Avoid hidden verbs
+        href: '/guidelines/words/avoid-hidden-verbs/'
+      - text: Avoid noun strings
+        href: '/guidelines/words/avoid-noun-strings/'
+      - text: Avoid legal, foreign, and technical jargon
+        href: '/guidelines/words/avoid-legal-foreign-and-technical-jargon/'
+      - text: Avoid meaningless formal language
+        href: '/guidelines/words/avoid-meaningless-formal-language/'
+      - text: Minimize abbreviations
+        href: '/guidelines/words/minimize-abbreviations/'
+      - text: Use the same terms consistently
+        href: '/guidelines/words/use-the-same-terms-consistently/'
+      - text: Dealing with definitions
+        href: '/guidelines/words/other/dealing-with-definitions/'
+  - text: Be concise
+    href: '/guidelines/concise/'
+    subnav:
+      - text: Omit unnecessary words
+        href: '/guidelines/concise/omit-unnecessary-words/'
+      - text: 'Use short, simple words'
+        href: '/guidelines/concise/use-short-simple-words/'
+      - text: Use positive language
+        href: '/guidelines/concise/use-positive-language/'
+      - text: Write short sentences
+        href: '/guidelines/concise/write-short-sentences/'
+      - text: Write short paragraphs
+        href: '/guidelines/concise/write-short-paragraphs/'
+      - text: Cover one topic in each paragraph
+        href: '/guidelines/concise/cover-only-one-topic-in-each-paragraph/'
+  - text: Keep it conversational
+    href: '/guidelines/conversational/'
+    subnav:
+      - text: Use active voice
+        href: '/guidelines/verbs/use-active-voice/'
+      - text: Use the present tense
+        href: '/guidelines/verbs/use-the-present-tense/'
+      - text: Use contractions
+        href: '/guidelines/verbs/use-contractions/'
+      - text: Use “must” to indicate requirements
+        href: '/guidelines/verbs/use-must-to-indicate-requirements/'
+      - text: Don’t use slashes
+        href: '/guidelines/other/dont-use-slashes/'
   - text: Write your document
     href: /guidelines/write/
     subnav:
       - text: Sentences
         href: '/guidelines/write/sentences/'
         subnav:
-          - text: Write short sentences
-            href: '/guidelines/write/sentences/write-short-sentences/'
           - text: Keep the subject, verb, and close object together
             href: '/guidelines/write/sentences/keep-the-subject-verb-and-close-object-together/'
           - text: Avoid double negatives and exceptions to exceptions
@@ -80,10 +85,6 @@ guidelines:
             href: '/guidelines/write/paragraphs/have-a-topic-sentence/'
           - text: Use transition words
             href: '/guidelines/write/paragraphs/use-transition-words/'
-          - text: Write short paragraphs
-            href: '/guidelines/write/paragraphs/write-short-paragraphs/'
-          - text: Cover only one topic in each paragraph
-            href: '/guidelines/write/paragraphs/cover-only-one-topic-in-each-paragraph/'
       - text: Other aids to clarity
         href: '/guidelines/write/aids/'
         subnav:
@@ -116,8 +117,6 @@ guidelines:
         href: '/guidelines/web/avoid-pdf-overload/'
       - text: Use plain-language techniques on the web
         href: '/guidelines/web/use-plain-language-techniques-on-the-web/'
-      - text: Avoid meaningless formal language
-        href: '/guidelines/web/avoid-meaningless-formal-language/'
       - text: Write effective links
         href: '/guidelines/web/write-effective-links/'
   - text: Test your assumptions

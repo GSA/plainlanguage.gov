@@ -69,7 +69,7 @@ Don't say | Say
 - (either one)
 - start
 
-Other ways to omit unnecessary words include eliminating hidden verbs, using pronouns, and using active voice. See the guidance on those three topics ([Avoid hidden verbs]({{ site.baseurl }}{% link _guidelines/words/verbs/avoid-hidden-verbs.md %}), [Use pronouns to speak directly to readers]({{ site.baseurl }}{% link _guidelines/audience/address-the-user.md %}), and [Use active voice]({{ site.baseurl }}{% link _guidelines/words/verbs/use-active-voice.md %})) for more information.
+Other ways to omit unnecessary words include eliminating hidden verbs, using pronouns, and using active voice. See the guidance on those three topics ([Avoid hidden verbs]({{ site.baseurl }}{% link _guidelines/words/avoid-hidden-verbs.md %}), [Use pronouns to speak directly to readers]({{ site.baseurl }}{% link _guidelines/audience/address-the-user.md %}), and [Use active voice]({{ site.baseurl }}{% link _guidelines/conversational/use-active-voice.md %})) for more information.
 
 Here's an example that uses several of the techniques discussed above to cut a 54 word sentence down to 22 words, with no loss of meaning.
 

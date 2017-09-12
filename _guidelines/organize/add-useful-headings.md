@@ -1,5 +1,5 @@
 ---
-title: Use lots of useful headings
+title: Add useful headings
 sidenav: guidelines
 ---
 
@@ -7,13 +7,13 @@ The best-organized document will still be difficult for users to follow if they 
 
 ## Types of headings
 
-There are three types of headings--
+There are three types of headings:
 
-Type of heading   | What it is                               | How it looks
+Type of heading | What it is | How it looks
 ----------------- | ---------------------------------------- | ----------------------------
-Question Heading  | A heading in the form of a question      | Why Do We Use Headings?
-Statement Heading | A heading that uses a noun and a verb    | Headings Help Guide a Reader
-Topic Heading     | A heading that is a word or short phrase | Headings
+Question heading | A heading in the form of a question | Why Do We Use Headings?
+Statement heading | A heading that uses a noun and a verb | Headings Help Guide a Reader
+Topic heading | A heading that is a word or short phrase | Headings
 
 **_Question Headings_** are the most useful type of heading, but only if you know what questions your audience would ask. Most people come to government documents with questions. If you know those questions, use them as headings. They will help the audience find the information they are looking for quickly. Using the question-and-answer format helps your audience scan the document and find specific information.
 
