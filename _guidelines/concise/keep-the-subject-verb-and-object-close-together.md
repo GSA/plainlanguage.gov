@@ -1,5 +1,5 @@
 ---
-title: 'Keep the subject, verb, and close object together'
+title: 'Keep the subject, verb, and object close together'
 sidenav: guidelines
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Dealing with definitions
+title: Minimize definitions
 sidenav: guidelines
 ---
 

@@ -3,7 +3,9 @@ title: Minimize cross-references
 sidenav: guidelines
 ---
 
-Nothing is more annoying than coming upon cross-references in reading material. Cross-references frustrate any attempt to write clearly and simply. Most users consider them a bother, and just skip over them. This can be a problem when the document is a regulation! Numerous cross-references can confuse users and make them less attentive to your message. They may also overtax your users' short-term memory. Imagine the work it would take a user to puzzle out just this one short section from our tax regulations (26 CFR 1.1(h)-1)./p>
+Nothing is more annoying than coming upon cross-references in reading material. Cross-references frustrate any attempt to write clearly and simply. Most users consider them a bother, and just skip over them. This can be a problem when the document is a regulation!
+
+Numerous cross-references can confuse users and make them less attentive to your message. They may also overtax your users' short-term memory. Imagine the work it would take a user to puzzle out just this one short section from our tax regulations (26 CFR 1.1(h)-1).
 
 | Regulation with many confusing cross-references
 | -----------------------------------------------
@@ -67,7 +69,7 @@ A cross-reference to material that does not appear in the _Federal Register_ or 
 
 **_Cross-referencing definitions_**. Adding a cross-reference to a definition for the convenience of the audience may create a problem if you don't continue to repeat it every time you use the word.
 
-If you say                                                                                                                                                        | Then you can't later just say
+If you say | Then you can't later just say
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------
 a corporation as defined in Section 1 (when Section 1 clearly applies to your regulation and defines a corporation as having, for example, at least 50 employees) | a corporation(Some readers may think the 50-employee limit doesn't apply here.)
 
@@ -86,4 +88,4 @@ There is no hard and fast rule about when it's reasonable to use a cross-referen
 ## Sources
 
 - Flesch, Rudolf, _How to Write in Plain English, A Book for Lawyers and Consumers_, 1979, Harper and Rowe, New York, pp. 82-93.
-- Office of the Federal Register, _Document Drafting Handbook_, 1998, 1-15). [www.archives.gov/federal-register/write/handbook/ddh.pdf](http://www.archives.gov/federal-register/write/handbook/ddh.pdf).
+- Office of the Federal Register, [Document Drafting Handbook](http://www.archives.gov/federal-register/write/handbook/ddh.pdf), 1998, pp. 1-15.
