@@ -3,7 +3,7 @@ title: Consider using illustrations
 sidenav: guidelines
 ---
 
-While government pamphlets and similar items intended for the public usually include many illustrations, illustrations rarely appear in letters or regulations. However, even in these documents, you can use illustrations to good effect. Consider these examples from regulations.
+While government pamphlets and similar items intended for the public usually include photos and illustrations, visuals rarely appear in letters or regulations. However, even in these documents, you can use illustrations to good effect. Consider these examples from regulations.
 
 Federal Aviation Regulations in 14 CFR part 95 contain illustrations of mountainous areas which are subject to special flight restrictions, such as this illustration of mountainous areas of Alaska:
 
