@@ -13,8 +13,7 @@ The lake was polluted by the company. | The company polluted the lake.
 New regulations were proposed. | We proposed new regulations.
 The following information must be included in the application for it to be considered complete. | You must include the following information in your application.
 Bonds will be withheld in cases of non-compliance with all permits and conditions. | We will withhold your bond if you don't comply with all permit terms and conditions.
-Regulations have been proposed by the Department of Veterans Affairs. | We have proposed regulations.
-The permit must be approved by the agency's State office. | Our State office must approve your permit.
+The permit must be approved by the agency's state office. | Our state office must approve your permit.
 
 More than any other writing technique, using active voice and specifying who is performing an action will change the character of your writing.
 
@@ -27,11 +26,9 @@ Passive sentences have two basic features, although both may not appear in every
 
 ## Use passive voice when the law is the actor
 
-In a few instances, passive voice may be appropriate. For example, when one action follows another as a matter of law, and there is no actor (besides the law itself) for the second action, a passive sentence may be the best method of expression. You might also use passive when it doesn't matter who is doing an action.
+In a few instances, passive voice may be appropriate. For example, when one action follows another as a matter of law, and there is no actor (besides the law itself) for the second action, a passive sentence may be the best method of expression.
 
-For example:
-
-> If you do not pay the royalty on your mineral production, your lease will be terminated...
+You might also use passive when it doesn't matter who is doing an action. For example: "If you do not pay the royalty on your mineral production, your lease will be terminated."
 
 ## Sources
 

@@ -9,7 +9,7 @@ guidelines:
       - text: Address separate audiences separately
         href: '/guidelines/audience/address-separate-audiences-separately/'
   - text: Organize the information
-    href: /guidelines/organize/
+    href: '/guidelines/organize/'
     subnav:
       - text: Organize to meet your readers’ needs
         href: '/guidelines/organize/organize-to-meet-your-readers-needs/'
@@ -19,60 +19,49 @@ guidelines:
         href: '/guidelines/organize/use-lots-of-useful-headings/'
       - text: Write short sections
         href: '/guidelines/organize/write-short-sections/'
-  - text: Address the user
-    href: /guidelines/perspective/
+  - text: Choose your words carefully
+    href: '/guidelines/words/'
     subnav:
-      - text:
-        href:
-      - text:
-        href:
-      - text:
-        href:
-      - text:
-        href:
+      - text: Verbs
+        href: '/guidelines/words/verbs/'
+        subnav:
+          - text: Use active voice
+            href: '/guidelines/words/verbs/use-active-voice/'
+          - text: Use the present tense
+            href: '/guidelines/words/verbs/use-the-present-tense/'
+          - text: Use contractions
+            href: '/guidelines/words/verbs/use-contractions/'
+          - text: Avoid hidden verbs
+            href: '/guidelines/words/verbs/avoid-hidden-verbs/'
+          - text: Use “must” to indicate requirements
+            href: '/guidelines/words/verbs/use-must-to-indicate-requirements/'
+      - text: Nouns and pronouns
+        href: '/guidelines/words/nouns/'
+        subnav:
+          - text: Avoid noun strings
+            href: '/guidelines/words/nouns/avoid-noun-strings/'
+          - text: Use pronouns to speak directly to your reader
+            href: '/guidelines/words/nouns/use-pronouns-to-speak-directly-to-your-reader/'
+          - text: Minimize abbreviations
+            href: '/guidelines/words/nouns/minimize-abbreviations/'
+      - text: Other word issues
+        href: '/guidelines/words/other/'
+        subnav:
+          - text: Use short, simple words
+            href: '/guidelines/words/other/use-short-simple-words/'
+          - text: Omit unnecessary words
+            href: '/guidelines/words/other/omit-unnecessary-words/'
+          - text: Dealing with definitions
+            href: '/guidelines/words/other/dealing-with-definitions/'
+          - text: Use the same term consistently for a specific thought or object
+            href: '/guidelines/words/other/use-the-same-term-consistently-for-a-specific-thought-or-object/'
+          - text: Avoid legal, foreign, and technical jargon
+            href: '/guidelines/words/other/avoid-legal-foreign-and-technical-jargon/'
+          - text: Don’t use slashes
+            href: '/guidelines/words/other/dont-use-slashes/'
   - text: Write your document
     href: /guidelines/write/
     subnav:
-      - text: Words
-        href: '/guidelines/write/words/'
-        subnav:
-          - text: Verbs
-            href: '/guidelines/write/words/verbs/'
-            subnav:
-              - text: Use active voice
-                href: '/guidelines/write/words/verbs/use-active-voice/'
-              - text: Use the simplest form of a verb
-                href: '/guidelines/write/words/verbs/use-the-simplest-form-of-a-verb/'
-              - text: Avoid hidden verbs
-                href: '/guidelines/write/words/verbs/avoid-hidden-verbs/'
-              - text: Use “must” to indicate requirements
-                href: '/guidelines/write/words/verbs/use-must-to-indicate-requirements/'
-              - text: Use contractions when appropriate
-                href: '/guidelines/write/words/verbs/use-contractions-when-appropriate/'
-          - text: Nouns and pronouns
-            href: '/guidelines/write/words/nouns/'
-            subnav:
-              - text: Avoid noun strings
-                href: '/guidelines/write/words/nouns/avoid-noun-strings/'
-              - text: Use pronouns to speak directly to your reader
-                href: '/guidelines/write/words/nouns/use-pronouns-to-speak-directly-to-your-reader/'
-              - text: Minimize abbreviations
-                href: '/guidelines/write/words/nouns/minimize-abbreviations/'
-          - text: Other word issues
-            href: '/guidelines/write/words/other/'
-            subnav:
-              - text: Use short, simple words
-                href: '/guidelines/write/words/other/use-short-simple-words/'
-              - text: Omit unnecessary words
-                href: '/guidelines/write/words/other/omit-unnecessary-words/'
-              - text: Dealing with definitions
-                href: '/guidelines/write/words/other/dealing-with-definitions/'
-              - text: Use the same term consistently for a specific thought or object
-                href: '/guidelines/write/words/other/use-the-same-term-consistently-for-a-specific-thought-or-object/'
-              - text: Avoid legal, foreign, and technical jargon
-                href: '/guidelines/write/words/other/avoid-legal-foreign-and-technical-jargon/'
-              - text: Don’t use slashes
-                href: '/guidelines/write/words/other/dont-use-slashes/'
       - text: Sentences
         href: '/guidelines/write/sentences/'
         subnav:
@@ -114,7 +103,7 @@ guidelines:
             href: '/guidelines/write/aids/minimize-cross-references/'
           - text: Design your document for easy reading
             href: '/guidelines/write/aids/design-your-document-for-easy-reading/'
-  - text: Write for the web
+  - text: Follow web standards
     href: /guidelines/web/
     subnav:
       - text: How do people use the web?
