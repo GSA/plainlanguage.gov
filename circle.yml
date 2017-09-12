@@ -9,4 +9,4 @@ dependencies:
 
 test:
   post:
-    - bundle exec htmlproofer _site --check-html --allow-hash-href
+    - bundle exec htmlproofer _site --check-html --allow-hash-href --empty-alt-ignore
