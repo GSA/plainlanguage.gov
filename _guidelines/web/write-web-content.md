@@ -5,15 +5,17 @@ sidenav: guidelines
 
 After identifying your users and their top tasks, it is time to actually write web content. If you think it would be easy to just duplicate information you've written for print documents, you are wrong. While the information is helpful, it's not in the right format for the web. Remember, people scan web pages and only read about 18 percent of what's on the page! This means you need to cut whatever you have in print form by 50 percent!
 
-## Good web content uses:
+## Good web content uses
 
 - The inverted pyramid style. Begin with the shortest and clearest statement you can make about your topic. Put the most important information at the top and the background at the bottom.
+
 - Chunked content. Don't try to pack everything into long paragraphs. Split topics up into logical sections separated by informative headings.
+
 - Only necessary information: Use only the information your users need to achieve their tops tasks. Omit unnecessary information.
 
-## Remember:
+## Remember
 
-Your content is NOT clear unless your users can:
+Your content is not clear unless your users can:
 
 - Find what they need
 - Understand what they find

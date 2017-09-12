@@ -1,5 +1,5 @@
 ---
-title: How do people use the web?
+title: How people use the web
 sidenav: guidelines
 ---
 

@@ -3,7 +3,7 @@ title: Write effective links
 sidenav: guidelines
 ---
 
-Links are about both content and navigation. Effective link names are key to satisfying your customers. The Eyetracking Studies showed links written in plain-language were the most effective. Plain-language links are written clearly so that the user understands exactly where the link will take them.
+Links are about both content and navigation. Effective link names are key to satisfying your customers. The eyetracking studies showed links written in plain-language were the most effective. Plain-language links are written clearly so that the user understands exactly where the link will take them.
 
 - Link names should be the same as the page name linked to.
 - Don't use the full name of a document or program as a link name.
@@ -18,4 +18,4 @@ Remember, some of your users might be visually disabled. Do not use "Click Here"
 
 - McGovern, Gerry, _Killer Web Content: Make the Sale, Deliver the Service, Build the Brand (and other works)_, 2006, A&C Black.
 - Nielsen, Jakob, _Designing Web Usability: The Practice of Simplicity (and other works)_, 1999, New Riders Publishing, Indianapolis.
-- [www.useit.com/alertbox/nanocontent.html](http://www.useit.com/alertbox/nanocontent.html)
+- [First 2 Words: A Signal for the Scanning Eye](https://www.nngroup.com/articles/first-2-words-a-signal-for-scanning/), Nielsen Norman Group

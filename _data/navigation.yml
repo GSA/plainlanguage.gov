@@ -1,7 +1,9 @@
 guidelines:
-  - text: Think about your audience
+  - text: Write for your audience
     href: /guidelines/audience/
     subnav:
+      - text: Identify your users and their top tasks
+        href: '/guidelines/web/identify-your-users-and-their-top-tasks/'
       - text: Identify and write for your audience
         href: '/guidelines/audience/identify-and-write-for-your-audience/'
       - text: Address separate audiences separately
@@ -17,6 +19,17 @@ guidelines:
         href: '/guidelines/organize/use-lots-of-useful-headings/'
       - text: Write short sections
         href: '/guidelines/organize/write-short-sections/'
+  - text: Address the user
+    href: /guidelines/perspective/
+    subnav:
+      - text:
+        href:
+      - text:
+        href:
+      - text:
+        href:
+      - text:
+        href:
   - text: Write your document
     href: /guidelines/write/
     subnav:
@@ -108,8 +121,6 @@ guidelines:
         href: '/guidelines/web/how-do-people-use-the-web/'
       - text: Write for your users
         href: '/guidelines/web/write-for-your-users/'
-      - text: Identify your users and their top tasks
-        href: '/guidelines/web/identify-your-users-and-their-top-tasks/'
       - text: Write web content
         href: '/guidelines/web/write-web-content/'
       - text: Repurpose print material for the web

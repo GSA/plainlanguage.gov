@@ -27,11 +27,11 @@ While still complex, the table is a significant improvement:
 
 **If you submit your form ...** | **We must receive it by ...** Electronically | the 25th of the second month following the month you are reporting Other than electronically | the 15th of the second month following the month you are reporting
 
-For more information on tables see [Use tables to make complex material easier to understand]({{ site.baseurl }}{% link _guidelines/write/aids/use-tables-to-make-complex-material-easier-to-understand.md %}).
+For more information on tables see [Use tables to make complex material easier to understand]({{ site.baseurl }}{% link _guidelines/aids/use-tables-to-make-complex-material-easier-to-understand.md %}).
 
 ## Sources
 
 - Garner, Bryan A., _Legal Writing in Plain English_, 2001, University of Chicago Press, Chicago, pp. 23-4, 102.
 - Murawski, Thomas A., _Writing Readable Regulations_, 1999, Carolina Academic Press Durham, NC, pp.77-78.
-- Office of the Federal Register, _Document Drafting Handbook_, 1998, MMR-6\. [www.archives.gov/federal-register/write/handbook/ddh.pdf](http://www.archives.gov/federal-register/write/handbook/ddh.pdf)
+- Office of the Federal Register, [Document Drafting Handbook](http://www.archives.gov/federal-register/write/handbook/ddh.pdf), 1998, MMR-6.
 - Securities and Exchange Commission, _Plain English Handbook_, 1998, Washington, DC, p. 32.
