@@ -3,7 +3,7 @@ title: Use active voice
 sidenav: guidelines
 ---
 
-Active voice makes it clear who is supposed to do what. It eliminates ambiguity about responsibilities. Not "It must be done," but "You must do it." Passive voice obscures who is responsible for what and is one of the biggest problems with government documents. Don't confuse passive voice with past tense.
+Active voice makes it clear who is supposed to do what. It eliminates ambiguity about responsibilities. Not "It must be done," but "You must do it." Passive voice obscures who is responsible for what and is one of the biggest problems with government writing. Don't confuse passive voice with past tense.
 
 In an active sentence, the person or agency that's acting is the subject of the sentence. In a passive sentence, the person or item that is acted upon is the subject of the sentence. Passive sentences often do not identify who is performing the action.
 
@@ -18,18 +18,18 @@ The permit must be approved by the agency's State office. | Our State office mus
 
 More than any other writing technique, using active voice and specifying who is performing an action will change the character of your writing.
 
-#### How do you identify passive sentences?
+## Identifying passive sentences
 
 Passive sentences have two basic features, although both may not appear in every passive sentence.
 
-- A form of the verb "to be." (for example: are, was, were, could be) and
-- A past participle (generally with "ed" on the end)
+- A form of the verb "to be," such as "are," "was," "were," "could be," or "have been")
+- A past participle (generally with "-ed" on the end)
 
-#### Use passive voice when the law is the actor
+## Use passive voice when the law is the actor
 
-In a very few instances, passive voice may be appropriate. For example, when one action follows another as a matter of law, and there is no actor (besides the law itself) for the second action, a passive sentence may be the best method of expression. You might also use passive when it doesn't matter who is doing an action.
+In a few instances, passive voice may be appropriate. For example, when one action follows another as a matter of law, and there is no actor (besides the law itself) for the second action, a passive sentence may be the best method of expression. You might also use passive when it doesn't matter who is doing an action.
 
-> **_For example:_**
+For example:
 
 > If you do not pay the royalty on your mineral production, your lease will be terminated...
 
@@ -40,6 +40,6 @@ In a very few instances, passive voice may be appropriate. For example, when one
 - Garner, Bryan A., _Legal Writing in Plain English_, 2001, University of Chicago Press, Chicago, pp. 24-26.
 - Garner, Bryan A., _Garner's Modern American Usage_, 2003. Oxford University Press, Oxford and New York, pp. 892-893.
 - Murawski, Thomas A., _Writing Readable Regulations_, 1999, Carolina Academic Press Durham, NC, pp. 73-75.
-- Office of the Federal Register, _Document Drafting Handbook_, 1998, p. MMR-5. [Document Drafting Handbook](http://www.archives.gov/federal-register/write/handbook/ddh.pdf).
+- Office of the Federal Register, [Document Drafting Handbook](http://www.archives.gov/federal-register/write/handbook/ddh.pdf), 1998, p. MMR-5.
 - Redish, Janice C., _How to Write Regulations and Other Legal Documents in Clear English_, 1991, American Institutes for Research, Washington, DC, p. 26.
 - Securities and Exchange Commission, _Plain English Handbook_, 1998, Washington, DC, pp. 19–20.

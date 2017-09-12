@@ -2,10 +2,10 @@ guidelines:
   - text: Write for your audience
     href: /guidelines/audience/
     subnav:
-      - text: Identify your users and their top tasks
-        href: '/guidelines/web/identify-your-users-and-their-top-tasks/'
-      - text: Identify and write for your audience
-        href: '/guidelines/audience/identify-and-write-for-your-audience/'
+      - text: Do your research
+        href: '/guidelines/audience/do-your-research/'
+      - text: Address the user
+        href: '/guidelines/audience/address-the-user/'
       - text: Address separate audiences separately
         href: '/guidelines/audience/address-separate-audiences-separately/'
   - text: Organize the information
