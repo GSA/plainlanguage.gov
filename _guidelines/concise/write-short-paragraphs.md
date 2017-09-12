@@ -3,7 +3,7 @@ title: Write short paragraphs
 sidenav: guidelines
 ---
 
-Long paragraphs discourage users from even trying to understand your material. Short paragraphs are easier to read and understand.
+Write short paragraphs and [cover one topic per paragraph]({{ site.baseurl }}{% link _guidelines/concise/cover-one-topic-in-each-paragraph.md %}). Long paragraphs discourage users from even trying to understand your material. Short paragraphs are easier to read and understand.
 
 Writing experts recommend paragraphs of no more than 150 words in three to eight sentences. Paragraphs should never be longer than 250 words. Vary the lengths of your paragraphs to make them more interesting. As with sentence length, if all paragraphs are the same size your writing will be choppy.
 
@@ -11,8 +11,7 @@ There is nothing wrong with an occasional one-sentence paragraph.
 
 Using short paragraphs is an ideal way to open up your writing and create white space. In turn, this makes your writing more inviting and easier to read.
 
-Along with breaking material up into shorter paragraphs, consider adding headings for each paragraph as we did in the following example. For more details, see [Cover one topic in each paragraph]({{ site.baseurl }}{% link _guidelines/concise/cover-one-topic-in-each-paragraph.md %}) and [Add useful headings]({{ site.baseurl }}{% link _guidelines/organize/add-useful-headings.md %}).
-
+Along with breaking material up into shorter paragraphs, consider [adding headings for each paragraph]({{ site.baseurl }}{% link _guidelines/organize/add-useful-headings.md %}) as we did in the following example.
 ----
 
 ## Example

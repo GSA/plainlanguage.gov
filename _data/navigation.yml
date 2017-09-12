@@ -11,8 +11,8 @@ guidelines:
   - text: Organize the information
     href: '/guidelines/organize/'
     subnav:
-      - text: Organize to meet your readers’ needs
-        href: '/guidelines/organize/organize-to-meet-your-readers-needs/'
+      - text: Make it easy to follow
+        href: '/guidelines/organize/make-it-easy-to-follow/'
       - text: Have a topic sentence
         href: '/guidelines/organize/have-a-topic-sentence/'
       - text: Use transition words
@@ -64,9 +64,6 @@ guidelines:
         href: '/guidelines/verbs/use-must-to-indicate-requirements/'
       - text: Don’t use slashes
         href: '/guidelines/other/dont-use-slashes/'
-  - text: Write your document
-    href: /guidelines/write/
-    subnav:
       - text: Sentences
         href: '/guidelines/write/sentences/'
         subnav:
