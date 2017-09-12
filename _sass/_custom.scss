@@ -16,6 +16,10 @@ h6 {
 }
 
 @media screen and (min-width: 951px) {
+  .usa-nav {
+      padding-bottom: 5rem;
+  }
+
   .usa-nav-primary > li > a {
     font-weight: 400;
   }
@@ -44,11 +48,23 @@ h6 {
 .usa-footer {
   font-size: 1.4rem;
 
+  .usa-footer-secondary_section {
+    background-color: $color-gray-lightest;
+  }
+
   h3 {
     font-size: 1.6rem;
   }
 
   p, li {
     line-height: 1.7;
+  }
+
+  a img {
+    height: 1.5rem;
+    margin-right: 0.4rem;
+    position: relative;
+    top: 2px;
+    vertical-align: baseline;
   }
 }
