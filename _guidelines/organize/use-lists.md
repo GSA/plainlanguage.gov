@@ -87,8 +87,6 @@ Make sure each of the bullets in a list can make a complete sentence if combined
 - Recommendation letter
 - Mail it express mail
 
----
-
 ## Sources
 
 - Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P., _Clear & Effective Legal Writing_, 4th edition, 2007, Aspen Publishers, New York, NY, pp. 181-182.

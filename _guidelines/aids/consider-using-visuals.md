@@ -1,5 +1,5 @@
 ---
-title: Consider using illustrations
+title: Consider using visuals
 sidenav: guidelines
 ---
 
