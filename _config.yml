@@ -15,11 +15,18 @@ exclude:
 - Gemfile
 - Gemfile.lock
 - LICENSE.md
+- node_modules
+- package.json
 - README.md
 - vendor
 
 styles:
   - /assets/css/main.css
+
+sass:
+    load_paths:
+        - _sass
+        - node_modules
 
 defaults:
   - scope:

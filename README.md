@@ -16,7 +16,12 @@ This site uses [Jekyll](https://jekyllrb.com), a Ruby-based static site generato
 
 The application is optimized for deployment on 18F's [Federalist](https://federalist.18f.gov) static site hosting service.
 
-Install dependencies with Bundler:
+Install dependencies with NPM and Bundler:
+
+
+```
+npm install
+```
 
 ```
 bundle install

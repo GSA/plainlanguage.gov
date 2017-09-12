@@ -1,0 +1,30 @@
+// Basscss
+
+$border-width: 1px;
+
+$breakpoint-sm: '(min-width: #{$small-screen})';
+$breakpoint-md: '(min-width: #{$medium-screen})';
+$breakpoint-lg: '(min-width: #{$large-screen})';
+
+$breakpoint-xs: '(max-width: #{$small-screen})';
+$breakpoint-sm-md: '(min-width: #{$small-screen}) and (max-width: #{$medium-screen})';
+$breakpoint-md-lg: '(min-width: #{$medium-screen}) and (max-width: #{$large-screen})';
+
+$bold-font-weight: $font-bold;
+
+$h1: $h1-font-size;
+$h2: $h2-font-size;
+$h3: $h3-font-size;
+$h4: $h4-font-size;
+$h5: $h5-font-size;
+$h6: $h6-font-size;
+
+$space-1: .5rem;
+$space-2: 1rem;
+$space-3: 2rem;
+$space-4: 4rem;
+
+$width-1: 24rem !default;
+$width-2: 32rem !default;
+$width-3: 48rem !default;
+$width-4: 64rem !default;
