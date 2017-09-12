@@ -35,30 +35,28 @@ guidelines:
             href: '/guidelines/words/verbs/avoid-hidden-verbs/'
           - text: Use “must” to indicate requirements
             href: '/guidelines/words/verbs/use-must-to-indicate-requirements/'
-      - text: Nouns and pronouns
+      - text: Nouns
         href: '/guidelines/words/nouns/'
         subnav:
           - text: Avoid noun strings
             href: '/guidelines/words/nouns/avoid-noun-strings/'
-          - text: Use pronouns to speak directly to your reader
-            href: '/guidelines/words/nouns/use-pronouns-to-speak-directly-to-your-reader/'
           - text: Minimize abbreviations
             href: '/guidelines/words/nouns/minimize-abbreviations/'
       - text: Other word issues
         href: '/guidelines/words/other/'
         subnav:
+          - text: Avoid legal, foreign, and technical jargon
+            href: '/guidelines/words/other/avoid-legal-foreign-and-technical-jargon/'
           - text: Use short, simple words
             href: '/guidelines/words/other/use-short-simple-words/'
           - text: Omit unnecessary words
             href: '/guidelines/words/other/omit-unnecessary-words/'
-          - text: Dealing with definitions
-            href: '/guidelines/words/other/dealing-with-definitions/'
           - text: Use the same term consistently for a specific thought or object
             href: '/guidelines/words/other/use-the-same-term-consistently-for-a-specific-thought-or-object/'
-          - text: Avoid legal, foreign, and technical jargon
-            href: '/guidelines/words/other/avoid-legal-foreign-and-technical-jargon/'
           - text: Don’t use slashes
             href: '/guidelines/words/other/dont-use-slashes/'
+          - text: Dealing with definitions
+            href: '/guidelines/words/other/dealing-with-definitions/'
   - text: Write your document
     href: /guidelines/write/
     subnav:
