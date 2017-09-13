@@ -12,7 +12,6 @@ There is nothing wrong with an occasional one-sentence paragraph.
 Using short paragraphs is an ideal way to open up your writing and create white space. In turn, this makes your writing more inviting and easier to read.
 
 Along with breaking material up into shorter paragraphs, consider [adding headings for each paragraph]({{ site.baseurl }}{% link _guidelines/organize/add-useful-headings.md %}) as we did in the following example.
-----
 
 ## Example
 
@@ -39,8 +38,6 @@ Americans should also be aware of the potential health risk posed by counterfeit
 #### Additional precautions
 
 In addition, the Department of State has asked its embassies and consulates to consider preparedness measures that consider that travel into or out of a country may not be possible, safe or medically advisable. Guidance on how private citizens can prepare for a "stay in place" response, including stockpiling food, water, and medical supplies, is available on the CDC and pandemicflu.gov websites.
-
----
 
 ## Sources
 

@@ -3,7 +3,7 @@ title: 'Keep the subject, verb, and object close together'
 sidenav: guidelines
 ---
 
-The natural word order of an English sentence is subject-verb-object. This is how you first learned to write sentences, and it's still the best. When you put modifiers, phrases, or clauses between two or all three of these essential parts, you make it harder for the user to understand you.
+The natural word order of an English sentence is subject-verb-object. This is how you first learned to write sentences, and it's still the best way. When you put modifiers, phrases, or clauses between two or all three of these essential parts, you make it harder for the user to understand you.
 
 Consider this long, convoluted sentence:
 
@@ -21,11 +21,10 @@ Consider this complex regulatory provision:
 
 While still complex, the table is a significant improvement:
 
-| We must receive your completed application by the following dates:
-| ------------------------------------------------------------------
-|
-
-**If you submit your form ...** | **We must receive it by ...** Electronically | the 25th of the second month following the month you are reporting Other than electronically | the 15th of the second month following the month you are reporting
+If you submit your form: | We must receive it by:
+--- | ---
+By email | the 25th of the second month following the month you are reporting
+By mail or fax | the 15th of the second month following the month you are reporting
 
 For more information on tables see [Use tables to make complex material easier to understand]({{ site.baseurl }}{% link _guidelines/design/use-tables-to-make-complex-material-easier-to-understand.md %}).
 

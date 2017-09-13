@@ -13,12 +13,18 @@ Once the candidate's goals are established, one or more potential employers are 
 
 Complexity is the greatest enemy of clear communication. You may need to be especially inventive to translate complicated provisions into more manageable language. In the following example, we have made an "if" clause into a separate sentence. By beginning the first sentence with "suppose" (that is, "if") and the second sentence with "in this case" (that is, "then") we have preserved the relationship between the two.
 
-Don't say | Say
----- | ----
-If you take less than your entitled share of production for any month, but you pay royalties on the full volume of your entitled share in accordance with the provisions of this section, you will owe no additional royalty for that lease for prior periods when you later take more than your entitled share to balance your account. This also applies when the other participants pay you money to balance your account. | Suppose that one month you pay royalties on your full share of production but take less than your entitled share. In this case, you may balance your account in one of the following ways without having to pay more royalty. You may either:
+## Example
 
-1. Take more than your entitled share in the future; or
-2. Accept payment from other participants.
+### Don't say
+
+If you take less than your entitled share of production for any month, but you pay royalties on the full volume of your entitled share in accordance with the provisions of this section, you will owe no additional royalty for that lease for prior periods when you later take more than your entitled share to balance your account. This also applies when the other participants pay you money to balance your account.
+
+### Say
+
+Suppose that one month you pay royalties on your full share of production but take less than your entitled share. In this case, you may balance your account in one of the following ways without having to pay more royalty. You may either:
+
+- Take more than your entitled share in the future; or
+- Accept payment from other participants
 
 ## Sources
 

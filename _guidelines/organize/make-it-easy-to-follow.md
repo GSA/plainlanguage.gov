@@ -32,8 +32,6 @@ Crafting documents with four, five, or even more levels makes it difficult for y
 
 Dividing your document into more pieces at the top levels should allow you to limit subdivisions below the major level to two. The Office of the Federal Register recommends that regulations contain no more than three levels, noting that more than three levels make regulations hard to read and use.
 
----
-
 ## Examples
 
 ### Chronological order
@@ -62,8 +60,6 @@ Dividing your document into more pieces at the top levels should allow you to li
 
 791.30 Under what conditions may I use my grant award?<br>
 791.31 What are my responsibilities for serving students and teachers in private schools?
-
----
 
 ### Chronological order with general information first
 
@@ -96,8 +92,6 @@ Dividing your document into more pieces at the top levels should allow you to li
 725.403 How long do I have to file an appeal?<br>
 725.404 What types of evidence must I submit?<br>
 725.405 What happens if I won't get a medical examination?
-
----
 
 ## Sources
 
