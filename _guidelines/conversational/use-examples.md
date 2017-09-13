@@ -3,7 +3,7 @@ title: Use examples
 sidenav: guidelines
 ---
 
-Examples help you clarify complex concepts, even in regulations. They are an ideal way to help your readers. In spoken English, when you ask for clarification of something, people often respond by giving you an example. Good examples can substitute for long explanations. The more complex the concept you are writing about, the more you should consider using an example. By giving your audience an example that's relevant to their situation, you help them relate to your document.
+Examples help you clarify complex concepts, even in regulations. They are an ideal way to help your readers. In spoken English, when you ask for clarification of something, people often respond by giving you an example. Good examples can substitute for long explanations. The more complex the concept you are writing about, the more you should consider using an example. By giving your audience an example that's relevant to their situation, you help them relate to your writing.
 
 Avoid using the Latin abbreviations for "for example" (e.g.) and "that is" (i.e.). Few people know what they mean, and they often confuse the two. Write out the lead-in to your example: "for example" or "such as."
 

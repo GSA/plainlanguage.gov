@@ -5,7 +5,7 @@ sidenav: guidelines
 
 Tables help your audience see relationships that are often times hidden in dense text. And for most readers, it's not necessary to understand all possibilities and conditions, only those that apply to the reader's situation.
 
-Probably the most useful type of table is the "if-then table." An "if-then" table organizes the material by a situation (if something is the case) and the consequence (then something else happens). The rewritten regulation in the "if-then" table below is far clearer than the dense text it replaces. It also makes the document appear less dense and easier on the eye.
+Probably the most useful type of table is the "if-then table." An "if-then" table organizes the material by a situation (if something is the case) and the consequence (then something else happens). The rewritten regulation in the "if-then" table below is far clearer than the dense text it replaces. It also makes the information seem less dense and easier on the eye.
 
 | Dense text
 | ------------------------------------------

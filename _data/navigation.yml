@@ -83,25 +83,17 @@ guidelines:
         href: '/guidelines/design/consider-using-visuals/'
       - text: Highlight important concepts
         href: '/guidelines/design/highlight-important-concepts/'
+      - text: Minimize cross-references
+        href: '/guidelines/design/minimize-cross-references/'
   - text: Follow web standards
     href: /guidelines/web/
     subnav:
-      - text: How do people use the web?
-        href: '/guidelines/web/how-do-people-use-the-web/'
-      - text: Write for your users
-        href: '/guidelines/web/write-for-your-users/'
-      - text: Write web content
-        href: '/guidelines/web/write-web-content/'
+      - text: Write effective links
+        href: '/guidelines/web/write-effective-links/'
       - text: Repurpose print material for the web
         href: '/guidelines/web/repurpose-print-material/'
       - text: Avoid PDF overload
         href: '/guidelines/web/avoid-pdf-overload/'
-      - text: Use plain-language techniques on the web
-        href: '/guidelines/web/use-plain-language-techniques-on-the-web/'
-      - text: Write effective links
-        href: '/guidelines/web/write-effective-links/'
-      - text: Minimize cross-references
-        href: '/guidelines/aids/minimize-cross-references/'
   - text: Test your assumptions
     href: /guidelines/test/
     subnav:

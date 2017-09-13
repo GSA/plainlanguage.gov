@@ -9,9 +9,7 @@ Print writing is different from web writing. Print is very linear and narrative 
 
 [Jacob Nielson](https://www.nngroup.com/articles/) explains that "Web users want actionable content; they don't want to fritter away their time on (otherwise enjoyable) stories that are tangential to their current goals."
 
-Because the web is "action-oriented," you need to repurpose your print document.
-
-Pick out necessary information in your print document that will help your web users and create a new web page.
+Because the web is "action-oriented," you need to repurpose your print document. Pick out important information that will help your users and create a new web page.
 
 - Keep the most important and clear message at the top of the web page
 - Chunk your content into logical sections

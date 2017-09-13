@@ -3,7 +3,7 @@ title: Usability testing
 sidenav: guidelines
 ---
 
-One-on-one usability testing sessions work best when the participant uses the document to find and understand information.
+One-on-one usability testing sessions work best when the participant uses your website or document to find and understand information.
 
 Usability testing is the best technique when people have to find information before understanding it.
 
