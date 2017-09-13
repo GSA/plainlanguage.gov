@@ -27,7 +27,7 @@ While still complex, the table is a significant improvement:
 
 **If you submit your form ...** | **We must receive it by ...** Electronically | the 25th of the second month following the month you are reporting Other than electronically | the 15th of the second month following the month you are reporting
 
-For more information on tables see [Use tables to make complex material easier to understand]({{ site.baseurl }}{% link _guidelines/aids/use-tables-to-make-complex-material-easier-to-understand.md %}).
+For more information on tables see [Use tables to make complex material easier to understand]({{ site.baseurl }}{% link _guidelines/design/use-tables-to-make-complex-material-easier-to-understand.md %}).
 
 ## Sources
 

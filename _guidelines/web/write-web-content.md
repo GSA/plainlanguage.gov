@@ -3,7 +3,7 @@ title: Write web content
 sidenav: guidelines
 ---
 
-After identifying your users and their top tasks, it is time to actually write web content. If you think it would be easy to just duplicate information you've written for print documents, you are wrong. While the information is helpful, it's not in the right format for the web. Remember, people scan web pages and only read about 18 percent of what's on the page! This means you need to cut whatever you have in print form by 50 percent!
+After identifying your users and their top tasks, it is time to actually write for the web. If you think it would be easy to just duplicate information you've written for print documents, you are wrong. While the information is helpful, it's not in the right format for the web. Remember, people scan web pages and only read about 18 percent of what's on the page! This means you need to cut whatever you have in print form by 50 percent!
 
 ## Good web content uses
 

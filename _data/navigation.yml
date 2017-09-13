@@ -30,16 +30,16 @@ guidelines:
         href: '/guidelines/words/avoid-hidden-verbs/'
       - text: Avoid noun strings
         href: '/guidelines/words/avoid-noun-strings/'
-      - text: Avoid legal, foreign, and technical jargon
-        href: '/guidelines/words/avoid-legal-foreign-and-technical-jargon/'
-      - text: Avoid meaningless formal language
-        href: '/guidelines/words/avoid-meaningless-formal-language/'
+      - text: Avoid jargon
+        href: '/guidelines/words/avoid-jargon/'
       - text: Minimize abbreviations
         href: '/guidelines/words/minimize-abbreviations/'
       - text: Minimize definitions
-        href: '/guidelines/words/other/minimize-definitions/'
+        href: '/guidelines/words/minimize-definitions/'
       - text: Use the same terms consistently
         href: '/guidelines/words/use-the-same-terms-consistently/'
+      - text: Place words carefully
+        href: '/guidelines/words/place-words-carefully/'
   - text: Be concise
     href: '/guidelines/concise/'
     subnav:
@@ -47,8 +47,6 @@ guidelines:
         href: '/guidelines/concise/use-short-simple-words/'
       - text: Omit unnecessary words
         href: '/guidelines/concise/omit-unnecessary-words/'
-      - text: Place words carefully
-        href: '/guidelines/organize/place-words-carefully/'
       - text: Write short sentences
         href: '/guidelines/concise/write-short-sentences/'
       - text: Keep the subject, verb, and object close together
@@ -70,23 +68,21 @@ guidelines:
         href: '/guidelines/verbs/use-the-present-tense/'
       - text: Use contractions
         href: '/guidelines/verbs/use-contractions/'
+      - text: Use examples
+        href: '/guidelines/design/use-examples/'
       - text: Use “must” to indicate requirements
         href: '/guidelines/verbs/use-must-to-indicate-requirements/'
       - text: Don’t use slashes
-        href: '/guidelines/other/dont-use-slashes/'
-  - text: Include examples and visuals
-    href: '/guidelines/aids/'
+        href: '/guidelines/conversational/dont-use-slashes/'
+  - text: Design for reading
+    href: '/guidelines/design/'
     subnav:
-      - text: Use examples
-        href: '/guidelines/aids/use-examples/'
       - text: Use tables to make complex material easier to understand
-        href: '/guidelines/use-tables-to-make-complex-material-easier-to-understand/'
+        href: '/guidelines/design/use-tables-to-make-complex-material-easier-to-understand/'
       - text: Consider using visuals
-        href: '/guidelines/aids/consider-using-visuals/'
+        href: '/guidelines/design/consider-using-visuals/'
       - text: Highlight important concepts
-        href: '/guidelines/aids/highlight-important-concepts/'
-      - text: Design for reading
-        href: '/guidelines/aids/design-for-reading/'
+        href: '/guidelines/design/highlight-important-concepts/'
   - text: Follow web standards
     href: /guidelines/web/
     subnav:
@@ -97,7 +93,7 @@ guidelines:
       - text: Write web content
         href: '/guidelines/web/write-web-content/'
       - text: Repurpose print material for the web
-        href: '/guidelines/web/repurpose-print-material-for-the-web/'
+        href: '/guidelines/web/repurpose-print-material/'
       - text: Avoid PDF overload
         href: '/guidelines/web/avoid-pdf-overload/'
       - text: Use plain-language techniques on the web
@@ -110,15 +106,8 @@ guidelines:
     href: /guidelines/test/
     subnav:
       - text: Paraphrase testing
-        href: '/guidelines/test-your-assumptions/paraphrase-testing/'
+        href: '/guidelines/test/paraphrase-testing/'
       - text: Usability testing
-        href: '/guidelines/test-your-assumptions/usability-testing/'
+        href: '/guidelines/test/usability-testing/'
       - text: Controlled comparative studies
-        href: '/guidelines/test-your-assumptions/controlled-comparative-studies/'
-      - text: Testing successes
-        href: '/guidelines/test-your-assumptions/successes/'
-        subnav:
-          - text: Paraphrase testing from the Veterans Benefits Administration
-            href: '/guidelines/test/successes/paraphrase-testing-from-the-veterans-benefits-administration/'
-          - text: Usability testing from the National Cancer Institute
-            href: '/guidelines/test/successes/usability-testing-from-the-national-cancer-institute/'
+        href: '/guidelines/test/controlled-comparative-studies/'

@@ -48,5 +48,5 @@ If-then tables are powerful tools for simplifying complicated material. And tabl
 
 - Kimble, Joseph, _Lifting the Fog of Legalese_, 2006, Carolina Academic Press, Durham, NC, p. 70(B).
 - Murawski, Thomas A., _Writing Readable Regulations_, 1999, Carolina Academic Press Durham, NC, pp. 39-44.
-- Office of the Federal Register, _Document Drafting Handbook_, 1998, MMR 4\. [www.archives.gov/federal-register/write/handbook/ddh.pdf](http://www.archives.gov/federal-register/write/handbook/ddh.pdf).
+- Office of the Federal Register, [Document Drafting Handbook](http://www.archives.gov/federal-register/write/handbook/ddh.pdf), 1998, MMR 4.
 - Securities and Exchange Commission, _Plain English Handbook_, 1998, Washington, DC, pp. 49-52.

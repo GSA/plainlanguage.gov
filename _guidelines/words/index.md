@@ -1,5 +1,5 @@
 ---
-title: Words
+title: Choose your words carefully
 sidenav: guidelines
 permalink: /guidelines/words/
 ---

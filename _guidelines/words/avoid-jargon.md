@@ -1,5 +1,5 @@
 ---
-title: 'Avoid legal, foreign, and technical jargon'
+title: 'Avoid jargon'
 sidenav: guidelines
 ---
 
@@ -26,14 +26,15 @@ When you have no way to express an idea except to use technical language, make s
 
 Legal language is a major source of annoying jargon. Readers can do without archaic jargon such as "hereafter," "heretofore," and "therewith."
 
-Professor Joseph Kimble (2006), a noted scholar on legal writing, warns that we should avoid those words and formalisms that give legal writing its musty smell. He includes the following words in his list of examples:
+Professor Joseph Kimble (2006), a noted scholar on legal writing, warns that we should avoid words and formalisms that give legal writing its musty smell. He includes the following words in his list of examples:
 
 - above-mentioned
 - aforementioned
 - foregoing
 - henceforth
-- hereafte
+- hereafter
 - hereby
+- heretofore
 - herewith
 - thereafter
 - thereof
@@ -45,8 +46,23 @@ Professor Joseph Kimble (2006), a noted scholar on legal writing, warns that we 
 
 "Shall" is also losing its popularity in legal circles. Obviously, it's especially important in regulations to use words of authority clearly, and many legal writing experts recommend avoiding the archaic and ambiguous "shall" in favor of another word, depending on your meaning. Read more about "shall" in [Use "must" to convey requirements]({{ site.baseurl }}{% link _guidelines/conversational/use-must-to-indicate-requirements.md %}).
 
+## Business jargon
+
+Here is a brief list of meaningless filler phrases:
+
+- Thinking outside the box
+- Value added
+- Best practice
+- For all intents and purposes
+- Touch base
+- Integrating quality solutions
+- Promoting an informed and inclusive multicultural society
+- Strategically engaging schools, community organizations, and so on...
+
 ## Sources
 
 - Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P., _Clear & Effective Legal Writing_, 4th edition, 2007, Aspen Publishers, New York, NY, pp. 188-191.
 - Garner, Bryan A., _Garner's Modern American Usage_, 2003, Oxford University Press, Oxford and New York, pp. 472-473.
 - Kimble, Joseph, _Lifting the Fog of Legalese_, 2006, Carolina Academic Press, Durham, NC, pp.173-174.
+- [Writing Better: Tips for Avoiding Cliches, Jargon and Other Filler](http://www.contentini.com/writing-better-tips/)
+- Redish, Janice C., _Writing Web Content that Works_, 2007, Morgan Kaufmann Publishers, San Francisco

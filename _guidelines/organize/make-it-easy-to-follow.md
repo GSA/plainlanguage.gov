@@ -103,6 +103,6 @@ Dividing your document into more pieces at the top levels should allow you to li
 
 - Kimble, Joseph, _Lifting the Fog of Legalese_, 2006, Carolina Academic Press, Durham, NC, p. 70 (C).
 - Murawski, Thomas A., _Writing Readable Regulations_, 1999, Carolina Academic Press Durham, NC, pp. 3-5.
-- Office of the Federal Register, _Document Drafting Handbook_, 1998, §1-23, [www.archives.gov/federal-register/write/handbook/ddh.pdf](http://www.archives.gov/federal-register/write/handbook/ddh.pdf).
+- Office of the Federal Register, [Document Drafting Handbook](http://www.archives.gov/federal-register/write/handbook/ddh.pdf), 1998, §1-23.
 - Redish, Janice C., _How to Write Regulations and Other Legal Documents in Clear English_, 1991, American Institutes for Research, Washington, DC, pp. 12-21.
 - Securities and Exchange Commission, _Plain English Handbook_, 1998, Washington, DC, p. 15.
