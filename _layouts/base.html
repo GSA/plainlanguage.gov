@@ -1,0 +1,22 @@
+---
+---
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en-US' }}">
+  <head>
+    {% include meta.html %}
+    {% include styles.html %}
+  </head>
+  <body class="lg-flex flex-column {{ layout.class }} {{ page.class }}" style="min-height:100vh">
+    {% include skipnav.html %}
+    {% include header.html %}
+
+    <div class="flex-auto">
+      <main id="main-content"{% for _attr in layout.main %} {{ _attr[0] }}="{{ _attr[1] }}"{% endfor %}>
+      {{ content }}
+      </main>
+    </div>
+
+    {% include footer.html %}
+    {% include scripts.html %}
+  </body>
+</html>

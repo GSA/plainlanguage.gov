@@ -6,23 +6,31 @@
   </div>
   {% endunless %}
 
-  <div class="usa-footer-secondary_section">
+  <div class="usa-footer-secondary_section py4">
     <div class="usa-grid">
-      <div class="usa-width-two-thirds" style="padding-right:10%">
-        <h3>About this site</h3>
+      <h2>About this site</h2>
+      <div class="usa-width-one-half">
         <p>
           The <a href="{{ "/about/" | relative_url }}">Plain Language Action and Information Network</a> develops and maintains the content of this site with support from the <a href="https://gsa.gov">General Services Administration</a>.
         </p>
         <p>
-          Help us improve this site on <a href="https://github.com/GSA/plainlanguage.gov">GitHub</a>.
+          Help us improve this site on <a href="https://github.com/GSA/plainlanguage.gov"><img src="{{ "/assets/img/github.svg" | relative_url }}" alt="">GitHub</a>.
         </p>
       </div>
-      <div class="usa-width-one-third">
+      <div class="usa-width-one-fourth">
         <h3>Policies and information</h3>
         <ul class="usa-unstyled-list">
           <li><a href="{{ "/privacy/" | relative_url }}">Privacy policy</a></li>
           <li><a href="https://usa.gov">USA.gov</a></li>
           <li><a href="https://usability.gov">usability.gov</a></li>
+        </ul>
+      </div>
+      <div class="usa-width-one-fourth">
+        <h3>Contact us</h3>
+        <ul class="usa-unstyled-list">
+          <li><a href="mailto:plain@gsa.gov"><img src="{{ "/assets/img/envelope-o.svg" | relative_url }}" alt="">plain@gsa.gov</a></li>
+          <li><a href="https://www.facebook.com/plainlanguagegov-174397429237337/"><img src="{{ "/assets/img/facebook-f.svg" | relative_url }}" alt="">Facebook</a></li>
+          <li><a href="https://twitter.com/govplainlang"><img src="{{ "/assets/img/twitter.svg" | relative_url }}" alt="">Twitter</a></li>
         </ul>
       </div>
     </div>
