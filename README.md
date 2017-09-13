@@ -1,23 +1,22 @@
-## plainlanguage.gov
+# plainlanguage.gov
 
-**Work in progress!!!**
+This is the public repo for [plainlanguage.gov](http://www.plainlanguage.gov), which is an online resource to help federal employees understand and comply with the Plain Writing Act of 2010. It represents a joint effort by the Plain Language Action and Information Network (Plain) and the General Services Administration.
 
-Website for plainlanguage.gov
+- This site is a work in progress.
 
-### Built using
+- [Preview link](https://federalist-proxy.app.cloud.gov/site/gsa/plainlanguage.gov/)
 
-* The [U.S. Web Design Standards](https://standards.usa.gov), a set of reusable, high quality components for modern websites. Maintains consistency with the [many other U.S. government websites using the Standards](https://github.com/18F/web-design-standards/blob/develop/WHO_IS_USING_USWDS.md#website-and-applications-that-use-the-standards).
+## About the site
 
-* The U.S. Web Design Standards [Jekyll theme](https://github.com/18F/uswds-jekyll). A few of the components have been overwritten or customized, but the theme is in use.
+* This site uses [Jekyll](https://jekyllrb.com), a Ruby-based static site generator. For more information about using Jekyll, refer to the [Jekyll documentation](http://jekyllrb.com/docs/home/).
 
-### Developing locally
+* The site is built with the [U.S. Web Design Standards](https://standards.usa.gov), a set of reusable, high quality components for modern websites. We’re using the Web Design Standards [Jekyll theme](https://github.com/18F/uswds-jekyll) with some customized styles.
 
-This site uses [Jekyll](https://jekyllrb.com), a Ruby-based static site generator.
+* The site is optimized for deployment on 18F's [Federalist](https://federalist.18f.gov) web publishing service.
 
-The application is optimized for deployment on 18F's [Federalist](https://federalist.18f.gov) static site hosting service.
+## Running the site locally
 
-Install dependencies with NPM and Bundler:
-
+After cloning the repo, install Jekyll and any necessary dependencies using:
 
 ```
 npm install
@@ -27,7 +26,7 @@ npm install
 bundle install
 ```
 
-And run the site with Jekyll:
+To run the site locally, from the project folder, run:
 
 ```
 bundle exec jekyll serve
@@ -35,7 +34,7 @@ bundle exec jekyll serve
 
 If all goes well, visit the site at `http://localhost:4000`.
 
-### Public domain
+## Public domain
 
 This project is in the worldwide [public domain](LICENSE.md). As stated in [CONTRIBUTING](CONTRIBUTING.md):
 
