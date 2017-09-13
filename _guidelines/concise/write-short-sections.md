@@ -7,8 +7,6 @@ Short sections break up material so it appears easier to comprehend. Long, dense
 
 Short sections give you the opportunity to [add useful headings]({{ site.baseurl }}{% link _guidelines/organize/add-useful-headings.md %}), which help the reader skim and scan the page. Long sections are impossible to summarize meaningfully in a heading. When you break up different concepts into short sections, each heading can give the reader a clear picture of what's in that section.
 
----
-
 ## Example
 
 ### Long, dense paragraphs
@@ -40,8 +38,6 @@ Yes, selections must share a border. The total area you select must be compact e
 #### § 2653.34 How small a parcel can I select?
 
 Select lands in quarter sections where they are available unless there is not enough left in your group's entitlement to allow this. Your election must include all available lands in areas that are smaller than quarter sections. Conform your selection as much as possible to the United States land survey system.
-
----
 
 ## Sources
 

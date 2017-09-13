@@ -20,8 +20,6 @@ Instead of using "shall," use:
 
 The following example demonstrates how much clearer language can be if you follow these suggestions.
 
----
-
 ## Example
 
 ### Section 5511.1 Free Use of Timber on Oil and Gas Leases
@@ -41,8 +39,6 @@ The following example demonstrates how much clearer language can be if you follo
 - We will notify you by registered mail if we reject your application. You must file an appeal of that decision within 30 days.
 
 - You must notify any settler, by registered mail, that you have applied to use timber from your lease. Include in your notice the amount and the kind of timber you intend to use as fuel.
-
----
 
 ## Sources
 

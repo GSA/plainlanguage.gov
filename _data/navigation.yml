@@ -63,15 +63,15 @@ guidelines:
     href: '/guidelines/conversational/'
     subnav:
       - text: Use active voice
-        href: '/guidelines/verbs/use-active-voice/'
+        href: '/guidelines/conversational/use-active-voice/'
       - text: Use the present tense
-        href: '/guidelines/verbs/use-the-present-tense/'
+        href: '/guidelines/conversational/use-the-present-tense/'
       - text: Use contractions
-        href: '/guidelines/verbs/use-contractions/'
+        href: '/guidelines/conversational/use-contractions/'
       - text: Use examples
-        href: '/guidelines/design/use-examples/'
+        href: '/guidelines/conversational/use-examples/'
       - text: Use “must” to indicate requirements
-        href: '/guidelines/verbs/use-must-to-indicate-requirements/'
+        href: '/guidelines/conversational/use-must-to-indicate-requirements/'
       - text: Don’t use slashes
         href: '/guidelines/conversational/dont-use-slashes/'
   - text: Design for reading

@@ -18,11 +18,11 @@ Before you do a controlled study, you should know what results you will consider
 
 Having answers to these questions will help you determine which version of your document or web page is successful.
 
-## Websites
+## Testing websites
 
 Set your web server to send each variation on a specific schedule (every other call to the page, or one today and the other tomorrow, or one for a certain longer period and the other for the next equal period). Just be sure you can track whatever measure you want by which version the web visitor saw.
 
-## Paper documents
+## Testing print documents
 
 Send a small test group of people the new version of your document. Let's say you're sending the new version to 700 people. You should also send 700 people (your control group) the old document. Track the responses to all 1400 documents and compare the results.
 
