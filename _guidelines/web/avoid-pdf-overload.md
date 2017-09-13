@@ -3,22 +3,22 @@ title: Avoid PDF overload
 sidenav: guidelines
 ---
 
-Posting PDF versions (PDFs) of original documents on your site would seem to be an obvious alternative to re-writing your content in web-format. Unfortunately, this would work against your goal of retaining users. Posting too many PDF documents on your website can work against you. The Nielson group has done multiple studies on PDFs and has consistently found that users hate them and try to avoid reading PDFs at all costs.
+Posting PDF versions (PDFs) of original documents on your site would seem to be an obvious alternative to rewriting your content in web format. Unfortunately, posting too many PDFs can work against your goal of retaining users. The Nielsen Norman Group has done [multiple studies on PDFs](https://www.nngroup.com/articles/pdf-unfit-for-human-consumption/) and has consistently found that users hate them and avoid reading them at all costs.
 
 PDF files:
 
-- Are slow to open and can sometimes crash a computer if they are too large
-- Are difficult for some screen users to read
-- Can make a user lose the website if they open in the same window
+- Are slow to open and can sometimes crash the browser
+- Are not mobile-friendly
+- Are difficult for some users to read
 
-If you need to post a PDF use a gateway page – a web page that includes information about the PDF, including.
+If you need to post a PDF, include information about the file on a description page instead of simply linking to the file. Include:
 
-- What it's about
+- What the PDF is about
 - How large the file is
 - Who might find the information helpful
 
-Remember to follow 508-compliance guidelines when using PDFs. See [www.section508.gov](http://www.section508.gov) for more information on 508-compliance.
+## Resources
 
-## Sources
+- Remember to follow Section 508 guidelines when using PDFs. See [section508.gov](http://www.section508.gov) for more information about web accessibility.
 
-- [www.useit.com/alertbox/20030714.html](http://www.useit.com/alertbox/20030714.html)
+- The Minnesota IT Services site includes a helpful guide to making [accessible electronic documents](https://mn.gov/mnit/programs/accessibility/electronic-documents.jsp), including PDFs, Word documents, presentations, and spreadsheets.
