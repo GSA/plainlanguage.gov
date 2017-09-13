@@ -15,7 +15,7 @@ h6 {
     font-weight: 400;
 }
 
-@media screen and (min-width: 951px) {
+@media #{$breakpoint-lg} {
   .usa-nav {
       padding-bottom: 5rem;
   }
@@ -48,10 +48,6 @@ h6 {
 .usa-footer {
   font-size: 1.4rem;
 
-  .usa-footer-secondary_section {
-    background-color: $color-gray-lightest;
-  }
-
   h3 {
     font-size: 1.6rem;
   }
@@ -66,5 +62,29 @@ h6 {
     position: relative;
     top: 2px;
     vertical-align: baseline;
+  }
+
+  .usa-button {
+    font-weight: 700;
+  }
+
+  .usa-footer-primary-section {
+    background-color: $color-gray-lightest;
+  }
+
+  .usa-footer-secondary_section {
+    background-color: $color-gray-lighter;
+  }
+}
+
+@media #{$breakpoint-md-lg} {
+  .usa-footer-secondary_section .usa-grid > div {
+    float: none;
+    margin: 0;
+    width: 100%;
+
+    h3 {
+      margin-top: $space-1;
+    }
   }
 }
