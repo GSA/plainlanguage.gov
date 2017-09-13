@@ -34,7 +34,13 @@ bundle exec jekyll serve
 
 If all goes well, visit the site at `http://localhost:4000`.
 
-## Public domain
+## Contributing
+
+This site is currently in development and is being built in stages in response to user feedback.
+
+To provide feedback on plainlanguage.gov, follow this repository and [open an issue in the repo](https://github.com/GSA/plainlanguage.gov/issues/new).
+
+### Public domain
 
 This project is in the worldwide [public domain](LICENSE.md). As stated in [CONTRIBUTING](CONTRIBUTING.md):
 
