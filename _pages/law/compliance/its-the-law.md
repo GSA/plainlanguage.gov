@@ -1,5 +1,5 @@
 ---
-title: 'Plain Language: It''s the law'
+title: 'Plain Language: It's the law'
 permalink: /law/compliance/its-the-law/
 sidenav: law
 ---
