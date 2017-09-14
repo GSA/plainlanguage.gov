@@ -4,7 +4,7 @@ permalink: /law/compliance/model-language/
 sidenav: law
 ---
 
-[The Plain Writing Act of 2010](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=111_cong_bills&docid=f:h946enr.txt.pdf)![Adobe Acrobat Reader icon](../../graphics/pdf_icon.gif) requires federal agencies to write "clear Government communication that the public can understand and use." President Obama also emphasized the importance of establishing "a system of transparency, public participation, and collaboration" in his January 21, 2009, [Memorandum on Transparency and Open Government](http://www.whitehouse.gov/the_press_office/Transparency_and_Open_Government/).
+[The Plain Writing Act of 2010](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=111_cong_bills&docid=f:h946enr.txt.pdf) requires federal agencies to write "clear Government communication that the public can understand and use." President Obama also emphasized the importance of establishing "a system of transparency, public participation, and collaboration" in his January 21, 2009, [Memorandum on Transparency and Open Government](http://www.whitehouse.gov/the_press_office/Transparency_and_Open_Government/).
 
 We ([insert agency name]) are committed to writing new documents in plain language by October 2011, using the [Federal Plain Language Guidelines](http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/TOC.cfm).
 

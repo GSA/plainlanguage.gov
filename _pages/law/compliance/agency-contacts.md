@@ -68,7 +68,7 @@ The U.S. Citizenship and Immigration Services has a thriving plain-language prog
 These agencies have well-established plain-language programs:
 
 - [Environmental Protection Agency](http://www.epa.gov/plainlanguage/)
-- [Federal Aviation Administration](http://www.faa.gov/documentlibrary/media/order/branding_writing/order1000_36.pdf)![Adobe Acrobat Reader icon](../../graphics/pdf_icon.gif)
+- [Federal Aviation Administration](http://www.faa.gov/documentlibrary/media/order/branding_writing/order1000_36.pdf)
 - [Fish and Wildlife Service](http://pdm.fws.gov/plainlang.html)
 - [Health Resources and Services Administration](http://www.hrsa.gov/servicedelivery/language.htm)
 - [National Institutes of Health](http://execsec.od.nih.gov/plainlang/)
