@@ -4,8 +4,6 @@ permalink: /law/history/plain-language-in-the-united-states-government/
 sidenav: law
 ---
 
-# A History of Plain Language in the United States Government (2004)<br>
-
 Joanne Locke
 
 Awareness of the need for clear language isn't new in the US government.

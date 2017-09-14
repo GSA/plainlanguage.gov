@@ -1,6 +1,6 @@
 ---
 title: Johnson Space Center Manual Example 2
-permalink: /law/examples/johnson-space-center-manaul-example-2/
+permalink: /law/examples/johnson-space-center-manual-example-2/
 sidenav: law
 ---
 

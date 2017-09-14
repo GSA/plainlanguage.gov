@@ -1,6 +1,6 @@
 ---
 title: Johnson Space Center Manual Example 3 - Before
-permalink: /law/examples/johnson-space-center-manaul-example-3-before/
+permalink: /law/examples/johnson-space-center-manual-example-3-before/
 sidenav: law
 ---
 
@@ -28,9 +28,7 @@ __ 16 | 80 8 | 85 4 | 90 2 | 95 1 | 100 0.5 | 105 0.25 | 110 0.125 or less | 115
 
 <br>
 
-Sound level in decibels measured on the A-scale of a standard sound level meter set at "slow response"<br>
-<br>
-<br>
+Sound level in decibels measured on the A-scale of a standard sound level meter set at "slow response"<br><br><br>
 
 <br>
 

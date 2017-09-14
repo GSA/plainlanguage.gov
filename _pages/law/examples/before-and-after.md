@@ -4,8 +4,6 @@ permalink: /law/examples/before-and-after/
 sidenav: law
 ---
 
-# Before-and-After Comparisons
-
 One of the best ways to see how a plain-language approach can improve a document is to look at some examples of documents before and after they received plain language treatments.
 
 ## Government regulations

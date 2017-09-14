@@ -4,8 +4,6 @@ permalink: /law/examples/army-regulations/
 sidenav: law
 ---
 
-# Army Regulations:
-
 **G2/Counterintelligence and Security Division, Department of the Army, Handbook**<br>
 **Information Security Program Handbook**
 
