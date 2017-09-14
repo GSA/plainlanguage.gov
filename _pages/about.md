@@ -1,6 +1,5 @@
 ---
 title: About us
-layout: docs
 permalink: /about/
 ---
 
