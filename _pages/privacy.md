@@ -1,6 +1,5 @@
 ---
 title: Privacy policy
-layout: docs
 permalink: /privacy/
 ---
 
