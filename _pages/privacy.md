@@ -51,15 +51,15 @@ Visitors who choose to disable this web measurement tool will still have full ac
 
 ## Information you share with us
 
-Users of this website may send the Plain Language Action and Information Network (PLAIN) feedback or report an issue by sending an email to plain@gsa.gov. If you choose to send us your personally identifiable information, we will only use that information to respond to your message. We only share the information you give us with another government agency if your question relates to that agency, or as otherwise required by law. plainlanguage.gov never collects information or creates individual profiles for the purposes of advertising, marketing, or any other commercial purpose. We do not create or store lists of email addresses or other information to deliver email alerts, newsletters, or otherwise send marketing messages or contact individuals. When you contact us, any personally identifiable information you provide is voluntary. Please do not include sensitive personally identifiable information or other sensitive information in the content of your email.
+Users of this website may send the Plain Language Action and Information Network (PLAIN) feedback or report an issue by sending an email to [plainlanguage@gsa.gov](mailto:plainlanguage@gsa.gov). If you choose to send us your personally identifiable information, we will only use that information to respond to your message. We only share the information you give us with another government agency if your question relates to that agency, or as otherwise required by law. plainlanguage.gov never collects information or creates individual profiles for the purposes of advertising, marketing, or any other commercial purpose. We do not create or store lists of email addresses or other information to deliver email alerts, newsletters, or otherwise send marketing messages or contact individuals. When you contact us, any personally identifiable information you provide is voluntary. Please do not include sensitive personally identifiable information or other sensitive information in the content of your email.
 
 ## Children and privacy
 
-We do not have information specifically for children on our website. The [Children’s Online Privacy Protection Act](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule) governs information gathered online from or about children under the age of 13. This site is not intended to solicit or collection information of any kind from children under age 13. If you believe that we have received information from a child under age 13, please contact us at plain@gsa.gov.
+We do not have information specifically for children on our website. The [Children’s Online Privacy Protection Act](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule) governs information gathered online from or about children under the age of 13. This site is not intended to solicit or collection information of any kind from children under age 13. If you believe that we have received information from a child under age 13, please contact us at [plainlanguage@gsa.gov](mailto:plainlanguage@gsa.gov).
 
 ## Questions about privacy
 
-If you have questions about this privacy policy, please email us at plain@gsa.gov.
+If you have questions about this privacy policy, please email us at [plainlanguage@gsa.gov](mailto:plainlanguage@gsa.gov).
 
 
 
