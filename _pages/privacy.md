@@ -19,23 +19,23 @@ As with many federal websites, plainlanguage.gov is hosted by the General Servic
 - the address of the website you came from if it linked you directly to plainlanguage.gov
 - search terms that you enter into the plainlanguage.gov search tool
 
-## Cookies
+### Cookies
 
 When you visit a website, its server may generate a piece of text known as a cookie to place on your device. The cookie, which is unique to your browser, allows the server to remember specific information about your visit while you're connected.
 
 There are two types of cookies — single session (temporary) and multi-session (persistent). Single session cookies last only as long as your Web browser is open. Once you close your browser, the session cookie disappears. Persistent cookies are stored on your device for longer periods. Both types of cookies create an identifier that is unique to your device. The Office of Management and Budget (OMB) [Memorandum M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies](https://www.digitalgov.gov/resources/m-10-22-guidance-for-online-use-of-web-measurement-and-customization-technologies/) allows federal agencies to use both session and persistent cookies to improve the delivery of services.
 
-### Session cookies
+#### Session cookies
 
 We use session cookies for technical purposes, such as to allow better navigation through our site. These session cookies are set by GSA or a contractor acting on GSA’s behalf and let the server hosting plainlanguage.gov know that you are continuing a visit to our site. Our use of session cookies qualifies as “Usage Tier 1—Single Session,” as defined in the OMB M-10-22 guidance.
 
-### Persistent cookies
+#### Persistent cookies
 
 We use persistent cookies to understand the differences between new and returning visitors to plainlanguage.gov.  Persistent cookies remain on your device between visits to our site until they expire or are removed by the user.  As discussed below under “Google Analytics,” our use of persistent cookies qualifies as “Usage Tier 2—Multi-session without personally identifiable information,” as defined in the OMB M-10-22 guidance. The policy states, “This tier encompasses any use of multi-session Web measurement and customization technologies when no [personally identifiable information] is collected.” We do not use persistent cookies to collect personally identifiable information.
 
 If you do not want to accept cookies, you can edit your browser’s options to stop accepting persistent cookies or to prompt you before accepting a cookie from the websites you visit. For more information, see the [Web Measurement and Customization Opt-Out instructions](https://www.usa.gov/optout-instructions).
 
-## Google Analytics
+### Google Analytics
 
 plainlanguage.gov participates in the [U.S. Digital Analytics Program](https://www.digitalgov.gov/services/dap/), which uses a unified Google Analytics account for federal agencies. This program helps agencies understand how people find, access, and use government services online.
 
