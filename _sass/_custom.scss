@@ -1,5 +1,5 @@
 // Responsive reference
-// xs: 480px
+// xs: 368px
 // sm: 600px
 // md: 800px
 // lg: 1000px
@@ -20,15 +20,21 @@ h6 {
   margin-top: $grid-3;
 }
 
-p {
-  font-size: $sans-s5;
+p,
+li {
+  font-size: $sans-s4;
   line-height: $lh-body;
+
+  @media screen and #{$breakpoint-md}{
+    font-size: $sans-s5;
+  }
+}
+
+p {
   margin: $grid-105 0;
 }
 
 li {
-  font-size: $sans-s5;
-  line-height: $lh-body;
   margin-bottom: $grid-1;
 }
 
@@ -40,8 +46,11 @@ li {
 
 .usa-banner-header {
   color: white;
+  padding-bottom: $grid-3;
+  padding-top: $grid-1;
+
   @media screen and #{$breakpoint-xs}{
-    padding-bottom: $grid-1;
+    padding-bottom: $grid-105;
     padding-top: $grid-1;
   }
   @media screen and #{$breakpoint-lg}{
@@ -57,6 +66,14 @@ li {
 .usa-banner-content {
   color: white;
   padding: $grid-105 $grid-2 $grid-1;
+}
+
+.usa-banner-button {
+  padding-top: $grid-5;
+
+  @media screen and #{$breakpoint-xs}{
+    padding-top: 24px;
+  }
 }
 
 .usa-banner-button,
@@ -140,7 +157,11 @@ main.usa-section {
 
   & > li {
     border-top: 1px solid $color-primary;
-    font-size: $sans-s5;
+    font-size: $sans-s4;
+
+    @media screen and #{$breakpoint-md}{
+      font-size: $sans-s5;
+    }
   }
   & > li:first-child {
     border-top : 1px solid $color-primary;
