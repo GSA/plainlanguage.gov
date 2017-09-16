@@ -16,6 +16,7 @@ h5,
 h6 {
   font-family: $font-sans;
   line-height: $lh-hed;
+  margin-bottom: $grid-105;
   margin-top: $grid-3;
 }
 
@@ -129,7 +130,7 @@ main.usa-section {
 
 .usa-layout-docs-main_content {
   background-color: white;
-  padding: $grid-2 $grid-2 $grid-3;
+  padding: $grid-3 $grid-2 $grid-3;
 }
 
 // Side navigation
