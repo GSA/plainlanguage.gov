@@ -16,11 +16,19 @@ h5,
 h6 {
   font-family: $font-sans;
   line-height: $lh-hed;
+  margin-top: $grid-3;
 }
 
 p {
-  line-height: $lh-body;
   font-size: $sans-s5;
+  line-height: $lh-body;
+  margin: $grid-105 0;
+}
+
+li {
+  font-size: $sans-s5;
+  line-height: $lh-body;
+  margin-bottom: $grid-1;
 }
 
 // Banner
@@ -63,7 +71,6 @@ p {
 .usa-media_block-body {
   p {
     font-size: $sans-s4;
-
   }
 }
 
@@ -94,7 +101,7 @@ body {
 // Header
 
 .usa-logo-text {
-    font-weight: 400;
+  font-weight: 400;
 }
 
 @media screen and (min-width: 951px) {
@@ -103,8 +110,8 @@ body {
   }
 
   .usa-nav-primary a.current-parent span, {
-      border-bottom: 0.7rem solid #0071bc;
-      padding-bottom: 1rem;
+    border-bottom: 0.7rem solid #0071bc;
+    padding-bottom: 1rem;
   }
 }
 
@@ -127,11 +134,27 @@ main.usa-section {
 
 // Side navigation
 
-.usa-sidenav-list a.current-parent {
-    border-left: 0.4rem solid #0071bc;
-    color: #0071bc;
-    font-weight: 700;
-    padding-left: 1.4rem;
+.usa-sidenav-list {
+  border-bottom: 1px solid $color-primary;
+
+  & > li {
+    border-top: 1px solid $color-primary;
+    font-size: $sans-s5;
+  }
+  & > li:first-child {
+    border-top : 1px solid $color-primary;
+  }
+  a {
+    color: $color-primary;
+    line-height: $lh-hed;
+    padding: $grid-105 $grid-2;
+  }
+  a.current-parent {
+      border-left: 0.4rem solid #0071bc;
+      color: #0071bc;
+      font-weight: 700;
+      padding-left: 1.4rem;
+  }
 }
 
 .usa-sidenav-sub_list .usa-sidenav-sub_list .usa-sidenav-sub_list a {
