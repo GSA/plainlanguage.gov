@@ -25,7 +25,7 @@ li {
   font-size: $sans-s4;
   line-height: $lh-body;
 
-  @media screen and #{$breakpoint-md}{
+  @media screen and #{$breakpoint-sm}{
     font-size: $sans-s5;
   }
 }
@@ -53,6 +53,10 @@ li {
     padding-bottom: $grid-105;
     padding-top: $grid-1;
   }
+  @media screen and #{$breakpoint-sm}{
+    padding-bottom: $grid-105;
+    padding-top: $grid-105;
+  }
   @media screen and #{$breakpoint-lg}{
     padding-bottom: $grid-2;
     padding-top: $grid-2;
@@ -60,6 +64,12 @@ li {
   &-expanded {
     background-color: black;
     border-bottom: none;
+  }
+
+  .usa-banner-inner img {
+    @media screen and #{$breakpoint-sm}{
+      margin-top: -2px;
+    }
   }
 }
 
@@ -73,6 +83,9 @@ li {
 
   @media screen and #{$breakpoint-xs}{
     padding-top: 24px;
+  }
+  @media screen and #{$breakpoint-sm}{
+    padding-top: 0;
   }
 }
 
@@ -122,7 +135,7 @@ body {
   font-weight: 400;
 }
 
-@media screen and (min-width: 951px) {
+@media screen and #{$breakpoint-lg} {
   .usa-nav-primary > li > a {
     font-weight: 400;
   }
@@ -132,6 +145,13 @@ body {
     padding-bottom: 1rem;
   }
 }
+
+.usa-header {
+  @media screen and #{$breakpoint-lg} {
+    border-bottom: none;
+  }
+}
+
 
 // Main content
 
@@ -159,7 +179,7 @@ main.usa-section {
     border-top: 1px solid $color-primary;
     font-size: $sans-s4;
 
-    @media screen and #{$breakpoint-md}{
+    @media screen and #{$breakpoint-sm}{
       font-size: $sans-s5;
     }
   }
@@ -186,7 +206,9 @@ main.usa-section {
 // Top nav
 
 .usa-nav {
-  background-color: transparent;
+  @media screen and #{$breakpoint-md}{
+    background-color: transparent;
+  }
 }
 
 .usa-navbar {
