@@ -7,16 +7,24 @@ $font-sans: '18Franklin-webfont', system, -apple-system, BlinkMacSystemFont, 'Ro
 $font-serif: 'Georgia', 'Cambria', 'Times New Roman', 'Times', serif;
 $font-mono: 'Roboto Mono', 'Bitstream Vera Sans Mono', 'Consolas', 'Courier', monospace;
 
-$large-screen: 800px;
+$xsmall-screen:   480px;
+$small-screen:    600px;
+$medium-screen:   800px;
+$large-screen:    1000px;
+$xlarge-screen:   1200px;
 
 // Colors
 
 $color-coastal-50: #5558D5;
+$color-coastal-60: #3435A8;
+$color-coastal-70: #2B2C88;
 $color-gray-90: #222;
 $color-warm-white-3: #F7F7F6;
 $color-black-100: #000;
 
 // Semantic colors
 
+$color-base: $color-gray-90;
 $color-primary: $color-coastal-50;
-$color-primary-darker: $color-coastal-50;
+$color-primary-darker: $color-coastal-60;
+$color-primary-darkest: $color-coastal-70;

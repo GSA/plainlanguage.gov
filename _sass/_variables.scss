@@ -2,11 +2,12 @@
 
 $border-width: 1px;
 
+$breakpoint-xs: '(min-width: #{$xsmall-screen})';
 $breakpoint-sm: '(min-width: #{$small-screen})';
 $breakpoint-md: '(min-width: #{$medium-screen})';
 $breakpoint-lg: '(min-width: #{$large-screen})';
+$breakpoint-xl: '(min-width: #{$xlarge-screen})';
 
-$breakpoint-xs: '(max-width: #{$small-screen})';
 $breakpoint-sm-md: '(min-width: #{$small-screen}) and (max-width: #{$medium-screen})';
 $breakpoint-md-lg: '(min-width: #{$medium-screen}) and (max-width: #{$large-screen})';
 
