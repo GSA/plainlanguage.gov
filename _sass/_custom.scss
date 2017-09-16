@@ -1,4 +1,4 @@
-// Typography
+// _Typography
 
 h1,
 h2,
@@ -7,6 +7,20 @@ h4,
 h5,
 h6 {
   font-family: $font-sans;
+}
+
+// Footer
+
+.usa-footer {
+  font-size: 1.4rem;
+
+  h3 {
+    font-size: 1.6rem;
+  }
+
+  p, li {
+    line-height: 1.7;
+  }
 }
 
 // Header
@@ -37,18 +51,4 @@ h6 {
 
 .usa-sidenav-sub_list .usa-sidenav-sub_list .usa-sidenav-sub_list a {
     padding-left: 4.8rem;
-}
-
-// Footer
-
-.usa-footer {
-  font-size: 1.4rem;
-
-  h3 {
-    font-size: 1.6rem;
-  }
-
-  p, li {
-    line-height: 1.7;
-  }
 }
