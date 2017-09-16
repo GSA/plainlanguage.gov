@@ -9,6 +9,12 @@ h6 {
   font-family: $font-sans;
 }
 
+// Body
+
+body {
+  background-color: $color-warm-white-3
+}
+
 // Footer
 
 .usa-footer {
@@ -38,6 +44,13 @@ h6 {
       border-bottom: 0.7rem solid #0071bc;
       padding-bottom: 1rem;
   }
+}
+
+// Main content
+
+.usa-layout-docs-main_content {
+  background-color: white;
+  padding: $grid-2;
 }
 
 // Side navigation
