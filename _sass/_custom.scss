@@ -15,6 +15,12 @@ h4,
 h5,
 h6 {
   font-family: $font-sans;
+  line-height: $lh-hed;
+}
+
+p {
+  line-height: $lh-body;
+  font-size: $sans-s5;
 }
 
 // Banner
@@ -35,11 +41,30 @@ h6 {
   }
   &-expanded {
     background-color: black;
+    border-bottom: none;
   }
 }
 
 .usa-banner-content {
   color: white;
+  padding: $grid-105 $grid-2 $grid-1;
+}
+
+.usa-banner-button,
+.usa-banner-header p {
+  font-size: $sans-s2;
+  line-height: $lh-hed;
+}
+
+.usa-banner-icon {
+  padding-top: $grid-105;
+}
+
+.usa-media_block-body {
+  p {
+    font-size: $sans-s4;
+
+  }
 }
 
 // Body
@@ -58,7 +83,7 @@ body {
   }
 
   p, li {
-    line-height: 1.7;
+    line-height: $lh-body;
   }
 }
 
