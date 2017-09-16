@@ -30,7 +30,7 @@ body {
 }
 
 .usa-footer-secondary_section {
-  background-color: transparent;  
+  background-color: transparent;
 }
 
 // Header
@@ -52,10 +52,13 @@ body {
 
 // Main content
 
-main {
+main.usa-section {
   padding: 0;
+  @media screen and #{$breakpoint-md}{
+    padding: 0;
+  }
   @media screen and #{$breakpoint-lg}{
-    padding: $grid-2;
+    padding: $grid-4;
   }
 }
 
