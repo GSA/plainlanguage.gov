@@ -48,6 +48,13 @@ body {
 
 // Main content
 
+main {
+  padding: 0;
+  @media screen and #{$breakpoint-lg}{
+    padding: $grid-2;
+  }
+}
+
 .usa-layout-docs-main_content {
   background-color: white;
   padding: $grid-2;
