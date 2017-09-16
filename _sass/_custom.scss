@@ -12,7 +12,7 @@ h6 {
 // Body
 
 body {
-  background-color: $color-warm-white-3
+  background-color: $color-warm-white-3;
 }
 
 // Footer
@@ -84,4 +84,8 @@ main.usa-section {
 
 .usa-nav {
   background-color: transparent;
+}
+
+.usa-navbar {
+  border-bottom: none;
 }
