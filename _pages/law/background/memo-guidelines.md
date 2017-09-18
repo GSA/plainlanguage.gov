@@ -1,5 +1,5 @@
 ---
-title: 'Guidelines for President Clinton’s Memo'
+title: 'Guidelines for President Clinton’s memo'
 permalink: /law/background/memo-guidelines/
 sidenav: law
 
@@ -39,28 +39,28 @@ The memo covers all the materials you write to your external customers. "The pub
 
 ### How do I write in "plain language"?
 
-If you use the techniques in _Writing User-Friendly Documents_, a handbook available on the Internet at www.plainlanguage.gov, you will meet the President's expectations for "plain language."
+If you use the techniques in _Writing User-Friendly Documents_, a handbook available on the Internet at plainlanguage.gov, you will meet the President's expectations for "plain language."
 
 In general:
 
 - Organize your material to serve the needs of your reader.
-- Write sentences in the active voice and use "you" and other pronouns.-- Use common, everyday words in short sentences.
+- Write sentences in the active voice and use "you" and other pronouns. Use common, everyday words in short sentences.
 - Use easy-to-read design features like lists, tables, graphics, and "white space."
 - Write short sentences and sections.
 
-### What are "common, everyday words"?
+### What are common, everyday words?
 
 Common, everyday words are words and phrases your average reader is familiar with and likely to prefer over legalistic or bureaucratic terms. For example:
 
-#### Compare this:
+#### Compare this
 
 > When the process of freeing a vehicle that has been stuck results in ruts or holes, the operator will fill the rut or hole created by such activity before removing the vehicle from the immediate area.
 
-#### To this:
+#### To this
 
 > If you make a hole while freeing a stuck vehicle, you must fill the hole before you drive away.
 
-There is a specific list of everyday words that you should substitute for legalistic or bureaucratic terms on the plainlanguage.gov web page in the reference library. [now in [How to>Word suggestions](../wordsuggestions/index.cfm).]
+There is a [specific list of everyday words](#) that you should substitute for legalistic or bureaucratic terms on the plainlanguage.gov web page in the reference library.
 
 ### Doesn't plain language "dumb down" important government communications? Won't I lose the precision I need to enforce the law?
 
@@ -124,7 +124,9 @@ No, the presidential memo does not require this. But you are supposed to rewrite
 
 Ask for input from people who use the rule. Do reader testing through surveys, focus groups, or protocol testing. Another option is to include a statement like the following in the preamble of a proposed rule:
 
-> _Clarity of this regulation._ Executive Order 12866 and the President's memorandum of June 1, 1998, require each agency to write all rules in plain language. We invite your comments on how to make this proposed rule easier to understand. For example:
+#### Clarity of this regulation
+
+Executive Order 12866 and the President's memorandum of June 1, 1998, require each agency to write all rules in plain language. We invite your comments on how to make this proposed rule easier to understand. For example:
 
 - Have we organized the material to suit your needs?
 - Are the requirements in the rule clearly stated?
@@ -161,12 +163,12 @@ Yes, rewrite documents created before October 1, 1998\. Your agency may need to 
 
 Ask your customers. Do reader testing through surveys, focus groups, or protocol testing. You might also include a statement at the end of your document like this:
 
-> _Plain Language Instructions_
+> #### Plain language instructions
 
-> > _We try to write clearly. If you can suggest how to improve the clarity of these instructions, call or write (appropriate contact)._
+> We try to write clearly. If you can suggest how to improve the clarity of these instructions, call or write (appropriate contact).
 
 You could also post notices in offices where you distribute forms or instructions. For example:
 
-> _Our Commitment to Plain Language_
+> #### Our commitment to plain language
 
-> > _We've tried to make all of our forms, notices, letters, and pamphlets easy to understand. If you can suggest how to write our documents more clearly, call or write (appropriate contact).The American people expect clear information from their government, and the President and the Vice President take this expectation very seriously. Plain language in all of our communication is the very foundation of good service to our customers._
+> We've tried to make all of our forms, notices, letters, and pamphlets easy to understand. If you can suggest how to write our documents more clearly, call or write (appropriate contact).The American people expect clear information from their government, and the President and the Vice President take this expectation very seriously. Plain language in all of our communication is the very foundation of good service to our customers.

@@ -26,4 +26,4 @@ There are many techniques that can help you achieve this goal. Among the most co
 - Common, everyday words
 - Easy-to-read design features
 
-We’ve developed an in-depth set of [guidelines]({{ site.baseurl }}/guidelines/) to help you write in plain language.
+We’ve developed [templates](#), [checklists](#), an in-depth set of [guidelines]({{ site.baseurl }}/guidelines/) to help you write in plain language.

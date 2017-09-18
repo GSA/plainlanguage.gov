@@ -4,13 +4,13 @@ permalink: /law/requirements/
 sidenav: law
 ---
 
-[The Act](http://www.gpo.gov/fdsys/pkg/PLAW-111publ274/pdf/PLAW-111publ274.pdf) requires the federal government to write all new publications, forms, and publicly distributed documents in a clear, concise, well-organized manner. While the Act does not cover regulations, two separate Executive Orders emphasize the need for plain language: [E.O. 12866](https://www.archives.gov/files/federal-register/executive-orders/pdf/12866.pdf) and [E.O. 12988](https://www.gpo.gov/fdsys/pkg/FR-1996-02-07/pdf/96-2755.pdf).
+[The Plain Writing Act of 2010](http://www.gpo.gov/fdsys/pkg/PLAW-111publ274/pdf/PLAW-111publ274.pdf) requires the federal government to write all new publications, forms, and publicly distributed documents in a clear, concise, well-organized manner. While the Act does not cover regulations, two separate Executive Orders emphasize the need for plain language: [E.O. 12866](https://www.archives.gov/files/federal-register/executive-orders/pdf/12866.pdf) and [E.O. 12988](https://www.gpo.gov/fdsys/pkg/FR-1996-02-07/pdf/96-2755.pdf).
 
 ## Getting started
 
-1. Create a plain writing section of your website, starting with our [template with model language]({{ site.baseurl }}/law/requirements/page-template/).
+1. Create a plain writing section of your website, starting with our templates for your [plain writing page]({{ site.baseurl }}/law/requirements/page-template/) and [compliance report]({{ '/media/agency_compliance_report_template.doc' | relative_url }}).
 
-2. Follow [OMB's Guidance on Implementing the Plain Writing Act of 2010](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2011/m11-15.pdf).
+2. Follow [OMB's Guidance on Implementing the Plain Writing Act](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2011/m11-15.pdf).
 
 3. Follow our [writing guidelines]({{ site.baseurl }}/guidelines/).
 

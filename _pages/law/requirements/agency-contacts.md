@@ -1,6 +1,6 @@
 ---
 title: Agency contacts
-permalink: /law/compliance/agency-contacts/
+permalink: /law/requirements/agency-contacts/
 sidenav: law
 ---
 
