@@ -19,34 +19,22 @@ top: false
 <section class="usa-section usa-section-light">
   <div class="usa-grid mb4">
   <div class="usa-width-one-half pr0 sm-pr4">
-  <h3>Law and requirements</h3>
+  <h3><a href="{{ "/law/" | relative_url }}">Law and requirements</a></h3>
   <p class="h5">Details about the Plain Writing Act of 2010, examples of manuals and regulations that meet its requirements, and a short history of plain language in government.</p>
-  <a class="usa-button usa-button-primary-alt" href="{{ "/law/" | relative_url }}">
-    Read the law
-  </a>
 </div>
   <div class="usa-width-one-half pr0 sm-pr4">
-  <h3>Writing guidelines</h3>
+  <h3><a href="{{ "/law/" | relative_url }}">Writing guidelines</a></h3>
   <p class="h5">Tips for understanding your users, writing and organizing information clearly, being concise, designing for reading, and testing your content.</p>
-  <a class="usa-button usa-button-primary-alt" href="{{ "/law/" | relative_url }}">
-    Get writing
-  </a>
 </div>
 </div>
 <div class="usa-grid">
   <div class="usa-width-one-half pr0 sm-pr4">
-  <h3>Training</h3>
+  <h3><a href="{{ "/law/" | relative_url }}">Training</a></h3>
   <p class="h5">An overview of free training sessions we offer along with course materials for trainers.</p>
-  <a class="usa-button usa-button-primary-alt" href="{{ "/law/" | relative_url }}">
-    Schedule training
-  </a>
 </div>
   <div class="usa-width-one-half pr0 sm-pr4">
-  <h3>Resources</h3>
+  <h3><a href="{{ "/law/" | relative_url }}">Resources</a></h3>
   <p class="h5">Links to books, articles, checklists, style guides, and online resources about plain language.</p>
-  <a class="usa-button usa-button-primary-alt" href="{{ "/law/" | relative_url }}">
-    Find out more
-  </a>
 </div>
 </div>
 </section>
