@@ -4,7 +4,7 @@ permalink: /law/background/
 sidenav: law
 ---
 
-Plain language (also called plain writing and Plain English) is communication your audience can understand the first time they read or hear it.
+Plain language (also called plain writing or plain English) is communication your audience can understand the first time they read or hear it.
 
 The [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/content-detail.html) defines plain language as:
 
@@ -26,4 +26,4 @@ There are many techniques that can help you achieve this goal. Among the most co
 - Common, everyday words
 - Easy-to-read design features
 
-We’ve developed [templates](#), [checklists](#), an in-depth set of [guidelines]({{ site.baseurl }}/guidelines/) to help you write in plain language.
+We’ve developed [templates]({{ site.baseurl }}/requirements/), [checklists]({{ site.baseurl }}/resources/checklists/), and in-depth [guidelines]({{ site.baseurl }}/guidelines/) to help you write in plain language.
