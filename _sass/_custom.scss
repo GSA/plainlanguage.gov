@@ -1,7 +1,7 @@
 // Responsive reference
 // xs: 368px
 // sm: 600px
-// md: 800px
+// md: 720px
 // lg: 1000px
 // xl: 1200px
 
@@ -168,9 +168,33 @@ main.usa-section {
 .usa-layout-docs-main_content {
   background-color: white;
   padding: $grid-3 $grid-2 $grid-3;
+  @media screen and #{$breakpoint-md}{
+    float: left;
+    display: block;
+    order: 2;
+    margin: 0;
+    width: 66.6666666666%;
+  }
 }
 
+.usa-layout-docs {
+  @media screen and #{$breakpoint-md}{
+    display: inherit;
+  }
+}
+
+
 // Side navigation
+
+.usa-layout-docs-sidenav {
+  @media screen and #{$breakpoint-md}{
+    float: left;
+    display: block;
+    margin: 0;
+    width: 33.33333333%;
+    order: 1;
+  }
+}
 
 .usa-sidenav-list {
   border-bottom: 1px solid $color-primary;

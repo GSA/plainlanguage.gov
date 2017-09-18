@@ -32,26 +32,26 @@ $width-4: 64rem !default;
 
 // Whitespace grid
 
-$grid-base: 8px;
-$grid-05:   rem($grid-base * 0.5);
-$grid-1:    rem($grid-base * 1);
-$grid-105:  rem($grid-base * 1.5);
-$grid-2:    rem($grid-base * 2);
-$grid-3:    rem($grid-base * 3);
-$grid-4:    rem($grid-base * 4);
-$grid-5:    rem($grid-base * 5);
-$grid-6:    rem($grid-base * 6);
-$grid-7:    rem($grid-base * 7);
-$grid-8:    rem($grid-base * 8);
-$grid-9:    rem($grid-base * 9);
-$grid-10:   rem($grid-base * 10);
+$grid: 8px;
+$grid-05:   rem($grid * 0.5);
+$grid-1:    rem($grid * 1);
+$grid-105:  rem($grid * 1.5);
+$grid-2:    rem($grid * 2);
+$grid-3:    rem($grid * 3);
+$grid-4:    rem($grid * 4);
+$grid-5:    rem($grid * 5);
+$grid-6:    rem($grid * 6);
+$grid-7:    rem($grid * 7);
+$grid-8:    rem($grid * 8);
+$grid-9:    rem($grid * 9);
+$grid-10:   rem($grid * 10);
 
-$grid-n05:  rem($grid-base * -0.5);
-$grid-n1:   rem($grid-base * -1);
-$grid-n105: rem($grid-base * -1.5);
-$grid-n2:   rem($grid-base * -2);
-$grid-n3:   rem($grid-base * -3);
-$grid-n4:   rem($grid-base * -4);
+$grid-n05:  rem($grid * -0.5);
+$grid-n1:   rem($grid * -1);
+$grid-n105: rem($grid * -1.5);
+$grid-n2:   rem($grid * -2);
+$grid-n3:   rem($grid * -3);
+$grid-n4:   rem($grid * -4);
 
 // Type scale
 
