@@ -219,6 +219,108 @@ resources:
         href: /resources/articles/plain-language-its-effect-on-organizational-performance/
       - text: Benefits
         href: /resources/articles/benefits/
+  - text: Books
+    href: /resources/books/
+    subnav:
+      - text: Great Books About Plain Language
+        href: /resources/books/great-books-about-plain-language/
+      - text: Books, Articles, Journals
+        href: /resources/books/books-articles-journals/
+  - text: Checklist
+    href: /resources/checklist/
+    subnav:
+      - text: Document Checklist for Plain Language
+        href: /resources/checklist/document-checklist-for-plain-language/
+      - text: Document Checklist for Plain Language on the Web
+        href: /resources/checklist/document-checklist-for-plain-language-on-the-web/
+  - text: Content types
+    href: /resources/content-types/
+    subnav:
+      - text: Plain Language in the Legal Profession
+        href: /resources/content-types/plain-language-in-the-legal-profession/
+      - text: Plain Writing in Business
+        href: /resources/content-types/plain-writing-in-business/
+      - text: Plain Language in the Sciences
+        href: /resources/content-types/plain-language-in-the-sciences/
+      - text: Where do we use Plain Language?
+        href: /resources/content-types/where-do-we-use-plain-language/
+      - text: Clarity in Financial Documents
+        href: /resources/content-types/clarity-in-financial-documents/
+      - text: Improving Health Literacy
+        href: /resources/content-types/improving-health-literacy/
+      - text: Legal Examples
+        href: /resources/content-types/legal-examples/
+  - text: Definitions
+    href: /resources/definitions/
+    subnav:
+      - text: Definitions of Plain Language
+        href: /resources/definitions/definitions-of-plain-language/
+      - text: Short Definition of Plain Language
+        href: /resources/definitions/short-definition-of-plain-language/
+  - text: Groups
+    href: /resources/groups/
+    subnav:
+      - text: Plain Language Community Around the United States
+        href: /resources/groups/plain-language-community-around-the-united-states/
+      - text: Plain Language Community In Other Countries
+        href: /resources/groups/plain-language-community-in-other-countries/
+  - text: Guides
+    href: /resources/guides/
+    subnav:
+      - text: Action Officer Staff Writing (Army Training)
+        href: /resources/guides/action-officer-staff-writing-army-training/
+      - text: Dictionaries, Thesauruses, Style Guides, and Grammar Sites
+        href: /resources/guides/dictionaries-thesauruses-style-guides-and-grammar-sites/
+      - text: Plain Language Guidance and Manuals
+        href: /resources/guides/plain-language-guidance-and-manuals/
+      - text: "Plain Talk" in Washington
+        href: /resources/guides/plain-talk-in-washington/
+      - text: Security and Exchange Commission, A Plain English Handbook
+        href: /resources/guides/security-and-exchange-commission-a-plain-english-handbook/
+      - text: Bureau of Land Management - Draft Grazing Manual, 12/97
+        href: /resources/guides/bureau-of-land-management-draft-grazing-manual/
+      - text: Bureau of Land Management
+        href: /resources/guides/bureau-of-land-management/
+  - text: Humor
+    href: /resources/humor/
+    subnav:
+      - text: Nine Easy Steps to Longer Sentences
+        href: /resources/humor/nine-easy-steps-to-longer-sentences/
+      - text: Reasons Why the English Language Is Hard to Learn
+        href: /resources/humor/reasons-why-the-english-language-is-hard-to-learn/
+      - text: Funny Headlines
+        href: /resources/humor/funny-headlines/
+      - text: Humor
+        href: /resources/humor/humor/
+      - text: A plan for the improvement of spelling in the English language
+        href: /resources/humor/a-plan-for-the-improvement-of-spelling-in-the-english-language/
+      - text: Technical Terms in Plain English
+        href: /resources/humor/technical-terms-in-plain-english/
+      - text: High Tech Humor
+        href: /resources/humor/high-tech-humor/
+      - text: How to Write Good
+        href: /resources/humor/how-to-write-good/
+  - text: Quotes
+    href: /resources/quotes/
+    subnav:
+      - text: Government Quotes
+        href: /resources/quotes/government-quotes/
+      - text: Historical Quotes on Plain Language and Writing Simply
+        href: /resources/quotes/historical-quotes-on-plain-language-and-writing-simply/
+      - text: Useful Plain-Language Quotes
+        href: /resources/quotes/useful-plain-language-quotes/
+      - text: Legal Quotes
+        href: /resources/quotes/legal-quotes/
+      - text: Contemporary Quotes
+        href: /resources/quotes/contemporary-quotes/
+      - text: Science and Industry Quotes
+        href: /resources/quotes/science-and-industry-quotes/
+      - text: Bryan Garner on "Plain English"
+        href: /resources/quotes/bryan-garner-on-plain-english/
+      - text: Federal Employees Speak
+        href: /resources/quotes/federal-employees-speak/
+      - text: Testimonials
+        href: /resources/quotes/testimonials/
 
 training:
   - text: Resources
