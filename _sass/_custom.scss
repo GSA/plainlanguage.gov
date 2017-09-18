@@ -2,7 +2,7 @@
 // xs: 368px
 // sm: 600px
 // md: 720px
-// lg: 1000px
+// lg: 960px
 // xl: 1200px
 
 
@@ -158,7 +158,7 @@ body {
 main.usa-section {
   padding: 0;
   @media screen and #{$breakpoint-md}{
-    padding: 0;
+    padding: 0 ;
   }
   @media screen and #{$breakpoint-lg}{
     padding: $grid-4;
@@ -169,10 +169,12 @@ main.usa-section {
   background-color: white;
   padding: $grid-3 $grid-2 $grid-3;
   @media screen and #{$breakpoint-md}{
-    float: left;
+    border-bottom-left-radius: $grid;
+    border-top-left-radius: $grid;
     display: block;
-    order: 2;
+    float: left;
     margin: 0;
+    order: 2;
     width: 66.6666666666%;
   }
 }
@@ -188,11 +190,13 @@ main.usa-section {
 
 .usa-layout-docs-sidenav {
   @media screen and #{$breakpoint-md}{
-    float: left;
     display: block;
+    float: left;
     margin: 0;
-    width: 33.33333333%;
     order: 1;
+    padding-right: $grid-2;
+    padding-top: $grid-2;
+    width: 33.33333333%;
   }
 }
 
@@ -204,6 +208,12 @@ main.usa-section {
     font-size: $sans-s4;
 
     @media screen and #{$breakpoint-sm}{
+      font-size: $sans-s5;
+    }
+    @media screen and #{$breakpoint-md}{
+      font-size: $sans-s4;
+    }
+    @media screen and #{$breakpoint-lg}{
       font-size: $sans-s5;
     }
   }

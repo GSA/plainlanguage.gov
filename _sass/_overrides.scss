@@ -10,8 +10,10 @@ $font-mono: 'Roboto Mono', 'Bitstream Vera Sans Mono', 'Consolas', 'Courier', mo
 $xsmall-screen:   368px;
 $small-screen:    600px;
 $medium-screen:   720px;
-$large-screen:    1000px;
+$large-screen:    960px;
 $xlarge-screen:   1200px;
+
+$nav-width: $large-screen;
 
 // Colors
 
