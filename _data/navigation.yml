@@ -108,16 +108,16 @@ law:
   - text: Compliance
     href: /law/compliance/
     subnav:
+      - text: "Plain Writing Act of 2010: Federal Agency Requirements"
+        href: /law/compliance/federal-agency-requirements/
       - text: "How to Comply with the President's Memo on Plain Language"
-        href: /law/compliance/how-to-comply/
+        href: /law/compliance/clinton-memo/
+      - text: Model Language for Your Plain Writing Page
+        href: /law/compliance/model-language/
       - text: Agency contacts
         href: /law/compliance/agency-contacts/
       - text: "Plain Language: It's the law"
         href: /law/compliance/its-the-law/
-      - text: Model Language for Agency Plain Language Page
-        href: /law/compliance/model-language/
-      - text: "Plain Writing Act of 2010: Federal Agency Requirements"
-        href: /law/compliance/federal-agency-requirements/
   - text: Examples
     href: /law/examples/
     subnav:
