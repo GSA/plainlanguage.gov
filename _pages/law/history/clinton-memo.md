@@ -1,10 +1,12 @@
 ---
-title: 'How to Comply with the President's Memo on Plain Language'
-permalink: /law/compliance/clinton-memo/
+title: Presidential Memo Guidelines
+permalink: /law/history/memo-guidelines/
 sidenav: law
 ---
 
-_This guidance was issued in July 1998 to accompany President Clinton's Presidential Memorandum on Plain Language._
+_This guidance was issued in July 1998 to accompany [President Clinton's Memorandum on Plain Language in Government Writing](http://www.presidency.ucsb.edu/ws/?pid=56067)._
+
+## Introduction
 
 This information will help you comply with the President's June 1, 1998, memo on plain language in government writing.
 
@@ -13,7 +15,7 @@ This information will help you comply with the President's June 1, 1998, memo on
 - The third section provides specific information for documents related to rulemaking.
 - The last section provides specific information for other types of documents like letters, forms, and instructions.
 
-## Plain language contacts and action plans
+## Contacts and action plans
 
 You need to do two things now:
 

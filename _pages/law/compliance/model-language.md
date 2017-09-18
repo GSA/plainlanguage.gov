@@ -1,5 +1,5 @@
 ---
-title: Model Language for Your Plain Writing Page
+title: Model language for your plain writing page
 permalink: /law/compliance/model-language/
 sidenav: law
 ---
