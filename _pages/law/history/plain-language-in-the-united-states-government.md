@@ -2,21 +2,11 @@
 title: A History of Plain Language in the United States Government
 permalink: /law/history/plain-language-in-the-united-states-government/
 sidenav: law
----
-
-[_A History of Plain Language in the United States Government_](locke.cfm), Joanne Locke, HHS, an overview of the milestones in using plain language from the end of World War II to the early 2000s.
-
-_Technical Communication_ article [_Revisiting Plain Language_](mazur.cfm),Beth Mazur, in Technical Communication, the Journal of the Society for Technical Communication, 2002.
+intro: Joanne Locke, formerly of HHS, gives an overview of the milestones in using plain language from the end of World War II to the early 2000s.
 
 ---
-
-Joanne Locke
 
 Awareness of the need for clear language isn't new in the US government.
-
-## Before the 1970s:
-
-Interest in making government documents clear has a long, but checkered, history in the United States. After World War II, federal employees like Jim Minor advocated plain language in government documents. John O'Hayre, an employee of the Bureau of Land Management, wrote a book called _Gobbledygook Has Gotta Go._<br>
 
 ### SEC Plain English Handbook
 

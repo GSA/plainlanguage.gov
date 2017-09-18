@@ -4,6 +4,8 @@ permalink: /law/history/
 sidenav: law
 ---
 
+This timeline is an abbreviated and updated version of [A History of Plain Language in the United States Government]({{ site.baseurl }}/law/history/plain-language-in-the-united-states-government/) by Joanne Locke.
+
 ## 2010s
 
 * President Obama signed the [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/content-detail.html) into law on October 13, 2010.
@@ -24,7 +26,7 @@ Arthur Levitt, Chairman of the Securities and Exchange Commission at the time, w
 
 * President Clinton signed two executive orders: [E.O. 12866](https://www.archives.gov/files/federal-register/executive-orders/pdf/12866.pdf) in 1993 and [E.O. 12988](https://www.gpo.gov/fdsys/pkg/FR-1996-02-07/pdf/96-2755.pdf) in 1996.
 
-* The Plain Language Action and Information Network (PLAIN) launched our original site in 1994.
+* The [Plain Language Action and Information Network (PLAIN)]({{ site.baseurl }}/about/) launched our original site in 1994 and started meeting regularly in 1995. This group remains at the center of the U.S. movement.
 
 * Vice President Gore believed that plain language promotes trust in government, and said, "Plain Language is a civil right." As the lead for the plain language initiative, he presented [No Gobbledygook awards]({{ site.baseurl }}/law/history/awards/) monthly to federal employees who took bureaucratic messages and turned them into plain language that citizens can understand.
 
@@ -47,15 +49,3 @@ The Department of Education decided to fund a research and development contract 
 ## Before the 1970s
 
 Interest in making government documents clear has a long, but checkered, history in the United States. After World War II, federal employees like Jim Minor advocated plain language in government documents. John O'Hayre, an employee of the Bureau of Land Management, wrote a book called [Gobbledygook Has Gotta Go](https://archive.org/details/gobbledygookhasg3836ohay).
-
-## Final words
-
-Federal employees are coming to understand that the plain language initiative isn't simply the Federal Government's newest writing fad. It's been here for a long time, but is becoming even more important in the current days of information moving onto the web, of many citizens becoming older, of everyone being so busy that they have little time to untangle gobbledygook.
-
-The private sector as well as the public sector has been actively using and spreading plain language. And the United States is not the only place where plain language is taking hold. In fact, other countries have been actively pursuing plain language even longer than we have. Australia, Canada, and the United Kingdom have many examples of plain English, and plain language is an important initiative in many other countries, including Sweden, Italy, and Mexico.
-
-PLAIN believes the public deserves to understand what its government is doing for them and expects of them. Whether or not there is a government-wide mandate to use plain language as government leaders come and go, the initiative has taken hold. The public is beginning to see the difference plain, clear writing can make. They are starting to expect no less from their government.
-
-## Sources
-
-* A History of Plain Language in the United States Government (2004), Joanne Locke
