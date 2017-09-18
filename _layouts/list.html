@@ -1,0 +1,13 @@
+---
+layout: docs
+---
+
+<ul>
+{% for p in site.pages %}
+  {% if p.url contains page.url or p.url contains page.permalink %}
+    {% if p.url != page.url %}
+      <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+</ul>
