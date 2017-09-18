@@ -4,6 +4,8 @@ permalink: /law/compliance/agency-contacts/
 sidenav: law
 ---
 
+[The Act](https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/content-detail.html) was signed in October 2010, but some federal agencies have been promoting the use of plain language for years. (If you don't see your agency's program listed here, [contact us]({{ site.baseurl }}/contact/) so we can include it.)
+
 ### Consumer Finance Protection Bureau
 
 * [Website](http://www.consumerfinance.gov/plain-writing/)

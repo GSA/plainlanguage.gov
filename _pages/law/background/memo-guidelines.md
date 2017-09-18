@@ -1,7 +1,8 @@
 ---
-title: Presidential Memo Guidelines
-permalink: /law/history/memo-guidelines/
+title: 'Guidelines for President Clinton’s Memo'
+permalink: /law/background/memo-guidelines/
 sidenav: law
+
 ---
 
 _This guidance was issued in July 1998 to accompany [President Clinton's Memorandum on Plain Language in Government Writing](http://www.presidency.ucsb.edu/ws/?pid=56067)._

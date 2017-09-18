@@ -105,12 +105,21 @@ guidelines:
         href: '/guidelines/test/controlled-comparative-studies/'
 
 law:
-  - text: Compliance
-    href: /law/compliance/
+  - text: Background
+    href: /law/background/
     subnav:
-      - text: "Plain Writing Act of 2010: Federal Agency Requirements"
-        href: /law/compliance/federal-agency-requirements/
-      - text: Model Language for Your Plain Writing Page
+      - text: Timeline
+        href: /law/background/timeline/
+      - text: A history of plain language in the U.S. government
+        href: /law/background/plain-language-in-the-government/
+      - text: 'Walters v. Reno'
+        href: /law/background/walters-v-reno/
+      - text: 'Guidelines for President Clinton’s Memo'
+        href: /law/background/memo-guidelines/
+  - text: Requirements
+    href: /law/requirements/
+    subnav:
+      - text: Plain writing page template
         href: /law/compliance/model-language/
       - text: Agency contacts
         href: /law/compliance/agency-contacts/
@@ -143,7 +152,7 @@ law:
         href: /law/examples/quick-reference-card/
       - text: BLM Preamble for a proposed rule
         href: /law/examples/blm-preamble-for-a-proposed-rule/
-      - text: Government Examples
+      - text: Government examples
         href: /law/examples/government-examples/
       - text: Minerals Management Service
         href: /law/examples/minerals-management-service/
@@ -155,16 +164,7 @@ law:
         href: /law/examples/pension-medical-evidence/
       - text: "Popular Topics: Regulations"
         href: /law/examples/popular-topics-regulations/
-      - text: "AMERICAN BAR ASSOCIATION: ADOPTION BY THE HOUSE OF DELEGATES"
+      - text: "American Bar Association: Adoption by the House of Delegates"
         href: /law/examples/american-bar-association-adoption-by-the-house-of-delegates/
       - text: Table of Plain Language Regulations
         href: /law/examples/table-of-plain-language-regulations/
-  - text: History
-    href: /law/history/
-    subnav:
-      - text: What is plain language?
-        href: /law/history/what-is-plain-language/
-      - text: Walters v. Reno
-        href: /law/history/walter-v-reno/
-      - text: 1983 Plain Language Rule FCC
-        href: /law/history/1983-plain-language-rule-fcc

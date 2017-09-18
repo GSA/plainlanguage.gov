@@ -1,16 +1,21 @@
 ---
-title: History
-permalink: /law/history/
+title: Timeline
+permalink: /law/background/timeline/
 sidenav: law
+intro:
 ---
 
-This timeline is an abbreviated and updated version of [A History of Plain Language in the United States Government]({{ site.baseurl }}/law/history/plain-language-in-the-united-states-government/) by Joanne Locke.
+This timeline is an abbreviated and updated version of [A History of Plain Language in the Government]({{ site.baseurl }}/law/history/plain-language-in-the-government/) by Joanne Locke.
 
 ## 2010s
 
 * President Obama signed the [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/content-detail.html) into law on October 13, 2010.
 
 * President Obama issued [Executive Order 13563 - Improving Regulation and Regulatory Review](https://obamawhitehouse.archives.gov/the-press-office/2011/01/18/executive-order-13563-improving-regulation-and-regulatory-review) on January 18, 2011. The order states that our regulatory system must ensure that regulations are accessible, consistent, written in plain language, and easy to understand.
+
+* The Office of Management and Budget (OMB) posted a [Best Practices Guide for regulations](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inforeg/edocket_final_5-28-2010.pdf).
+
+* OMB issued its [Final Guidance](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2011/m11-15.pdf) on April 13, 2011.
 
 ## 2000s
 
@@ -20,7 +25,7 @@ Arthur Levitt, Chairman of the Securities and Exchange Commission at the time, w
 
 ## 1990s
 
-* [Walters v. Reno]({{ site.baseurl }}/law/history/walters-v-reno/), 145 F.3d 1032 (9th Cir. 1998). Court decision that forms issued by the Immigration and Naturalization Service were so confusing and misleading that they violated a person's due-process rights.
+* [Walters v. Reno](http://www.ca9.uscourts.gov/ca9/newopinions.nsf/04485f8dcbd4e1ea882569520074e698/6e9ec23768fd7e8888256e5a00718998?OpenDocument), 145 F.3d 1032 (9th Cir. 1998). Court decision that forms issued by the Immigration and Naturalization Service were so confusing and misleading that they violated a person's due-process rights.
 
 * PLAIN issued [guidelines for implementing the presidential memos]({{ site.baseurl }}/law/history/memo-guidelines/) in 1998.
 
