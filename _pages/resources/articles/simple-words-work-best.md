@@ -4,8 +4,6 @@ permalink: /resources/articles/simple-words-work-best/
 sidenav: resources
 ---
 
-## Simple Words Work Best<br>
-
 by Bill Lampton, Ph.D.
 
 A few days ago, I was walking near an office building and I saw this sign on the lawn:

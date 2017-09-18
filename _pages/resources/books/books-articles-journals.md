@@ -1,6 +1,6 @@
 ---
 title: 'Books, Articles, Journals'
-permalink: '/resources/books/Books, Articles, Journals/'
+permalink: /resources/books/books-articles-journals/
 sidenav: resources
 ---
 

@@ -183,13 +183,11 @@ resources:
   - text: Articles
     href: /resources/articles/
     subnav:
-      - text: Tips for Starting Plain-Language Program
-        href: /resources/articles/tips-for-starting-plain-language-program/
       - text: Simple Words Work Best
         href: /resources/articles/simple-words-work-best/
       - text: Mary Dash’s Writing Tips
         href: /resources/articles/mary-dashs-writing-tips/
-      - text: Plain Language: beyond a ‘movement'
+      - text: "Plain Language: beyond a 'movement'"
         href: /resources/articles/plain-language-beyond-a-movement/
       - text: The Elements of Plain Language
         href: /resources/articles/the-elements-of-plain-language/
@@ -213,9 +211,9 @@ resources:
         href: /resources/articles/the-arguments-against-plain-language-have-been-refuted/
       - text: Arguments in Favor of Plain Language
         href: /resources/articles/arguments-in-favor-of-plain-language/
-      - text: Plain Language: the bottom line.
+      - text: "Plain Language: the bottom line"
         href: /resources/articles/plain-language-the-bottom-line/
-      - text: Plain language: Its effect on organizational performance
+      - text: "Plain language: Its effect on organizational performance"
         href: /resources/articles/plain-language-its-effect-on-organizational-performance/
       - text: Benefits
         href: /resources/articles/benefits/
@@ -267,13 +265,11 @@ resources:
   - text: Guides
     href: /resources/guides/
     subnav:
-      - text: Action Officer Staff Writing (Army Training)
-        href: /resources/guides/action-officer-staff-writing-army-training/
       - text: Dictionaries, Thesauruses, Style Guides, and Grammar Sites
         href: /resources/guides/dictionaries-thesauruses-style-guides-and-grammar-sites/
       - text: Plain Language Guidance and Manuals
         href: /resources/guides/plain-language-guidance-and-manuals/
-      - text: "Plain Talk" in Washington
+      - text: '"Plain Talk" in Washington'
         href: /resources/guides/plain-talk-in-washington/
       - text: Security and Exchange Commission, A Plain English Handbook
         href: /resources/guides/security-and-exchange-commission-a-plain-english-handbook/

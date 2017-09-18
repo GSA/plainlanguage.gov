@@ -4,8 +4,6 @@ permalink: /resources/articles/plain-language-beyond-a-movement/
 sidenav: resources
 ---
 
-# Plain Language: beyond a 'movement'<br>
-
 Repositioning clear communication in the minds of decision-makers
 
 Christopher Balmford, Director, Cleardocs Pty Ltd

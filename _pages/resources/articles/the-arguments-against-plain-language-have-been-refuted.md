@@ -4,8 +4,6 @@ permalink: /resources/articles/the-arguments-against-plain-language-have-been-re
 sidenav: resources
 ---
 
-# The Arguments Against Plain Language Have Been Refuted<br>
-
 Professor Joe Kimble, Thomas Cooley Law School
 
 There are many myths about plain language � all of which have been debunked.

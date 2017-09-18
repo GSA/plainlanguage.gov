@@ -4,8 +4,6 @@ permalink: /resources/articles/plain-language-in-spoken-communication/
 sidenav: resources
 ---
 
-# Plain Language in Spoken Communication<br>
-
 by Londell Buckson
 
 Plain language is as important in spoken communication as it is in writing. When speaking to a group, follow these guidelines:

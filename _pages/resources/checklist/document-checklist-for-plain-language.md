@@ -18,7 +18,7 @@ uses [active voice](pops/active.cfm)<br>
 
 uses [short sections and sentences](pops/short.cfm)<br>
 
-uses the [simplest tense possible](pops/simple.cfm)--simple present is best |
+uses the [simplest tense possible](pops/simple.cfm)--simple present is best
 
 uses [base verbs](pops/base.cfm), not nominalizations (hidden verbs)<br>
 
