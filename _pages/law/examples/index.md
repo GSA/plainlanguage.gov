@@ -8,7 +8,8 @@ Plain language has been around in the government for over 40 years. Here are som
 
 ## Regulations
 
-- [Plain language regulations]({{ site.baseurl }}/law/examples/plain-language-regulations/)
+- [Plain Language Regulations]({{ site.baseurl }}/law/examples/plain-language-regulations/)
+- [State Statutes](http://www.languageandlaw.org/TEXTS/STATS/PLAINENG.HTM)
 - [Minerals Management Service]({{ site.baseurl }}/law/examples/minerals-management-service/), Bureau of Safety and Environmental Enforcement
 - [Leasing of Solid Minerals Other than Coal and Shale](https://www.gpo.gov/fdsys/pkg/CFR-2001-title43-vol2/xml/CFR-2001-title43-vol2-part3500.xml), Bureau of Land Management
 - [Model Preamble for a Proposed Rule]({{ site.baseurl }}/law/examples/model-preamble/), Bureau of Land Management
@@ -22,10 +23,11 @@ Plain language has been around in the government for over 40 years. Here are som
 - [National Park Service Museum Handbook](https://www.nps.gov/museum/publications/MHII/MHII.pdf)
 - [Privacy Policy Directive](https://www.whitehouse.gov/omb/memoranda_m99-18), Office of Management and Budget
 
-## Letters
+## Letters and notices
 
 - [Understanding Your CP2000 Notice](https://www.irs.gov/individuals/understanding-your-cp2000-notice), Internal Revenue Service
 - [CP2000 Sample Letter](https://www.irs.gov/pub/notices/cp2000_english.pdf), Internal Revenue Service
+- [Model Notices of Privacy Practices](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/model-notices-privacy-practices/index.html), Department of Heath and Human Services
 - [Failure to Provide Claim Information]({{ site.baseurl }}/law/examples/failure-to-provide-claim-information/), Veterans Benefits Administration
 - [Pension Medical Evidence]({{ site.baseurl }}/law/examples/pension-medical-evidence/), Veterans Benefits Administration
 - [Change in Enrollment Status]({{ site.baseurl }}/law/examples/change-in-enrollment-status/), Veterans Benefits Administration
