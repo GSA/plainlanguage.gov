@@ -4,9 +4,11 @@ permalink: /law/examples/minerals-management-service/
 sidenav: law
 ---
 
-**PART 250-Oil and Gas and Sulphur Operations in the Outer Continental Shelf** (Excerpt, see CFR for the complete text.)
+## PART 250-Oil and Gas and Sulphur Operations in the Outer Continental Shelf
 
-**Sec. 250.106 What standards will the Director use to regulate lease operations?**
+(Excerpt, see CFR for the complete text.)
+
+### Sec. 250.106 What standards will the Director use to regulate lease operations?
 
 The Director will regulate all operations under a lease, right-of-use and easement, or right-of-way to:
 
@@ -18,7 +20,7 @@ The Director will regulate all operations under a lease, right-of-use and easeme
 
 (d) Cooperate and consult with affected States, local governments, other interested parties, and relevant Federal agencies.
 
-**Sec. 250.107 What must I do to protect health, safety, property, and the environment?**
+### Sec. 250.107 What must I do to protect health, safety, property, and the environment?
 
 (a) You must protect health, safety, property, and the environment by:
 
@@ -38,7 +40,7 @@ The Director will regulate all operations under a lease, right-of-use and easeme
 
 (3) If the benefits outweigh the costs.
 
-**Sec. 250.108 What requirements must I follow for cranes and other material-handling equipment?**
+### Sec. 250.108 What requirements must I follow for cranes and other material-handling equipment?
 
 (a) All cranes installed on fixed platforms must be operated in accordance with American Petroleum Institute's Recommended Practice for Operation and Maintenance of Offshore Cranes (API RP 2D), incorporated by reference as specified in 30 CFR 250.198.
 
