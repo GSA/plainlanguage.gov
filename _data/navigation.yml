@@ -112,6 +112,8 @@ law:
         href: /law/background/timeline/
       - text: A history of plain language in the U.S. government
         href: /law/background/plain-language-in-the-government/
+      - text: Regulations
+        href: /law/background/regulations/
       - text: 'Walters v. Reno'
         href: /law/background/walters-v-reno/
       - text: 'Guidelines for President Clinton’s memo'
@@ -126,7 +128,5 @@ law:
   - text: Examples
     href: /law/examples/
     subnav:
-      - text: Before-and-after comparisons
+      - text: Before-and-after examples
         href: /law/examples/before-and-after/
-      - text: Regulations
-        href: /law/examples/regulations/

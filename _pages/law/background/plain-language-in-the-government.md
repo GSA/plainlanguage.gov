@@ -1,12 +1,12 @@
 ---
-title: A history of plain language in the United States government
+title: A history of plain language in the U.S. government
 permalink: /law/background/plain-language-in-the-government/
 sidenav: law
 intro: Joanne Locke, formerly of HHS, gives an overview of the milestones in using plain language from the end of World War II to the early 2000s.
 
 ---
 
-Awareness of the need for clear language isn't new in the US government.
+Awareness of the need for clear language isn't new in the U.S. government.
 
 ### SEC Plain English Handbook
 
@@ -20,7 +20,7 @@ The current administration does not have a formal plain language initiative, how
 
 ### Federal Aviation Administration (FAA)
 
-FAA is home to the leader of the US Government's plain-language movement, Annetta Cheek. Dr. Cheek hosts the monthly meeting of the Plain Language Action and Information Network (PLAIN). Every member of PLAIN is working to ensure that the information written by federal employees is in plain language. Some members of PLAIN volunteer to train staff in other agencies on how to use plain language in their agency's specific documents. FAA has a strong [plain-language program](http://www.faa.gov/regulations_policies/orders_notices/) of its own.
+FAA is home to the leader of the U.S. Government's plain-language movement, Annetta Cheek. Dr. Cheek hosts the monthly meeting of the Plain Language Action and Information Network (PLAIN). Every member of PLAIN is working to ensure that the information written by federal employees is in plain language. Some members of PLAIN volunteer to train staff in other agencies on how to use plain language in their agency's specific documents. FAA has a strong [plain-language program](http://www.faa.gov/regulations_policies/orders_notices/) of its own.
 
 ### Federal Register
 
@@ -28,7 +28,7 @@ The Office of the Federal Register is revising its requirements and allowing man
 
 ### Food and Drug Administration (FDA)
 
-FDA realizes that low health literacy combined with the increasing incidence of chronic health problems like diabetes and obesity results in a serious public health problem. To fight these problems most effectively, they know it is more important than ever to use plain language so consumers get information that is clear, informative, and effective in helping them improve or maintain their health.
+FDA realizes that low health literacy combined with the increasing incidence of chronic health problems like diabetes and obesity results in a serioU.S. public health problem. To fight these problems most effectively, they know it is more important than ever to use plain language so consumers get information that is clear, informative, and effective in helping them improve or maintain their health.
 
 ### Health and Human Services (HHS)
 

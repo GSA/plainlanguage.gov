@@ -1,8 +1,8 @@
-—-
+---
 title: Plain language regulations
 permalink: /law/examples/plain-language-regulations/
 sidenav: law
-—-
+---
 
 We asked the top government plain language regulatory experts to analyze some existing plain language regulations. We hope this will help you develop even better plain language documents.
 
@@ -18,20 +18,29 @@ To see any of these regulations:
 
 ## Overall Organization
 
-Regulation | Comments | Well Organized | Short Sections | Minimizes Subdivisions | Uses Lists | Uses Tables
-—- | —- | —- | —- | —- | —- | —-
+Regulation | Comments | Well organized | Short sections | Minimizes subdivisions | Uses lists | Uses tables
+--- | --- | --- | --- | --- | --- | ---
 21 CFR Part 822 — Postmarket Surveillance | Good overall organization. Uses lists pretty well, but could use more. Some sentences could be rewritten to put the main idea first and further clarify language. | X | X | X | Some | X
 41 CFR Part 102-33 — Management of Government Aircraft | Good use of subheadings to organize a very complex regulation. Many very long section titles. | X | X | X | X | X
-14 CFR Part 11 — General Rulemaking Procedures | Good use of all principles.
+14 CFR Part 11 — General Rulemaking Procedures | Good use of all principles.  | X | X | X | X | X
 Does not include any material suitable for tables. Some of the section titles are too wordy. Provides an excellent explanation of the rulemaking process. | X | X | X | X | No
-43 CFR Part 3200 — Geothermal Resource Leasing | A very large and complex regulation. Lacks a good overview of the entire process. Tables could have been used to simplify presentation of some complex information. Many section titles are too wordy. | X | X | X | X | No 25 CFR Part 171 — Irrigation Operation and Maintenance | Excellent use of all plain language principles except tables, which aren't needed in this rule.
-| X | X | X | X | No 43 CFR Parts 3830 - 3838 | Excellent use of all plain language principles. Rule begins with a useful overview that orients the reader to this complex but well-organized material.
-| X | X | X | X | X 40 CFR part 40 Subpart E — Procedures for Workplace Drug and Alcohol Testing | Uses some plain language principles, but still suffers from some long sections and sentences. Some section headings are too long and some language could be simplified. | X | Some | Some | X | No 30 CFR Part 250 Subpart A — General Provisions for Oil and Gas and Sulphur Leasing in the Outer Continental Shelf | Good example of very complex material that benefits from using plain language techniques. Includes some good tables. Some sentences are too long. | X | X | X | X | X 30 CFR Part 253 — Oil Spill Financial Responsibility for Offshore Facilities | Another good example of a complex technical rule that uses plain language. Contains some long section headings and sentences. | X | X | X | X | X 47 CFR Part 95 — Personal Radio Services | This is a good attempt to make complex material understandable for average users. Uses pronouns to refer to the reader, but not the agency. The plain language portion of this rule begins with section 402\. | X | X | X | X | No 13 CFR Part 123 — Disaster Loan Program | Well organized and mostly clear. Some long sentences; would benefit from using lists and pronouns. | X | Some | X | No | No 49 CFR Part 106 — Rulemaking Procedures | A wonderfully lucid explanation of the rulemaking process. This rule is a model in every way. | X | X | X | X | X 43 CFR Part 3500 — Leasing Minerals | Good rule, but very complex. Would benefit from a few sections that summarize the lease process. Good use of subheadings, but many section headings are too long. | X | X | X | X | No 12 CFR Part 602 — Releasing Information | A good rewrite that could benefit from using question headings. | X | X | X | Some | X
+43 CFR Part 3200 — Geothermal Resource Leasing | A very large and complex regulation. Lacks a good overview of the entire process. Tables could have been used to simplify presentation of some complex information. Many section titles are too wordy. | X | X | X | X |
+No 25 CFR Part 171 — Irrigation Operation and Maintenance | Excellent use of all plain language principles except tables, which aren't needed in this rule. | X | X | X | X |
+No 43 CFR Parts 3830 - 3838 | Excellent use of all plain language principles. Rule begins with a useful overview that orients the reader to this complex but well-organized material.
+| X | X | X | X | X
+40 CFR part 40 Subpart E — Procedures for Workplace Drug and Alcohol Testing | Uses some plain language principles, but still suffers from some long sections and sentences. Some section headings are too long and some language could be simplified. | X | Some | Some | X |
+No 30 CFR Part 250 Subpart A — General Provisions for Oil and Gas and Sulphur Leasing in the Outer Continental Shelf | Good example of very complex material that benefits from using plain language techniques. Includes some good tables. Some sentences are too long. | X | X | X | X | X
+30 CFR Part 253 — Oil Spill Financial Responsibility for Offshore Facilities | Another good example of a complex technical rule that uses plain language. Contains some long section headings and sentences. | X | X | X | X | X
+47 CFR Part 95 — Personal Radio Services | This is a good attempt to make complex material understandable for average users. Uses pronouns to refer to the reader, but not the agency. The plain language portion of this rule begins with section 402\. | X | X | X | X |
+No 13 CFR Part 123 — Disaster Loan Program | Well organized and mostly clear. Some long sentences; would benefit from using lists and pronouns. | X | Some | X | No |
+No 49 CFR Part 106 — Rulemaking Procedures | A wonderfully lucid explanation of the rulemaking process. This rule is a model in every way. | X | X | X | X | X
+43 CFR Part 3500 — Leasing Minerals | Good rule, but very complex. Would benefit from a few sections that summarize the lease process. Good use of subheadings, but many section headings are too long. | X | X | X | X |
+No 12 CFR Part 602 — Releasing Information | A good rewrite that could benefit from using question headings. | X | X | X | Some | X
 
 ## Sentences and words
 
 Regulation | Short sentences | Sentences start with main idea | Active voice | Uses "must" for requirements | Clear language | Uses pronouns
-—- | —- | —- | —- | —- | —- | —-
+--- | --- | --- | --- | --- | --- | ---
 21 CFR Part 822 — Postmarket Surveillance | X | Some | X | X | Some | X
 41 CFR 102-33 — Management of Gov. Aircraft | Some  | X | X | X | Some | X
 14 CFR Part 11 — General Rulemaking Procedures | X | X | X  | X | X | X
