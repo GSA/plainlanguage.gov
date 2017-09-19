@@ -1,5 +1,5 @@
 ---
-title: Plain Language in the Sciences
+title: Plain language in the sciences
 permalink: /resources/content-types/plain-language-in-the-sciences/
 sidenav: resources
 ---
