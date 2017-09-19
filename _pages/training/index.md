@@ -6,11 +6,11 @@ sidenav: training
 
 We offer two kinds of plain-language training:
 
-## Introductory course
+## Introductory classes
 
 We provide a free half-day introduction to plain language to federal agencies. You must have at least 15—20 participants. Ask if one of our experienced trainers is available for your agency.
 
-[Learn more]({{ site.baseurl }}/training/plain-language-training/)
+[Learn more]({{ site.baseurl }}/training/introductory-classes/)
 
 ## Train-the-trainer bootcamp
 

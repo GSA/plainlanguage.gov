@@ -204,8 +204,8 @@ training:
   - text: Training
     href: /training/
     subnav:
-      - text: Plain language training
-        href: /training/plain-language-training/
+      - text: Introductory classes
+        href: /training/introductory-classes/
       - text: Train-the-trainer bootcamp
         href: /training/train-the-trainer-bootcamp/
       - text: Online training

@@ -1,6 +1,6 @@
 ---
-title: Plain language training
-permalink: /training/plain-language-training/
+title: Introductory classes
+permalink: /training/introductory-classes/
 sidenav: training
 ---
 
@@ -10,19 +10,19 @@ We offer free, half day plain language and writing for the web training classes 
 
 For training outside the DC area, you must pay the trainer's expenses. We'll come to your managers as well.
 
-## Our introductory courses
+## Class descriptions
 
 ### Plain language principles
 
-- Learning how to identify and write for your audience
-- Using plain language techniques in any type of document
-- How using plain language can save your agency time and resources
+- Learn how to identify and write for your audience
+- Use plain language techniques in any type of document
+- Learn how using plain language can save your agency time and resources
 
-### Web writing
+### Plain language and writing for the web
 
-- The difference between print and web writing
-- Using plain language techniques to create clear and effective web messages
-- How to write web content that meets the top tasks of your users
+- Understand the difference between print and web writing
+- Use plain language techniques to create clear and effective web messages
+- Write web content that meets the top tasks of your users
 
 ### Manager briefings
 

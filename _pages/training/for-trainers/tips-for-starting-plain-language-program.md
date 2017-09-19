@@ -1,16 +1,20 @@
 ---
-title: Tips for Starting Plain-Language Program
+title: Tips for starting a plain language program
 permalink: /training/for-trainers/tips-for-starting-plain-language-program/
 sidenav: training
 ---
 
-Starting a plain-language program can be challenging. But like most challenges, the reward will far outweigh the effort. The reward in this case is clear communication -- an asset for any organization.
+Starting a plain-language program can be challenging. But like most challenges, the reward will far outweigh the effort. The reward in this case is clear communication — an asset for any organization.
 
-[The Plain Writing Act of 2010](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=111_cong_bills&docid=f:h946enr.txt.pdf)  requires agencies to train their staff in plain language. PLAIN offers free consultation to federal agencies on how to start an internal agency plain language program. We have previously worked with the National Institutes of Health, U.S Citizenship and Immigration Services, and Veterans Benefits Administration (to name a few). These agencies now have self-run, thriving plain language programs.
+## Work with us
 
-Please [contact us](../../site/contactus.cfm?subject=training) to find out more about how we can help our agency clearly communicate with the public.
+[The Plain Writing Act of 2010](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=111_cong_bills&docid=f:h946enr.txt.pdf) requires agencies to train their staff in plain language. PLAIN offers free consultation to federal agencies on how to start an internal agency plain language program. We have previously worked with the National Institutes of Health, U.S Citizenship and Immigration Services, and Veterans Benefits Administration (to name a few). These agencies now have self-run, thriving plain language programs.
 
-#### Make it SMART: Specific, Measurable, Achievable, Realistic, and have a Timeframe.
+Please [contact us]({{ site.baseurl }}/contact/) to find out more about how we can help your agency clearly communicate with the public.
+
+## Set SMART goals
+
+SMART goals are specific, measurable, achievable, realistic, and have a timeframe.
 
 - Start with a clearly defined goal, and communicate your expectations to everyone involved in the effort.
 - Implement a training program so that the entire organization is on the same page.
@@ -24,6 +28,8 @@ Please [contact us](../../site/contactus.cfm?subject=training) to find out more 
 
 Many organizations have made the leap from obfuscation and confusion to clarity and precision in their written documents. It's never too early and never too late to start the journey.
 
-_[Putting Plain Language Into Practice](http://www.nwt.literacy.ca/resources/plainlang/practice/practice.pdf)_ is a useful guide by Aggie Brockman for Canada's Literacy Council. The "lessons learned" feature in the case studies and the work plan in section 7 are noteworthy.
+## Further reading
 
-The Centers for Medicare and Medicaid Services (CMS) has developed a [Toolkit for Making Written Material Clear and Effective](http://www.cms.gov/WrittenMaterialsToolkit/). Its focus is on healthcare and health literacy, but its principles can be used for any discipline.
+- [Putting Plain Language Into Practice](http://en.copian.ca/library/learning/nwt/practice/contents.htm) is a useful guide by Aggie Brockman for Canada's Literacy Council. The "lessons learned" feature in the case studies and the work plan in section 7 are noteworthy.
+
+- The Centers for Medicare and Medicaid Services (CMS) has developed a [Toolkit for Making Written Material Clear and Effective](http://www.cms.gov/WrittenMaterialsToolkit/). Its focus is on healthcare and health literacy, but its principles can be used for any discipline.
