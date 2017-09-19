@@ -1,6 +1,6 @@
 ---
 title: Tips for Starting Plain-Language Program
-permalink: /training/resources/tips-for-starting-plain-language-program/
+permalink: /training/for-trainers/tips-for-starting-plain-language-program/
 sidenav: training
 ---
 

@@ -201,27 +201,19 @@ resources:
     href: /resources/quotes/
 
 training:
-  - text: Resources
-    href: /training/resources/
+  - text: Training
+    href: /training/
     subnav:
-      - text: Tips for Starting Plain-Language Program
-        href: /training/resources/tips-for-starting-plain-language-program/
-      - text: Learn to Train
-        href: /training/resources/learn-to-train/
-      - text: For Trainers
-        href: /training/resources/for-trainers/
+      - text: Plain language training
+        href: /training/plain-language-training/
+      - text: Train-the-trainer bootcamp
+        href: /training/train-the-trainer-bootcamp/
+      - text: Online training
+        href: /training/online-training/
+  - text: For trainers
+    href: /training/for-trainers/
+    subnav:
+      - text: Tips for starting a plain language program
+        href: /training/for-trainers/tips-for-starting-plain-language-program/
       - text: Create your own class
-        href: /training/resources/create-your-own-class/
-      - text: Register for Train-the-Trainer Bootcamp
-        href: /training/resources/register-for-train-the-trainer-bootcamp/
-  - text: Sign up
-    href: /training/sign-up/
-    subnav:
-      - text: Plain-Language Training Resources
-        href: /training/sign-up/plain-language-training-resources/
-      - text: Free Plain Language Training
-        href: /training/sign-up/free-plain-language-training/
-      - text: Take Plain-Language Training
-        href: /training/sign-up/take-plain-language-training/
-      - text: Request Plain-Language Training
-        href: /training/sign-up/request-plain-language-training/
+        href: /training/for-trainers/create-your-own-class/
