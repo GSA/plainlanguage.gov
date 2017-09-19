@@ -9,16 +9,19 @@ theme: uswds-jekyll
 # google_analytics_ua: UA-99995535-1
 repo: https://github.com/GSA/plainlanguage.gov
 
+gems:
+  - jekyll-redirect-from
+
 exclude:
-- CONTRIBUTING.md
-- circle.yml
-- Gemfile
-- Gemfile.lock
-- LICENSE.md
-- node_modules
-- package.json
-- README.md
-- vendor
+  - CONTRIBUTING.md
+  - circle.yml
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - node_modules
+  - package.json
+  - README.md
+  - vendor
 
 styles:
   - /assets/css/main.css
