@@ -24,19 +24,10 @@ Plain language has been around in the government for over 40 years. Here are som
 - [Securities and Exchange Commission](https://www.sec.gov/plainwriting.shtml)
 - [Plain Talk](http://www.governor.wa.gov/issues/issues/efficient-government/plain-talk), Washington State
 
-## Memos
+## Memos and resolutions
 
+- [Adoption by the House of Delegates]({{ site.baseurl }}/law/examples/american-bar-association/), American Bar Association
 - [Privacy Policy Directive](https://www.whitehouse.gov/omb/memoranda_m99-18), Office of Management and Budget
-
-## Regulations
-
-- [Army Regulations]({{ site.baseurl }}/law/examples/army-regulations/)
-- [Model Preamble for a Proposed Rule]({{ site.baseurl }}/law/examples/blm-preamble-for-a-proposed-rule/), Bureau of Land Management
-- [Leasing of Solid Minerals Other than Coal and Shale](https://www.gpo.gov/fdsys/pkg/CFR-2001-title43-vol2/xml/CFR-2001-title43-vol2-part3500.xml), Bureau of Land Management
-- [Procedures for Transportation Workplace Drug and Alcohol Testing](https://www.gpo.gov/fdsys/pkg/CFR-2001-title49-vol1/content-detail.html), Department of Transportation
-- [Rulemaking Procedures](https://www.gpo.gov/fdsys/pkg/CFR-2001-title49-vol1/content-detail.html), Department of Transportation
-- [Personal Radio Services](https://www.ecfr.gov/cgi-bin/text-idx?SID=c697ca6c9ea003f41bceaa0155987142&mc=true&node=pt47.5.95&rgn=div5), Federal Communications Commission
-- [Reimbursement to Local Governments](https://www.epa.gov/emergency-response/local-governments-reimbursement-program), Environmental Protection Agency
 
 ## Letters and notices
 

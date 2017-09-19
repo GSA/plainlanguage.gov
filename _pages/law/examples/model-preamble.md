@@ -1,6 +1,6 @@
 ---
-title: BLM Preamble for a proposed rule
-permalink: /law/examples/blm-preamble-for-a-proposed-rule/
+title: Model preamble for a proposed rule
+permalink: /law/examples/model-preamble/
 sidenav: law
 ---
 
@@ -8,39 +8,39 @@ This is an abridged version of a proposed rule published in the Federal Register
 
 ---
 
-DEPARTMENT OF THE INTERIOR<br>
+Department of the Interior<br>
 Bureau of Land Management<br>
 43 CFR Parts 3130 and 3160<br>
 [WO-310-1310-00 24 1A]<br>
 RIN 1004-AD13
 
-National Petroleum Reserve, Alaska--Unitization<br>
+National Petroleum Reserve, Alaska — Unitization<br>
 AGENCY: Bureau of Land Management, Interior.<br>
 ACTION: Proposed rule.
 
 ---
 
-## SUMMARY
+## Summary
 
 This proposed rule would add a new subpart to the Bureau of Land Management's oil and gas regulations implementing new statutory authority allowing operators to form units in the National Petroleum Reserve, Alaska (NPRA). Units allow for the sharing of costs and spreading of revenues among several leases, and allow for production from unit leases to occur without regard to lease or property boundaries. The rule would also allow for waiver, suspension, or reduction of rental or royalty for NPRA leases; allow for suspension of operations and production for NPRA leases; amend existing regulatory language to set the primary lease term for an NPRA lease at 10 years. Current regulations allow 10 years, or a shorter term if it is in the notice of sale; and add a new subpart to the NPRA regulations on subsurface storage agreements. Subsurface storage agreements allow operators to store gas in existing geologic structures on Federal lands.
 
 This proposal would also make it clear that existing suspension regulations would not apply to the NPRA.
 
-## DATES
+## Dates
 
 You must submit your comments to BLM at the appropriate address below on or before June 26, 2000\. BLM will not necessarily consider any comments received after the above date in making its decisions on the final rule.
 
-## ADDRESSES
+## Addresses
 
 - Mail: Director (630), Bureau of Land Management, Administrative Record, Room 401 LS, 1849 C Street, NW, Washington, D.C. 20240.
 - Personal or messenger delivery: Room 401, 1620 L Street, NW, Washington, D.C. 20036.
 - Internet email: <WOComment@blm.gov>. (Include "Attn: AD13")
 
-## FOR FURTHER INFORMATION CONTACT
+## For further information
 
-Erick Kaarlela at (202) 452-0340, or Ian Senio at (202) 452-5049, or write to Director (630), Bureau of Land Management, Room 401 LS, 1849 C Street, NW, Washington, D.C. 20240\. Persons who use a telecommunications device for the deaf may contact these persons through the Federal Information Relay Service at 1-800-877-8339, 24 hours a day, 7 days a week.
+Contact Erick Kaarlela at (202) 452-0340, or Ian Senio at (202) 452-5049, or write to Director (630), Bureau of Land Management, Room 401 LS, 1849 C Street, NW, Washington, D.C. 20240\. Persons who use a telecommunications device for the deaf may contact these persons through the Federal Information Relay Service at 1-800-877-8339, 24 hours a day, 7 days a week.
 
-## SUPPLEMENTARY INFORMATION
+## Supplementary information
 
 1. Public Comment Procedures
 2. Background
