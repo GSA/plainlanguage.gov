@@ -1,0 +1,259 @@
+- department: Consumer Finance Protection Bureau
+  website: http://www.consumerfinance.gov/plain-writing/
+  official:
+    name: Gena Chieco
+    title: Executive Secretary and Counsel to the Director
+  email: CFPB_Plain_Writing_Act@cfpb.gov
+- department: Corporation for National and Community Service
+  website: http://www.nationalservice.gov/about/open/index.asp
+  official:
+    name: Amy Borgstrom
+    title: Senior Agency Official for Plain Language
+  email: aolszewski.guest@cns.gov
+- department: Department of Agriculture
+  website: http://www.usda.gov/plain-writing
+  official:
+    name: Jerry Mande
+    title: Senior Advisor to the Under Secretary for Food, Nutrition, and Consumer Services
+  email: plainlanguage@osec.usda.gov
+- department: Department of Commerce
+  website: http://www.commerce.gov/plain-language
+  official:
+    name: Parker Sheedy
+    title: Special Assistant and Editor
+  email: plainLanguage@doc.gov
+- department: Census Bureau
+  website: http://www.census.gov/about/policies/plain_writing.html
+  official:
+    name: Neil Tillman
+    title: Chief, Promotions
+  email: w.neil.tillman@census.gov
+- department: Department of Defense
+  website: http://http://www.esd.whs.mil/DD/plainlanguage/
+  official:
+    name: Michael L. Rhodes
+    title: Director of Administration and Management
+  email: DoDPlainLanguage@whs.mil
+- department: Department of Education
+  website: http://www.ed.gov/plain-language
+  official:
+    name: Cynthia Dorfman
+    title: Acting Deputy Assistant Secretary, Communication Services
+  email: cynthia.dorfman@ed.gov
+- department: Department of Energy
+  website: http://www.energy.gov/about-us/open-government/plain-language-commitment-writing-you-can-understand
+  official:
+    name: Ingrid A. Kolb, Director
+    title: Office of Management
+  email: Michael.Coogan@hq.doe.gov
+- department: Department of Health and Human Services
+  website: http://www.hhs.gov/open/recordsandreports/plainwritingact/index.html
+  official:
+    name: Oliver Potts
+    title: Deputy Executive Secretary and Plain Writing Coordinator
+  email: hhsplainwriting@hhs.gov
+- department: Centers for Disease Control
+  website: http://www.cdc.gov/other/plainwriting.html
+  official:
+    name: Cynthia Baur
+    title: Senior Advisor for Health Literacy
+  email: cynthia.baur@cdc.hhs.gov
+- department: Centers for Medicare & Medicaid Services
+  website: http://www.medicare.gov/about-us/plain-writing/plain-writing.html
+  official:
+    name: Mary Wallace
+    title: Deputy Director, Office of Communications
+  email: mary.wallace@cms.hhs.gov
+- department: Food and Drug Administration
+  website: http://www.fda.gov/AboutFDA/PlainLanguage/default.htm
+  official:
+    name: LaKeisha McClendon
+    title: Chief Learning Officer
+  email: FDAUniversity@fda.hhs.gov
+- department: Department of Homeland Security
+  website: http://www.dhs.gov/plain-writing-dhs
+  official:
+    name: Dr. Kimberly O'Connor
+    title: Executive Secretary
+  email: michael.broome@hq.dhs.gov
+- department: Department of Housing and Urban Development
+  website: http://portal.hud.gov/hudportal/HUD?src=/plainlanguage
+  email: webmanager@hud.gov
+- department: Department of Interior
+  website: http://www.interior.gov/open/Plain-Writing.cfm
+  official:
+    name: Meghan Conklin
+    title: Associate Deputy Secretary
+- department: Department of Justice
+  website: http://www.justice.gov/open/plainlanguage.html
+  official:
+    name: Michael H. Allen
+    title: Deputy Assistant Attorney General
+- department: Department of Labor
+  website: http://www.dol.gov/dol/PlainWriting/
+  official:
+    name: Kathleen E. Franks
+    title: Director of Regulatory and Programmatic Policy, Office of the Assistant Secretary for Policy
+  email: plainlanguage@dol.gov
+- department: Department of State
+  website: http://www.state.gov/m/a/dir/plainwriting/
+  official:
+    name: Patrick Kennedy
+    title: Under Secretary for Management
+  email: LongLJ@state.gov
+- department: Department of Transportation
+  website: http://www.dot.gov/regulations/plain-language
+  official:
+    name: Carol C. Darr
+    title: Director, Executive Secretariat
+- department: Department of Treasury
+  website: http://www.treasury.gov/open/Pages/plainwriting.aspx
+  official:
+    name: Rebecca Ewing
+    title: Deputy Executive Secretary
+  email: plainwriting@treasury.gov
+- department: Internal Revenue Service
+  website: http://www.irs.gov/uac/plain-language-at-irs
+  official:
+    name: Terry Lemons
+    title: Chief, Communications & Liaison
+- department: Department of Veterans Affairs
+  website: http://www.va.gov/opa/Plain_Language.asp
+  official:
+    name: Tonia Bock
+    title: Executive Secretary
+  email: vaplainlanguage@va.gov
+- department: Environmental Protection Agency
+  website: http://www.epa.gov/plainlanguage/
+  official:
+    name: Eric Wachter
+    title: Director of the Office of the Executive Secretariat in the Office of the Administrator
+- department: Farm Credit Administration
+  website: http://www.fca.gov/home/plainwriting.html
+  official:
+    name: Mike Stokke
+    title: Director of Congressional and Public Affairs
+  email: yaghmoure@fca.gov
+- department: Federal Communications Commission
+  website: http://www.fcc.gov/encyclopedia/plain-writing-fcc
+  official:
+    name: Howard Parnell
+    title: Chief, Web and Print Publishing Division
+- department: Federal Deposit Insurance Corporation
+  website: http://www.fdic.gov/plainlanguage/
+  email: plainwriting@fdic.gov
+- department: Federal Election Commission
+  website: http://www.fec.gov/info/plainwriting.shtml
+  official:
+    name: Gregg Scott
+    title: Assistant Staff Director, Information Division
+  email: plainlanguage@fec.gov
+- department: Federal Energy Regulatory Commission
+  website: http://www.ferc.gov/open/plain-language.asp
+  official:
+    name: Mary O'Driscoll
+    title: Press Secretary and Director of Media Relations
+  email: customer@ferc.gov
+- department: Federal Housing Finance Agency
+  website: http://www.fhfa.gov/AboutUs/Policies/pages/plain-writing-act-of-2010.aspx
+  official:
+    name: Carrie Johnson
+    title: Senior Advisor
+  email: plainlanguage@fhfa.gov
+- department: Federal Maritime Commission
+  website: http://www.fmc.gov/about/plain_language_guidelines.aspx
+  email: secretary@fmc.gov
+- department: Federal Trade Commission
+  official:
+    name: Christian S. White
+    title: Deputy General Counsel
+- department: General Services Administration
+  website: http://www.gsa.gov/plainlanguage
+  email: katherine.spivey@gsa.gov
+- department: Institute of Museum and Library Services
+  website: http://www.imls.gov/about/plain_langauge.aspx
+  official:
+    name: Mammie Bittner
+    title: Director, Communications and Government Affairs
+    email: koconnell@imls.gov
+- department: National Aeronautics and Space Administration
+  website: http://www.nasa.gov/open/plainlanguage.html
+  official:
+    name: Larry Box
+    title: Head, Executive Secretariat
+  email: gina.s.hall@nasa.gov
+- department: National Archives and Records Administration
+  website: http://www.archives.gov/open/plain-writing/
+  official:
+    name: Maria Stanwich
+    title: Senior Official for Plain Writing
+  email: plainwriting@nara.gov
+- department: National Capitol Planning Commission
+  website: http://www.ncpc.gov/Open/home.html
+  official:
+    name: Barry Socks
+    title: Chief Operating Officer
+  email: plainwriting@ncpc.gov
+- department: National Credit Union Administration
+  website: http://www.ncua.gov/Legal/plainlanguage/Pages/default.aspx
+  official:
+    name: John Kutchey
+    title: Deputy Executive Director
+  email: plainwriting@ncua.gov
+- department: National Endowment for the Arts
+  website: http://www.nea.gov/open/Plain-language.html
+  official:
+    name: Don Ball, Assistant Director
+    title: Office of Public Affairs
+  email: plainlanguage@arts.gov
+- department: Nuclear Regulatory Commission
+  website: http://www.nrc.gov/public-involve/open/plain-writing/fed-mandates.html
+  official:
+    name: Darren B. Ash
+    title: Deputy Executive Director for Corporate Management
+- department: Occupational Safety and Health Review Commission
+  website: http://www.oshrc.gov/open/plain_writing.html
+  official:
+    name: John X. Cerveny
+    title: Executive Secretary
+  email: plain@oshrc.gov
+- department: Office of Management and Budget
+  official:
+    name: Lauren Wright
+    title: Assistant Director for Management and Operations
+- department: Office of Navajo and Hopi Indian Relocation
+  website: http://onhir.gov/Plain_Writing/index.htm
+  official:
+    name: Christopher J. Bavasi
+    title: Executive Director
+  email: skuhr@onhir.gov
+- department: Office of Personnel Management
+  website: http://www.opm.gov/plainlanguage/
+  official:
+    name: Jozetta Robinson
+    title: Director of the Executive Secretariat
+  email: execsec@opm.gov
+- department: Pension Benefit Guaranty Corporation
+  website: http://www.pbgc.gov/about/pbgc-in-plain-english.html
+  official:
+    name: J. Jioni Palmer
+    title: Senior Advisor and Director of Communications and Public Affairs
+- department: Securities and Exchange Commission
+  website: http://www.sec.gov/plainwriting.shtml
+  official:
+    name: Lori J. Schock
+    title: Director, Office of Investor Education and Advocacy
+- department: Small Business Administration
+  website: http://www.sba.gov/content/plain-language-page-0
+- department: Social Security Administration
+  website: http://www.ssa.gov/plain-language/
+  official:
+    name: Steven Patrick
+    title: Associate Commissioner, Office of Public
+  email: steven.patrick@ssa.gov
+- department: United States Agency for International Development
+  website: http://www.usaid.gov/open/
+  official:
+    name: Angelique Crumbly
+    title: Acting Assistant to the Administrator, Bureau for Management
+  email: lglufling@usaid.gov
