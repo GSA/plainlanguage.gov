@@ -1,5 +1,5 @@
 ---
-title: Technical Terms in Plain English
+title: Technical terms in plain English
 permalink: /resources/humor/technical-terms-in-plain-english/
 sidenav: resources
 ---

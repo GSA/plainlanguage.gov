@@ -127,28 +127,24 @@ law:
         href: /law/requirements/agency-contacts/
   - text: Examples
     href: /law/examples/
-    subnav:
-      - text: Before-and-after examples
-        href: /law/examples/before-and-after/
 
 resources:
+  - text: Definitions
+    href: /resources/definitions/
   - text: Articles
     href: /resources/articles/
   - text: Books
     href: /resources/books/
-  - text: Checklist
-    href: /resources/checklist/
+  - text: Checklists
+    href: /resources/checklists/
   - text: Content types
     href: /resources/content-types/
-  - text: Definitions
-    href: /resources/definitions/
   - text: Groups
     href: /resources/groups/
   - text: Guides
     href: /resources/guides/
   - text: Humor
     href: /resources/humor/
-    subnav:
   - text: Quotes
     href: /resources/quotes/
 

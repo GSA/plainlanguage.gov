@@ -1,10 +1,11 @@
 ---
-title: '"Plain Talk" in Washington'
-permalink: /resources/guides/plain-talk-in-washington/
+title: '"Plain talk" in Washington'
+permalink: /resources/articles/plain-talk-in-washington/
 sidenav: resources
 ---
 
-By Dana Howard Botka<br>
+By Dana Howard Botka
+
 Manager, Customer Communications, WA State Department of Labor and Industries
 
 Shortly after taking office as Washington state's new governor in January 2005, Gov. Christine Gregoire announced she soon would be requiring all state agencies to use "Plain Talk" principles when they communicated with citizens. In the coming months, the governor's staff expects to develop an executive order, set guidelines and goals, and develop a time-table for training staff in the state's 45 agencies.
@@ -23,7 +24,7 @@ Advancing the plain language cause even further has been Washington state's acti
 
 Clear measures aren't always possible, but the best example comes from the state's Department of Revenue. The agency estimates it has collected approximately $5 million in extra revenue since rewriting one explanatory tax collection letter in 2003.
 
-**Plain language activity in Washington state government since the mid–'90s:**
+## Plain language activity in Washington state government since the mid–90s
 
 - 1994: The Olympia Writers Roundtable, a group of state agency writers, invites plain language specialist, Dr. Ginny Redish, to speak in Olympia. Dr. Redish founded the Document Design Center at the American Institutes for Research in Washington, D.C. in 1979 and had set up one of the first independent usability test labs in the country. Representatives from the departments of Ecology, Retirement Systems, and Labor and Industries bring the message back to their agencies, where workshops and rewrite projects begin at varying levels.
 - 1995-96: First clear rule-writing classes and projects begin, starting with the Department of Labor and Industries. Other agencies begin contracting for the class.
@@ -34,10 +35,10 @@ Clear measures aren't always possible, but the best example comes from the state
 - 2003: Washington Department of Ecology launches "Plain Talk," training a core of in-house plain language experts, who now regularly [help programs create clear technical documents.](http://www.ecy.wa.gov/quality/plaintalk/index.htm)
 - 2003: Washington Department of Licensing rewrites one letter and finds that its hotline calls are reduced by 95 percent. Winner of the 2004 Governor's Award for Quality Performance.
 - 2003: Washington Department of Labor and Industries launches a two-year project to redesign and rewrite its [website](http://www.lni.wa.gov) into an easy-to-read and navigate site. The agency undertakes intensive usability testing and many staff were trained in the process. (Wins Distinguished Technical Communication Award from Society of Technical Communication, 2005.)
-- 2004: Washington Department of Personnel begins project to write its [brand new civil service rules](http://hr.dop.wa.gov/hrreform/rules.htm) into plain language. Initial usability testing finds that customers have difficulty understanding rules written in the traditional format. The agency creates short, straightforward questions and answers that help users find the information they need to know.<br>
+- 2004: Washington Department of Personnel begins project to write its [brand new civil service rules](http://hr.dop.wa.gov/hrreform/rules.htm) into plain language. Initial usability testing finds that customers have difficulty understanding rules written in the traditional format. The agency creates short, straightforward questions and answers that help users find the information they need to know.
 
 - 2004: Clear rule-writing and Writing for the Web classes offered by the Washington Department of Personnel. They are in demand, along with many other plain language courses for state employees.
 
 - 2004: Department of Information Systems launches its [rebuilt "Access Washington,"](http://access.wa.gov/) the state's home page and gateway to hundreds of online government services. The agency takes a year to study customers and conduct usability tests on its navigation and plain language rewrites. The effort is followed by web redesigns and rewrites in several additional state agencies.
 
-- March 2005: Newly elected Governor Christine Gregoire issued an executive order requiring all state agencies to adopt principles of "plain talk" so all letters, applications and instructions are written in a language that is understandable to citizens, instead of bureaucratic jargon.<br>
+- March 2005: Newly elected Governor Christine Gregoire issued an executive order requiring all state agencies to adopt principles of "plain talk" so all letters, applications and instructions are written in a language that is understandable to citizens, instead of bureaucratic jargon.

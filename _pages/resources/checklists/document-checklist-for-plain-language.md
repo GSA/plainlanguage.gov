@@ -1,10 +1,10 @@
 ---
-title: Document Checklist for Plain Language
-permalink: /resources/checklist/document-checklist-for-plain-language/
+title: Checklist for plain language
+permalink: /resources/checklists/checklist-for-plain-language/
 sidenav: resources
 ---
 
-Use this checklist to see if your document meets plain language standards. (If you are writing for the web, here's the additional [weblist](weblist.cfm).) Click on the links for a brief explanation of each standard. You can find more extensive discussions of these standards throughout this website, especially in the "howto" section.
+Use this checklist to see if your document meets plain language standards. (If you are writing for the web, here's the additional [weblist](weblist.cfm).) Click on the links for a brief explanation of each standard:
 
 written for the [average reader](pops/averageReader.cfm'))<br>
 

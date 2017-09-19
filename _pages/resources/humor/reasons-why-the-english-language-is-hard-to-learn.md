@@ -1,5 +1,5 @@
 ---
-title: Reasons Why the English Language Is Hard to Learn
+title: Reasons why the English language is hard to learn
 permalink: /resources/humor/reasons-why-the-english-language-is-hard-to-learn/
 sidenav: resources
 ---
@@ -15,12 +15,13 @@ sidenav: resources
 9. When shot at, the dove dove into the bushes.
 10. I did not object to the object.
 11. The insurance was invalid for the invalid.
-12. There was a row among the oarsmen about how to row. | 1\. They were too close to the door to close it.
-13. The buck does funny things when the does are present.
-14. A seamstress and a sewer fell down into a sewer line.
-15. To help with planting, the farmer taught his sow to sow.
-16. The wind was too strong to wind the sail.
-17. After a number of injections my jaw got number.
-18. Upon seeing the tear in the painting I shed a tear.
-19. I had to subject the subject to a series of tests.
-20. How can I intimate this to my most intimate friend?
+12. There was a row among the oarsmen about how to row.
+13. They were too close to the door to close it.
+14. The buck does funny things when the does are present.
+15. A seamstress and a sewer fell down into a sewer line.
+16. To help with planting, the farmer taught his sow to sow.
+17. The wind was too strong to wind the sail.
+18. After a number of injections my jaw got number.
+19. Upon seeing the tear in the painting I shed a tear.
+20. I had to subject the subject to a series of tests.
+21. How can I intimate this to my most intimate friend?

@@ -1,5 +1,5 @@
 ---
-title: 'Plain Language: beyond a ''movement'''
+title: 'Plain language: beyond a movement'
 permalink: /resources/articles/plain-language-beyond-a-movement/
 sidenav: resources
 ---

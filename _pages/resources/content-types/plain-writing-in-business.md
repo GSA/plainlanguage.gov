@@ -1,10 +1,10 @@
 ---
-title: Plain Writing in Business
-permalink: /resources/content-types/plain-writing-in-business/
+title: Plain language in business
+permalink: /resources/content-types/plain-language-in-business/
 sidenav: resources
 ---
 
-The National Writing Project, dedicated to improving writing and learning in the nation�s schools, issued a report on the [need for a writing revolution](http://www.writingcommission.org/prod_downloads/writingcom/neglectedr.pdf).
+The National Writing Project, dedicated to improving writing and learning in the nation's schools, issued a report on the [need for a writing revolution](http://www.writingcommission.org/prod_downloads/writingcom/neglectedr.pdf).
 
 [Pretentious Language Wastes Time.](wastetime.cfm) A management communication specialist in France illustrates how unclear and pretentious language wastes management's time, even in minor ways.
 

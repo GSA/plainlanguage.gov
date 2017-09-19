@@ -1,10 +1,11 @@
 ---
-title: Pretentious Language Wastes Time
+title: Pretentious language wastes time
 permalink: /resources/articles/pretentious-language-wastes-time/
 sidenav: resources
+
 ---
 
-Carol Briam, a management communication specialist in France, offers an illustration of how unclear and pretentious language wastes management's time, even in minor ways.
+_Carol Briam, a management communication specialist in France, offers an illustration of how unclear and pretentious language wastes management's time, even in minor ways._
 
 A few years ago, she was consulting regularly with the management of a subsidiary of a large multinational. One day, the subsidiary's CEO and Deputy CEO called her in a panic because they had received a written request for information from their headquarters, and they could not figure out what one of the questions was asking. The question said:
 
@@ -22,14 +23,14 @@ This incident shows what an unnecessary time-waster non-plain language can be. A
 
 Members of The Association of Professional Communication Consultants recommend these guides to writing plain language documents.
 
-Bailey, Jr., Edward P. _The Plain English Approach to Business Writing_. Rev. ed. (New York: Oxford University Press, 1997).
+- Bailey, Jr., Edward P. _The Plain English Approach to Business Writing_. Rev. ed. (New York: Oxford University Press, 1997).
 
-Bailey, Jr., Edward P. & Larry Bailey. _Plain English at Work: A Guide to Writing and Speaking_. (1996).
+- Bailey, Jr., Edward P. & Larry Bailey. _Plain English at Work: A Guide to Writing and Speaking_. (1996).
 
-Cutts, Martin. _Oxford Guide to Plain English_. 2nd ed. (New York: Oxford University Press, 2004). A short, to-the-point guide to writing plain British English.
+- Cutts, Martin. _Oxford Guide to Plain English_. 2nd ed. (New York: Oxford University Press, 2004). A short, to-the-point guide to writing plain British English.
 
-Johns, Lee Clark. _The Writing Coach_. (Clifton Park, NY: Delmar Learning, 2004). A comprehensive guide to clear workplace writing.
+- Johns, Lee Clark. _The Writing Coach_. (Clifton Park, NY: Delmar Learning, 2004). A comprehensive guide to clear workplace writing.
 
-Lauchman, Richard. _Plain Style: Techniques for Simple, Concise, Emphatic Business Writing_. (AMACOM, a Division of American Management Association, 1993).
+- Lauchman, Richard. _Plain Style: Techniques for Simple, Concise, Emphatic Business Writing_. (AMACOM, a Division of American Management Association, 1993).
 
-U.S. Securities and Exchange Commission. [_A Plain English Handbook: How to Create Clear SEC Disclosure Documents_](http://www.sec.gov/pdf/handbook.pdf) . Washington D.C.,1998.
+- U.S. Securities and Exchange Commission. [A Plain English Handbook: How to Create Clear SEC Disclosure Documents](http://www.sec.gov/pdf/handbook.pdf) . Washington D.C.,1998.

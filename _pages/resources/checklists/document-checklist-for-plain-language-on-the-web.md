@@ -1,6 +1,6 @@
 ---
-title: Document Checklist for Plain Language on the Web
-permalink: /resources/checklist/document-checklist-for-plain-language-on-the-web/
+title: Checklist for plain language on the web
+permalink: /resources/checklists/checklist-for-plain-language-on-the-web/
 sidenav: resources
 ---
 

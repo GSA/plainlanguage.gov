@@ -1,6 +1,6 @@
 ---
-title: Historical Quotes on Plain Language and Writing Simply
-permalink: /resources/quotes/historical-quotes-on-plain-language-and-writing-simply/
+title: Historical quotes
+permalink: /resources/quotes/historical-quotes/
 sidenav: resources
 ---
 

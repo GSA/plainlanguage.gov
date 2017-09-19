@@ -1,12 +1,10 @@
 ---
-title: Revisiting Plain Language
+title: Revisiting plain language
 permalink: /resources/articles/revisiting-plain-language/
 sidenav: resources
 ---
 
-BETH MAZUR is a Communication Specialist for AARP, where she works with field staff and volunteers in the use of electronic media such as the Web, bulletin boards, and e-lists. She is also a graduate student at Georgetown University where she is studying Internet communication. She founded STC's Information Design Special Interest Group and is currently its newsletter editor. Contact information: bmazur@aarp.org
-
-[From the May 2000, Vol. 47, No. 2, issue of _Technical Communication, the journal of the Society for Technical Communication;_ reprinted with permission of STC.]
+#### Reprinted from the May 2000, Vol. 47, No. 2, issue of _Technical Communication_ with permission of STC
 
 What is plain language? Actually, defining it is not unlike defining information design. Ask 10 people and you'll get 10 different answers. Yet just as with information design, there is a common thread.
 
@@ -163,68 +161,70 @@ The momentum for plain language is definitely growing . . . at least outside of 
 
 Information designers take very seriously our obligations to users. While some criticisms may validly be laid against various manifestations of the plain language movement, the movement can only benefit from attention and assistance from the information design community.
 
-_[TOP](#Top)_
+## About the authors
 
-## REFERENCES
+[Beth Mazur](mailto:bmazur@aarp.org) is a Communication Specialist for AARP, where she works with field staff and volunteers in the use of electronic media such as the Web, bulletin boards, and e-lists. She is also a graduate student at Georgetown University where she is studying Internet communication. She founded STC's Information Design Special Interest Group and is currently its newsletter editor.
 
-[]()American Bar Association. 1999\. "Recommendation 103A." <http://www.abanet.org/leadership/99annrecs/103A.html>
+## References
 
-[]()Asprey, M. 1991\. _Plain language for lawyers._ Sydney, Australia: Federation Press.
+- American Bar Association. 1999\. "Recommendation 103A." <http://www.abanet.org/leadership/99annrecs/103A.html>
 
-[]()Bailey, E. 1990\. _The plain English approach to business writing._ Oxford, UK: Oxford University Press.
+- Asprey, M. 1991\. _Plain language for lawyers._ Sydney, Australia: Federation Press.
 
-[]()Baldwin, C. 1999\. _Plain language and the document revolution._ Washington, DC: Lamplighter Press.
+- Bailey, E. 1990\. _The plain English approach to business writing._ Oxford, UK: Oxford University Press.
 
-[]()Berry, D. 1995\. "Speakable Australian acts." _Information design journal_ 8, no. 1:48-63.
+- Baldwin, C. 1999\. _Plain language and the document revolution._ Washington, DC: Lamplighter Press.
 
-[]()Charrow, V., and R. Charrow. 1978\. _The comprehension of standard jury instructions: A psycholinguistic approach._ Arlington, VA: Center for Applied Linguistics.
+- Berry, D. 1995\. "Speakable Australian acts." _Information design journal_ 8, no. 1:48-63.
 
-[]() Clinton, W. 1998\. "Memorandum for the heads of executive departments and agencies." <http://www.plainlanguage.gov/cites/memo.htm> _(now found at <http://www.plainlanguage.gov/whatisPL/govmandates/memo.cfm>)_
+- Charrow, V., and R. Charrow. 1978\. _The comprehension of standard jury instructions: A psycholinguistic approach._ Arlington, VA: Center for Applied Linguistics.
 
-[]()Cutts, M. 1993\. "Unspeakable acts." _Information design journal_ 7, no. 2:115-120.
+- Clinton, W. 1998\. "Memorandum for the heads of executive departments and agencies." <http://www.plainlanguage.gov/cites/memo.htm> _(now found at <http://www.plainlanguage.gov/whatisPL/govmandates/memo.cfm>)_
 
-[]()Cutts, M. 1995\. _The plain English guide._ Oxford, UK: Oxford University Press.
+- Cutts, M. 1993\. "Unspeakable acts." _Information design journal_ 7, no. 2:115-120.
 
-[]()Cutts, M. 1998\. "Unspeakable acts revisited." _Information design journal_ 9, no. 1:39-43.
+- Cutts, M. 1995\. _The plain English guide._ Oxford, UK: Oxford University Press.
 
-[]()Daniels, R. 1995\. "Revising letters to veterans." _Technical communication_ 42, no. 1:69-75.
+- Cutts, M. 1998\. "Unspeakable acts revisited." _Information design journal_ 9, no. 1:39-43.
 
-[]()Dorney, J. 1988\. "The plain English movement." _English journal_ 77, no. 3:49-51.
+- Daniels, R. 1995\. "Revising letters to veterans." _Technical communication_ 42, no. 1:69-75.
 
-[]()Felker, D., F. Pickering, V. Charrow, V. M. Holland, and J. Redish. 1981\. _Guidelines for document designers._ Washington, DC: American Institutes for Research.
+- Dorney, J. 1988\. "The plain English movement." _English journal_ 77, no. 3:49-51.
 
-[]()Flesch, R. 1979\. _How to write plain English._ New York, NY: Harper and Row.
+- Felker, D., F. Pickering, V. Charrow, V. M. Holland, and J. Redish. 1981\. _Guidelines for document designers._ Washington, DC: American Institutes for Research.
 
-[]()Huckin, T., E. Curtin, and D. Graham. 1991\. "Prescriptive linguistics and plain English: The case of 'whiz deletions.'." In _Plain language: Principles and practice._ edited by Steinberg, E., pp. 83-92.Detroit, MI: Wayne State University Press.
+- Flesch, R. 1979\. _How to write plain English._ New York, NY: Harper and Row.
 
-[]()Jereb, B. 1991\. "Plain English on the plant floor." In _Plain language: Principles and practice._ edited by Steinberg, E., pp. 83-92.Detroit, MI: Wayne State University Press.
+- Huckin, T., E. Curtin, and D. Graham. 1991\. "Prescriptive linguistics and plain English: The case of 'whiz deletions.'." In _Plain language: Principles and practice._ edited by Steinberg, E., pp. 83-92.Detroit, MI: Wayne State University Press.
 
-[]()Kimble, J. 1994, 1995\. "Answering the critics of plain language." <http://www.plainlanguage.gov/whatisPL/definitions/Kimble.cfm>
+- Jereb, B. 1991\. "Plain English on the plant floor." In _Plain language: Principles and practice._ edited by Steinberg, E., pp. 83-92.Detroit, MI: Wayne State University Press.
 
-[]()Kimble, J. 1996, 1997\. "Writing for dollars, writing to please." <http://www.plainlanguage.gov/library/kimble.htm> _(now at <http://www.plainlanguagenetwork.org/kimble/dollars.htm>)_
+- Kimble, J. 1994, 1995\. "Answering the critics of plain language." <http://www.plainlanguage.gov/whatisPL/definitions/Kimble.cfm>
 
-[]()Mellinkoff, D. 1982\. _Legal writing: Sense and nonsense._ New York, NY: Scribner.
+- Kimble, J. 1996, 1997\. "Writing for dollars, writing to please." <http://www.plainlanguage.gov/library/kimble.htm> _(now at <http://www.plainlanguagenetwork.org/kimble/dollars.htm>)_
 
-[]()Penman, R. 1993\. "Unspeakable acts and other deeds: A critique of plain legal language." _Information design journal_ 7, no. 2:121-131.
+- Mellinkoff, D. 1982\. _Legal writing: Sense and nonsense._ New York, NY: Scribner.
 
-[]()Plain English Campaign. 1996\. _Language on trial: The plain English guide to legal writing._ London, UK: Robson Books.
+- Penman, R. 1993\. "Unspeakable acts and other deeds: A critique of plain legal language." _Information design journal_ 7, no. 2:121-131.
 
-[]()Plain Language Action Network. "Writing user-friendly documents." <http://www.plainlanguage.gov/handbook/> (_now at <http://www.plainlanguage.gov/howto/guidelines/reader-friendly.cfm>_
+- Plain English Campaign. 1996\. _Language on trial: The plain English guide to legal writing._ London, UK: Robson Books.
 
-[]()"Plain Language Online." <http://www.web.net/raporter/English/Introduction/intro.html><br>
-[]()Redish, J. C. 1985\. "The plain English movement." In _The English language today._ edited by Greenbaum, S., pp. 125-138.New York, NY: Pergamon Press.
+- Plain Language Action Network. "Writing user-friendly documents." <http://www.plainlanguage.gov/handbook/> (_now at <http://www.plainlanguage.gov/howto/guidelines/reader-friendly.cfm>_
 
-[]()Redish, J. C., and C. Rosen. 1991\. "Can guidelines help writers?." In _Plain language: Principles and practice._ edited by Steinberg, E., pp. 83-92.Detroit, MI: Wayne State University Press.
+- "Plain Language Online." <http://www.web.net/raporter/English/Introduction/intro.html>
+- Redish, J. C. 1985\. "The plain English movement." In _The English language today._ edited by Greenbaum, S., pp. 125-138.New York, NY: Pergamon Press.
 
-[]()Schriver, K. 1997\. _Dynamics in document design._ New York, NY: John Wiley & Sons.
+- Redish, J. C., and C. Rosen. 1991\. "Can guidelines help writers?." In _Plain language: Principles and practice._ edited by Steinberg, E., pp. 83-92.Detroit, MI: Wayne State University Press.
 
-[]()Steinberg, E., ed. 1991\. _Plain language: Principles and practice._ Detroit, MI: Wayne State University Press.
+- Schriver, K. 1997\. _Dynamics in document design._ New York, NY: John Wiley & Sons.
 
-[]()U.S. Securities and Exchange Commission. 1998\. _A plain English handbook: How to create clear SEC disclosure documents._ <http://www.sec.gov/news/handbook.htm><br>
-[]()van der Waarde, K. 1999\. "Typographic dimensions and conventional wisdom: A discrepancy?." _Technical communication_ 46, no. 1:67-74.
+- Steinberg, E., ed. 1991\. _Plain language: Principles and practice._ Detroit, MI: Wayne State University Press.
 
-[]()Williams, D. 1999\. "A review of plain English writing tips for U.S. government documents." MA thesis, George Mason University.
+- U.S. Securities and Exchange Commission. 1998\. _A plain English handbook: How to create clear SEC disclosure documents._ <http://www.sec.gov/news/handbook.htm>
+- van der Waarde, K. 1999\. "Typographic dimensions and conventional wisdom: A discrepancy?." _Technical communication_ 46, no. 1:67-74.
 
-[]()Wilson, C. 1996\. _Plain language pleadings._ Upper Saddle River, NJ: Prentice Hall.
+- Williams, D. 1999\. "A review of plain English writing tips for U.S. government documents." MA thesis, George Mason University.
 
-[]()Wydick, R. 1994\. _Plain English for lawyers._ Durham, NC: Carolina Academic Press.<br>
+- Wilson, C. 1996\. _Plain language pleadings._ Upper Saddle River, NJ: Prentice Hall.
+
+- Wydick, R. 1994\. _Plain English for lawyers._ Durham, NC: Carolina Academic Press.

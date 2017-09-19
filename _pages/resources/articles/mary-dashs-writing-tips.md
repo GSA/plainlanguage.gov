@@ -1,10 +1,10 @@
 ---
-title: Mary Dash’s Writing Tips
+title: Mary Dash’s writing tips
 permalink: /resources/articles/mary-dashs-writing-tips/
 sidenav: resources
 ---
 
-Mary Dash, Chief of the Congressional Correspondence and Quality Review Branch of the Internal Revenue Service, wrote these excellent writing tips.
+_Mary Dash, Chief of the Congressional Correspondence and Quality Review Branch of the Internal Revenue Service, wrote these excellent writing tips._
 
 [Active and passive voice](dash/dashactive.cfm)
 

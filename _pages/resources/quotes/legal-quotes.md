@@ -1,5 +1,5 @@
 ---
-title: Legal Quotes
+title: Legal quotes
 permalink: /resources/quotes/legal-quotes/
 sidenav: resources
 ---

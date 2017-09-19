@@ -1,5 +1,5 @@
 ---
-title: Clarity in Financial Documents
+title: Clarity in financial documents
 permalink: /resources/content-types/clarity-in-financial-documents/
 sidenav: resources
 ---
@@ -10,7 +10,7 @@ The SEC's Chief Accountant, Donald T. Nicolaisen, made the case for clarity in f
 
 The next column includes links to recent and past financial literacy initiatives to produce clear and helpful documents for investors.
 
-## Plain Language at the Securities and Exchange Commission
+## Plain language at the Securities and Exchange Commission
 
 The SEC proposed [new forms](http://www.sec.gov/rules/proposed/33-8358.pdf) to tell investors if their brokers are getting extra payments when they recommend investors buy mutual funds.
 
@@ -26,7 +26,7 @@ The SEC also published a guide, _[A Plain English Handbook: How to Create Clear 
 
 Securities and Exchange Commission Chairman Christopher Cox, as [keynote speaker](http://www.sec.gov/news/speech/2007/spch101207cc.htm) at the October 2007 Symposium entitled "Plain Language: Public Policy and Good Business", discussed the need for plain language in promoting transparency in investor information.
 
-## Other Plain Language Material on Financial Literacy
+## Further reading
 
 The Financial Modernization Act of 1999, also known as the Gramm-Leach-Bliley Act (GLBA), requires financial institutions to provide their customers with notices of their privacy policies and practices. Soon after the Act went into effect in 2001, researchers reported that the privacy notices were too lengthy, dense, and complex. Most consumers neither read nor understand them. In response, six federal agencies that enforce the Act started a project to explore developing financial privacy notices that are easier for consumers to understand and use. This report presents the research-based rationale for a "prototype" privacy notice designed over the course of the Form Development Project and discusses the project's methodology.
 

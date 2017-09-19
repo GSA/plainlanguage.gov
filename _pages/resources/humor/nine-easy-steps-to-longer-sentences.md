@@ -1,5 +1,5 @@
 ---
-title: Nine Easy Steps to Longer Sentences
+title: Nine easy steps to longer sentences
 permalink: /resources/humor/nine-easy-steps-to-longer-sentences/
 sidenav: resources
 ---

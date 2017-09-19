@@ -4,9 +4,7 @@ permalink: /resources/guides/security-and-exchange-commission-a-plain-english-ha
 sidenav: resources
 ---
 
-# _Preface_ by Warren E. Buffett<br>
-
----- From Security and Exchange Commission, A Plain English Handbook, 1998
+_Preface from the From Security and Exchange Commission, A Plain English Handbook, 1998, by Warren E. Buffett_
 
 This handbook and Chairman Levitt's whole drive to encourage "plain English" in disclosure documents, are good news for me. For more than forty years, I've studied the documents that public companies file. Too often, I've been unable to decipher just what is being said or, worse yet, had to conclude that nothing was being said. If corporate lawyers and their clients follow the advice in this handbook, my life is going to become much easier.
 
