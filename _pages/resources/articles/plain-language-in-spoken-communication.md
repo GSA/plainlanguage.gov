@@ -1,5 +1,5 @@
 ---
-title: Plain Language in Spoken Communication
+title: Plain language in spoken communication
 permalink: /resources/articles/plain-language-in-spoken-communication/
 sidenav: resources
 ---
@@ -52,7 +52,7 @@ Don't fill pauses with words and phrases like um, ah, OK, you know, and things o
 
 Shall is an ambiguous word. Instead, use must, ought, or will.
 
-## Audiovisual Aids
+## Audiovisual aids
 
 Television and movies have raised the bar for what excites audiences. We have grown accustomed to processing verbal messages connected with images. An audiovisual aid can help keep your audience engaged. Consider using a chart, poster, picture, PowerPoint presentation, or a combination.
 

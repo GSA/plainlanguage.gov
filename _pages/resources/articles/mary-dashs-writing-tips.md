@@ -1,5 +1,5 @@
 ---
-title: Mary Dash’s Writing Tips
+title: Mary Dash’s writing tips
 permalink: /resources/articles/mary-dashs-writing-tips/
 sidenav: resources
 ---

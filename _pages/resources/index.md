@@ -4,7 +4,7 @@ permalink: /resources/
 sidenav: resources
 ---
 
-A wealth of information awaits you. Read a book or journal article. Take a course. Find a persuasive quote on the value of plain language. All this and much more can be found in our resource area.
+
 
 [Books, Articles, and Journals](journals/index.cfm)
 
