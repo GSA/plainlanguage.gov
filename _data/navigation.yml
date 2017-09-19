@@ -125,3 +125,12 @@ law:
         href: /law/requirements/agency-contacts/
   - text: Examples
     href: /law/examples/
+    subnav:
+      - text: Before-and-after comparisons
+        href: /law/examples/before-and-after/
+      - text: Minerals Management Service
+        href: /law/examples/minerals-management-service/
+      - text: "American Bar Association: Adoption by the House of Delegates"
+        href: /law/examples/american-bar-association-adoption-by-the-house-of-delegates/
+      - text: Table of Plain Language Regulations
+        href: /law/examples/table-of-plain-language-regulations/
