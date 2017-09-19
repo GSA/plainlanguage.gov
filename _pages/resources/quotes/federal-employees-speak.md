@@ -1,5 +1,5 @@
 ---
-title: Federal Employees Speak
+title: Federal employees speak
 permalink: /resources/quotes/federal-employees-speak/
 sidenav: resources
 ---

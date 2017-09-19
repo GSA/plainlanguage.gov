@@ -1,5 +1,5 @@
 ---
-title: Science and Industry Quotes
+title: Science and industry quotes
 permalink: /resources/quotes/science-and-industry-quotes/
 sidenav: resources
 ---

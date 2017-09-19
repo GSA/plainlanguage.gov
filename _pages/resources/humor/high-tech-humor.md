@@ -1,5 +1,5 @@
 ---
-title: High Tech Humor
+title: High tech humor
 permalink: /resources/humor/high-tech-humor/
 sidenav: resources
 ---

@@ -1,5 +1,5 @@
 ---
-title: Funny Headlines
+title: Funny headlines
 permalink: /resources/humor/funny-headlines/
 sidenav: resources
 ---

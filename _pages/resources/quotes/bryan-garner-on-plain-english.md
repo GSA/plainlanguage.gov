@@ -1,5 +1,5 @@
 ---
-title: Bryan Garner on "Plain English"
+title: Bryan Garner on "plain English"
 permalink: /resources/quotes/bryan-garner-on-plain-english/
 sidenav: resources
 ---

@@ -1,6 +1,6 @@
 ---
 title: Checklist for plain language
-permalink: /resources/checklist/checklist-for-plain-language/
+permalink: /resources/checklists/checklist-for-plain-language/
 sidenav: resources
 ---
 
