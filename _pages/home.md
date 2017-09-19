@@ -23,17 +23,17 @@ top: false
   <p class="h5">Details about the Plain Writing Act of 2010, examples of manuals and regulations that meet its requirements, and a short history of plain language in government.</p>
 </div>
   <div class="usa-width-one-half pr0 sm-pr4">
-  <h3><a href="{{ "/law/" | relative_url }}">Writing guidelines</a></h3>
+  <h3><a href="{{ "/guidelines/" | relative_url }}">Writing guidelines</a></h3>
   <p class="h5">Tips for understanding your users, writing and organizing information clearly, being concise, designing for reading, and testing your content.</p>
 </div>
 </div>
 <div class="usa-grid">
   <div class="usa-width-one-half pr0 sm-pr4">
-  <h3><a href="{{ "/law/" | relative_url }}">Training</a></h3>
+  <h3><a href="{{ "/training/" | relative_url }}">Training</a></h3>
   <p class="h5">An overview of free training sessions we offer along with course materials for trainers.</p>
 </div>
   <div class="usa-width-one-half pr0 sm-pr4">
-  <h3><a href="{{ "/law/" | relative_url }}">Resources</a></h3>
+  <h3><a href="{{ "/resources/" | relative_url }}">Resources</a></h3>
   <p class="h5">Links to books, articles, checklists, style guides, and online resources about plain language.</p>
 </div>
 </div>

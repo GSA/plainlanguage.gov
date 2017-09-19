@@ -1,5 +1,9 @@
 // Typography
 
+.usa-section-light a {
+  color: #212121;
+}
+
 h1,
 h2,
 h3,
@@ -9,17 +13,23 @@ h6 {
   font-family: $font-sans;
 }
 
+.usa-heading-alt {
+  border-bottom: 1px solid #5b616b;
+  padding-bottom: .8rem;
+}
+
 // Header
 
 .usa-logo-text {
     font-weight: 400;
 }
 
-@media #{$breakpoint-lg} {
-  .usa-nav {
-      padding-bottom: 5rem;
-  }
+usa-banner-inner {
+  padding-bottom: 3px;
+  padding-top: 3px;
+}
 
+@media #{$breakpoint-lg} {
   .usa-nav-primary > li > a {
     font-weight: 400;
   }
