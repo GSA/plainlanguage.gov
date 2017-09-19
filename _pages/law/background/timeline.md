@@ -11,17 +11,20 @@ This timeline is an abbreviated and updated version of [A History of Plain Langu
 
 * President Obama signed the [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/content-detail.html) into law on October 13, 2010.
 
+* The Office of Management and Budget (OMB) issued [Increasing Openness in the Rulemaking Process – Improving Electronic
+Dockets](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inforeg/edocket_final_5-28-2010.pdf) on May 28, 2010
+
 * President Obama issued [Executive Order 13563 - Improving Regulation and Regulatory Review](https://obamawhitehouse.archives.gov/the-press-office/2011/01/18/executive-order-13563-improving-regulation-and-regulatory-review) on January 18, 2011. The order states that our regulatory system must ensure that regulations are accessible, consistent, written in plain language, and easy to understand.
 
-* The Office of Management and Budget (OMB) posted a [Best Practices Guide for regulations](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inforeg/edocket_final_5-28-2010.pdf).
-
-* OMB issued its [Final Guidance](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2011/m11-15.pdf) on April 13, 2011.
+* OMB issued [Final Guidance on Implementing the Plain Writing Act](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2011/m11-15.pdf) on April 13, 2011.
 
 ## 2000s
 
-The Bush administration did not have a formal plain language initiative, however a mandate for communicating clearly with the public was part of the Strategic Plan in a number of federal departments and agencies. Many agencies had strong, active plain-language programs in place.
+* The Bush administration did not have a formal plain language initiative, however a mandate for communicating clearly with the public was part of the Strategic Plan in a number of federal departments and agencies. Many agencies had strong, active plain-language programs in place.
 
-Arthur Levitt, Chairman of the Securities and Exchange Commission at the time, was a champion of plain language and realized how critical it is for financial documents. The [SEC handbook](https://www.sec.gov/reportspubs/investor-publications/newsextrahandbookhtm.html) remains an excellent resource on plain language writing.
+* Arthur Levitt, Chairman of the Securities and Exchange Commission at the time, was a champion of plain language and realized how critical it is for financial documents. The SEC's [Plain English Handbook](https://www.sec.gov/reportspubs/investor-publications/newsextrahandbookhtm.html) remains an excellent resource on plain language writing.
+
+* OMB issued a policy directive about a [standard format for grant announcements](https://www.federalregister.gov/documents/2003/06/23/03-15798/office-of-federal-financial-management-policy-directive-on-financial-assistance-program) in 2003.
 
 ## 1990s
 
