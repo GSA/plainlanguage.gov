@@ -56,9 +56,9 @@ begin and commence | start
 
 Other ways to omit unnecessary words include eliminating hidden verbs, using pronouns, and avoiding the passive voice. For more information, see:
 
-- [Avoid hidden verbs]({{ site.baseurl }}{% link _guidelines/words/avoid-hidden-verbs.md %})
-- [Use pronouns to speak directly to readers]({{ site.baseurl }}{% link _guidelines/audience/address-the-user.md %})
-- [Use active voice]({{ site.baseurl }}{% link _guidelines/conversational/use-active-voice.md %})
+- [Avoid hidden verbs]({{ site.baseurl }}{% link _pages/guidelines/words/avoid-hidden-verbs.md %})
+- [Use pronouns to speak directly to readers]({{ site.baseurl }}{% link _pages/guidelines/audience/address-the-user.md %})
+- [Use active voice]({{ site.baseurl }}{% link _pages/guidelines/conversational/use-active-voice.md %})
 
 ## Example
 

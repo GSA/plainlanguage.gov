@@ -26,7 +26,7 @@ If you submit your form: | We must receive it by:
 By email | the 25th of the second month following the month you are reporting
 By mail or fax | the 15th of the second month following the month you are reporting
 
-For more information on tables see [Use tables to make complex material easier to understand]({{ site.baseurl }}{% link _guidelines/design/use-tables-to-make-complex-material-easier-to-understand.md %}).
+For more information on tables see [Use tables to make complex material easier to understand]({{ site.baseurl }}{% link _pages/guidelines/design/use-tables-to-make-complex-material-easier-to-understand.md %}).
 
 ## Sources
 

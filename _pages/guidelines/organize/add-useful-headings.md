@@ -3,7 +3,7 @@ title: Add useful headings
 sidenav: guidelines
 ---
 
-Well organized writing will still be difficult for users to follow if they can't see how it's organized. An effective way to reveal your document's organization is to use lots of useful headings. Headings are also critical for effective web pages (see [Writing for the web]({{ site.baseurl }}{% link _guidelines/web/index.md %})). You should use headings liberally on the web to help your user accomplish top tasks.
+Well organized writing will still be difficult for users to follow if they can't see how it's organized. An effective way to reveal your document's organization is to use lots of useful headings. Headings are also critical for effective web pages (see [Writing for the web]({{ site.baseurl }}{% link _pages/guidelines/web/index.md %})). You should use headings liberally on the web to help your user accomplish top tasks.
 
 ## Types of headings
 

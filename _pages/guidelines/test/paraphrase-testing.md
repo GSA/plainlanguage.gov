@@ -28,7 +28,7 @@ You won't get much usable information from that type of question.
 
 With only 6 to 9 participants, paraphrase testing will not take a lot of time, and the time invested is worth it. Taking the time to test your document and change it based on what you learn may save you hundreds of hours later answering questions from your users or producing a second document clarifying the first one.
 
-For longer documents where finding information is also important do [usability testing]({{ site.baseurl }}{% link _guidelines/test/usability-testing.md %}). Usability testing is the best technique for booklets, regulations, and web sites. With usability testing, you test the document as a whole, not just individual paragraphs.
+For longer documents where finding information is also important do [usability testing]({{ site.baseurl }}{% link _pages/guidelines/test/usability-testing.md %}). Usability testing is the best technique for booklets, regulations, and web sites. With usability testing, you test the document as a whole, not just individual paragraphs.
 
 ## Example
 
