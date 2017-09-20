@@ -34,19 +34,11 @@ sass:
 defaults:
   - scope:
       path: ""
-      type: "guidelines"
-    values:
-      layout: "docs"
-  - scope:
-      path: ""
       type: "pages"
     values:
       layout: "docs"
 
 collections:
-  guidelines:
-    output: true
-    permalink: /:collection/:path/
   pages:
     output: true
     permalink: /:path/

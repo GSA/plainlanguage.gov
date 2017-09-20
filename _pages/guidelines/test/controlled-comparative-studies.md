@@ -5,7 +5,7 @@ sidenav: guidelines
 
 Controlled comparative studies (often called A/B testing or split testing) can be done in several different ways, but they all have similar characteristics. These tests will give you quantitative data on how well the public uses your content.
 
-Before you do a controlled comparative study, you should do [paraphrase testing]({{ site.baseurl }}{% link _guidelines/test/paraphrase-testing.md %}) or [usability testing]({{ site.baseurl }}{% link _guidelines/test/usability-testing.md %}) and refine your writing based on what you learn in these smaller scale studies. Controlled comparative studies (especially for paper documents) are best near the end of the process. This is because controlled testing will tell you if your content is working, but it won't tell you why.
+Before you do a controlled comparative study, you should do [paraphrase testing]({{ site.baseurl }}{% link _pages/guidelines/test/paraphrase-testing.md %}) or [usability testing]({{ site.baseurl }}{% link _pages/guidelines/test/usability-testing.md %}) and refine your writing based on what you learn in these smaller scale studies. Controlled comparative studies (especially for paper documents) are best near the end of the process. This is because controlled testing will tell you if your content is working, but it won't tell you why.
 
 ## Define your goals
 

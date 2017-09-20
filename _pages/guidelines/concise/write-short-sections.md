@@ -5,7 +5,7 @@ sidenav: guidelines
 
 Short sections break up material so it appears easier to comprehend. Long, dense sections with no white space are visually unappealing, and give the impression your writing is difficult to understand. Short sections also help you organize your thoughts more effectively.
 
-Short sections give you the opportunity to [add useful headings]({{ site.baseurl }}{% link _guidelines/organize/add-useful-headings.md %}), which help the reader skim and scan the page. Long sections are impossible to summarize meaningfully in a heading. When you break up different concepts into short sections, each heading can give the reader a clear picture of what's in that section.
+Short sections give you the opportunity to [add useful headings]({{ site.baseurl }}{% link _pages/guidelines/organize/add-useful-headings.md %}), which help the reader skim and scan the page. Long sections are impossible to summarize meaningfully in a heading. When you break up different concepts into short sections, each heading can give the reader a clear picture of what's in that section.
 
 ## Example
 

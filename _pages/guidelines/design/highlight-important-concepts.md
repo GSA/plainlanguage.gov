@@ -3,7 +3,7 @@ title: Highlight important concepts
 sidenav: guidelines
 ---
 
-Adding [lists]({{ site.baseurl }}{% link _guidelines/organize/use-lists.md %}) and [useful headings]({{ site.baseurl }}{% link _guidelines/organize/add-useful-headings.md %}) is a great way to emphasize important information in your writing.
+Adding [lists]({{ site.baseurl }}{% link _pages/guidelines/organize/use-lists.md %}) and [useful headings]({{ site.baseurl }}{% link _pages/guidelines/organize/add-useful-headings.md %}) is a great way to emphasize important information in your writing.
 
 You can also add **bold** and _italics_ to emphasize important concepts within a particular section. While it is difficult to use visual emphasis in regulations, it helps bring out important information in other writing. Only emphasize important information, otherwise you'll dilute its impact.
 
