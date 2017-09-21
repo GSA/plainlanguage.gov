@@ -1,6 +1,17 @@
 ---
 title: Write short sections
 sidenav: guidelines
+sources:
+  - author: 'Kimble, Joseph'
+    title: Lifting the Fog of Legalese
+    date: 2006
+    publisher: 'Carolina Academic Press, Durham, NC'
+    page: 'pp. 11, 165-174'
+  - author: 'Murawski, Thomas A.'
+    title: Writing Readable Regulations
+    date: 1999
+    publisher: 'Carolina Academic Press Durham, NC'
+    page: pp. 9-10
 ---
 
 Short sections break up material so it appears easier to comprehend. Long, dense sections with no white space are visually unappealing, and give the impression your writing is difficult to understand. Short sections also help you organize your thoughts more effectively.
@@ -38,8 +49,3 @@ Yes, selections must share a border. The total area you select must be compact e
 #### § 2653.34 How small a parcel can I select?
 
 Select lands in quarter sections where they are available unless there is not enough left in your group's entitlement to allow this. Your election must include all available lands in areas that are smaller than quarter sections. Conform your selection as much as possible to the United States land survey system.
-
-## Sources
-
-- Kimble, Joseph, _Lifting the Fog of Legalese_, 2006, Carolina Academic Press, Durham, NC, pp. 11, 165-174.
-- Murawski, Thomas A., _Writing Readable Regulations_, 1999, Carolina Academic Press Durham, NC, pp. 9-10.

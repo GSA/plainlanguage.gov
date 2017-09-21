@@ -1,6 +1,27 @@
 ---
 title: Add useful headings
 sidenav: guidelines
+sources:
+  - author: 'Garner, Bryan A.'
+    title: Legal Writing in Plain English
+    date: 2001
+    publisher: 'University of Chicago Press, Chicago'
+    page: p. 14-16
+  - author: 'Kimble, Joseph'
+    title: Lifting the Fog of Legalese
+    date: 2006
+    publisher: 'Carolina Academic Press, Durham, NC'
+    page: p. 70 (C)
+  - author: 'Murawski, Thomas A.'
+    title: Writing Readable Regulations
+    date: 1999
+    publisher: 'Carolina Academic Press Durham, NC'
+    page: 'pp. 10-12, 27'
+  - author: Office of the Federal Register
+    title: Document Drafting Handbook
+    link: 'http://www.archives.gov/federal-register/write/handbook/ddh.pdf'
+    date: 1998
+    page: MMR-2
 ---
 
 Well organized writing will still be difficult for users to follow if they can't see how it's organized. An effective way to reveal your document's organization is to use lots of useful headings. Headings are also critical for effective web pages (see [Writing for the web]({{ site.baseurl }}{% link _pages/guidelines/web/index.md %})). You should use headings liberally on the web to help your user accomplish top tasks.
@@ -77,10 +98,3 @@ Don't say | Say
 § 254.13 Multi-tribal grants | § 254.13 When must I submit my application?
 § 254.14 Administrative requirements | § 254.14 Can a multi-tribal organization submit a single grant request?
 § 254.15 Appeals | § 254.15 What special information do I need for an application by a multi-tribal organization?
-
-## Sources
-
-- Garner, Bryan A., _Legal Writing in Plain English_, 2001, University of Chicago Press, Chicago, p. 14-16.
-- Kimble, Joseph, _Lifting the Fog of Legalese_, 2006, Carolina Academic Press, Durham, NC, p. 70 (C).
-- Murawski, Thomas A., _Writing Readable Regulations_, 1999, Carolina Academic Press Durham, NC, pp. 10-12, 27.
-- Office of the Federal Register, [Document Drafting Handbook](http://www.archives.gov/federal-register/write/handbook/ddh.pdf), 1998, MMR-2.

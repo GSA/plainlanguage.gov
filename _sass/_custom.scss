@@ -1,7 +1,7 @@
 // Typography
 
 .usa-section-light a {
-  color: #212121;
+  color: $color-base;
 }
 
 h1,
@@ -14,19 +14,19 @@ h6 {
 }
 
 .usa-heading-alt {
-  border-bottom: 1px solid #5b616b;
+  border-bottom: 1px solid $color-gray;
   padding-bottom: .8rem;
 }
 
 // Header
 
-.usa-logo-text {
-    font-weight: 400;
-}
-
-usa-banner-inner {
+.usa-banner-inner {
   padding-bottom: 3px;
   padding-top: 3px;
+}
+
+.usa-logo-text {
+    font-weight: 400;
 }
 
 @media #{$breakpoint-lg} {
@@ -35,7 +35,7 @@ usa-banner-inner {
   }
 
   .usa-nav-primary a.current-parent span, {
-      border-bottom: 0.7rem solid #0071bc;
+      border-bottom: 0.7rem solid $color-primary;
       padding-bottom: 1rem;
   }
 }
@@ -43,7 +43,7 @@ usa-banner-inner {
 // Side navigation
 
 .usa-sidenav-list a.current-parent {
-    border-left: 0.4rem solid #0071bc;
+    border-left: 0.4rem solid $color-primary;
     color: #0071bc;
     font-weight: 700;
     padding-left: 1.4rem;

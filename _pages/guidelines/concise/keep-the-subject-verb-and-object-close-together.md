@@ -1,6 +1,27 @@
 ---
 title: 'Keep the subject, verb, and object close together'
 sidenav: guidelines
+sources:
+  - author: 'Garner, Bryan A.'
+    title: Legal Writing in Plain English
+    date: 2001
+    publisher: 'University of Chicago Press, Chicago'
+    page: 'pp. 23-4, 102'
+  - author: 'Murawski, Thomas A.'
+    title: Writing Readable Regulations
+    date: 1999
+    publisher: 'Carolina Academic Press Durham, NC'
+    page: pp. 77-78
+  - author: Office of the Federal Register
+    title: Document Drafting Handbook
+    link: 'http://www.archives.gov/federal-register/write/handbook/ddh.pdf'
+    date: 1998
+    publisher: MMR-6
+  - author: Securities and Exchange Commission
+    title: Plain English Handbook
+    date: 1998
+    publisher: 'Washington, DC'
+    page: p. 32
 ---
 
 The natural word order of an English sentence is subject-verb-object. This is how you first learned to write sentences, and it's still the best way. When you put modifiers, phrases, or clauses between two or all three of these essential parts, you make it harder for the user to understand you.
@@ -27,10 +48,3 @@ By email | the 25th of the second month following the month you are reporting
 By mail or fax | the 15th of the second month following the month you are reporting
 
 For more information on tables see [Use tables to make complex material easier to understand]({{ site.baseurl }}{% link _pages/guidelines/design/use-tables-to-make-complex-material-easier-to-understand.md %}).
-
-## Sources
-
-- Garner, Bryan A., _Legal Writing in Plain English_, 2001, University of Chicago Press, Chicago, pp. 23-4, 102.
-- Murawski, Thomas A., _Writing Readable Regulations_, 1999, Carolina Academic Press Durham, NC, pp.77-78.
-- Office of the Federal Register, [Document Drafting Handbook](http://www.archives.gov/federal-register/write/handbook/ddh.pdf), 1998, MMR-6.
-- Securities and Exchange Commission, _Plain English Handbook_, 1998, Washington, DC, p. 32.

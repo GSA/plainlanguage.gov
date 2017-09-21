@@ -1,6 +1,10 @@
 ---
 title: Repurpose print material for the web
 sidenav: guidelines
+sources:
+  - title: Writing Style for Print vs. Web
+    link: 'https://www.nngroup.com/articles/writing-style-for-print-vs-web/'
+    publisher: Nielsen Norman Group
 ---
 
 Don't cut and paste the text of print documents to create web content. People are more likely to leave you webpage, potentially costing you time and money, because they will not take the time to find what they are looking for.
@@ -16,7 +20,3 @@ Because the web is "action-oriented," you need to repurpose your print document.
 - Use headings to help users navigate the content
 - Highlight key facts in a bulleted list
 - Explain complex instructions in a visually appealing If/Then table.
-
-## Sources
-
-- [Writing Style for Print vs. Web](https://www.nngroup.com/articles/writing-style-for-print-vs-web/), Nielsen Norman Group

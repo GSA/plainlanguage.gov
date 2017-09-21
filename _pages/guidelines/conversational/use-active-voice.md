@@ -1,6 +1,47 @@
 ---
 title: Use active voice
 sidenav: guidelines
+sources:
+  - author: 'Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.'
+    title: 'Clear & Effective Legal Writing, 4th edition'
+    date: 2007
+    publisher: 'Aspen Publishers, New York, NY'
+    page: pp. 173-175
+  - author: 'Garner, Bryan A.'
+    title: 'A Dictionary of Modern Legal Usage, 2nd edition'
+    date: 1995
+    publisher: 'Oxford University Press, Oxford and New York'
+    page: pp. 643-644
+  - author: 'Garner, Bryan A.'
+    title: Legal Writing in Plain English
+    date: 2001
+    publisher: 'University of Chicago Press, Chicago'
+    page: pp. 24-26
+  - author: 'Garner, Bryan A.'
+    title: Garner's Modern American Usage
+    date: 2003
+    publisher: 'Oxford University Press, Oxford and New York'
+    page: pp. 892-893
+  - author: 'Murawski, Thomas A.'
+    title: Writing Readable Regulations
+    date: 1999
+    publisher: 'Carolina Academic Press Durham, NC'
+    page: pp. 73-75
+  - author: Office of the Federal Register
+    title: Document Drafting Handbook
+    link: 'http://www.archives.gov/federal-register/write/handbook/ddh.pdf'
+    date: 1998
+    page: p. MMR-5
+  - author: 'Redish, Janice C.'
+    title: How to Write Regulations and Other Legal Documents in Clear English
+    date: 1991
+    publisher: 'American Institutes for Research, Washington, DC'
+    page: p. 26
+  - author: Securities and Exchange Commission
+    title: Plain English Handbook
+    date: 1998
+    publisher: 'Washington, DC'
+    page: pp. 19–20
 ---
 
 Active voice makes it clear who is supposed to do what. It eliminates ambiguity about responsibilities. Not "It must be done," but "You must do it." Passive voice obscures who is responsible for what and is one of the biggest problems with government writing. Don't confuse passive voice with past tense.
@@ -29,14 +70,3 @@ Passive sentences have two basic features, although both may not appear in every
 In a few instances, passive voice may be appropriate. For example, when one action follows another as a matter of law, and there is no actor (besides the law itself) for the second action, a passive sentence may be the best method of expression.
 
 You might also use passive when it doesn't matter who is doing an action. For example: "If you do not pay the royalty on your mineral production, your lease will be terminated."
-
-## Sources
-
-- Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P., _Clear & Effective Legal Writing_, 4th edition, 2007, Aspen Publishers, New York, NY, pp. 173-175.
-- Garner, Bryan A., _A Dictionary of Modern Legal Usage_, 2nd edition, 1995, Oxford University Press, Oxford and New York, pp. 643-644.
-- Garner, Bryan A., _Legal Writing in Plain English_, 2001, University of Chicago Press, Chicago, pp. 24-26.
-- Garner, Bryan A., _Garner's Modern American Usage_, 2003. Oxford University Press, Oxford and New York, pp. 892-893.
-- Murawski, Thomas A., _Writing Readable Regulations_, 1999, Carolina Academic Press Durham, NC, pp. 73-75.
-- Office of the Federal Register, [Document Drafting Handbook](http://www.archives.gov/federal-register/write/handbook/ddh.pdf), 1998, p. MMR-5.
-- Redish, Janice C., _How to Write Regulations and Other Legal Documents in Clear English_, 1991, American Institutes for Research, Washington, DC, p. 26.
-- Securities and Exchange Commission, _Plain English Handbook_, 1998, Washington, DC, pp. 19–20.

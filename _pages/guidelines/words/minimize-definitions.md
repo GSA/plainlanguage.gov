@@ -1,6 +1,40 @@
 ---
 title: Minimize definitions
 sidenav: guidelines
+sources:
+  - author: 'Cohen, Morris'
+    title: Reason and Law
+    date: 1950
+    publisher: 'The Free Press, Glencoe, IL'
+    page: p.77
+  - author: 'Dickerson, Reed'
+    title: Fundamentals of Legal Drafting
+    date: 1986
+    publisher: '2nd edition, Little, Brown and Company, Boston and Toronto'
+    page: 'pp. 137, 144'
+  - author: 'Flesch, Rudolf'
+    title: 'How to Write in Plain English, A Book for Lawyers and Consumers'
+    date: 1979
+    publisher: 'Harper and Rowe, New York'
+    page: 'pp. 58-69, 79'
+  - author: 'Garner, Bryan A.'
+    title: 'A Dictionary of Modern Legal Usage, 2nd edition'
+    date: 1995
+    publisher: 'Oxford University Press, Oxford and New York'
+    page: p. 257-258
+  - author: 'Garner, Bryan A.'
+    title: Legal Writing in Plain English
+    date: 2001
+    publisher: 'University of Chicago Press, Chicago'
+    page: pp. 97-99
+  - author: 'Kimble, Joseph'
+    title: 'Lifting the Fog of Legalese, Carolina Academic Press'
+    date: 2006
+    publisher: 'Durham, NC'
+  - title: 'Office of the Federal Register, Document Drafting Handbook'
+    link: 'http://www.archives.gov/federal-register/write/handbook/ddh.pdf'
+    date: 1998
+    page: § 8.15
 ---
 
 We have one rule for dealing with definitions: **use them rarely**.
@@ -62,13 +96,3 @@ Hiding in this long passage is the definition, "Maximum economic recovery (MER) 
 ## Don't define words you don't use
 
 Again, this seems obvious. But writers seem to automatically define terms they think they might use, but don't. This can be very confusing for users who expect to read something about the topic but can't find it in the document.
-
-## Sources
-
-- Cohen, Morris, _Reason and Law_, 1950, The Free Press, Glencoe, IL, p.77.
-- Dickerson, Reed, _Fundamentals of Legal Drafting_, 1986, 2nd edition, Little, Brown and Company, Boston and Toronto, pp. 137, 144.
-- Flesch, Rudolf, _How to Write in Plain English_, _A Book for Lawyers and Consumers_, 1979, Harper and Rowe, New York, pp. 58-69, 79.
-- Garner, Bryan A., _A Dictionary of Modern Legal Usage_, 2nd edition, 1995, Oxford University Press, Oxford and New York, p. 257-258.
-- Garner, Bryan A., _Legal Writing in Plain English_, 2001, University of Chicago Press, Chicago, pp. 97-99.
-- Kimble, Joseph, _Lifting the Fog of Legalese_, Carolina Academic Press, 2006, Durham, NC.
-- [Office of the Federal Register, Document Drafting Handbook](http://www.archives.gov/federal-register/write/handbook/ddh.pdf), 1998, § 8.15.

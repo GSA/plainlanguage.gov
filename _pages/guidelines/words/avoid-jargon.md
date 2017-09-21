@@ -1,6 +1,28 @@
 ---
-title: 'Avoid jargon'
+title: Avoid jargon
 sidenav: guidelines
+sources:
+  - author: 'Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.'
+    title: 'Clear & Effective Legal Writing_, 4th edition'
+    date: 2007
+    publisher: 'Aspen Publishers, New York, NY'
+    page: pp. 188-191
+  - author: 'Garner, Bryan A.'
+    title: Garner's Modern American Usage
+    date: 2003
+    publisher: 'Oxford University Press, Oxford and New York'
+    page: pp. 472-473
+  - author: 'Kimble, Joseph'
+    title: Lifting the Fog of Legalese
+    date: 2006
+    publisher: 'Carolina Academic Press, Durham, NC'
+    page: pp.173-174
+  - title: 'Writing Better: Tips for Avoiding Cliches, Jargon and Other Filler'
+    link: 'http://www.contentini.com/writing-better-tips/'
+  - author: 'Redish, Janice C.'
+    title: Writing Web Content that Works
+    date: 2007
+    publisher: 'Morgan Kaufmann Publishers, San Francisco'
 ---
 
 Jargon is unnecessarily complicated used to impress, rather than to inform, your audience.
@@ -58,11 +80,3 @@ Here is a brief list of meaningless filler phrases:
 - Integrating quality solutions
 - Promoting an informed and inclusive multicultural society
 - Strategically engaging schools, community organizations, and so on...
-
-## Sources
-
-- Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P., _Clear & Effective Legal Writing_, 4th edition, 2007, Aspen Publishers, New York, NY, pp. 188-191.
-- Garner, Bryan A., _Garner's Modern American Usage_, 2003, Oxford University Press, Oxford and New York, pp. 472-473.
-- Kimble, Joseph, _Lifting the Fog of Legalese_, 2006, Carolina Academic Press, Durham, NC, pp.173-174.
-- [Writing Better: Tips for Avoiding Cliches, Jargon and Other Filler](http://www.contentini.com/writing-better-tips/)
-- Redish, Janice C., _Writing Web Content that Works_, 2007, Morgan Kaufmann Publishers, San Francisco

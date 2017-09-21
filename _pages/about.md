@@ -2,19 +2,23 @@
 title: About us
 permalink: /about/
 layout: sidebar
-sidebar: >
-  <h3 class="usa-heading-alt">Our officers</h3>
-  <h4>Katherine Spivey, Co-chair</h4>
-  <p>Web Content/Social Media Manager, Plain Language Launcher<br>
-  <a href="https://www.gsa.gov">General Services Administration</a></p>
+sidebar: >-
+  ## Our officers
 
-  <h4>Kathryn Catania, Co-chair</h4>
-  <p>Web Content Editor, Office of Communication<br>
-  <a href="https://www.uscis.gov/">U.S. Citizenship and Immigration Services</a></p>
+  #### Katherine Spivey, Co-chair
 
-  <h4>Miriam Vincent, Web manager</h4>
-  <p>Staff Attorney, Office of the Federal Register<br>
-  <a href="https://www.archives.gov/">National Archives and Records Administration</a></p>
+  Web Content/Social Media Manager, Plain Language Launcher<br>
+  [General Services Administration](https://www.gsa.gov)
+
+  #### Kathryn Catania, Co-chair
+
+  Web Content Editor, Office of Communication<br>
+  [U.S. Citizenship and Immigration Services](https://www.uscis.gov/)
+
+  #### Miriam Vincent, Web manager
+
+  Staff Attorney, Office of the Federal Register<br>
+  [National Archives and Records Administration](https://www.archives.gov/)
 ---
 
 The Plain Language Action and Information Network (PLAIN) is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing. Originally called the Plain English Network, PLAIN has been meeting informally since the mid 1990s.

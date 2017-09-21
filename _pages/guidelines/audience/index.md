@@ -2,6 +2,17 @@
 title: Write for your audience
 sidenav: guidelines
 permalink: /guidelines/audience/
+sources:
+  - author: 'Garner, Bryan A.'
+    title: Legal Writing in Plain English
+    date: 2001
+    publisher: 'University of Chicago Press, Chicago'
+    page: pp. 93-96
+  - author: Securities and Exchange Commission
+    title: Plain English Handbook
+    date: 1998
+    publisher: 'Washington, DC'
+    page: p. 9
 ---
 
 One of the most popular plain language myths is that you have to "dumb down" your content so that everyone can read it. That's not true.
@@ -26,8 +37,3 @@ Think about what your audience knows about the situation or topic you're writing
 - What questions will my audience have?
 - What's the best outcome for my agency? What do I need to say to get this outcome?
 - What's the best outcome for our audience? What do I need to say to get this outcome?
-
-## Sources
-
-- Garner, Bryan A., _Legal Writing in Plain English_, 2001, University of Chicago Press, Chicago, pp. 93-96.
-- Securities and Exchange Commission, _Plain English Handbook_, 1998, Washington, DC, p. 9.

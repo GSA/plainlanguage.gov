@@ -1,6 +1,29 @@
 ---
 title: Avoid hidden verbs
 sidenav: guidelines
+sources:
+  - author: 'Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.'
+    title: 'Clear & Effective Legal Writing, 4th edition'
+    date: 2007
+    publisher: 'Aspen Publishers, New York, NY'
+    page: pp. 176-178
+  - author: 'Garner, Bryan A.'
+    title: Legal Writing in Plain English
+    date: 2001
+    publisher: 'University of Chicago Press, Chicago'
+    page: p. 38 (14.)
+  - author: 'Kimble, Joseph'
+    title: Lifting the Fog of Legalese
+    date: 2006
+    publisher: 'Carolina Academic Press, Durham, NC'
+    page: p. 71 (D.4)
+  - author: Securities and Exchange Commission
+    title: Plain English Handbook
+    date: 1998
+    publisher: 'Securities and Exchange Commission, Washington, DC'
+    page: p. 21
+  - author: 'Wright, Nick'
+    link: 'http://www.plainlanguage.gov/howto/wordsuggestions/hiddenverbs.cfm'
 ---
 
 Use the strongest, most direct form of the verb possible. Too often, we hide verbs by turning them into nouns, making them less effective and using more words than we need. Hidden verbs are a particular problem in government writing.
@@ -15,11 +38,3 @@ To trace the missing payment, we need to carry out a review of the Agency's acco
 If you cannot make the payment of the $100 fee, you must make an application in writing before you file your tax return. | If you cannot pay the $100 fee, you must apply in writing before you file your tax return.
 This means we must undertake the calculation of new figures for the congressional hearing. | This means we must calculate new figures for the congressional hearing.
 The production of accurate statistics is important for the committee in the assessment of our homelessness policy. | Producing accurate statistics is important to the committee in assessing our policy on homelessness.
-
-## Sources
-
-- Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P., _Clear & Effective Legal Writing_, 4th edition, 2007, Aspen Publishers, New York, NY, pp. 176-178.
-- Garner, Bryan A., _Legal Writing in Plain English_, 2001, University of Chicago Press, Chicago, p. 38 (14.)
-- Kimble, Joseph, _Lifting the Fog of Legalese_, 2006, Carolina Academic Press, Durham, NC., p. 71 (D.4).
-- Securities and Exchange Commission, _Plain English Handbook_, 1998, Securities and Exchange Commission, Washington, DC., p. 21.
-- Wright, Nick, at [www.plainlanguage.gov/howto/wordsuggestions/hiddenverbs.cfm](#).

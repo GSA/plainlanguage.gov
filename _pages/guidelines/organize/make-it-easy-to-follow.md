@@ -1,6 +1,32 @@
 ---
 title: Make it easy to follow
 sidenav: guidelines
+sources:
+  - author: 'Kimble, Joseph'
+    title: Lifting the Fog of Legalese
+    date: 2006
+    publisher: 'Carolina Academic Press, Durham, NC'
+    page: p. 70 (C)
+  - author: 'Murawski, Thomas A.'
+    title: Writing Readable Regulations
+    date: 1999
+    publisher: 'Carolina Academic Press Durham, NC'
+    page: pp. 3-5
+  - author: Office of the Federal Register
+    title: Document Drafting Handbook
+    link: 'http://www.archives.gov/federal-register/write/handbook/ddh.pdf'
+    date: 1998
+    page: §1-23
+  - author: 'Redish, Janice C.'
+    title: How to Write Regulations and Other Legal Documents in Clear English
+    date: 1991
+    publisher: 'American Institutes for Research, Washington, DC'
+    page: pp. 12-21
+  - author: Securities and Exchange Commission
+    title: Plain English Handbook
+    date: 1998
+    publisher: 'Washington, DC'
+    page: p. 15
 ---
 
 People read government websites and documents to get answers. They want to know how to do something or what happens if they don't do something—and they want to gain this knowledge quickly. Organize your writing so it's easy to follow along.
@@ -92,11 +118,3 @@ Dividing your document into more pieces at the top levels should allow you to li
 725.403 How long do I have to file an appeal?<br>
 725.404 What types of evidence must I submit?<br>
 725.405 What happens if I won't get a medical examination?
-
-## Sources
-
-- Kimble, Joseph, _Lifting the Fog of Legalese_, 2006, Carolina Academic Press, Durham, NC, p. 70 (C).
-- Murawski, Thomas A., _Writing Readable Regulations_, 1999, Carolina Academic Press Durham, NC, pp. 3-5.
-- Office of the Federal Register, [Document Drafting Handbook](http://www.archives.gov/federal-register/write/handbook/ddh.pdf), 1998, §1-23.
-- Redish, Janice C., _How to Write Regulations and Other Legal Documents in Clear English_, 1991, American Institutes for Research, Washington, DC, pp. 12-21.
-- Securities and Exchange Commission, _Plain English Handbook_, 1998, Washington, DC, p. 15.

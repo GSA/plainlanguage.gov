@@ -18,6 +18,10 @@ main:
   {% endif %}
 
   {{ content }}
+  
+  {% if page.sources %}
+    {% include sources.html %}
+  {% endif %}
 </div>
 {% else %}
 <div class="usa-layout-docs-main_content">
