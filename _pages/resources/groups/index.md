@@ -63,6 +63,6 @@ The government of [Mexico](http://www.lenguajeciudadano.gob.mx) kicked off a pro
 
 In Australia, plain language has become a commercial success. Demand for clear language has increased, and law firms that provide plain-language legal products are finding success. Two leading sources of plain language legal expertise are [Cleardocs](http://www.cleardocs.com/wordsbeyond-contact.html) and [Plainlanguage.org](http://www.plainlanguage.org/).
 
-The European Commission has created a [guide](http://ec.europa.eu/translation/writing/clear_writing/how_to_write_clearly_en.pdf)![Adobe Acrobat Reader icon](../../graphics/pdf_icon.gif) for writing clearly in several languages.
+The European Commission has created a [guide](http://ec.europa.eu/translation/writing/clear_writing/how_to_write_clearly_en.pdf) for writing clearly in several languages.
 
 Portugal's government has announced a new program, [SIMPLEGIS](http://www.portugal.gov.pt/pt/GC18/Governo/Ministerios/PCM/MP/ProgramaseDossiers/Pages/20100510_MP_Prog_Simplegis.aspx), with the goal of simplifying its legal system and make it clearer, allowing people and businesses have more certainty, security, and clarity in the rules that apply to them.

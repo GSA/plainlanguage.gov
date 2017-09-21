@@ -16,7 +16,7 @@ sources:
   - author: 'McGovern, Gerry'
     title: 'Killer Web Content: Make the Sale, Deliver the Service, Build the Brand (and other works)'
     date: 2006
-    publisher: A&C Black
+    publisher: A&amp;C Black
   - author: 'Redish, Janice'
     title: Writing Web Content that Works
     date: 2007
