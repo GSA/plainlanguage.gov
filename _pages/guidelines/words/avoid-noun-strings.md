@@ -13,7 +13,7 @@ sources:
     publisher: 'Oxford University Press, Oxford and New York'
     page: pp. 601-602
   - author: 'Garner, Bryan A.'
-    title: Garner’s Modern American Usage
+    title: Garner's Modern American Usage
     date: 2003
     publisher: 'Oxford University Press, Oxford and New York'
     page: p. 557

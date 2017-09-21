@@ -27,5 +27,5 @@ Designing for reading is an important part of developing effective communication
 ## Use simple typography
 
 - Use ragged right margins where possible, rather than centering or justifying your text
-- Don’t use more than one or two typefaces
+- Don't use more than one or two typefaces
 - [Highlight important concepts]({{ site.baseurl }}{% link _pages/guidelines/design/highlight-important-concepts.md %}) with simple text formatting

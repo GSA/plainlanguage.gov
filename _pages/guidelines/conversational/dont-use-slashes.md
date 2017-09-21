@@ -1,5 +1,5 @@
 ---
-title: Don’t use slashes
+title: Don't use slashes
 sidenav: guidelines
 sources:
   - author: 'Garner, Bryan A.'
