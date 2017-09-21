@@ -20,4 +20,4 @@ We first developed these writing guidelines in the mid 1990s. We continue to rev
 
 ## Questions? Comments?
 
-If you have any feedback or questions about these guidelines, please [contact us]({{ site.baseurl }}/contact/). We also offer [free half-day training sessions for federal agencies]({{ site.baseurl }}/training/) in the Washington, DC area.
+If you have any feedback or questions about these guidelines, please [contact us](mailto:{{ site.email }}). We also offer [free half-day training sessions for federal agencies]({{ site.baseurl }}/training/) in the Washington, DC area.

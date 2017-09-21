@@ -34,6 +34,6 @@ Use plain language in any document that:
 
 ## Questions?
 
-- [Contact us]({{ site.baseurl }}/contact/) or [subscribe to our mailing list](https://www.digitalgov.gov/communities/plain-language-community-of-practice/) for the latest updates.
+- [Contact us](mailto:{{ site.email }}) or [subscribe to our mailing list](https://www.digitalgov.gov/communities/plain-language-community-of-practice/) for the latest updates.
 
 - Sign up for one of our [training sessions]({{ site.baseurl }}/training/).

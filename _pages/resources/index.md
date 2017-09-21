@@ -20,4 +20,4 @@ Are you trying to persuade your colleagues or your boss that it's a good idea to
 
 [Materials for Trainers](for_trainers/index.cfm)
 
-Do you need to present a training class on plain language? These materials will help you. Or we may be able to come to your agency and present a half-day program free. You must pay any travel expenses. If you're interested, [contact us](../site/contactus.cfm?subject=training).
+Do you need to present a training class on plain language? These materials will help you. Or we may be able to come to your agency and present a half-day program free. You must pay any travel expenses. If you're interested, [contact us](mailto:{{ site.email }}).

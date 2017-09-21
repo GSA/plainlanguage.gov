@@ -10,7 +10,7 @@ Starting a plain-language program can be challenging. But like most challenges, 
 
 [The Plain Writing Act of 2010](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=111_cong_bills&docid=f:h946enr.txt.pdf) requires agencies to train their staff in plain language. PLAIN offers free consultation to federal agencies on how to start an internal agency plain language program. We have previously worked with the National Institutes of Health, U.S Citizenship and Immigration Services, and Veterans Benefits Administration (to name a few). These agencies now have self-run, thriving plain language programs.
 
-Please [contact us]({{ site.baseurl }}/contact/) to find out more about how we can help your agency clearly communicate with the public.
+Please [contact us](mailto:{{ site.email }}) to find out more about how we can help your agency clearly communicate with the public.
 
 ## Set SMART goals
 
