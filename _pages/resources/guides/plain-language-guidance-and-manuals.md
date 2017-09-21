@@ -4,7 +4,7 @@ permalink: /resources/guides/plain-language-guidance-and-manuals/
 sidenav: resources
 ---
 
-Over the last few years we've seen an explosion in the numbers and types of documents presenting plain-language guidelines. We have room for only a few of the best here. Because many of our readers are federal employees, we've focused on materials developed by the federal government. If you know of something you think we should include, [contact us](#).
+Over the last few years we've seen an explosion in the numbers and types of documents presenting plain-language guidelines. We have room for only a few of the best here. Because many of our readers are federal employees, we've focused on materials developed by the federal government. If you know of something you think we should include, [contact us](mailto:{{ site.email }}).
 
 ## General guidance and manuals
 

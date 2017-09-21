@@ -16,4 +16,4 @@ Plain-language training is available in many forms — ranging from traditional 
 
 - The government of Mexico kicked off a program in 2004 encouraging plain language in government writing. You can download this compressed file of [the materials](lenguaje.zip) they prepared for the participants. This material is in Spanish.
 
-If you know of any training resources that we've overlooked, please [contact us]({{ site.baseurl }}/contact/).
+If you know of any training resources that we've overlooked, please [contact us](mailto:{{ site.email }}).

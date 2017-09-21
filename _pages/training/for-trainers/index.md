@@ -40,4 +40,4 @@ We've included other resources that can help you present training in plain langu
 
 ## Questions?
 
-If you have any questions or need more help, [contact us]({{ site.baseurl }}/contact/).
+If you have any questions or need more help, [contact us](mailto:{{ site.email }}).
