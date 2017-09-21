@@ -1,6 +1,12 @@
 ---
 title: Use transition words
 sidenav: guidelines
+sources:
+  - author: 'Garner, Bryan A.'
+    title: Legal Writing in Plain English
+    date: 2001
+    publisher: 'University of Chicago Press, Chicago'
+    page: pp. 67-71
 ---
 
 A topic sentence may provide a transition from one paragraph to another. But a transition word or phrase (usually in the topic sentence) clearly tells the audience whether the paragraph expands on the paragraph before, contrasts with it, or takes a completely different direction.
@@ -58,7 +64,3 @@ _to summarize, to sum up, to conclude, in conclusion, in short_
 #### When sequencing ideas
 
 _first, second, third, fourth, then, next, finally_
-
-## Sources
-
-- Garner, Bryan A., _Legal Writing in Plain English_, 2001, University of Chicago Press, Chicago, pp. 67-71.

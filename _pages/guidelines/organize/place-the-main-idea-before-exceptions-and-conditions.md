@@ -1,6 +1,27 @@
 ---
 title: Place the main idea before exceptions and conditions
 sidenav: guidelines
+sources:
+  - author: 'Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.'
+    title: 'Clear & Effective Legal Writing, 4th edition'
+    date: 2007
+    publisher: 'Aspen Publishers, New York, NY'
+    page: pp. 166-167
+  - author: 'Garner, Bryan A.'
+    title: Guidelines for Drafting and Editing Court Rules
+    date: 1996
+    publisher: 'Administrative Office of the US Courts, Washington, DC'
+    page: pp. 5-9
+  - author: Office of the Federal Register
+    title: Drafting Legal Documents
+    link: 'https://www.archives.gov/federal-register/write/legal-docs'
+    date: 1998
+    page: § 7
+  - author: 'Wydick, Richard'
+    title: 'Plain English for Lawyers, 5th edition'
+    date: 2005
+    publisher: 'Carolina Academic Press, Durham, NC'
+    page: pp. 46-47
 ---
 
 Start with your main idea – not an exception.
@@ -68,10 +89,3 @@ But use an exception if it avoids a long and cumbersome list or elaborate descri
 Don't say | Say
 --- | ---
 Alabama, Alaska, ..., and Wyoming (a list of 47 states) must | Each state except Texas, New Mexico, and Arizona must...
-
-## Sources
-
-- Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P., _Clear & Effective Legal Writing_, 4th edition, 2007, Aspen Publishers, New York, NY, pp. 166-167.
-- Garner, Bryan A., _Guidelines for Drafting and Editing Court Rules_, 1996, Administrative Office of the US Courts, Washington, DC, pp. 5-9.
-- Office of the Federal Register, [Drafting Legal Documents](https://www.archives.gov/federal-register/write/legal-docs), 1998, § 7.
-- Wydick, Richard, _Plain English for Lawyers_, 5th edition, 2005, Carolina Academic Press, Durham, NC, pp. 46-47.

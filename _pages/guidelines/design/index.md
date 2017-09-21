@@ -2,6 +2,11 @@
 title: Design for reading
 sidenav: guidelines
 permalink: /guidelines/design/
+sources:
+  - author: 'Schriver, Karen'
+    title: 'Dynamics in Document Design: Creating Text for Readers'
+    date: 1996
+    publisher: 'John Wiley and Sons, Hoboken, NJ'
 ---
 
 We want our writing to help people get information, comply with requirements, and apply for benefits with the least possible burden. Dense, cluttered writing deters people from taking the time to read.
@@ -24,7 +29,3 @@ Designing for reading is an important part of developing effective communication
 - Use ragged right margins where possible, rather than centering or justifying your text
 - Don’t use more than one or two typefaces
 - [Highlight important concepts]({{ site.baseurl }}{% link _pages/guidelines/design/highlight-important-concepts.md %}) with simple text formatting
-
-## Sources
-
-- Schriver, Karen, _Dynamics in Document Design: Creating Text for Readers_, 1996, John Wiley and Sons, Hoboken, NJ.

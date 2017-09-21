@@ -1,6 +1,27 @@
 ---
 title: Use tables to make complex material easier to understand
 sidenav: guidelines
+sources:
+  - author: 'Kimble, Joseph'
+    title: Lifting the Fog of Legalese
+    date: 2006
+    publisher: 'Carolina Academic Press, Durham, NC'
+    page: p. 70(B)
+  - author: 'Murawski, Thomas A.'
+    title: Writing Readable Regulations
+    date: 1999
+    publisher: 'Carolina Academic Press Durham, NC'
+    page: pp. 39-44
+  - author: Office of the Federal Register
+    title: Document Drafting Handbook
+    link: 'http://www.archives.gov/federal-register/write/handbook/ddh.pdf'
+    date: 1998
+    page: MMR 4
+  - author: Securities and Exchange Commission
+    title: Plain English Handbook
+    date: 1998
+    publisher: 'Washington, DC'
+    page: pp. 49-52
 ---
 
 Tables help your audience see relationships that are often times hidden in dense text. And for most readers, it's not necessary to understand all possibilities and conditions, only those that apply to the reader's situation.
@@ -62,10 +83,3 @@ If the appraised stumpage value is: | you must deposit: | and the minimum amount
 less than $100,000 | ten percent of the stumpage value | $1,000
 between $100,000 and $250,000 | five percent of the stumpage value | $10,000
 over $250,000 | three percent of the stumpage value | $12,500
-
-## Sources
-
-- Kimble, Joseph, _Lifting the Fog of Legalese_, 2006, Carolina Academic Press, Durham, NC, p. 70(B).
-- Murawski, Thomas A., _Writing Readable Regulations_, 1999, Carolina Academic Press Durham, NC, pp. 39-44.
-- Office of the Federal Register, [Document Drafting Handbook](http://www.archives.gov/federal-register/write/handbook/ddh.pdf), 1998, MMR 4.
-- Securities and Exchange Commission, _Plain English Handbook_, 1998, Washington, DC, pp. 49-52.

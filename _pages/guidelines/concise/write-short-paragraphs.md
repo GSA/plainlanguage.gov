@@ -1,6 +1,17 @@
 ---
 title: Write short paragraphs
 sidenav: guidelines
+sources:
+  - author: 'Garner, Bryan A.'
+    title: Legal Writing in Plain English
+    date: 2001
+    publisher: 'University of Chicago Press, Chicago'
+    page: pp. 72-73
+  - author: 'Murawski, Thomas A.'
+    title: Writing Readable Regulations
+    date: 1999
+    publisher: 'Carolina Academic Press Durham, NC'
+    page: pp. 24-25
 ---
 
 Write short paragraphs and [cover one topic per paragraph]({{ site.baseurl }}{% link _pages/guidelines/concise/cover-one-topic-in-each-paragraph.md %}). Long paragraphs discourage users from even trying to understand your material. Short paragraphs are easier to read and understand.
@@ -38,8 +49,3 @@ Americans should also be aware of the potential health risk posed by counterfeit
 #### Additional precautions
 
 In addition, the Department of State has asked its embassies and consulates to consider preparedness measures that consider that travel into or out of a country may not be possible, safe or medically advisable. Guidance on how private citizens can prepare for a "stay in place" response, including stockpiling food, water, and medical supplies, is available on the CDC and pandemicflu.gov websites.
-
-## Sources
-
-- Garner, Bryan A., _Legal Writing in Plain English_, 2001, University of Chicago Press, Chicago, pp. 72-73.
-- Murawski, Thomas A., _Writing Readable Regulations_, 1999, Carolina Academic Press Durham, NC, pp. 24-25.

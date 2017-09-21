@@ -1,0 +1,9 @@
+<h2>Sources</h2>
+<ul>
+{% assign sources = (page.sources | sort: 'author', 'first') %}
+{% for source in sources %}
+<li>
+{% if source.author %}{{ source.author }}{% if source.title or source.date or source.publisher or source.page %}, {% endif %}{% endif %}{% if source.link %}<a href="{{ source.link }}">{{ source.title | default: source.link }}</a>{% if source.date or source.publisher or source.page %}, {% endif %}{% else %}<em>{{ source.title }}</em>{% if source.date or source.publisher or source.page %}, {% endif %}{% endif %}{% if source.date %}{{ source.date }}{% if source.publisher or source.page %}, {% endif %}{% endif %}{% if source.publisher %}{{ source.publisher }}{% if source.page %}, {% endif %}{% endif %}{% if source.page %}{{ source.page }}{% endif %}.
+</li>
+{% endfor %}
+</ul>

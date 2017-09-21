@@ -1,6 +1,27 @@
 ---
 title: Use lists
 sidenav: guidelines
+sources:
+  - author: 'Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.'
+    title: 'Clear & Effective Legal Writing, 4th edition'
+    date: 2007
+    publisher: 'Aspen Publishers, New York, NY'
+    page: pp. 181-182
+  - author: 'Garner, Bryan A.'
+    title: Legal Writing in Plain English
+    date: 2001
+    publisher: 'University of Chicago Press, Chicago'
+    page: 'pp. 100, 125'
+  - author: 'Murawski, Thomas A.'
+    title: Writing Readable Regulations
+    date: 1999
+    publisher: 'Carolina Academic Press Durham, NC'
+    page: 'pp. 25, 81-84'
+  - author: Securities and Exchange Commission
+    title: Plain English Handbook
+    date: 1998
+    publisher: 'Washington, DC'
+    page: p. 34
 ---
 
 Lists highlight a series of steps, requirements, or pieces of information in a visually clear way. Use lists to help your user focus on important material.
@@ -86,10 +107,3 @@ Make sure each of the bullets in a list can make a complete sentence if combined
 - Your application
 - Recommendation letter
 - Mail it express mail
-
-## Sources
-
-- Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P., _Clear & Effective Legal Writing_, 4th edition, 2007, Aspen Publishers, New York, NY, pp. 181-182.
-- Garner, Bryan A., _Legal Writing in Plain English_, 2001, University of Chicago Press, Chicago, pp. 100, 125.
-- Murawski, Thomas A., _Writing Readable Regulations_, 1999, Carolina Academic Press Durham, NC, pp. 25, 81-84.
-- Securities and Exchange Commission, _Plain English Handbook_, 1998, Washington, DC, p. 34.

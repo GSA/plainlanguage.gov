@@ -1,6 +1,22 @@
 ---
 title: Omit unnecessary words
 sidenav: guidelines
+sources:
+  - author: 'Garner, Bryan A.'
+    title: Legal Writing in Plain English
+    date: 2001
+    publisher: 'University of Chicago Press, Chicago'
+    page: 'pp. 43, 40, 34'
+  - author: 'Kimble, Joseph'
+    title: Lifting the Fog of Legalese
+    publisher: 'Carolina Academic Press Durham, NC'
+    date: 2006
+    page: 'pp. 93, 170'
+  - author: Securities and Exchange Commission
+    title: Plain English Handbook
+    date: 1998
+    publisher: 'Washington, DC'
+    page: p. 25
 ---
 
 Wordy, dense construction is one of the biggest problems in government writing. Nothing is more confusing to the user than long, complex sentences containing multiple phrases and clauses. Unnecessary words come in all shapes and sizes, and it's difficult to put them into distinct categories. To address the problem, become more critical of your own writing, and consider whether you need every word.
@@ -69,9 +85,3 @@ Don't say | Say
 If the State Secretary finds that an individual has received a payment to which the individual was not entitled, whether or not the payment was due to the individual's fault or misrepresentation, the individual shall be liable to repay to State the total sum of the payment to which the individual was not entitled. | If the State agency finds that you received a payment that you weren't entitled to, you must pay the entire sum back.
 
 Omitting excess words can cut documents significantly. Be diligent in challenging every word you write, and eventually you will learn to write not only clearly, but concisely.
-
-## Sources
-
-- Garner, Bryan A., _Legal Writing in Plain English_, 2001, University of Chicago Press, Chicago, pp. 43, 40, 34.
-- Kimble, Joseph, _Lifting the Fog of Legalese_, Carolina Academic Press, 2006, Durham, NC, pp. 93, 170.
-- Securities and Exchange Commission, _Plain English Handbook_, 1998, Washington, DC, p. 25.

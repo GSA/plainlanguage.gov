@@ -1,6 +1,12 @@
 ---
 title: Place words carefully
 sidenav: guidelines
+sources:
+  - author: 'Garner, Bryan A.'
+    title: Garner's Modern American Usage
+    date: 2003
+    publisher: 'Oxford University Press, Oxford and New York'
+    page: pp. 566-567
 ---
 
 Sloppy word placement can cause ambiguity. To reduce ambiguity:
@@ -20,7 +26,3 @@ You will eliminate many potential sources of ambiguity by writing shorter senten
 Ambiguous construction | Clearer construction
 --- | ---
 If you are determined to have a disability, we will pay you the following: | If we determine that you have a disability, we will pay you the following:
-
-## Sources
-
-- Garner, Bryan A., _Garner's Modern American Usage_, 2003, Oxford University Press, Oxford and New York, pp. 566-567.

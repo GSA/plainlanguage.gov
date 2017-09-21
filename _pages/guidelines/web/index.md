@@ -2,6 +2,25 @@
 title: Follow web standards
 sidenav: guidelines
 permalink: /guidelines/web/
+sources:
+  - title: How Little Do Users Read?
+    link: 'https://www.nngroup.com/articles/how-little-do-users-read/'
+    publisher: Nielsen Norman Group
+  - title: Eyetracking Web Usability
+    date: 'December 14, 2009'
+    publisher: New Riders Press
+  - author: 'Nielsen, Jakob'
+    title: 'Designing Web Usability: The Practice of Simplicity (and other works)'
+    date: 1999
+    publisher: 'New Riders Publishing, Indianapolis'
+  - author: 'McGovern, Gerry'
+    title: 'Killer Web Content: Make the Sale, Deliver the Service, Build the Brand (and other works)'
+    date: 2006
+    publisher: A&C Black
+  - author: 'Redish, Janice'
+    title: Writing Web Content that Works
+    date: 2007
+    publisher: 'Morgan Kaufmann Publishers, San Francisco'
 ---
 
 To effectively communicate online, you need to follow web standards, design for reading, and repurpose print materials for the web.
@@ -35,11 +54,3 @@ Your content is not clear unless your users can:
 - Find what they need
 - Understand what they find
 - Use what they find to meet their needs
-
-## Sources
-
-- [How Little Do Users Read?](https://www.nngroup.com/articles/how-little-do-users-read/), Nielsen Norman Group
-- _Eyetracking Web Usability_, New Riders Press, December 14, 2009
-- Nielsen, Jakob, _Designing Web Usability: The Practice of Simplicity (and other works)_, 1999, New Riders Publishing, Indianapolis.
-- McGovern, Gerry, _Killer Web Content: Make the Sale, Deliver the Service, Build the Brand (and other works)_, 2006, A&C Black.
-- Redish, Janice, _Writing Web Content that Works_, 2007, Morgan Kaufmann Publishers, San Francisco.

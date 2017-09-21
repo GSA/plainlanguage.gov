@@ -1,6 +1,23 @@
 ---
 title: Write effective links
 sidenav: guidelines
+sources:
+  - author: 'McGovern, Gerry'
+    title: 'Killer Web Content: Make the Sale, Deliver the Service, Build the Brand (and other works)'
+    date: 2006
+    publisher: A&C Black
+  - author: 'Nielsen, Jakob'
+    title: 'Designing Web Usability: The Practice of Simplicity (and other works)'
+    date: 1999
+    publisher: 'New Riders Publishing, Indianapolis'
+  - title: 'First 2 Words: A Signal for the Scanning Eye'
+    link: 'https://www.nngroup.com/articles/first-2-words-a-signal-for-scanning/'
+    publisher: Nielsen Norman Group
+  - title: Don't Use "Click Here" as Link Text
+    link: 'https://www.w3.org/QA/Tips/noClickHere'
+    publisher: W3C
+  - title: '18F Content Guide: Link Text'
+    link: 'https://content-guide.18f.gov/urls-and-filenames/#link-text'
 ---
 
 Links are about both content and navigation. Effective link names are key to satisfying your customers. Eyetracking studies show that links written in plain language are the most effective. Plain-language links are written clearly so that the user understands exactly where the link will take them.
@@ -12,11 +29,3 @@ Links are about both content and navigation. Effective link names are key to sat
 - Add a short description when needed to clarify the link.
 
 Remember, you may have users who rely on screen readers. Make sure your links are accessible to everyone. Taking the time to write descriptive link text has the added benefit of improving your [search engine optimization](https://moz.com/blog/click-here-seo).
-
-## Sources
-
-- McGovern, Gerry, _Killer Web Content: Make the Sale, Deliver the Service, Build the Brand (and other works)_, 2006, A&C Black.
-- Nielsen, Jakob, _Designing Web Usability: The Practice of Simplicity (and other works)_, 1999, New Riders Publishing, Indianapolis.
-- [First 2 Words: A Signal for the Scanning Eye](https://www.nngroup.com/articles/first-2-words-a-signal-for-scanning/), Nielsen Norman Group
-- [Don't Use "Click Here" as Link Text](https://www.w3.org/QA/Tips/noClickHere), W3C
-- [18F Content Guide: Link Text](https://content-guide.18f.gov/urls-and-filenames/#link-text)

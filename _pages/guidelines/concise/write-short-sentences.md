@@ -1,6 +1,49 @@
 ---
 title: Write short sentences
 sidenav: guidelines
+sources:
+  - author: 'Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.'
+    title: 'Clear & Effective Legal Writing, 4th edition'
+    date: 2007
+    publisher: 'Aspen Publishers, New York, NY'
+    page: pp. 163-165
+  - author: 'Garner, Bryan A.'
+    title: Legal Writing in Plain English
+    date: 2001
+    publisher: 'University of Chicago Press, Chicago'
+    page: pp. 19-21
+  - author: 'Kimble, Joseph'
+    title: >-
+      Guiding Principles for Restyling the Federal Rules of Civil Procedure
+      (Part 1)
+    date: September 2005
+    publisher: Michigan Bar Journal
+    page: pp. 56-57
+  - author: 'Kimble, Joseph'
+    title: Lifting the Fog of Legalese
+    date: 2006
+    publisher: 'Carolina Academic Press, Durham, NC'
+    page: p. 96
+  - author: 'Murawski, Thomas A.'
+    title: Writing Readable Regulations
+    date: 1999
+    publisher: 'Carolina Academic Press Durham, NC'
+    page: p. 77
+  - author: Office of the Federal Register
+    title: Document Drafting Handbook
+    link: 'http://www.archives.gov/federal-register/write/handbook/ddh.pdf'
+    date: 1998
+    page: MMR-5
+  - author: 'Redish, Janice C.'
+    title: How to Write Regulations and Other Legal Documents in Clear English
+    date: 1991
+    publisher: 'American Institutes for Research, Washington, DC'
+    page: pp. 29-32
+  - author: Securities and Exchange Commission
+    title: Plain English Handbook
+    date: 1998
+    publisher: 'Washington, DC'
+    page: p. 28
 ---
 
 Express only one idea in each sentence. Long, complicated sentences often mean that you aren't sure about what you want to say. Shorter sentences are also better for conveying complex information; they break the information up into smaller, easier-to-process units.
@@ -25,14 +68,3 @@ Suppose that one month you pay royalties on your full share of production but ta
 
 - Take more than your entitled share in the future; or
 - Accept payment from other participants
-
-## Sources
-
-- Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P., _Clear & Effective Legal Writing_, 4th edition, 2007, Aspen Publishers, New York, NY, pp. 163-165.
-- Garner, Bryan A., _Legal Writing in Plain English_, 2001, University of Chicago Press, Chicago, pp. 19-21.
-- Kimble, Joseph, _Guiding Principles for Restyling the Federal Rules of Civil Procedure (Part 1)_, Michigan Bar Journal, September 2005, pp. 56-57.
-- Kimble, Joseph, _Lifting the Fog of Legalese_, 2006, Carolina Academic Press, Durham, NC, p. 96.
-- Murawski, Thomas A., _Writing Readable Regulations_, 1999, Carolina Academic Press Durham, NC, p. 77.
-- Office of the Federal Register, [Document Drafting Handbook](http://www.archives.gov/federal-register/write/handbook/ddh.pdf), 1998, MMR-5.
-- Redish, Janice C., _How to Write Regulations and Other Legal Documents in Clear English_, 1991, American Institutes for Research, Washington, DC, pp. 29-32
-- Securities and Exchange Commission, _Plain English Handbook_, 1998, Washington, DC, p. 28.

@@ -1,6 +1,15 @@
 ---
 title: 'Use short, simple words'
 sidenav: guidelines
+sources:
+  - author: 'Kimble, Joseph'
+    title: Lifting the Fog of Legalese
+    date: 2006
+    publisher: 'Carolina Academic Press, Durham, NC'
+    page: 'pp. 11, 165-174'
+  - author: 'McGinty, Kathy'
+    title: Nine Easy Steps to Longer Sentences
+    link: 'http://www.plainlanguage.gov/examples/humor/9easysteps.cfm'
 ---
 
 Word choice is an important part of communicating clearly. While there is generally no problem with being expressive, most federal writing has no place for literary flair. People do not curl up in front of the fire with a federal regulation to have a relaxing read.
@@ -22,8 +31,3 @@ And the original, using stronger, simpler words:
 > More night jobs would keep youths off the streets.
 
 When you’re making word choices, pick the familiar or commonly used word over the unusual or obscure. There are many lists of complex words and suggested substitutes, for example [www.plainlanguage.gov/howto/wordsuggestions/simplewords.cfm](#). See also the lists in Kimble (2006).
-
-## Sources
-
-- Kimble, Joseph, _Lifting the Fog of Legalese_, 2006, Carolina Academic Press, Durham, NC, pp. 11, 165-174.
-- McGinty, Kathy, _Nine Easy Steps to Longer Sentences_, [www.plainlanguage.gov/examples/humor/9easysteps.cfm](#)

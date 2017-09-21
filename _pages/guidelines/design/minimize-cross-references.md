@@ -1,6 +1,17 @@
 ---
 title: Minimize cross-references
 sidenav: guidelines
+sources:
+  - author: 'Flesch, Rudolf'
+    title: 'How to Write in Plain English, A Book for Lawyers and Consumers'
+    date: 1979
+    publisher: 'Harper and Rowe, New York'
+    page: pp. 82-93
+  - author: Office of the Federal Register
+    title: Document Drafting Handbook
+    link: 'http://www.archives.gov/federal-register/write/handbook/ddh.pdf'
+    date: 1998
+    page: pp. 1-15
 ---
 
 Nothing is more annoying than coming upon cross-references in reading material. Cross-references frustrate any attempt to write clearly and simply. Most users consider them a bother, and just skip over them. This can be a problem when the document is a regulation!
@@ -81,8 +92,3 @@ This is the cross-reference that refers the reader to another section containing
 Whether you use a cross-reference or repeat the material in the new location, you must remember to update the information if something in the cross-referenced material changes.
 
 There is no hard and fast rule about when it's reasonable to use a cross-reference. It depends on the purpose of the cross reference and the bulk of the material referenced. The bottom line is that you should minimize them to the extent possible.
-
-## Sources
-
-- Flesch, Rudolf, _How to Write in Plain English, A Book for Lawyers and Consumers_, 1979, Harper and Rowe, New York, pp. 82-93.
-- Office of the Federal Register, [Document Drafting Handbook](http://www.archives.gov/federal-register/write/handbook/ddh.pdf), 1998, pp. 1-15.
