@@ -45,7 +45,7 @@ This ongoing process, which has lasted for almost 30 years, emanates from the id
 
 ## Revision alone does not guarantee lucid laws
 
-The final revision is an important method for checking the quality of the texts. But revision alone does not guarantee lucid laws. (Hoppa ev. �ver f�ljande inom parentes:) (At the final revision stage there is little time and we can deal only with sentence structure, archaic or misleading words, phrases and forms, syntax problems, unclear passive voice, nominalization and other details. The structure and presentation of the contents are difficult to change at such a late stage, but, if there is time, we may do that. Drafters are grateful for our help — by discussing the problems we can often come up with a better solution together.)
+The final revision is an important method for checking the quality of the texts. But revision alone does not guarantee lucid laws. (Hoppa ev. över följande inom parentes:) (At the final revision stage there is little time and we can deal only with sentence structure, archaic or misleading words, phrases and forms, syntax problems, unclear passive voice, nominalization and other details. The structure and presentation of the contents are difficult to change at such a late stage, but, if there is time, we may do that. Drafters are grateful for our help — by discussing the problems we can often come up with a better solution together.)
 
 Therefore we have, during the last 25 years, developed other methods as well.
 
@@ -54,12 +54,12 @@ We
 - change ineffective text models and create prototypes that meet the readers' needs,
 - offer special seminars and training sessions for drafters,
 - write handbooks, guidelines and articles on clear drafting,
-- give advice by telephone or email and on our website Klarspr�k (Clear language),
+- give advice by telephone or email and on our website Klarspråk (Clear language),
 - take part (as members or special experts) in the work of law commissions.
 
 When the task of a law commission is to redraft old and complicated legislation, one of the language experts may join the commission and work for it part-time. In the 90s, I was a member of the Income Tax Law Commission and this was of course a huge task redrafting very old income tax laws with thousand of amendments over the years into one new and more comprehensible Income Tax Act. Right now one of my colleagues is working with the social insurance legislation, which is extremely complicated and the rewrite looks very promising.
 
-Hoppa ev. �ver f�ljande inom parentes: (At such an early stage of the legislative process, we have more influence on the drafting of the text. We can help to make the law well structured and easier to navigate so that people can easily find what they are looking for: through contents lists, informative headings, short summaries at the beginning of each chapter telling you what to find there, bullet lists where appropriate, and more information in references to say what the provision referred to is about, among other things. In short: We can use the whole range of plain-language principles in the redraft.)
+Hoppa ev. över följande inom parentes: (At such an early stage of the legislative process, we have more influence on the drafting of the text. We can help to make the law well structured and easier to navigate so that people can easily find what they are looking for: through contents lists, informative headings, short summaries at the beginning of each chapter telling you what to find there, bullet lists where appropriate, and more information in references to say what the provision referred to is about, among other things. In short: We can use the whole range of plain-language principles in the redraft.)
 
 ## To change ineffective text models
 
@@ -80,7 +80,7 @@ In order to encourage government authorities all over Sweden to start and carry 
 - awards authorities the Plain Swedish Crystal,
 - provides a lot of useful information and material at the language experts and the group's joint website: www.regeringen.se/klarsprak
 
-Hoppa ev. �ver f�ljande inom parentes: (The group consists of judges, linguists, information managers and political scientists, nine people alltogether, being commissioned to be members of the group on a voluntary basis along with their normal jobs. The participation of the judges from the Supreme Courts is of utmost importance to our work, as their names and positions make it easier to convince other lawyers and senior officials that plain language is worthwhile. One language consultant, the secretary of the group, is the one doing the job.)
+Hoppa ev. över följande inom parentes: (The group consists of judges, linguists, information managers and political scientists, nine people alltogether, being commissioned to be members of the group on a voluntary basis along with their normal jobs. The participation of the judges from the Supreme Courts is of utmost importance to our work, as their names and positions make it easier to convince other lawyers and senior officials that plain language is worthwhile. One language consultant, the secretary of the group, is the one doing the job.)
 
 The impact of the Plain Swedish Group is impressive, despite the fact that its resources are very limited. More than half of all Swedish government authorities are currently involved in systematic plain language work. Ten years ago, in 1994, when the group started its campaigning, 65 percent of the authorities felt no need to participate in plain language work at all.
 
@@ -116,7 +116,7 @@ The first guidelines for clear language in laws appeared as early as in 1967\. T
 
 The title is Language in acts and other statutes and it is stated there that "if the language in acts and other statutes is simple and clear, this will have an impact on the language used in other official texts." By this statement the Government meant to say that from a democratic point of view all official texts must be clear and user-friendly. If they are not, you can guarantee neither openness nor efficiency in public administration. Nor is it possible to guarantee access to the law and the rule of law.
 
-Hoppa ev. �ver f�ljande: (The recommendations and examples of these first guidelines ask the drafters:
+Hoppa ev. över följande: (The recommendations and examples of these first guidelines ask the drafters:
 
 - to use modern and comprehensible vocabulary and modern forms;
 - to avoid "the noun disease" and unusual prepositional phrases;
@@ -145,7 +145,7 @@ I also submit Swedish comments on the regulatory reform work in the EU, so that 
 
 As a matter of fact, there are now lots of activities going on in the Union. Sweden welcomes the many statements in favour of improved drafting quality which you can find in several recent documents, like interinstitutional agreements on common guidelines for the quality of drafting of Community legislation and on Better lawmaking, which are now followed up by practical guidelines. But still, there is a long way to go.
 
-Hoppa ev. �ver f�ljande: (Even if it is stated in the introduction to a recent Action Plan for Better Lawmaking that "by being written in a less complicated style, the Community legislation should be easier to implement for the Member States and operators concerned and easier for everyone to read and understand," those words have to be put into practice.)
+Hoppa ev. över följande: (Even if it is stated in the introduction to a recent Action Plan for Better Lawmaking that "by being written in a less complicated style, the Community legislation should be easier to implement for the Member States and operators concerned and easier for everyone to read and understand," those words have to be put into practice.)
 
 As I have mentioned, the Swedish experience is that there is a lot to be gained if language experts and lawyers, as well as experts from other disciplines, cooperate in these matters. And that political support and support from central administration is crucial. This is also needed in the European Union.
 

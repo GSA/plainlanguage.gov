@@ -53,6 +53,6 @@ _Writing Readable Regulations,_ Thomas Murawski, Carolina Academic Press.
 
 _Writing in Plain English,_ Robert Eagleson, Australian Government Publishing Service (available on-lne).
 
-_Plain Language for Lawyers_, Mich�le Asprey, Federation Press (Australia, available on-line).
+_Plain Language for Lawyers_, Michele Asprey, Federation Press (Australia, available on-line).
 
-Michigan Bar Journal [Plain English column](http://www.michbar.org/generalinfo/plainenglish/columns.cfm). See especially Joe Kimble�s five part series on [Lessons in Drafting from the New Federal Rules of Civil Procedure](http://www.michbar.org/journal/pdf/pdf4article1202.pdf), starting in August 07.
+Michigan Bar Journal [Plain English column](http://www.michbar.org/generalinfo/plainenglish/columns.cfm). See especially Joe Kimble's five part series on [Lessons in Drafting from the New Federal Rules of Civil Procedure](http://www.michbar.org/journal/pdf/pdf4article1202.pdf), starting in August 07.
