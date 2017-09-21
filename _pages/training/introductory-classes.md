@@ -31,7 +31,7 @@ For training outside the DC area, you must pay the trainer's expenses. We'll com
 
 ## Schedule a class
 
-Please [contact us]({{ site.baseurl }}/contact/) to request training at least 3 months before you want to schedule the class. Let us know:
+Please [contact us](mailto:{{ site.email }}) to request training at least 3 months before you want to schedule the class. Let us know:
 
 - Which federal agency you work for
 - Which classes you'd prefer

@@ -1,6 +1,7 @@
 # Site settings
 title: plainlanguage.gov
 description: Resources to help federal employees deliver clear communications to the public.
+email: plainlanguage@gsa.gov
 
 # Using https://github.com/18F/uswds-jekyll
 theme: uswds-jekyll

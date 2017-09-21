@@ -37,7 +37,7 @@ To promote plain language, we:
 
 We meet monthly to discuss plain language issues. Our meetings are open to all federal employees. [Join our listserv](https://www.digitalgov.gov/communities/plain-language-community-of-practice/) to learn about upcoming events.
 
-Please [contact us]({{ site.baseurl }}/contact/) if:
+Please [contact us](mailto:{{ site.email }}) if:
 
 - we can help your agency with plain language issues
 - you want us to present a half day training program at your agency

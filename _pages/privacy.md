@@ -54,12 +54,8 @@ Users of this website may send the Plain Language Action and Information Network
 
 ## Children and privacy
 
-We do not have information specifically for children on our website. The [Children’s Online Privacy Protection Act](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule) governs information gathered online from or about children under the age of 13. This site is not intended to solicit or collection information of any kind from children under age 13. If you believe that we have received information from a child under age 13, please contact us at [plainlanguage@gsa.gov](mailto:plainlanguage@gsa.gov).
+We do not have information specifically for children on our website. The [Children’s Online Privacy Protection Act](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule) governs information gathered online from or about children under the age of 13. This site is not intended to solicit or collection information of any kind from children under age 13. If you believe that we have received information from a child under age 13, please contact us at [{{ site.email }}](mailto:{{ site.email }}).
 
 ## Questions about privacy
 
-If you have questions about this privacy policy, please email us at [plainlanguage@gsa.gov](mailto:plainlanguage@gsa.gov).
-
-
-
-
+If you have questions about this privacy policy, please email us at [{{ site.email }}](mailto:{{ site.email }}).
