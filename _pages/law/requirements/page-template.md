@@ -29,7 +29,7 @@ We train our employees and have [created or strengthened] our oversight process.
 
 ### Give us feedback
 
-We need your help to comply with this Act! Let us know if you see something on our website or in our materials that isn’t written in plain language.
+We need your help to comply with this Act! Let us know if you see something on our website or in our materials that isn't written in plain language.
 
 - Email: <example@name.gov>
 - Fax: [555-555-5555]

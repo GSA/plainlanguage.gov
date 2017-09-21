@@ -10,7 +10,7 @@ This is the public repo for [plainlanguage.gov](http://www.plainlanguage.gov), w
 
 * This site uses [Jekyll](https://jekyllrb.com), a Ruby-based static site generator. For more information about using Jekyll, refer to the [Jekyll documentation](http://jekyllrb.com/docs/home/).
 
-* The site is built with the [U.S. Web Design Standards](https://standards.usa.gov), a set of reusable, high quality components for modern websites. We’re using the Web Design Standards [Jekyll theme](https://github.com/18F/uswds-jekyll) with some customized styles.
+* The site is built with the [U.S. Web Design Standards](https://standards.usa.gov), a set of reusable, high quality components for modern websites. We're using the Web Design Standards [Jekyll theme](https://github.com/18F/uswds-jekyll) with some customized styles.
 
 * The site is optimized for deployment on 18F's [Federalist](https://federalist.18f.gov) web publishing service.
 

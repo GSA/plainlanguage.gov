@@ -1,5 +1,5 @@
 ---
-title: 'Guidelines for President Clinton’s memo'
+title: 'Guidelines for President Clinton's memo'
 permalink: /law/background/memo-guidelines/
 sidenav: law
 

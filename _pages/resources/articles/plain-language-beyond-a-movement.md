@@ -8,65 +8,9 @@ Repositioning clear communication in the minds of decision-makers
 
 Christopher Balmford, Director, Cleardocs Pty Ltd
 
-## Table of contents
+## 1\. Introduction
 
-[1\. Introduction](#Intro)
-
-[2\. Making a living: supporting the cause](#Making_a_living)
-
-[3\. The success of plain language](#Success_of_pl)
-
-[4\. Is there a problem referring to the "plain-language movement"?](#Is_there_a_problem)
-
-[5\. Rebutting the misconceptions about a "movement"](#Rebutting)
-
-> [5.1 A Canadian financial services organization](#Canadias_financial)
-
-> [5.2 The international accountancy firm KPMG](#KPMG)
-
-> [5.3 Law firms lead with plain language](#Law_firms_lead)
-
-> [5.4 Plain-language wins the debate and kicks on in law firms and in legislation](#Law_firms_lead)
-
-> [5.5 Some plain language developments around the world](#Some_PL_developments)
-
-> [5.6 What next for plain language?](#What_next)
-
-[6\. Establishing some threshold realities](#Establishing_threshold)
-
-> [6.1 Beyond mere word substitution](#Beyond_mere)
-
-> [6.2 Plain-language improves accuracy, certainty, and precision](#PL_improves)
-
-> [6.3 Improving the substance of non-legal documents](#Improving_substance)
-
-[7\. If plain language is "beyond a movement", what is it?](#If_PL_is_beyond)
-
-> [7.1 The burden](#The_burden)
-
-> [7.2 The opportunities and promise](#Opportunities_promise)
-
-[8\. A possible new position for plain language](#Possible_new_position)
-
-> [8.1 Voice](#Voice)
-
-> [8.2 Brand](#Brand)
-
-> [8.3 Voice of the brand](#Voice_of_brand)
-
-> [8.4 The importance of the voice of the brand: to business and in government](#Voice_of_the_brand)
-
-[9\. Delivering plain language: structure and responsibilities](#Delivering_PL)
-
-> [9.1 Someone to take responsibility for how the audience receives the message](#Someone_take_responsibility)
-
-> [9.2 Structuring an organisation to show the importance of communication](#Structuring)
-
-[10\. Conclusion](#Conclusion)
-
-## []()1\. Introduction
-
-For hundreds of years, people have bemoaned the unintelligibility of legal documents and campaigned to make them clearer. Increasingly, that activity has been described as a movement--the "plain-language movement" [(2)](#Note2).
+For hundreds of years, people have bemoaned the unintelligibility of legal documents and campaigned to make them clearer. Increasingly, that activity has been described as a movement--the "plain-language movement" (2).
 
 Yet talking about plain language as a "movement" (in the sense of a quasi-political, society-changing cause) seems odd and out of date given that:
 
@@ -79,27 +23,27 @@ Then I suggest that to further build on the success of plain language, we need t
 
 Although my plain language experience has largely been with legal and related documents, the themes in this paper apply equally to all documents used in business, in government, and for consumers.
 
-## []()2\. Making a living: supporting the cause
+## 2\. Making a living: supporting the cause
 
 I'm not suggesting there's anything wrong with people making a living out of plain language: quite the contrary. Indeed, my plain language activities have been feeding my family these last 10 years. I'm not alone:
 
 - there are people teaching plain-language legal writing in law schools;
 - there are people rewriting documents for paying clients; and
-- there are people working in, or as consultants to, law firms, businesses, and government bodies to help those organizations develop plain language precedents, documents, and skills, and to develop cultures that value and deliver clear communication. [(3)](#Note3)
+- there are people working in, or as consultants to, law firms, businesses, and government bodies to help those organizations develop plain language precedents, documents, and skills, and to develop cultures that value and deliver clear communication. (3)
 
-Many of these people are passionate about their work. That most of them believe in, and are motivated by, the cause is made clear in the discussion on PLAIN's Plain Language list service[(4)](#Note4). Many of the contributors to that list seem to work in the plain language field, and their discussions are often about pushing the cause, about winning converts, about spreading the word.
+Many of these people are passionate about their work. That most of them believe in, and are motivated by, the cause is made clear in the discussion on PLAIN's Plain Language list service(4). Many of the contributors to that list seem to work in the plain language field, and their discussions are often about pushing the cause, about winning converts, about spreading the word.
 
-This passion for the cause is also shown in the articles in the legal journal Clarity which regularly present the social and economic benefits of plain language. By the way, the organization Clarity describes itself as "A movement to simplify legal language" [(5)](#Note5). There's that word "movement" again.
+This passion for the cause is also shown in the articles in the legal journal Clarity which regularly present the social and economic benefits of plain language. By the way, the organization Clarity describes itself as "A movement to simplify legal language" (5). There's that word "movement" again.
 
 It is a wonderful thing that people can make a living by delivering the social and economic benefits of clear legal communication. It strongly suggests that the movement has succeeded--though, to be sure, there's much to be done in implementing that success and in ensuring that every legal and related document everywhere is easy for its intended audience to understand and to use.
 
 Much to be done indeed.
 
-## []()3\. The success of plain language
+## 3\. The success of plain language
 
-Initially, the plain-language movement focussed on the social benefits of clear legal communication: improving access to justice, and enabling consumers to make more informed decisions. [(6)](#Note6)
+Initially, the plain-language movement focussed on the social benefits of clear legal communication: improving access to justice, and enabling consumers to make more informed decisions. (6)
 
-In more recent times, plain language proponents moved on to focus on the benefits that plain language can deliver to the people whom the movement was seeking to convert--key decision-makers in business and in government. On the whole, those key decision-makers are more interested in the economic benefits of plain language: improvements in efficiency, effectiveness, and customer satisfaction. [(7)](#Note7)
+In more recent times, plain language proponents moved on to focus on the benefits that plain language can deliver to the people whom the movement was seeking to convert--key decision-makers in business and in government. On the whole, those key decision-makers are more interested in the economic benefits of plain language: improvements in efficiency, effectiveness, and customer satisfaction. (7)
 
 Yet even after this change in focus, many decision-makers outside the legal profession still seem to see plain language as merely a worthy off-shoot of the consumer movement.
 
@@ -110,7 +54,7 @@ Where the plain-language movement has really succeeded is in its debate with the
 
 It is this success of the plain-language movement that has enabled people to earn a living--and more--through plain language. And that has created the situation in which it is a little odd to go on calling the plain language thing a "movement".
 
-## []()4\. Is there a problem referring to the "plain language movement"?
+## 4\. Is there a problem referring to the "plain language movement"?
 
 It seems to me that continuing to refer to the "plain language movement" raises 2 problems.
 
@@ -119,13 +63,13 @@ It seems to me that continuing to refer to the "plain language movement" raises 
 
 People outside the plain language world who see plain language as a movement usually have a closely related misconception, namely, that plain language is relevant only when writing to "retail consumers"--to the proverbial "mums and dads".
 
-That misconception further impedes progress. For example, plain language--whether we see it as a movement or an industry--had a major win in 1998, when the United States Securities Exchange Commission implemented regulations that required certain parts of prospectuses aimed at retail investors to be in plain language. [(8)](#Note8)
+That misconception further impedes progress. For example, plain language--whether we see it as a movement or an industry--had a major win in 1998, when the United States Securities Exchange Commission implemented regulations that required certain parts of prospectuses aimed at retail investors to be in plain language. (8)
 
 A few months later I worked on an international prospectus for one of Australia's 10 largest companies. A team of US lawyers from one of the most prominent New York law firms worked on the documents. They told me about a US prospectus they had worked on a few months earlier in which shares were to be offered to retail investors. So they had prepared the relevant parts of the prospectus in plain language to comply with the new SEC requirements.
 
 Then after the prospectus was more or less complete, their client company changed its mind and decided that the shares would be offered only to institutional investors. So the lawyers rewrote the plain language document back into legalese. The mind boggles.
 
-## []()5\. Rebutting the misconceptions about a "movement"
+## 5\. Rebutting the misconceptions about a "movement"
 
 So plain language progress is impeded by two closely related misconceptions:
 
@@ -141,23 +85,23 @@ Let's consider:
 
 While we're at it, let's review some plain language developments around the world.<br>
 
-## []()5.1 A Canadian financial services organization
+## 5.1 A Canadian financial services organization
 
 In 1999, the Canadian financial services organization The Mutual Group demutualised, listed, and rebranded. As part of that rebranding, the company renamed itself "Clarica" and adopted the brand promise "Clarity through dialogue".
 
 Clarica is a play on words for "clarity". The company's television ads show the Word "clarity" first, and then the last 2 letters "ty" rotate to become "ca" to make "Clarica". The company wants people to make the connection between clear communication and the company. As the Clarica website reports:
 
-> Clarica was Mutual Life of Canada. With its conversion to a shareholder company, the century old name was no longer appropriate. The new name was carefully chosen to portray the strength of the company as it heads into a new age. Clarica captures the power of clear dialogue in making personal financial choices, dialogue between the customer and the people of the company to achieve understanding ... clarity ... and the best solutions. [(9)](#Note9)
+> Clarica was Mutual Life of Canada. With its conversion to a shareholder company, the century old name was no longer appropriate. The new name was carefully chosen to portray the strength of the company as it heads into a new age. Clarica captures the power of clear dialogue in making personal financial choices, dialogue between the customer and the people of the company to achieve understanding ... clarity ... and the best solutions. (9)
 
 A major market for Clarica is retail customers. Clearly, the organization knew, or found out, that its audience valued clear communication. No surprises there.
 
 But clear communication is for all. We need to remember that at the end of the day, when the people who manage institutional investor organizations and corporate clients go home, those same people are retail customers and retail investors. In that capacity, I bet they want the documents they have to read to make sense, to be clear, and to be easy to deal with. And I bet they feel like that about the documents they have to read at work too--when no one would see them as a retail customer.
 
-## []()5.2 The international accountancy firm KPMG
+## 5.2 The international accountancy firm KPMG
 
 In Australia, KPMG uses the slogan "It's time for clarity". Fair enough too. Yet the firm's primary audience is not retail consumers. Far from it. And although I'm sure the firm is a good corporate citizen, I'm equally sure it didn't adopt that slogan in support of the plain language movement. Surely KPMG adopted the slogan "It's time for clarity" because the large corporations it values and seeks as clients--and the people who work in those organizations--value clear communication. So do we all.
 
-## []()5.3 Law firms lead with plain language
+## 5.3 Law firms lead with plain language
 
 Several major law firms in Australia are committed to plain language. They have rewritten their precedents in plain language and have trained their lawyers in plain language skills. These firms see the clarity of their writing as a distinguishing feature of their business--something that gives them an edge, something that benefits their clients. Some of these firms go further than that. They provide plain language rewriting services. These firms have had tremendous successes with plain language. For example:
 
@@ -170,7 +114,7 @@ This development in Australian law firms seems likely to be a sign of things to 
 
 It's worth dwelling on these developments for a moment.
 
-## []()5.4 Plain-language wins the debate and kicks on in law firms and in legislation
+## 5.4 Plain-language wins the debate and kicks on in law firms and in legislation
 
 As far as I know, this development in Australian law firms is not common in other countries. Also, in the countries other than Australia where law firms are developing plain language expertise, they seem to be doing so in response to regulatory demand--rather than seeing plain language as an opportunity to provide a new service for clients. For example, major commercial law firms in the US are equipping themselves to write documents that meet the plain language requirements of the SEC regulations.
 
@@ -178,7 +122,7 @@ The history is very different in Australia where law firms adopted and committed
 
 In Australia, clients started demanding plain language documents as soon as the legal profession fell silent in its debate with the plain-language movement (as it was!) about the incompatibility of clarity on the one hand with accuracy, certainty, and precision on the other hand. That debate was lead, on the plain language side, by the Law Reform Commission of Victoria under the direction of its Chairman David St L Kelly.
 
-The Commission published a discussion paper and 2 reports on plain language. [(10)](#Note10)
+The Commission published a discussion paper and 2 reports on plain language. (10)
 
 The Commission's work generated considerable positive publicity in the general media and even more debate in the legal press. Much of the publicity in the general media focused on various demonstration rewrites that the Commission included in its reports--the classic:
 
@@ -191,42 +135,42 @@ As the debate flowed on (it never really raged), clients started asking the Law 
 
 At about the same time, some of the legislative drafting offices in Australia began moving forward on the plain language front. Some of them have done wonderful things, as we'll see later in this paper.
 
-## []()5.5 Some plain language developments around the world
+## 5.5 Some plain language developments around the world
 
 There's much happening with plain language internationally--for example:
 
-- In the US, plain language has long had a high profile in law schools--many of them offer a legal writing subject that, at least in part, focuses on clear communication. A great deal of the early research on clear written communication was done in the US by the Document Design Centre in Washington DC, much of it under the direction of Dr Janice "Ginny" Redish. But the highlight so far has been President Clinton's Memorandum on Plain Language directing all Executive Departments and Agencies to use plain language. The President's Memorandum was issued on June 1 1998--a red-letter day for plain language everywhere. [(11)](#Note11)For the latest US developments, see www.plainlanguage.gov.
-- In Canada, there are many plain language practitioners and advocates. Some of them have law degrees. Also, the Canadian Securities Administration, the federal Department of Finance, the British Columbia Securities Commission, the Office of the Alberta Auditor General, and the Canadian Bankers' Association are all pushing for plain language. [(12)](#Note12)
-- In the United Kingdom, the Plain English Campaign [(13)](#Note13) and the Plain Language Commission [(14)](#Note14) have been leading the charge and providing rewriting services and training for many years. There have been 2 major legislative developments. First, the new rules for civil procedure, which greatly simplify the language used in court proceedings.[(15)](#Note15) Second a project to rewrite the UK's tax laws. [(16)](#Note16)
-- In South Africa, plain language is gathering momentum after a long period in which the country was focussed on even more important issues. Some law firms are attempting to establish plain language practices. The government has been active in legislation. The Canadian lawyer, and plain language expert, Phil Knight was the plain language adviser to the Constitutional Assembly in relation to drafting South Africa's new Constitution. Phil has returned to South Africa to work on various legislative projects, the highlights being the Labour Relations Act 1995 and competition legislation. [(17)](#Note17)
+- In the US, plain language has long had a high profile in law schools--many of them offer a legal writing subject that, at least in part, focuses on clear communication. A great deal of the early research on clear written communication was done in the US by the Document Design Centre in Washington DC, much of it under the direction of Dr Janice "Ginny" Redish. But the highlight so far has been President Clinton's Memorandum on Plain Language directing all Executive Departments and Agencies to use plain language. The President's Memorandum was issued on June 1 1998--a red-letter day for plain language everywhere. (11)For the latest US developments, see www.plainlanguage.gov.
+- In Canada, there are many plain language practitioners and advocates. Some of them have law degrees. Also, the Canadian Securities Administration, the federal Department of Finance, the British Columbia Securities Commission, the Office of the Alberta Auditor General, and the Canadian Bankers' Association are all pushing for plain language. (12)
+- In the United Kingdom, the Plain English Campaign (13) and the Plain Language Commission (14) have been leading the charge and providing rewriting services and training for many years. There have been 2 major legislative developments. First, the new rules for civil procedure, which greatly simplify the language used in court proceedings.(15) Second a project to rewrite the UK's tax laws. (16)
+- In South Africa, plain language is gathering momentum after a long period in which the country was focussed on even more important issues. Some law firms are attempting to establish plain language practices. The government has been active in legislation. The Canadian lawyer, and plain language expert, Phil Knight was the plain language adviser to the Constitutional Assembly in relation to drafting South Africa's new Constitution. Phil has returned to South Africa to work on various legislative projects, the highlights being the Labour Relations Act 1995 and competition legislation. (17)
 - In New Zealand, the government is rewriting tax legislation in plain language and some major law firms provide plain language services.
-- In the European Union there is an obvious and huge need for plain-language legal documents. At a conference in Denmark in 1994, translators from the European Union bemoaned the appalling English they were required to translate. [(18)](#Note18)
+- In the European Union there is an obvious and huge need for plain-language legal documents. At a conference in Denmark in 1994, translators from the European Union bemoaned the appalling English they were required to translate. (18)
 
-  - The Commission of the European Communities is striving to ensure that Community legislation is "... worded clearly, consistently and unambiguously ... so that it will be easier to understand ...[(19)](#Note19)" Also, the Interinstitutional Agreement of 22 December 1998 on Common Guidelines for the Quality of Drafting of Community Legislation [(20)](#Note20), together with the Joint Practical Guide on how to Draft Community Legislation, stresses that Community Legislation should be clear, simple, precise "readily understandable by the public and economic operators".
+  - The Commission of the European Communities is striving to ensure that Community legislation is "... worded clearly, consistently and unambiguously ... so that it will be easier to understand ...(19)" Also, the Interinstitutional Agreement of 22 December 1998 on Common Guidelines for the Quality of Drafting of Community Legislation (20), together with the Joint Practical Guide on how to Draft Community Legislation, stresses that Community Legislation should be clear, simple, precise "readily understandable by the public and economic operators".
   - Much progress has been made in Sweden where the government has been pushing for plain language since the early 1970's. The Swedish Ministry of Justice has 6 language experts who work to ensure legislation, and other government documents, are clear.
-  - As part of Sweden's presidency of the European Commission in 2001, Sweden hosted the European Laws Conference in Stockholm in June 2001\. The conference included a daylong session on "The need for clarity and public access: Bridging the gap between the Union and its citizens". At the Conference, Martin Cutts of the UK based Plain Language Commission [(21)](#Note21), released his report Clarifying Eurolaw which includes a rewrite of a European Council Directive.
-  - The Conference, and Sweden's ongoing support of various plain language related proposals, has boosted clear communication in the European Union. Indeed, at the so-called Laeken meeting in December 2001, the European Council announced that it welcomed the plain language proposals and expects to receive a practical plan from the European Commission. [(22)](#Note22)
+  - As part of Sweden's presidency of the European Commission in 2001, Sweden hosted the European Laws Conference in Stockholm in June 2001\. The conference included a daylong session on "The need for clarity and public access: Bridging the gap between the Union and its citizens". At the Conference, Martin Cutts of the UK based Plain Language Commission (21), released his report Clarifying Eurolaw which includes a rewrite of a European Council Directive.
+  - The Conference, and Sweden's ongoing support of various plain language related proposals, has boosted clear communication in the European Union. Indeed, at the so-called Laeken meeting in December 2001, the European Council announced that it welcomed the plain language proposals and expects to receive a practical plan from the European Commission. (22)
 
-## []()5.6 What next for plain language?
+## 5.6 What next for plain language?
 
-It seems clear that the so-called plain-language movement is a movement no more. Yet many key decision-makers in business and government see plain language as a sub-branch of the consumer movement. This misconception impedes plain language progress. For this reason, plain language needs to reposition itself so that those decision-makers see clear legal--and related--communications as important to their organization's success. I suggest a way to do that in [section 8](#Possible_new_position).
+It seems clear that the so-called plain-language movement is a movement no more. Yet many key decision-makers in business and government see plain language as a sub-branch of the consumer movement. This misconception impedes plain language progress. For this reason, plain language needs to reposition itself so that those decision-makers see clear legal--and related--communications as important to their organization's success. I suggest a way to do that in section 8.
 
-## []()6\. Establishing some threshold realities
+## 6\. Establishing some threshold realities
 
 Before we move on to consider how the plain language movement can reposition itself, let's confirm 2 things--just in case there's any doubt:
 
-- • Plain language involves more than mere word substitution, see [6.1](#Beyond_mere).
-- • Plain language is just as accurate, as certain, and as precise as traditional legal drafting. Indeed, it is almost always more accurate, more certain, and more precise. Even judges prefer plain language, see [6.2](#PL_improves).
+- Plain language involves more than mere word substitution, see 6.1.
+- Plain language is just as accurate, as certain, and as precise as traditional legal drafting. Indeed, it is almost always more accurate, more certain, and more precise. Even judges prefer plain language, see 6.2.
 
-## []()6.1 Beyond mere word substitution
+## 6.1 Beyond mere word substitution
 
 In many ways, the phrase "plain language" is inaccurate. It places too much emphasis on language: on words and on sentences. The reality is that clear legal communication depends on much more than eradicating jargon--mere word substitution--and on much more than familiar sentence structure.
 
 Usually, rewriting a document in plain language involves rethinking the entire document--its content, language, structure, and design--while rigorously focusing on the audience and the purpose of the communication. It is this approach that leads to successful communication.
 
-These things are written about at length elsewhere. [(23)](#Note23)
+These things are written about at length elsewhere. (23)
 
-## []()6.2 Plain-language improves accuracy, certainty, and precision
+## 6.2 Plain-language improves accuracy, certainty, and precision
 
 Lawyers are conscious of the accuracy, certainty, and precision of traditional legal language. They are sometimes initially concerned that plain language may jeopardize that accuracy, certainty, and precision. However, their concern can be put to one side.
 
@@ -234,57 +178,57 @@ Detailed research throughout the world, and many "real-life" plain language docu
 
 Writing in plain language does not involve abandoning legal concepts and replacing them with colloquial expressions. Lawyers who are expert in the relevant field are involved in any plain language rewriting project. All essential legal concepts, terms, and phrases are preserved in plain language documents.
 
-But legal concepts form only a small percentage of any document--usually, much less than 2%. This leaves 98% of the document available for improvement. Also, remember that rewriting a document in plain language involves much more than mere word substitution, see [6.1](#Beyond_mere)
+But legal concepts form only a small percentage of any document--usually, much less than 2%. This leaves 98% of the document available for improvement. Also, remember that rewriting a document in plain language involves much more than mere word substitution, see 6.1
 
-The fears expressed about plain language and the arguments raised against it are myths. [(24)](#Note24) Even judges prefer plain language--as is shown both by surveys and in court. [(25)](#Note25)
+The fears expressed about plain language and the arguments raised against it are myths. (24) Even judges prefer plain language--as is shown both by surveys and in court. (25)
 
-Surveys Surveys in Michigan, Florida, and Louisiana show that when judges (and lawyers) are shown two versions of a document, one in a traditional style and one in plain language, over 80% of them prefer the plain language version. [(26)](#Note26)
+Surveys Surveys in Michigan, Florida, and Louisiana show that when judges (and lawyers) are shown two versions of a document, one in a traditional style and one in plain language, over 80% of them prefer the plain language version. (26)
 
-In another survey, ten Californian appellate judges and their research attorneys compared plain language versions of passages from appellate briefs with versions in a traditional style. They rated the traditional versions as "substantially weaker and less persuasive than the plain language versions". Also they inferred that the attorneys who wrote in legalese came from less prestigious law firms than those who wrote in plain language. [(27)](#Note27)
+In another survey, ten Californian appellate judges and their research attorneys compared plain language versions of passages from appellate briefs with versions in a traditional style. They rated the traditional versions as "substantially weaker and less persuasive than the plain language versions". Also they inferred that the attorneys who wrote in legalese came from less prestigious law firms than those who wrote in plain language. (27)
 
 Court Consider these 3 examples of judicial comment on drafting styles: 2 of the comments are critical and one is positive:
 
 - Lord Reid of the English House of Lords:
 
-  This clause does not make sense as it stands. But the client must not be penalized for his lawyer's slovenly drafting ... I must consider whether underlying the words used any reasonably clear intention can be discerned ... ... no rational person would insert provisions like that. I was surprised to learn that this botched clause had somehow found its way into a standard book of precedents ... [(28)](#Note28)
+  This clause does not make sense as it stands. But the client must not be penalized for his lawyer's slovenly drafting ... I must consider whether underlying the words used any reasonably clear intention can be discerned ... ... no rational person would insert provisions like that. I was surprised to learn that this botched clause had somehow found its way into a standard book of precedents ... (28)
 
 - Meagher JA of the New South Wales Court of Appeal:
 
-  ... the difficulty chiefly arises because the policies, and other documents, emanating from the insurer could not be more perplexing if they had been specifically drafted in order to generate ambiguity. [(29)](#Note29)
+  ... the difficulty chiefly arises because the policies, and other documents, emanating from the insurer could not be more perplexing if they had been specifically drafted in order to generate ambiguity. (29)
 
 - Heerey J of the Federal Court of Australia considering a document prepared by the plain language unit at the Australian law firm Mallesons Stephen Jaques:
 
-  The plain words of the guarantee are conclusive evidence against the Appellant's [the customer's] argument. The guarantee appears to be a standard form document. In contrast to much traditional bank security documentation, it is clear and comprehensible. [(30)](#Note30)
+  The plain words of the guarantee are conclusive evidence against the Appellant's [the customer's] argument. The guarantee appears to be a standard form document. In contrast to much traditional bank security documentation, it is clear and comprehensible. (30)
 
 In fact, plain language is more accurate, more certain, and more precise than traditional legal drafting. This is because when a document is in plain language, the people involved in producing and reviewing the document spend less time and effort struggling to understand it. Instead, their energy goes into getting the content and the style right--that is:
 
 - accurate, certain, and precise; and
 - clear for the various audiences who will use the document.
 
-## []()6.3 Improving the substance of non-legal documents
+## 6.3 Improving the substance of non-legal documents
 
 Plain language practitioners are familiar with the idea that plain language improves accuracy, certainty, and precision. But the substantive benefits of plain language go even further than that. This point was made by Merwan Saher, Director of Communications with the Office of the Alberta Auditor General in his paper at this Conference when he said:
 
-> What we've learned so far is that structure that forces the auditor to discretely set out audit criteria, findings, and implications exposes substandard work. So clear, concise writing influences our audit rigour by identifying the need for more thought or evidence. In summary, by exposing unsupported audit recommendations, plain language improves audit quality. [(31)](#Note31)
+> What we've learned so far is that structure that forces the auditor to discretely set out audit criteria, findings, and implications exposes substandard work. So clear, concise writing influences our audit rigour by identifying the need for more thought or evidence. In summary, by exposing unsupported audit recommendations, plain language improves audit quality. (31)
 
 Merwan's point is worth dwelling on. The theme of this plain language conference is "At the heart of communication across disciplines and around the world". And that is a true and worthy point. But Merwan's point shows us that plain language can be at the heart of more than just communication. Plain language can also be at the heart of the substantive activities to which communications relate. It's as simple as this: by improving the communications relating to their audits, the people in the Office of the Alberta Auditor General improved the quality of their audits.
 
-## []()7\. If plain language is "beyond a movement", what is it?
+## 7\. If plain language is "beyond a movement", what is it?
 
 Plain language has indeed evolved to become more than a movement. In fact it's now 4 different things:
 
 - one of them somewhat burdensome for business--though great for consumers; and
 - the other 3 ripe with opportunities and promise for all.
 
-## []()7.1 The burden
+## 7.1 The burden
 
 Plain language can be burdensome when seen as something that a regulator requires an organization to comply with--as with the SEC regulations in relation to prospectuses.
 
-The "burdensome stakes" are high in Australia where at least one regulator strongly encourages some organizations to test the clarity of some of their documents--for example, the Corporations Act 2001 requires financial organizations to produce Product Disclosure Statements for each product the organization sells. The law requires those documents to be "... presented in a clear, concise and effective manner." [(32)](#Note32) That's not so unusual. But in the explanatory material [(33)](#Note33) for the legislation, the regulator, the Australian Securities & Investments Commission (which is the Australian equivalent of the United States Securities and Exchange Commission) suggests that organizations test documents on consumers to ensure that the documents are truly clear and that they really meet the legislative requirements.
+The "burdensome stakes" are high in Australia where at least one regulator strongly encourages some organizations to test the clarity of some of their documents--for example, the Corporations Act 2001 requires financial organizations to produce Product Disclosure Statements for each product the organization sells. The law requires those documents to be "... presented in a clear, concise and effective manner." (32) That's not so unusual. But in the explanatory material (33) for the legislation, the regulator, the Australian Securities & Investments Commission (which is the Australian equivalent of the United States Securities and Exchange Commission) suggests that organizations test documents on consumers to ensure that the documents are truly clear and that they really meet the legislative requirements.
 
 This encouragement to test is a potentially onerous but, even so, a legitimate requirement. After all, it's easy to say "our documents are in plain language"--it's rather like when someone says "the cheque's in the mail". But no one can really be sure a document is clear unless a sample audience has confirmed that they can use the document to find, to understand, and to use the information they seek.
 
-## []()7.2 The opportunities and promise
+## 7.2 The opportunities and promise
 
 Plain language can also be seen in a positive way, for some organizations plain language is:
 
@@ -294,7 +238,7 @@ Plain language can also be seen in a positive way, for some organizations plain 
 
 So for law firms, plain language can be wonderful in 3 ways: as a product, as a value adding part of the experience of buying legal services from the firm, and as a distinguishing feature that clients value.
 
-## []()8\. A possible new position for plain language
+## 8\. A possible new position for plain language
 
 Plain language is a movement no more. The legal profession has known this for some time. However, in the minds of key decision-makers in business and government, plain language is too often still seen as a movement. We need to remedy that by repositioning plain language in the minds of those decision-makers. It's worth doing because those people bare responsibility for enabling plain language to be implemented--and plain language has benefits for all.
 
@@ -311,7 +255,7 @@ The repositioning might start with clarifying how we conceive plain language. Le
 
 I see the documents that an organization--whether a business, a government body, or a law firm--produces and relies on as forming the "voice of the organization's brand". For that statement to make sense, we need to think about two things: "voice" and "brand". Let's think about voice first.
 
-## []()8.1 Voice
+## 8.1 Voice
 
 Each time we speak, the voice we use is heavily influenced by our audience and our purpose: whom we are talking to and why. For example, we use different voices to talk to our pet, to our mother, to our boss and--if we are a lawyer in private practice--to our clients. As a lawyer, we probably use quite different voices for different sorts of clients.
 
@@ -343,11 +287,11 @@ I think the reason many of us (lawyers in particular) so habitually use our work
 
 Having thought about voice, let's think about brand.
 
-## []()8.2 Brand
+## 8.2 Brand
 
 Today, in these communication saturated times, an organization's reputation is expressed through a clearly defined brand. The brand represents the essence of an organization: everything it stands for, and everything that differentiates it from its competitors. To quote the global management consultants McKinsey & Company:
 
-> A name becomes a brand, when consumers associate it with a set of tangible, or intangible, benefits that they obtain from that product or service. To build brand equity, a company needs to do two things: first, distinguish its product from others in the market; second, align what it says about its brand in advertising and marketing with what it actually delivers. [(34)](#Note34)
+> A name becomes a brand, when consumers associate it with a set of tangible, or intangible, benefits that they obtain from that product or service. To build brand equity, a company needs to do two things: first, distinguish its product from others in the market; second, align what it says about its brand in advertising and marketing with what it actually delivers. (34)
 
 Perhaps the best way to understand the concept of brand is to imagine me offering you a sports car and asking you to choose from 3 leading models each from a different manufacturer. The vehicles are labelled Model A, Model B, and Model C. The trouble is you have to choose your car on the basis of the anonymous manufacturers' vehicle specifications and performance criteria (no photographs of the car either).
 
@@ -359,7 +303,7 @@ The key point about building and maintaining a brand is alignment. This point wa
 
 One aspect of an organization's activities that needs to be aligned with its marketing and advertising to create a successful brand is the organization's documents. Because the documents an organization produces, or relies on, form the "voice of its brand".
 
-## []()8.3 Voice of the brand
+## 8.3 Voice of the brand
 
 The people who create written communications for an organization are creating the "voice of their organization's brand"--whether they work for the organization or as one of its advisers.
 
@@ -411,7 +355,7 @@ So to the questions about the letter:
 
 The letter is the voice of the organization's brand and it gives us a fairly clear impression of the organization.
 
-To see who the letter is from, see the footnote where the answer is hidden to preserve the surprise. [(35)](#Note35)
+To see who the letter is from, see the footnote where the answer is hidden to preserve the surprise. (35)
 
 How did the letter measure up against your perception of that organization's brand? I use the letter as an example in a plain-language training course I run. Most participants on the course say there is a massive disconnect between how they feel about that organization--that is, its brand--and how the letter reveals that organization to be.
 
@@ -433,7 +377,7 @@ I would have been happy with a handwritten note on a with compliments slip. Some
 
 As I see it, the letter from the lawyer was a classic example of someone automatically using their work-voice. In a Zen sense, the writer was not "in the moment" when he dictated the letter. He did not even remotely consider his audience or his purpose.
 
-## []()8.4 The importance of the voice of the brand: to business and in government
+## 8.4 The importance of the voice of the brand: to business and in government
 
 For some organizations the voice of the brand doesn't matter--for example, Levis. We don't care too much about the way Levis writes to us--if it ever does other than in advertising and labelling.
 
@@ -460,21 +404,21 @@ But the voice of the brand is even more important in a broader context. The fact
 
 The problems arise in legislation, in the communications produced by government departments, and in the courts. Consider this point from a tongue-in-cheek article by an Australian journalist covering the vote counting in Florida after the 2000 US election:
 
-> It doesn't matter if it's Super League [a reference to a major piece of protracted very public litigation over the running of Rugby League in Australia] or a national election, judges are the most unsatisfactory people to decide life's big questions [By the way, that's going too far even for me!] because it's so hard to work out what they are saying. All of the key decisions in this election, at whatever level, have been followed by universal blank looks. "Has he finished yet? Does that mean we won or lost?" [(36)](#Note36)
+> It doesn't matter if it's Super League [a reference to a major piece of protracted very public litigation over the running of Rugby League in Australia] or a national election, judges are the most unsatisfactory people to decide life's big questions [By the way, that's going too far even for me!] because it's so hard to work out what they are saying. All of the key decisions in this election, at whatever level, have been followed by universal blank looks. "Has he finished yet? Does that mean we won or lost?" (36)
 
 The point was made more formally by Hon. A M Omar MP, Minister of Justice, Republic of South Africa, in March 1995:
 
-> Clear, simple communication is ... an absolute and critical necessity for democracy. People have a right to understand the laws that govern them, to understand court proceedings in matters that affect them, to understand what government is doing in their name. [(37)](#Note37)
+> Clear, simple communication is ... an absolute and critical necessity for democracy. People have a right to understand the laws that govern them, to understand court proceedings in matters that affect them, to understand what government is doing in their name. (37)
 
 At first glance, it may be a little odd to think about the voice of the brand of a State, of an entire nation. But South Africa has given us a good place to start. The South African Constitution contains a Bill of Rights, which includes the statement that:
 
-> This Bill of Rights is a cornerstone of democracy in South Africa. It enshrines the rights of all people in our country and affirms the democratic values of human dignity, equality and freedom. [(38)](#Note38)
+> This Bill of Rights is a cornerstone of democracy in South Africa. It enshrines the rights of all people in our country and affirms the democratic values of human dignity, equality and freedom. (38)
 
 Those are inspiring brand values for any nation: "dignity, equality and freedom".
 
 The challenge is to make the style of legislation live up to these inspiring ideals. One way to do that is to ensure that legislation is inclusive. As Phil Knight, Professor Joseph Kimble, and I said in a 1995 report to the South African Minister of Justice:
 
-> Most importantly, plain language allows people to visualize themselves as subjects of the law, and to imagine themselves in the circumstances with which the law deals. This ability to place or imagine oneself within the law is an important distinction between a system of justice and a regime of enforced order. [(39)](#Note39)
+> Most importantly, plain language allows people to visualize themselves as subjects of the law, and to imagine themselves in the circumstances with which the law deals. This ability to place or imagine oneself within the law is an important distinction between a system of justice and a regime of enforced order. (39)
 
 There is much good news on the legislative front. For example, the main headings in the New South Wales Local Government Act 1993 are:
 
@@ -487,21 +431,21 @@ There is much good news on the legislative front. For example, the main headings
 
 The heading for Chapter 4 is my all-time favorite legislative heading "How can the community influence what a council does?" It's so inclusive and welcoming--even if the reader is unfamiliar with the law and legal processes. If they want to find out how to let their local council know what they think, the law welcomes them to the process.
 
-When I quoted that heading to some lawyers working in community legal centers in Namibia, they were ecstatic (I'm not exaggerating) at the thought that legislation could be written like that. New South Wales is not alone in using question headings in legislation: Sweden does too. [(40)](#Note40)Other exciting developments in legislative drafting include the increasing use of graphic devices and examples. [(41)](#Note41)
+When I quoted that heading to some lawyers working in community legal centers in Namibia, they were ecstatic (I'm not exaggerating) at the thought that legislation could be written like that. New South Wales is not alone in using question headings in legislation: Sweden does too. (40)Other exciting developments in legislative drafting include the increasing use of graphic devices and examples. (41)
 
 How wonderful it would be if more judges also strove to write in a way that enhances respect for the rule of law: not through gravitas, formality, and tradition but through accessibility, clarity, simplicity, and ease of use.
 
-There is good news too in US government departments, many of which are engaged in major long-term projects to improve the clarity of their communications. [(42)](#Note42)
+There is good news too in US government departments, many of which are engaged in major long-term projects to improve the clarity of their communications. (42)
 
-## []()9\. Delivering plain language: structure and responsibilities
+## 9\. Delivering plain language: structure and responsibilities
 
 Although there is neither the room, nor the need, to say much here about causing organizational cultural change, there are two points worth making because they are particularly related to communication.
 
-## []()9.1 Someone to take responsibility for how the audience receives the message
+## 9.1 Someone to take responsibility for how the audience receives the message
 
 In most organisations, a team of people contribute to the style and content of a document. Between them, those people have a range of roles. For example, in a financial services organization, those roles typically include: a product manager, a lawyer, an actuary, someone from marketing, someone from customer service, someone representing the distributors who actually deal with potential customers, a designer, someone responsible for some research, a project manager, someone from IT, a printer, ... and often a few more.
 
-Yet there is no one whose job is to take responsibility for how the audience will receive the message. [(43)](#Note43)
+Yet there is no one whose job is to take responsibility for how the audience will receive the message. (43)
 
 Organisations need to give someone that responsibility. There needs to be someone representing the document's audience who is prepared to sign-off (after any necessary testing):
 
@@ -510,7 +454,7 @@ Organisations need to give someone that responsibility. There needs to be someon
 
 The questions then arise: Who should that person report to? How do they fit into the team?
 
-## []()9.2 Structuring an organisation to show the importance of communication
+## 9.2 Structuring an organisation to show the importance of communication
 
 In my experience, the person that coordinates the creation of documents is usually the Product Manager. That seems to be a mistake to me.
 
@@ -532,7 +476,7 @@ The other people involved should be merely contributing material, and checking f
 
 This structure will also help to emphasise internally the importance the organisation places on the clarity of its communications. By itself, that emphasis will generate energy and momentum that will help the organisation produce clear documents that enhance its brand.
 
-## []()10\. Conclusion
+## 10\. Conclusion
 
 Plain language has grown beyond being a movement to become a product, a business, an industry, or a professional service. In the early twenty-first Century, it is almost misleading for plain language practitioners to talk about their product as a movement.
 
@@ -570,88 +514,88 @@ All of that should help deliver the economic and social benefits of clear commun
 
 ## Footnotes
 
-[]()(1) I presented an earlier version of this paper at _At the Heart of Communication_ The Plain Language Association International (PLAIN) 4th International conference. Ramada Hotel and Suites, Toronto, September 26–29, 2002--see www.plainlanguagenetwork.org. Also, I presented a much earlier version at the _Language & the Law Conference,_ The University of Texas at Austin December 6-8, 2001\. A conference celebrating the Millionth Volume at the Jamail Center for Legal Research, Tarlton Law Library, at The University of Texas at Austin School of Law.
+1. I presented an earlier version of this paper at _At the Heart of Communication_ The Plain Language Association International (PLAIN) 4th International conference. Ramada Hotel and Suites, Toronto, September 26–29, 2002--see www.plainlanguagenetwork.org. Also, I presented a much earlier version at the _Language & the Law Conference,_ The University of Texas at Austin December 6-8, 2001\. A conference celebrating the Millionth Volume at the Jamail Center for Legal Research, Tarlton Law Library, at The University of Texas at Austin School of Law.
 
-[]()(2) In the United Kingdom, and Australia, the phrase is more commonly "the plain English movement".
+2. In the United Kingdom, and Australia, the phrase is more commonly "the plain English movement".
 
-[]()(3) See the legal journal CLARITY No. 43 (May 1999). It contains articles about plain language practitioners working as consultants and working in-house in law firms, financial services organisations, accounting firms, legislative drafting offices, and government agencies. For information about the organisation Clarity, see www.clarity-international.net.
+3. See the legal journal CLARITY No. 43 (May 1999). It contains articles about plain language practitioners working as consultants and working in-house in law firms, financial services organisations, accounting firms, legislative drafting offices, and government agencies. For information about the organisation Clarity, see www.clarity-international.net.
 
-[]()(4) www.plainlanguagenetwork.org
+4. www.plainlanguagenetwork.org
 
-[]()(5) See www.clarity-international.net.
+5. See www.clarity-international.net.
 
-[]()(6) See _LAW REFORM COMM'N OF VICTORIA, LEGISLATION LEGAL RIGHTS AND PLAIN ENGLISH_ (1986). See also CHRISTOPHER BALMFORD, "Adding Value by Writing Clearly," _THE SOUTH AFRICAN LAW JOURNAL_, 514 at 533, Vol 111, Part III, (August 1994).
+6. See _LAW REFORM COMM'N OF VICTORIA, LEGISLATION LEGAL RIGHTS AND PLAIN ENGLISH_ (1986). See also CHRISTOPHER BALMFORD, "Adding Value by Writing Clearly," _THE SOUTH AFRICAN LAW JOURNAL_, 514 at 533, Vol 111, Part III, (August 1994).
 
-[]()(7) For a fascinating and persuasive summary of the research on the efficiency, effectiveness, and customer satisfaction gains that clear communication has actually delivered to a wide range of organisations, see PROFESSOR JOSEPH KIMBLE Writing for Dollars, Writing to Please, 6 SCRIBES J. LEGAL WRITING 1, (1996-1997).
+7. For a fascinating and persuasive summary of the research on the efficiency, effectiveness, and customer satisfaction gains that clear communication has actually delivered to a wide range of organisations, see PROFESSOR JOSEPH KIMBLE Writing for Dollars, Writing to Please, 6 SCRIBES J. LEGAL WRITING 1, (1996-1997).
 
-[]()(8) SEC release 33-7497 (also 34-39593 and IC-23011) January 28, 1998\. See www.sec.gov/rules/final33-7497.txt.
+8. SEC release 33-7497 (also 34-39593 and IC-23011) January 28, 1998\. See www.sec.gov/rules/final33-7497.txt.
 
-[]()(9) www.clarica.com/e/about/Story/history.asp. See also, SUSAN MILNE Plain Language at Clarica CLARITY No. 45 at 19 (December 2000).
+9. www.clarica.com/e/about/Story/history.asp. See also, SUSAN MILNE Plain Language at Clarica CLARITY No. 45 at 19 (December 2000).
 
-[]()(10) LEGISLATION LEGAL RIGHTS AND PLAIN ENGLISH, Discussion Paper No. 1 (August 1986); PLAIN ENGLISH AND THE LAW, Report No. 9 (repr. 1990). ACCESS TO THE LAW: THE STRUCTURE AND FORMAT OF LEGISLATION, Report No. 33 (May 1990).
+10. LEGISLATION LEGAL RIGHTS AND PLAIN ENGLISH, Discussion Paper No. 1 (August 1986); PLAIN ENGLISH AND THE LAW, Report No. 9 (repr. 1990). ACCESS TO THE LAW: THE STRUCTURE AND FORMAT OF LEGISLATION, Report No. 33 (May 1990).
 
-[]()(11) See CLARITY No. 42 at 3-8 (September 1998); CLARITY No. 45 at 13 (December 2000).
+11. See CLARITY No. 42 at 3-8 (September 1998); CLARITY No. 45 at 13 (December 2000).
 
-[]()(12) Milne, supra note 11.
+12. Milne, supra note 11.
 
-[]()(13) www.plainenglishcampaign.com.
+13. www.plainenglishcampaign.com.
 
-[]()(14) www.clearest.co.uk.
+14. www.clearest.co.uk.
 
-[]()(15) Civil Procedure Rules (for England & Wales).
+15. Civil Procedure Rules (for England & Wales).
 
-[]()(16) See www.inlandrevenue.gov.uk.
+16. See www.inlandrevenue.gov.uk.
 
-[]()(17) See FRANS VILJOEN & ANNELIZE NIENABER (ed.) PLAIN LEGAL LANGUAGE FOR A NEW DEMOCRACY, 2001.
+17. See FRANS VILJOEN & ANNELIZE NIENABER (ed.) PLAIN LEGAL LANGUAGE FOR A NEW DEMOCRACY, 2001.
 
-[]()(18) Conversations with the author at Linguists and Lawyers--Issues We Confront The Aarhus School of Business, Aarhus, Denmark, 23-27 August 1994.
+18. Conversations with the author at Linguists and Lawyers--Issues We Confront The Aarhus School of Business, Aarhus, Denmark, 23-27 August 1994.
 
-[]()(19) Legislate Less to Act Better: The Facts Brussels 27 May 1998, COM (1998) 354 final p3.
+19. Legislate Less to Act Better: The Facts Brussels 27 May 1998, COM (1998) 354 final p3.
 
-[]()(20) See the Official Journal of the European Union 1999/C 73/01 at <http://europa.eu.int/eur-lex/en/index.html>.
+20. See the Official Journal of the European Union 1999/C 73/01 at <http://europa.eu.int/eur-lex/en/index.html>.
 
-[]()(21) www.clearest.co.uk.
+21. www.clearest.co.uk.
 
-[]()(22) See BARBRO EHRENBERG-SUNDIN The Swedish government promotes clear drafting CLARITY No. 47, 3 at 9 (May 2002).
+22. See BARBRO EHRENBERG-SUNDIN The Swedish government promotes clear drafting CLARITY No. 47, 3 at 9 (May 2002).
 
-[]()(23) BRYAN GARNER, LEGAL WRITING IN PLAIN ENGLISH: A TEXT WITH EXERCISES, University of Chicago Press (2001). CHRISTOPHER BALMFORD Getting the Structure Right: Process, Paradigm and Persistence (in 2 parts), Part 1 in CLARITY No. 42, at 42 (September 1998); Part 2 in CLARITY No. 43, at 14, (May 1999). COLIN WHEILDON, TYPE & LAYOUT: HOW TYPOGRAPHY AND DESIGN CAN GET YOUR MESSAGE ACROSS--OR GET IN THE WAY Strathmoor Press (March 1995).
+23. BRYAN GARNER, LEGAL WRITING IN PLAIN ENGLISH: A TEXT WITH EXERCISES, University of Chicago Press (2001). CHRISTOPHER BALMFORD Getting the Structure Right: Process, Paradigm and Persistence (in 2 parts), Part 1 in CLARITY No. 42, at 42 (September 1998); Part 2 in CLARITY No. 43, at 14, (May 1999). COLIN WHEILDON, TYPE & LAYOUT: HOW TYPOGRAPHY AND DESIGN CAN GET YOUR MESSAGE ACROSS--OR GET IN THE WAY Strathmoor Press (March 1995).
 
-[]()(24) See for example, LAW REFORM COMM'N OF VICTORIA, PLAIN ENGLISH AND THE LAW especially 45-62 (1990); PROFESSOR JOSEPH KIMBLE Answering the Critics of Plain Language, 5 SCRIBES J. LEGAL LANGUAGE 51, (1994-1995); and PROFESSOR DAVID MELLINKOFF, THE LANGUAGE OF THE LAW Boston, Little Brown & Co (1963).
+24. See for example, LAW REFORM COMM'N OF VICTORIA, PLAIN ENGLISH AND THE LAW especially 45-62 (1990); PROFESSOR JOSEPH KIMBLE Answering the Critics of Plain Language, 5 SCRIBES J. LEGAL LANGUAGE 51, (1994-1995); and PROFESSOR DAVID MELLINKOFF, THE LANGUAGE OF THE LAW Boston, Little Brown & Co (1963).
 
-[]()(25)Steve Palyga Is it Safer to Use Legalese or Plain English? What the Judges Say, CLARITY No. 43 at 46, (May 1999).
+25)Steve Palyga Is it Safer to Use Legalese or Plain English? What the Judges Say, CLARITY No. 43 at 46, (May 1999).
 
-[]()(26) PROFESSOR JOSEPH KIMBLE and J A PROKOP JR Strike Three for Legalese, MICH. B.J. 418 (May 1990).
+26. PROFESSOR JOSEPH KIMBLE and J A PROKOP JR Strike Three for Legalese, MICH. B.J. 418 (May 1990).
 
-[]()(27) BENSON AND KESSLER, Legalese v plain English: An Empirical Study of Persuasion and Credibility in Appellate Brief Writing 20 Loy LA L Rev at 301 (1987).
+27. BENSON AND KESSLER, Legalese v plain English: An Empirical Study of Persuasion and Credibility in Appellate Brief Writing 20 Loy LA L Rev at 301 (1987).
 
-[]()(28) Re Gulbenkian's Settlement Trusts, [1968] 3 All ER 785, at 787.
+28. Re Gulbenkian's Settlement Trusts, [1968] 3 All ER 785, at 787.
 
-[]()(29) Edwards Dunlop & Co Ltd v CE Heath Underwriting & Insurance (Australia) (Pty) Ltd (1991) 6 ANZ Ins Cas para 61-049.
+29. Edwards Dunlop & Co Ltd v CE Heath Underwriting & Insurance (Australia) (Pty) Ltd (1991) 6 ANZ Ins Cas para 61-049.
 
-[]()(30) Re Piccolo; McVeigh (Trustee of the Bankrupt Estate of John Peter Piccolo) v. National Australia Bank Ltd, Federal Court of Australia (Victoria District Registry), see DR ROBERT EAGLESON Judge values plain drafting, CLARITY No. 45 at 37 (December 2000).
+30. Re Piccolo; McVeigh (Trustee of the Bankrupt Estate of John Peter Piccolo) v. National Australia Bank Ltd, Federal Court of Australia (Victoria District Registry), see DR ROBERT EAGLESON Judge values plain drafting, CLARITY No. 45 at 37 (December 2000).
 
-[]()(31) Personal email to the author after PLAIN's "At the Heart of Communication" Conference in Toronto, September 2002.
+31. Personal email to the author after PLAIN's "At the Heart of Communication" Conference in Toronto, September 2002.
 
-[]()(32) Section 1013C (3) Corporations Act 2001, inserted in that Act by the Financial Services Reform Act 2001 No. 122, 2001\. See <http://www.cpd.com.au/asic/ps/ps168.pdf>
+32. Section 1013C (3) Corporations Act 2001, inserted in that Act by the Financial Services Reform Act 2001 No. 122, 2001\. See <http://www.cpd.com.au/asic/ps/ps168.pdf>
 
-[]()(33) AUSTRALIAN SECURITIES & INVESTMENTS COMMISSION, [PS 168] (Policy Statement), DISCLOSURE: PRODUCT DISCLOSURE STATEMENTS (AND OTHER DISCLOSURE OBLIGATIONS), see www.asic.gov.au/index.cfm-acrobat=-asic-pdf-PS168.pdf.htm, especially paragraphs [PS 168.69] to [PS 168.72].
+33. AUSTRALIAN SECURITIES & INVESTMENTS COMMISSION, [PS 168] (Policy Statement), DISCLOSURE: PRODUCT DISCLOSURE STATEMENTS (AND OTHER DISCLOSURE OBLIGATIONS), see www.asic.gov.au/index.cfm-acrobat=-asic-pdf-PS168.pdf.htm, especially paragraphs [PS 168.69] to [PS 168.72].
 
-[]()(34) McKinsey & Company Journal, 1997\. As quoted by THOMAS FRIEDMAN in THE LEXUS AND THE OLIVE TREE, HarperCollins 1999, p 189.
+34. McKinsey & Company Journal, 1997\. As quoted by THOMAS FRIEDMAN in THE LEXUS AND THE OLIVE TREE, HarperCollins 1999, p 189.
 
-[]()(35) The letter was from Levi's, the clothing manufacturer.
+35. The letter was from Levi's, the clothing manufacturer.
 
-[]()(36) MALCOLM KNOX Shonky votes? It could never happen in Australia, THE SYDNEY MORNING HERALD Saturday 16 December 2000, at 20.
+36. MALCOLM KNOX Shonky votes? It could never happen in Australia, THE SYDNEY MORNING HERALD Saturday 16 December 2000, at 20.
 
-[]()(37) At a plain language conference in Cape Town sponsored by the Plain English Campaign (United Kingdom) in March 1995, quoted by PHIL KNIGHT, PROF. JOSEPH KIMBLE, and CHRISTOPHER BALMFORD in TOWARDS PLAIN LANGUAGE LEGISLATION: A DEMONSTRATION PROJECT ON LEGISLATIVE DRAFTING, A MODEL REVISION OF THE HUMAN RIGHTS COMMISSION BILL in the authors' covering letter. The model was prepared in May 1995 as a demonstration of plain-language principles at the request of Hon. A M Omar MP, Minister of Justice, Republic of South Africa.
+37. At a plain language conference in Cape Town sponsored by the Plain English Campaign (United Kingdom) in March 1995, quoted by PHIL KNIGHT, PROF. JOSEPH KIMBLE, and CHRISTOPHER BALMFORD in TOWARDS PLAIN LANGUAGE LEGISLATION: A DEMONSTRATION PROJECT ON LEGISLATIVE DRAFTING, A MODEL REVISION OF THE HUMAN RIGHTS COMMISSION BILL in the authors' covering letter. The model was prepared in May 1995 as a demonstration of plain-language principles at the request of Hon. A M Omar MP, Minister of Justice, Republic of South Africa.
 
-[]()(38) Constitution of the Republic of South Africa 1996, Chapter 2 Bill of Rights, section 7(1).
+38. Constitution of the Republic of South Africa 1996, Chapter 2 Bill of Rights, section 7(1).
 
-[]()(39) See Knight, Kimble, and Balmford, supra note 39 at 3.
+39. See Knight, Kimble, and Balmford, supra note 39 at 3.
 
-[]()(40) Election Act (SFS 1997:157) Chapter 12.
+40. Election Act (SFS 1997:157) Chapter 12.
 
-[]()(41) See WORKING WITH OPC - A GUIDE FOR CLIENTS published by the Office of Parliamentary Counsel, Commonwealth of Australia. The guide contains several examples of legislative tables, diagrams, flowcharts, and examples. It is downloadable at www.opc.gov.au/about/documents.htm
+41. See WORKING WITH OPC - A GUIDE FOR CLIENTS published by the Office of Parliamentary Counsel, Commonwealth of Australia. The guide contains several examples of legislative tables, diagrams, flowcharts, and examples. It is downloadable at www.opc.gov.au/about/documents.htm
 
-[]()(42) DR SUSAN KLEIMANN AND MELODEE MERCER Changing a Bureaucracy--One Paragraph at a Time CLARITY No. 43, at 26 (May 1999). DR ANNETTA CHEEK Plain language in the U.S. federal government, CLARITY No. 44, at 19 (December 1999). JOANNE LOCKE How the U.S. Federal government is convincing its employees to switch to plain language, CLARITY No 45 at 13 (December 2000).
+42. DR SUSAN KLEIMANN AND MELODEE MERCER Changing a Bureaucracy--One Paragraph at a Time CLARITY No. 43, at 26 (May 1999). DR ANNETTA CHEEK Plain language in the U.S. federal government, CLARITY No. 44, at 19 (December 1999). JOANNE LOCKE How the U.S. Federal government is convincing its employees to switch to plain language, CLARITY No 45 at 13 (December 2000).
 
-[]()(43) I learnt about the concept of "taking responsibly for how the message is received" from my colleague Julian Canny. Julian is the Managing Director of the Sydney and Melbourne offices of the international brand consultancy EnterpriseIG, see enterpriseig.com.au. I rent space in the Sydney office.
+43. I learnt about the concept of "taking responsibly for how the message is received" from my colleague Julian Canny. Julian is the Managing Director of the Sydney and Melbourne offices of the international brand consultancy EnterpriseIG, see enterpriseig.com.au. I rent space in the Sydney office.

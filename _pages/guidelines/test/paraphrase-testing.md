@@ -5,7 +5,7 @@ sidenav: guidelines
 
 One-on-one paraphrase testing sessions work best for short documents, web pages, and survey questions.
 
-Paraphrase testing will tell you what a reader thinks a piece of writing means and will help you know if they’re interpreting the message as you intended.
+Paraphrase testing will tell you what a reader thinks a piece of writing means and will help you know if they're interpreting the message as you intended.
 
 ## Conduct between 6 to 9 interviews
 

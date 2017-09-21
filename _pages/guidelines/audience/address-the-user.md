@@ -33,7 +33,7 @@ Even though your document may affect a thousand or a million people, you are spe
 
 ## Use pronouns to speak directly to your reader
 
-Pronouns help the audience picture themselves in the text and relate to what you’re saying. More than any other single technique, using "you" pulls users into the information and makes it relevant to them.
+Pronouns help the audience picture themselves in the text and relate to what you're saying. More than any other single technique, using "you" pulls users into the information and makes it relevant to them.
 
 When you use "you" to address users, they are more likely to understand what their responsibility is.
 
@@ -41,7 +41,7 @@ Don't say | Say
 --------------------------------------- | --------------------------------------------
 Copies of tax returns must be provided. | You must provide copies of your tax returns.
 
-Writing for an individual forces you to analyze carefully what you want the reader to do. This way, you’ll find it easier to:
+Writing for an individual forces you to analyze carefully what you want the reader to do. This way, you'll find it easier to:
 
 - Put information in a logical order
 - Answer questions and provide the information that your reader wants to know

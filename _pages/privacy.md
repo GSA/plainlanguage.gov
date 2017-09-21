@@ -26,23 +26,23 @@ There are two types of cookies — single session (temporary) and multi-session 
 
 #### Session cookies
 
-We use session cookies for technical purposes, such as to allow better navigation through our site. These session cookies are set by GSA or a contractor acting on GSA’s behalf and let the server hosting plainlanguage.gov know that you are continuing a visit to our site. Our use of session cookies qualifies as “Usage Tier 1—Single Session,” as defined in the OMB M-10-22 guidance.
+We use session cookies for technical purposes, such as to allow better navigation through our site. These session cookies are set by GSA or a contractor acting on GSA's behalf and let the server hosting plainlanguage.gov know that you are continuing a visit to our site. Our use of session cookies qualifies as "Usage Tier 1—Single Session," as defined in the OMB M-10-22 guidance.
 
 #### Persistent cookies
 
-We use persistent cookies to understand the differences between new and returning visitors to plainlanguage.gov.  Persistent cookies remain on your device between visits to our site until they expire or are removed by the user.  As discussed below under “Google Analytics,” our use of persistent cookies qualifies as “Usage Tier 2—Multi-session without personally identifiable information,” as defined in the OMB M-10-22 guidance. The policy states, “This tier encompasses any use of multi-session Web measurement and customization technologies when no [personally identifiable information] is collected.” We do not use persistent cookies to collect personally identifiable information.
+We use persistent cookies to understand the differences between new and returning visitors to plainlanguage.gov.  Persistent cookies remain on your device between visits to our site until they expire or are removed by the user.  As discussed below under "Google Analytics," our use of persistent cookies qualifies as "Usage Tier 2—Multi-session without personally identifiable information," as defined in the OMB M-10-22 guidance. The policy states, "This tier encompasses any use of multi-session Web measurement and customization technologies when no [personally identifiable information] is collected." We do not use persistent cookies to collect personally identifiable information.
 
-If you do not want to accept cookies, you can edit your browser’s options to stop accepting persistent cookies or to prompt you before accepting a cookie from the websites you visit. For more information, see the [Web Measurement and Customization Opt-Out instructions](https://www.usa.gov/optout-instructions).
+If you do not want to accept cookies, you can edit your browser's options to stop accepting persistent cookies or to prompt you before accepting a cookie from the websites you visit. For more information, see the [Web Measurement and Customization Opt-Out instructions](https://www.usa.gov/optout-instructions).
 
 ### Google Analytics
 
 plainlanguage.gov participates in the [U.S. Digital Analytics Program](https://www.digitalgov.gov/services/dap/), which uses a unified Google Analytics account for federal agencies. This program helps agencies understand how people find, access, and use government services online.
 
-The Digital Analytics Program is a hosted shared service provided by the GSA's [Office of Products and Platforms](https://www.gsa.gov/node/87579), and the protocol and information collected are the same for all websites participating in the program. As a participant in the program, this website’s traffic data is automatically reported to GSA.
+The Digital Analytics Program is a hosted shared service provided by the GSA's [Office of Products and Platforms](https://www.gsa.gov/node/87579), and the protocol and information collected are the same for all websites participating in the program. As a participant in the program, this website's traffic data is automatically reported to GSA.
 
 Google Analytics is a third-party web measurement and customization technology as defined in [OMB M-10-22](https://www.digitalgov.gov/resources/m-10-22-guidance-for-online-use-of-web-measurement-and-customization-technologies/). Here is how it works: Google Analytics sets one or more cookies on your computer so that it can recognize your computer if you visit the plainlanguage.gov website in the future. These cookies do not collect personally identifiable information. This is considered a Tier 2 usage, as defined in the OMB guidance.
 
-Google Analytics does not collect personally identifiable information through its cookies. The program does not track individuals and [anonymizes the IP addresses of visitors](https://support.google.com/analytics/answer/2763052?hl=en). [Common Questions about DAP (FAQ)](https://www.digitalgov.gov/services/dap/common-questions-about-dap-faq/) provides more information about how Google Analytics handles IP addresses. According to GSA’s Common Questions About DAP, “none of the federal government data tracked as part of the Data Analytics Program will be shared with or available to Google’s corporate advertising partners.”
+Google Analytics does not collect personally identifiable information through its cookies. The program does not track individuals and [anonymizes the IP addresses of visitors](https://support.google.com/analytics/answer/2763052?hl=en). [Common Questions about DAP (FAQ)](https://www.digitalgov.gov/services/dap/common-questions-about-dap-faq/) provides more information about how Google Analytics handles IP addresses. According to GSA's Common Questions About DAP, "none of the federal government data tracked as part of the Data Analytics Program will be shared with or available to Google's corporate advertising partners."
 
 A limited number of authorized individuals will have user accounts that will allow them to log in to the Google Analytics dashboard and view or run reports regarding visits to plainlanguage.gov and the other web metrics available from the DAP. You can view web metrics at <https://analytics.usa.gov/>.
 
@@ -54,7 +54,7 @@ Users of this website may send the Plain Language Action and Information Network
 
 ## Children and privacy
 
-We do not have information specifically for children on our website. The [Children’s Online Privacy Protection Act](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule) governs information gathered online from or about children under the age of 13. This site is not intended to solicit or collection information of any kind from children under age 13. If you believe that we have received information from a child under age 13, please contact us at [{{ site.email }}](mailto:{{ site.email }}).
+We do not have information specifically for children on our website. The [Children's Online Privacy Protection Act](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule) governs information gathered online from or about children under the age of 13. This site is not intended to solicit or collection information of any kind from children under age 13. If you believe that we have received information from a child under age 13, please contact us at [{{ site.email }}](mailto:{{ site.email }}).
 
 ## Questions about privacy
 

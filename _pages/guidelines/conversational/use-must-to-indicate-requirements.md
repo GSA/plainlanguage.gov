@@ -1,5 +1,5 @@
 ---
-title: Use “must” to indicate requirements
+title: Use "must" to indicate requirements
 sidenav: guidelines
 sources:
   - author: 'Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.'
