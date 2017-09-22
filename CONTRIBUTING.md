@@ -1,3 +1,7 @@
+---
+skip_index: true
+---
+
 ## Public domain
 
 This project is in the public domain within the United States, and
