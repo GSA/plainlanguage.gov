@@ -30,4 +30,4 @@ And the original, using stronger, simpler words:
 
 > More night jobs would keep youths off the streets.
 
-When you're making word choices, pick the familiar or commonly used word over the unusual or obscure. There are many lists of complex words and suggested substitutes, for example [www.plainlanguage.gov/howto/wordsuggestions/simplewords.cfm](#). See also the lists in Kimble (2006).
+When you're making word choices, pick the familiar or commonly used word over the unusual or obscure. There are many lists of complex words and suggested substitutes, for example [Simple words and phrases]({{ site.baseurl }}{% link _pages/guidelines/words/simple-words-and-phrases.md %})). See also the lists in Kimble (2006).

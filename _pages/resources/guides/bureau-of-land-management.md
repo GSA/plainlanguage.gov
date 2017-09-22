@@ -4,7 +4,7 @@ permalink: /resources/guides/bureau-of-land-management/
 sidenav: resources
 ---
 
-Here's a [practical example](BLM-PR.cfm) from this model.
+Here's a [practical example]({{ site.baseurl }}{% link _pages/law/examples/model-preamble.md %}) from this model.
 
 **MODEL PREAMBLE FOR A PROPOSED RULE** _[as of May 11, 1998]_
 

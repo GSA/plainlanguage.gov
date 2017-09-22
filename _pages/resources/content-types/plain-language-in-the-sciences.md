@@ -14,7 +14,7 @@ A recent National Science Foundation study shows that:
 
 ## Articles
 
-[_Scientists Need Plain Language_](whiteman.cfm), by Lily Whiteman.
+[Scientists Need Plain Language]({{ site.baseurl }}{% link _pages/resources/articles/scientists-need-plain-language.md %}), by Lily Whiteman.
 
 [Best Practices for Communication of Science and Technology to the Public](http://www.bestpractices.nist.gov/practices.html), a conference held March 6-8, 2002 at the National Institute of Standards and Technology, Gaithersburg, MD. Conference presentations are posted on the site.
 

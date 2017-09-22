@@ -8,17 +8,17 @@ Over the last few years we've seen an explosion in the numbers and types of docu
 
 ## General guidance and manuals
 
-In the mid-1990s, the federal inter-agency plain language group developed a manual called _[Federal Plain Language Guidelines](reader-friendly.cfm)_. This updated version remains a great basic manual for those of you who want to develop your plain language skills.
+In the mid-1990s, the federal inter-agency plain language group developed a manual called _[Federal Plain Language Guidelines]({{ site.baseurl }}{% link _pages/guidelines/index.md %})_. This updated version remains a great basic manual for those of you who want to develop your plain language skills.
 
-_[Writing Effective Letters](letters.cfm)_ supplements the manual listed above with information targeted to letter writers.
+_[Writing Effective Letters]({{ site.baseurl }}{% link _pages/resources/content-types/writing-effective-letters.md %})_ supplements the manual listed above with information targeted to letter writers.
 
 The Office of the Federal Register provides excellent guidance on _[Drafting Legal Documents](http://www.archives.gov/federal-register/write/legal-docs/)_.
 
-[Effective headings](headings.cfm) are a critical aspect of plain language. In this short discussion, Ginny Redish gives us help writing headings that help our readers find the material they need.
+[Effective headings]({{ site.baseurl }}{% link _pages/guidelines/organize/effective-headings.md %}) are a critical aspect of plain language. In this short discussion, Ginny Redish gives us help writing headings that help our readers find the material they need.
 
-Plain language is important in spoken as well as written communication. Londell Buckson, of the National Archives, developed these brief pointers on [plain language in spoken communication](verbal.cfm).
+Plain language is important in spoken as well as written communication. Londell Buckson, of the National Archives, developed these brief pointers on [plain language in spoken communication]({{ site.baseurl }}{% link _pages/resources/articles/plain-language-in-spoken-communication.md %}).
 
-The [Clinton Administration guidelines](PresMemoGuidelines.cfm), issued in July, 1998 to help agencies comply with the Presidential Memo on Plain Language, contain useful material on writing in plain language.
+The [Clinton Administration guidelines]({{ site.baseurl }}{% link _pages/law/background/memo-guidelines.md %}), issued in July, 1998 to help agencies comply with the Presidential Memo on Plain Language, contain useful material on writing in plain language.
 
 Webcontent.gov offers a video with guidelines for [How to Use Plain Language on a Government Website](http://www.howcast.com/videos/241179-How-To-Use-Plain-Language-on-a-Government-Website/).
 

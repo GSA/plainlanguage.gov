@@ -27,7 +27,7 @@ The Agency for Healthcare Research and Quality prepared this [summary of Literac
 
 [Medicines in My Home](http://www.fda.gov/medsinmyhome/) is an interactive and educational program about the safe and effective use of over-the-counter medicines. This easy-to-read program was developed by the Food and Drug Administration with Maryland's Montgomery County Public School system and in cooperation with the National Council On Patient Information and Education.<br>
 
-Here is a [Plain Language Thesaurus](Thesaurus_V-10.doc) from the Centers for Disease Control and Prevention which offers plain language equivalents to medical terms and phrases.
+Here is a [Plain Language Thesaurus]({{ site.baseurl }}{% link /media/Thesaurus_V-10.doc %}) from the Centers for Disease Control and Prevention which offers plain language equivalents to medical terms and phrases.
 
 ### Bibliographic resources about health literacy
 

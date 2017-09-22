@@ -34,7 +34,7 @@ As a first step, you'll want to look at our training materials to get an idea of
 
 We've included other resources that can help you present training in plain language:
 
-- [Writing Effective Letters](#) is a supplement to the [Federal Plain Language Guidelines]({{ site.baseurl }}/guidelines/).
+- [Writing Effective Letters]({{ site.baseurl }}/resources/content-types/writing-effective-letters/) is a supplement to the [Federal Plain Language Guidelines]({{ site.baseurl }}/guidelines/).
 
 - The FAA has made its [Plain Language Toolkit](https://www.faa.gov/about/initiatives/plain_language/media/toolkit.pdf) available.
 

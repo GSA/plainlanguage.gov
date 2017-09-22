@@ -6,11 +6,9 @@ sidenav: resources
 
 The National Writing Project, dedicated to improving writing and learning in the nation's schools, issued a report on the [need for a writing revolution](http://www.writingcommission.org/prod_downloads/writingcom/neglectedr.pdf).
 
-[Pretentious Language Wastes Time.](wastetime.cfm) A management communication specialist in France illustrates how unclear and pretentious language wastes management's time, even in minor ways.
+[Pretentious Language Wastes Time.]({{ site.baseurl }}{% link _pages/resources/articles/pretentious-language-wastes-time.md %}) A management communication specialist in France illustrates how unclear and pretentious language wastes management's time, even in minor ways.
 
-[The Hidden Costs of Complex Language.](hidcost.cfm) A workers' compensation claims-administration firm recently required all its claims administrators to attend seminars to help them write clearly. "People don't understand what we're trying to say."
-
-[Unclear Language Burdens Small-Business Owners.](smbus.cfm) Even a simple request can lead to a confusing, frustrating, time-wasting process for a small-business owner.
+[The Hidden Costs of Complex Language.]({{ site.baseurl }}{% link _pages/resources/articles/the-hidden-costs-of-complex-language.md %}) A workers' compensation claims-administration firm recently required all its claims administrators to attend seminars to help them write clearly. "People don't understand what we're trying to say."
 
 ## Resources for Writing Plain Language Documents
 
