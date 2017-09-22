@@ -60,7 +60,7 @@ Common, everyday words are words and phrases your average reader is familiar wit
 
 > If you make a hole while freeing a stuck vehicle, you must fill the hole before you drive away.
 
-There is a [specific list of everyday words](#) that you should substitute for legalistic or bureaucratic terms on the plainlanguage.gov web page in the reference library.
+There is a [specific list of everyday words]({{ site.baseurl }}{% link _pages/guidelines/words/simple-words-and-phrases.md %})) that you should substitute for legalistic or bureaucratic terms on the plainlanguage.gov web page in the reference library.
 
 ### Doesn't plain language "dumb down" important government communications? Won't I lose the precision I need to enforce the law?
 

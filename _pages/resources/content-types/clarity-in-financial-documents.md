@@ -30,6 +30,6 @@ Securities and Exchange Commission Chairman Christopher Cox, as [keynote speaker
 
 The Financial Modernization Act of 1999, also known as the Gramm-Leach-Bliley Act (GLBA), requires financial institutions to provide their customers with notices of their privacy policies and practices. Soon after the Act went into effect in 2001, researchers reported that the privacy notices were too lengthy, dense, and complex. Most consumers neither read nor understand them. In response, six federal agencies that enforce the Act started a project to explore developing financial privacy notices that are easier for consumers to understand and use. This report presents the research-based rationale for a "prototype" privacy notice designed over the course of the Form Development Project and discusses the project's methodology.
 
-Read the [Executive Summary](ExecSummary.doc).
+Read the [Executive Summary]({{ site.baseurl }}{% link /media/ExecSummary.doc %}).
 
 Read the [entire report](http://www.ftc.gov/privacy/privacyinitiatives/ftcfinalreport060228.pdf) (a 12MB file).

@@ -12,7 +12,7 @@ On October 13, 2010, President Obama signed the Plain Writing Act into law. The 
 
 At [Agency Name], we are committed to writing in plain language and using the [Federal Plain Language Guidelines]({{ site.baseurl }}/guidelines/):
 
-- [Our plain writing plan](#)
+- Our plain writing plan
 - [Our compliance report]({{ '/media/agency_compliance_report_template.doc' | relative_url }}) (.DOC template)
 
 We have assigned staff to oversee our plain language efforts:
