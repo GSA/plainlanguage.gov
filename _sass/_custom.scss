@@ -297,13 +297,13 @@ main.usa-section {
 .usa-nav-primary {
   @media screen and #{$breakpoint-lg}{
     display: block;
-    padding-top: $grid-05;
+    padding-top: $grid-1;
     text-align: right;
   }
   > li > a {
     @media screen and #{$breakpoint-lg}{
       color: $color-gray-90;
-      font-size: $sans-s5;
+      font-size: $sans-s4;
       font-weight: 400;
       padding: $grid-105;
       line-height: $lh-single;
@@ -320,9 +320,9 @@ main.usa-section {
   @media screen and #{$breakpoint-lg}{
     align-items: center;
     display: flex;
-    height: $grid-10;
     line-height: $lh-single;
-    padding-top: $grid-4;
+    padding-bottom: $grid-3;
+    padding-top: $grid-5;
   }
 }
 
