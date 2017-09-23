@@ -115,7 +115,7 @@ body {
     padding-top: $grid-2;
   }
   @media screen and #{$breakpoint-lg}{
-    padding-top: 0;
+    padding-top: $grid-4;
   }
 }
 
@@ -189,6 +189,7 @@ main.usa-section {
     width: 66.6666666666%;
   }
   @media screen and #{$breakpoint-lg}{
+    border-radius: $grid;
     padding: $grid-4;
   }
 
