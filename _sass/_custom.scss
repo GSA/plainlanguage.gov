@@ -57,10 +57,6 @@ li {
     padding-bottom: $grid-105;
     padding-top: $grid-105;
   }
-  @media screen and #{$breakpoint-lg}{
-    padding-bottom: $grid-2;
-    padding-top: $grid-2;
-  }
   &-expanded {
     background-color: black;
     border-bottom: none;
