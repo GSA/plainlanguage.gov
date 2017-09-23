@@ -189,6 +189,18 @@ main.usa-section {
   li {
     margin-bottom: 0;
   }
+
+  h1 {
+    font-size: $sans-s9;
+    font-weight: 700;
+  }
+
+  h2 {
+    font-size: $sans-s7;
+    font-weight: 700;
+    margin-top: $grid-5;
+  }
+
 }
 
 .usa-layout-docs {
