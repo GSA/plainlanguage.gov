@@ -267,6 +267,11 @@ main.usa-section {
   }
 }
 
+h3.usa-sidenav-title {
+  font-size: $sans-s4;
+  padding-bottom: $grid-05;
+}
+
 .usa-sidenav-list {
   border-bottom: 1px solid $color-primary;
   @media screen and #{$breakpoint-lg}{
