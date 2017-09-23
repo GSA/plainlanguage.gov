@@ -239,12 +239,98 @@ main.usa-section {
 
 // Top nav
 
-.usa-nav {
-  @media screen and #{$breakpoint-md}{
-    background-color: transparent;
+.usa-logo {
+  line-height: $lh-single;
+  @media screen and #{$breakpoint-lg}{
+    bottom: auto;
+    position: relative;
+  }
+}
+
+.usa-logo-text {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  font-size: $sans-s6;
+  font-weight: 200;
+  height: $grid-6;
+  line-height: 1;
+  @media screen and #{$breakpoint-xs}{
+    font-size: $sans-s7;
+    height: $grid-7;
+  }
+  @media screen and #{$breakpoint-sm}{
+    font-size: $sans-s8;
+    height: $grid-7;
+  }
+  @media screen and #{$breakpoint-lg}{
+    font-size: $sans-s8;
+    height: auto;
+  }
+}
+
+.usa-menu-btn {
+  border-radius: 2px;
+  height: $grid-4;
+  line-height: $lh-single;
+  margin: $grid-1;
+  width: $grid-7;
+  @media screen and #{$breakpoint-xs}{
+    height: $grid-5;
   }
 }
 
 .usa-navbar {
   border-bottom: none;
+  height: $grid-7;
+  @media screen and #{$breakpoint-lg}{
+    height: auto;
+  }
+}
+
+.usa-nav {
+  @media screen and #{$breakpoint-lg}{
+    background-color: transparent;
+    flex: 1;
+    float: none;
+    padding: 0;
+  }
+}
+
+.usa-nav-primary {
+  @media screen and #{$breakpoint-lg}{
+    display: block;
+    padding-top: $grid-05;
+    text-align: right;
+  }
+  > li > a {
+    @media screen and #{$breakpoint-lg}{
+      padding: $grid-105;
+      line-height: $lh-single;
+    }
+  }
+}
+
+.usa-nav-container {
+  @media screen and #{$breakpoint-lg}{
+    align-items: center;
+    display: flex;
+    height: $grid-10;
+    line-height: $lh-single;
+    padding-top: $grid-4;
+  }
+}
+
+.usa-header-basic {
+  .usa-logo {
+    @media screen and #{$breakpoint-lg}{
+      bottom: auto;
+      position: relative;
+    }
+  }
+  .usa-navbar {
+    @media screen and #{$breakpoint-lg}{
+      width: auto;
+    }
+  }
 }
