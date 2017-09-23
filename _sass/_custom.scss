@@ -173,6 +173,9 @@ main.usa-section {
     order: 2;
     width: 66.6666666666%;
   }
+  @media screen and #{$breakpoint-lg}{
+    padding: $grid-4;
+  }
 }
 
 .usa-layout-docs {
@@ -194,10 +197,17 @@ main.usa-section {
     padding-top: $grid-2;
     width: 33.33333333%;
   }
+  @media screen and #{$breakpoint-md}{
+    padding-right: $grid-4;
+    padding-top: $grid-4;
+  }
 }
 
 .usa-sidenav-list {
   border-bottom: 1px solid $color-primary;
+  @media screen and #{$breakpoint-lg}{
+    border-bottom: none;
+  }
 
   & > li {
     border-top: 1px solid $color-primary;
@@ -220,6 +230,9 @@ main.usa-section {
     color: $color-primary;
     line-height: $lh-hed;
     padding: $grid-105 $grid-2;
+    @media screen and #{$breakpoint-lg}{
+      padding: $grid-105 $grid-2 $grid-105 0;
+    }
   }
   a.current-parent {
       border-left: 0.4rem solid #0071bc;
