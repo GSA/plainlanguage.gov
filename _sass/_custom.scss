@@ -107,6 +107,18 @@ body {
   background-color: $color-warm-white-3;
 }
 
+// Content
+
+// specificity to override USWDS specificity
+#main-content.usa-content {
+  @media screen and #{$breakpoint-md}{
+    padding-top: $grid-2;
+  }
+  @media screen and #{$breakpoint-lg}{
+    padding-top: 0;
+  }
+}
+
 // Footer
 
 .usa-footer {
@@ -185,25 +197,48 @@ main.usa-section {
   ol,
   li {
     font-family: $font-serif;
-    font-size: $serif-s5;
-    line-height: $lh-loose;
+    font-size: $serif-s4;
+    line-height: $lh-body;
+    @media screen and #{$breakpoint-lg}{
+      font-size: $serif-s5;
+      line-height: $lh-loose;
+    }
   }
 
   li {
     margin-bottom: 0;
   }
 
+  h1,
+  h2 {
+    margin-bottom: 0;
+    & + p {
+      margin-top: $grid-1;
+      @media screen and #{$breakpoint-md}{
+        margin-top: $grid-1;
+      }
+      @media screen and #{$breakpoint-lg}{
+        margin-top: $grid-105;
+      }
+    }
+  }
+
   h1 {
-    font-size: $sans-s9;
+    font-size: $sans-s8;
     font-weight: 700;
+    @media screen and #{$breakpoint-md}{
+      font-size: $sans-s9;
+    }
   }
 
   h2 {
     font-size: $sans-s7;
     font-weight: 700;
-    margin-top: $grid-5;
+    margin-top: $grid-3;
+    @media screen and #{$breakpoint-lg}{
+      margin-top: $grid-5;
+    }
   }
-
 }
 
 .usa-layout-docs {
