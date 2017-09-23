@@ -176,6 +176,19 @@ main.usa-section {
   @media screen and #{$breakpoint-lg}{
     padding: $grid-4;
   }
+
+  p,
+  ul,
+  ol,
+  li {
+    font-family: $font-serif;
+    font-size: $serif-s5;
+    line-height: $lh-loose;
+  }
+
+  li {
+    margin-bottom: 0;
+  }
 }
 
 .usa-layout-docs {
