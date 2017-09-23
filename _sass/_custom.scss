@@ -111,6 +111,9 @@ body {
 
 .usa-footer {
   font-size: $sans-s5;
+  @media screen and #{$breakpoint-sm}{
+    padding: $grid-1 0 $grid-4;
+  }
 
   h3 {
     font-size: $sans-s5;
