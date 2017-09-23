@@ -293,6 +293,7 @@ main.usa-section {
     background-color: transparent;
     flex: 1;
     float: none;
+    margin-right: $grid-n1;
     padding: 0;
   }
 }
@@ -305,8 +306,16 @@ main.usa-section {
   }
   > li > a {
     @media screen and #{$breakpoint-lg}{
+      color: $color-gray-90;
+      font-size: $sans-s5;
+      font-weight: 400;
       padding: $grid-105;
       line-height: $lh-single;
+    }
+  }
+  a.current-parent span {
+    @media screen and #{$breakpoint-lg}{
+      border-color: $color-primary;
     }
   }
 }

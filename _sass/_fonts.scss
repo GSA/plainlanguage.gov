@@ -1,6 +1,22 @@
 /* stylelint-disable at-rule-empty-line-before */
 @include font-face(
   '18Franklin-webfont',
+  '../fonts/18Franklin-ExtraLight',
+  200,
+  normal,
+  $file-formats: woff2 woff ttf
+);
+
+@include font-face(
+  '18Franklin-webfont',
+  '../fonts/18Franklin-ExtraLightItalic',
+  200,
+  italic,
+  $file-formats: eot woff2 woff ttf
+);
+
+@include font-face(
+  '18Franklin-webfont',
   '../fonts/18Franklin-Light',
   300,
   normal,
