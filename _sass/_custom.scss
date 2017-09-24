@@ -270,10 +270,18 @@ main.usa-section {
 h3.usa-sidenav-title {
   font-size: $sans-s4;
   padding-bottom: $grid-05;
+  padding-left: $grid-2;
+  padding-top: $grid-2;
+  @media screen and #{$breakpoint-lg}{
+    padding-left: 0;
+    padding-top: 0;
+  }
 }
 
-.usa-sidenav-list {
+// specificity to override UDWDS
+.usa-content .usa-layout-docs-sidenav ul.usa-sidenav-list {
   border-bottom: 1px solid $color-primary;
+  max-width: none;
   @media screen and #{$breakpoint-lg}{
     border-bottom: none;
   }
