@@ -210,9 +210,16 @@ main.usa-section {
     margin-bottom: 0;
   }
 
-  h1,
+  h1 {
+    margin-bottom: $grid-3;
+  }
+
   h2 {
     margin-bottom: 0;
+  }
+
+  h1,
+  h2 {
     & + p {
       margin-top: $grid-1;
       @media screen and #{$breakpoint-md}{
@@ -280,8 +287,11 @@ h3.usa-sidenav-title {
 
 // specificity to override UDWDS
 .usa-content .usa-layout-docs-sidenav ul.usa-sidenav-list {
-  border-bottom: 1px solid $color-primary;
   max-width: none;
+}
+
+.usa-sidenav-list {
+  border-bottom: 1px solid $color-primary;
   @media screen and #{$breakpoint-lg}{
     border-bottom: none;
   }
@@ -305,22 +315,64 @@ h3.usa-sidenav-title {
   }
   a {
     color: $color-primary;
-    line-height: $lh-hed;
+    line-height: $lh-cap;
     padding: $grid-105 $grid-2;
     @media screen and #{$breakpoint-lg}{
       padding: $grid-105 $grid-2 $grid-105 0;
     }
   }
+  a.usa-current {
+    padding-left: $grid-2;
+    border-left: none;
+  }
   a.current-parent {
-      border-left: 0.4rem solid #0071bc;
-      color: #0071bc;
-      font-weight: 700;
-      padding-left: 1.4rem;
+    color: $color-gray-90;
+    font-weight: 700;
+    padding-bottom: $grid;
+    @media screen and #{$breakpoint-lg}{
+      padding-left: 0;
+    }
   }
 }
 
-.usa-sidenav-sub_list .usa-sidenav-sub_list .usa-sidenav-sub_list a {
-    padding-left: 4.8rem;
+.usa-sidenav-sub_list {
+  padding-bottom: 8px;
+  li {
+    font-size: $sans-s4;
+    font-weight: 200;
+    @media screen and #{$breakpoint-sm}{
+      font-size: $sans-s5;
+    }
+    @media screen and #{$breakpoint-md}{
+      font-size: $sans-s4;
+    }
+    @media screen and #{$breakpoint-lg}{
+      font-size: $sans-s5;
+    }
+  }
+  a {
+    padding-bottom: $grid;
+    padding-left: $grid-2;
+    padding-top: $grid;
+    @media screen and #{$breakpoint-lg}{
+      padding-left: 0;
+    }
+    &:hover {
+      @media screen and #{$breakpoint-lg}{
+        padding-left: 0;
+      }
+    }
+  }
+  a.usa-current {
+    padding-left: $grid-2;
+    @media screen and #{$breakpoint-lg}{
+      padding-left: 0;
+    }
+  }
+  //Odd case here — seems like an error in layout
+  .usa-sidenav-sub_list {
+    padding-bottom: 0;
+  }
 }
 
 // Top nav
