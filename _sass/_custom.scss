@@ -360,7 +360,10 @@ h3.usa-sidenav-title {
 
 .usa-navbar {
   border-bottom: none;
-  height: $grid-7;
+  height: $grid-6;
+  @media screen and #{$breakpoint-xs}{
+    height: $grid-7;
+  }
   @media screen and #{$breakpoint-lg}{
     height: auto;
   }
