@@ -41,6 +41,14 @@
 
 @include font-face(
   '18Franklin-webfont',
+  '../fonts/18Franklin-Italic',
+  400,
+  italic,
+  $file-formats: eot woff2 woff ttf
+);
+
+@include font-face(
+  '18Franklin-webfont',
   '../fonts/18Franklin-Medium',
   500,
   normal,
