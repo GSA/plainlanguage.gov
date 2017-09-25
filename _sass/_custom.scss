@@ -126,12 +126,14 @@ button.usa-button-primary-alt,
 [type=reset].usa-button-primary-alt,
 [type=image].usa-button-primary-alt {
   background-color: $color-gold-10;
+  color: $color-gray-90;
   font-weight: 500;
   &:hover {
     background-color: $color-gold-20;
   }
   &:active {
     background-color: $color-gray-90;
+    color: white;
   }
 }
 
