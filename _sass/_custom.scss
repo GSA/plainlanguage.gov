@@ -246,7 +246,7 @@ main.usa-section {
   ul,
   ol,
   li {
-    font-family: $font-sans;
+    font-family: $font-serif;
     font-size: $serif-s4;
     line-height: $lh-body;
     margin: $grid-2 0;
@@ -508,7 +508,7 @@ h3.usa-sidenav-title {
     @media screen and #{$breakpoint-lg}{
       color: $color-gray-90;
       font-size: $sans-s4;
-      font-weight: 400;
+      font-weight: 500;
       padding: $grid-105;
       line-height: $lh-single;
     }
