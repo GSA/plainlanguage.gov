@@ -76,6 +76,13 @@ li {
 
 .usa-banner-button {
   padding-top: $grid-5;
+  color: $color-coastal-30;
+  &:hover {
+    color: $color-coastal-40;
+  }
+  &:active {
+    color: $color-gold-20;
+  }
 
   @media screen and #{$breakpoint-xs}{
     padding-top: 24px;
