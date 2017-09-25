@@ -19,6 +19,11 @@ sidebar: >-
 
   Staff Attorney, Office of the Federal Register<br>
   [National Archives and Records Administration](https://www.archives.gov/)
+  
+  #### Wendy Wagner-Smith, Training coordinator
+  
+  Senior Writer and Editor, Office of Financial Research<br>
+  [Department of the Treasury](https://www.treasury.gov/)
 ---
 
 The Plain Language Action and Information Network (PLAIN) is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing. Originally called the Plain English Network, PLAIN has been meeting informally since the mid 1990s.
