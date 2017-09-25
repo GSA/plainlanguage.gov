@@ -107,6 +107,27 @@ body {
   background-color: $color-warm-white-3;
 }
 
+// Buttons
+
+.usa-button.usa-button-primary-alt,
+.usa-button-primary.usa-button-primary-alt,
+.usa-button:visited.usa-button-primary-alt,
+.usa-button-primary:visited.usa-button-primary-alt,
+button.usa-button-primary-alt,
+[type=button].usa-button-primary-alt,
+[type=submit].usa-button-primary-alt,
+[type=reset].usa-button-primary-alt,
+[type=image].usa-button-primary-alt {
+  background-color: $color-gold-10;
+  font-weight: 500;
+  &:hover {
+    background-color: $color-gold-20;
+  }
+  &:active {
+    background-color: $color-gray-90;
+  }
+}
+
 // Content
 
 // specificity to override USWDS specificity
@@ -163,6 +184,27 @@ body {
   }
 }
 
+// Home
+
+h2.usa-hero-title {
+  font-size: $sans-s7;
+  line-height: $lh-cap;
+  max-width: 80%;
+  @media screen and #{$breakpoint-sm}{
+    font-size: $sans-s8;
+  }
+  @media screen and #{$breakpoint-md}{
+    max-width: none;
+  }
+}
+
+section.usa-hero {
+  padding: $grid-3 $grid-2;
+  background-image: none;
+  @media screen and #{$breakpoint-lg}{
+    padding: $grid-5 $grid-4;
+  }
+}
 
 // Main content
 
@@ -199,7 +241,6 @@ main.usa-section {
   li {
     font-family: $font-sans;
     font-size: $serif-s4;
-    font-weight: 300;
     line-height: $lh-body;
     margin: $grid-2 0;
     @media screen and #{$breakpoint-lg}{
