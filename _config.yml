@@ -35,6 +35,10 @@ sass:
 
 defaults:
   - scope:
+      path: "assets/uswds"
+    values:
+      skip_index: true
+  - scope:
       path: ""
       type: "pages"
     values:
