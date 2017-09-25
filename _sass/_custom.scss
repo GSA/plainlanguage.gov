@@ -38,6 +38,15 @@ li {
   margin-bottom: $grid-1;
 }
 
+[type=password]:focus,
+[type=text]:focus,
+a:focus,
+button:focus,
+select:focus,
+textarea:focus {
+  outline: $grid-05 solid $color-gold-10;
+}
+
 // Banner
 
 .usa-banner {
