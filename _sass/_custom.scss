@@ -339,15 +339,6 @@ main.usa-section {
     }
   }
 
-  h1 {
-    & + p {
-      margin-top: $grid-3;
-    }
-    & + p.usa-font-lead {
-      margin-top: $grid-105;
-    }
-  }
-
   h2 {
     margin-bottom: 0;
   }
@@ -356,12 +347,12 @@ main.usa-section {
   h2 {
     & + p {
       margin-top: $grid-1;
-      @media screen and #{$breakpoint-md}{
-        margin-top: $grid-1;
-      }
       @media screen and #{$breakpoint-lg}{
         margin-top: $grid-105;
       }
+    }
+    & + p.usa-font-lead {
+      margin-top: $grid-105;
     }
   }
 
@@ -370,6 +361,11 @@ main.usa-section {
     font-weight: 700;
     @media screen and #{$breakpoint-md}{
       font-size: $sans-s9;
+    }
+    & + p {
+      @media screen and #{$breakpoint-md}{
+        margin-top: $grid-3;
+      }
     }
   }
 
