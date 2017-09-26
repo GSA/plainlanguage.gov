@@ -1,9 +1,8 @@
 ---
 title: Do your research
 sidenav: guidelines
+intro: In order to write for your users, you need to know who they are! Here are some general tips to help you identify your users.
 ---
-
-In order to write for your users, you need to know who they are! Here are some general tips to help you identify your users.
 
 ## Learn about your users
 

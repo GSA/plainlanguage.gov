@@ -14,7 +14,7 @@ main:
     <h1>{{ page.title }}</h1>
   {% endif %}
   {% if page.intro %}
-    <p class="usa-font-lead">{{ page.intro }}</p>
+    <p class="usa-font-lead">{{ page.intro | markdownify | remove: '<p>' | remove: '</p>' }}</p>
   {% endif %}
 
   {{ content }}
@@ -24,7 +24,7 @@ main:
       <h2>Sources</h2>
       <ul class="sources-collection">
         {% for source in page.sources%}
-        <li class="sources-source">{{ source | markdownify }}</li>
+        <li class="sources-source">{{ source | markdownify | remove: '<p>' | remove: '</p>' }}</li>
         {% endfor %}
       </ul>
     </div>

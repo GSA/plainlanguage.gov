@@ -1,9 +1,8 @@
 ---
 title: Address the user
 sidenav: guidelines
+intro: Even though your document may affect a thousand or a million people, you are speaking to the one person who is reading it. When your writing reflects this, it's more economical and has a greater impact.
 ---
-
-Even though your document may affect a thousand or a million people, you are speaking to the one person who is reading it. When your writing reflects this, it's more economical and has a greater impact.
 
 ## Use pronouns to speak directly to your reader
 

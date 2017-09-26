@@ -373,14 +373,10 @@ main.usa-section {
     border-top: 1px solid $color-primary;
     margin: 8px 0 0;
     padding: 8px 0 0;
-
-    p {
-      font-size: $sans-s3;
-      font-weight: 500;
-      margin: 0;
-      @media screen and #{$breakpoint-lg}{
-        font-size: $sans-s4;
-      }
+    font-size: $sans-s3;
+    font-weight: 500;
+    @media screen and #{$breakpoint-lg}{
+      font-size: $sans-s4;
     }
   }
 }

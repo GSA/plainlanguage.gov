@@ -1,6 +1,10 @@
 ---
 title: Address separate audiences separately
 sidenav: guidelines
+intro: By addressing different audiences in the same place, you make it harder for each audience to find the material that applies to them.
+sources:
+  - Murawski, Thomas A., _Writing Readable Regulations_, 1999, Carolina Academic Press Durham, NC, p. 4.
+  - Redish, Janice C., _How to Write Regulations and Other Legal Documents in Clear English_, 1991, American Institutes for Research, Washington, DC, p. 17.
 ---
 
 An important part of writing for your audience is addressing separate audiences separately. Many documents and websites address more than one audience. Mixing material intended for different audiences may confuse readers. By addressing different audiences in the same place, you make it harder for each audience to find the material that applies to them. In regulations, this may make it difficult for each audience to comply with your agency's requirements.
@@ -56,8 +60,3 @@ _States and Tribes_
 745.327 | State or Indian Tribal lead-based paint compliance and enforcement programs.
 
 ---
-
-## Sources
-
-- Murawski, Thomas A., _Writing Readable Regulations_, 1999, Carolina Academic Press Durham, NC, p. 4.
-- Redish, Janice C., _How to Write Regulations and Other Legal Documents in Clear English_, 1991, American Institutes for Research, Washington, DC, p. 17.
