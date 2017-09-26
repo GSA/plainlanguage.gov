@@ -263,14 +263,16 @@ main.usa-section {
     font-size: $sans-s4;
     line-height: $lh-body;
     margin: $grid-2 0;
-    @media screen and #{$breakpoint-lg}{
+    @media screen and #{$breakpoint-xs}{
       font-size: $sans-s5;
+    }
+    @media screen and #{$breakpoint-md}{
       line-height: $lh-loose;
     }
     strong {
       font-family: $font-sans;
       font-size: $sans-s4;
-      @media screen and #{$breakpoint-lg}{
+      @media screen and #{$breakpoint-xs}{
         font-size: $sans-s5;
       }
     }
@@ -307,10 +309,13 @@ main.usa-section {
 
   p.usa-font-lead {
     font-family: $font-sans;
-    font-size: $sans-s7;
+    font-size: $sans-s6;
     font-weight: 200;
     line-height: $lh-cap;
     margin-bottom: $grid-3;
+    @media screen and #{$breakpoint-xs}{
+      font-size: $sans-s7;
+    }
     @media screen and #{$breakpoint-md}{
       margin-bottom: $grid-5;
     }
@@ -351,11 +356,13 @@ main.usa-section {
   }
 
   h2 {
-    font-size: $sans-s7;
+    font-size: $sans-s6;
     font-weight: 700;
-    margin-top: $grid-3;
+    margin-bottom: $grid-105;
+    margin-top: $grid-5;
     @media screen and #{$breakpoint-lg}{
-      margin-top: $grid-5;
+      margin-bottom: 0;
+      font-size: $sans-s7;
     }
   }
 
