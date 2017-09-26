@@ -2,6 +2,12 @@
 title: Address the user
 sidenav: guidelines
 intro: Even though your document may affect a thousand or a million people, you are speaking to the one person who is reading it. When your writing reflects this, it's more economical and has a greater impact.
+sources:
+  - Garner, Bryan A., _A Dictionary of Modern Legal Usage_, 2nd edition, 1995, Oxford University Press, Oxford and New York, p. 643.
+  - Garner, Bryan A., _Legal Writing in Plain English_, 2001, University of Chicago Press, Chicago, p. 50 and 114.
+  - Murawski, Thomas A., _Writing Readable Regulations_, 1999, Carolina Academic Press Durham, NC, pp. 33-38 and 70.
+  - Securities and Exchange Commission, _Plain English Handbook_, 1998, Washington, DC, p. 22.
+  - Wydick, Richard, _Plain English for Lawyers_, 5th edition, 2005, Carolina Academic Press, Durham, NC, p. 62.
 ---
 
 ## Use pronouns to speak directly to your reader
@@ -82,15 +88,3 @@ To avoid confusing the two different user groups, separate their instructions:
 > **If you are an organization**, apply at the state office in the state where your headquarters is located.
 
 For more details on addressing multiple users, see [Address separate audiences separately]({{ site.baseurl }}{% link _guidelines/audience/address-separate-audiences-separately.md %}).
-
-## Sources
-
-- Garner, Bryan A., _A Dictionary of Modern Legal Usage_, 2nd edition, 1995, Oxford University Press, Oxford and New York, p. 643.
-
-- Garner, Bryan A., _Legal Writing in Plain English_, 2001, University of Chicago Press, Chicago, p. 50 and 114.
-
-- Murawski, Thomas A., _Writing Readable Regulations_, 1999, Carolina Academic Press Durham, NC, pp. 33-38 and 70.
-
-- Securities and Exchange Commission, _Plain English Handbook_, 1998, Washington, DC, p. 22.
-
-- Wydick, Richard, _Plain English for Lawyers_, 5th edition, 2005, Carolina Academic Press, Durham, NC, p. 62.

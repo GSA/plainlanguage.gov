@@ -259,13 +259,20 @@ main.usa-section {
   ul,
   ol,
   li {
-    font-family: $font-sans;
-    font-size: $sans-s4;
+    font-family: $font-serif;
+    font-size: $serif-s4;
     line-height: $lh-body;
     margin: $grid-2 0;
     @media screen and #{$breakpoint-lg}{
-      font-size: $sans-s5;
+      font-size: $serif-s5;
       line-height: $lh-loose;
+    }
+    strong {
+      font-family: $font-sans;
+      font-size: $sans-s4;
+      @media screen and #{$breakpoint-lg}{
+        font-size: $sans-s5;
+      }
     }
   }
 
@@ -279,10 +286,17 @@ main.usa-section {
     ul,
     ol,
     li {
+      font-family: $font-sans;
       font-weight: 500;
       font-size: $sans-s3;
       @media screen and #{$breakpoint-lg}{
         font-size: $sans-s4;
+      }
+      strong {
+        font-size: $sans-s3;
+        @media screen and #{$breakpoint-lg}{
+          font-size: $sans-s4;
+        }
       }
     }
   }
@@ -292,9 +306,10 @@ main.usa-section {
   }
 
   p.usa-font-lead {
+    font-family: $font-sans;
+    font-size: $sans-s7;
     font-weight: 200;
     line-height: $lh-cap;
-    font-size: $sans-s7;
     margin-bottom: $grid-3;
     @media screen and #{$breakpoint-md}{
       margin-bottom: $grid-5;
@@ -350,7 +365,7 @@ main.usa-section {
 
   .sources {
     background-color: $color-coastal-1;
-    padding: $grid-2;
+    font-family: $font-sans;
     margin: $grid-3 $grid-n2 0;
     @media screen and #{$breakpoint-md}{
       padding: $grid-4;
@@ -371,10 +386,11 @@ main.usa-section {
 
   li.sources-source {
     border-top: 1px solid $color-primary;
-    margin: 8px 0 0;
-    padding: 8px 0 0;
+    font-family: $font-sans;
     font-size: $sans-s3;
     font-weight: 500;
+    margin: 8px 0 0;
+    padding: 8px 0 0;
     @media screen and #{$breakpoint-lg}{
       font-size: $sans-s4;
     }
