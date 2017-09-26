@@ -14,12 +14,6 @@ primary:
       href: /about/
 
 secondary:
-  links:
-    - text: Twitter
-      href: https://twitter.com/govplainlang
-      external: true
-      icon: twitter
-
   search:
     action: /search/
     query: q

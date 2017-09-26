@@ -16,6 +16,10 @@ html {
   font-family: $font-serif;
 }
 
+body {
+  background-color: $color-tan;
+}
+
 h1,
 h2,
 h3,
@@ -23,14 +27,19 @@ h4,
 h5,
 h6 {
   font-family: $font-sans;
+  font-weight: 500;
 }
 
 // Homepage
 
-.home-grid h3 {
-  border-bottom: 1px solid $color-blue;
-  padding-bottom: 1rem;
-  font-weight: 500;
+.home-grid {
+  background-color: #fff;
+
+  h3 {
+    border-bottom: 1px solid $color-blue;
+    padding-bottom: 1rem;
+    font-weight: 500;
+  }
 
   a {
     color: $color-blue;
@@ -44,18 +53,48 @@ h6 {
   }
 }
 
-.home .usa-navbar {
-  border-color: #D8BB7F;
+.usa-navbar {
+  border-color: #B3B0A5;
 }
 
 .usa-banner {
+  background-color: $color-tan-darker;
+  border-bottom: 1px solid #B3B0A5;
   font-family: $font-sans;
 }
 
-.home .usa-banner {
-  background-color: $color-tan;
-  border-bottom: 1px solid #D8BB7F;
+// Sub-page
+
+.usa-layout-docs {
+  padding-right: 0;
+  padding-left: 0;
+  padding-top: 0;
+ }
+
+.usa-layout-docs-main_content {
+  background-color: #ffffff;
+  border-radius: 3px;
+  box-shadow: 0 1px 1px rgba(0,0,0,.1);
+  padding: 1.5rem;
+
+  h1 {
+    border-bottom: 1px solid $color-blue;
+    padding-bottom: 1rem;
+  }
 }
+
+
+ @media #{$breakpoint-lg} {
+   .usa-layout-docs {
+     padding-right: 1.5rem;
+     padding-left: 1.5rem;
+     padding-top: 6rem;
+    }
+
+    .usa-layout-docs-main_content {
+      padding: 3rem;
+    }
+ }
 
 // Header
 
@@ -82,13 +121,13 @@ h6 {
 }
 
 @media #{$breakpoint-lg} {
-  .home .usa-header {
-    border-color: #D8BB7F;
+  .usa-header {
+    border-color: #B3B0A5;
   }
 
-  .home .usa-header-extended .usa-nav {
-    background-color: $color-tan-light;
-    border-color: #D8BB7F;
+  .usa-header-extended .usa-nav {
+    background-color: $color-tan;
+    border-color: #B3B0A5;
   }
 
   .usa-header-extended em {
@@ -120,29 +159,40 @@ h6 {
 
 // Side navigation
 
-.usa-sidenav-list a.current-parent {
-    border-left: 0.4rem solid $color-blue;
-    color: #0071bc;
-    font-weight: 700;
-    padding-left: 1.4rem;
+.usa-sidenav-list a {
+  font-family: $font-serif;
+
+  &.current-parent {
+      border-left: 0.4rem solid $color-blue;
+      color: $color-blue;
+      font-weight: 700;
+      padding-left: 1.4rem;
+  }
+
+  &:hover {
+      background-color: $color-tan-darker;
+  }
 }
 
 .usa-sidenav-sub_list .usa-sidenav-sub_list .usa-sidenav-sub_list a {
     padding-left: 4.8rem;
 }
 
+.usa-sidenav-list > li {
+  border-color: #B3B0A5;
+}
+
 // Misc
 .usa-font-lead {
-  border-left: 1rem solid $color-tan;
+  border-left: 1rem solid $color-blue;
   padding-left: 3rem;
 }
 .usa-section-light {
-  background-color: $color-grey;
-
   a {
     color: $color-base;
   }
 }
+
 @media #{$breakpoint-lg} {
   .usa-section {
     padding-top: 5rem;
@@ -168,11 +218,11 @@ h6 {
   }
 
   .usa-footer-primary-section {
-    background-color: $color-grey;
+    background-color: $color-tan;
   }
 
   .usa-footer-secondary_section {
-    background-color: #D9D9D7;
+    background-color: $color-tan-darker;
   }
 }
 

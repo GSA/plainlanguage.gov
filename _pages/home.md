@@ -19,7 +19,7 @@ top: false
 
 </div>
 
-<section class="usa-section home-grid">
+<section class="usa-section bg-white home-grid">
   <div class="usa-grid mb3 sm-mb4">
   <div class="usa-width-one-half pr0 sm-pr4">
   <h3 class="flex items-center"><img src="{{ '/assets/img/gavel.svg' | relative_url }}" alt="" class="inline-block" style="width:60px;"><a href="{{ "/law/" | relative_url }}" class="text-decoration-none">Law and requirements</a></h3>
@@ -42,16 +42,16 @@ top: false
 </div>
 </section>
 
-<section class="usa-section usa-section-light">
+<section class="usa-section bg-blue-light">
   <div class="usa-grid">
   <h2 class="regular">It's the law</h2>
   <p class="usa-font-lead">President Obama signed the <a href="https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/content-detail.html">Plain Writing Act of 2010</a> on October 13, 2010\. The law requires that federal agencies use clear government communication that the public can understand and use. On January 18, 2011, he issued <a href="https://obamawhitehouse.archives.gov/the-press-office/2011/01/18/executive-order-13563-improving-regulation-and-regulatory-review">Executive Order 13563 - Improving Regulation and Regulatory Review</a>, which states that our regulatory system "must ensure that regulations are accessible, consistent, written in plain language, and easy to understand."</p>
 </div>
 </section>
 
-<section class="usa-section">
+<section class="usa-section bg-white">
 <div class="usa-grid">
-<h2 class="regular">Upcoming events</h2>
+<h2 class="flex items-center regular"><img src="{{ '/assets/img/calendar.svg' | relative_url }}" alt="" class="inline-block" style="width:75px;">Upcoming events</h2>
 <div class="usa-width-one-third border border-blue border-box rounded p3 mb3 sm-mb0">
 <h4 class="mb0"><a href="#" class="text-decoration-none">Train-the-Trainer Bootcamp</a></h4>
 <p class="mt0"><em>September 18, 2014</em></p>

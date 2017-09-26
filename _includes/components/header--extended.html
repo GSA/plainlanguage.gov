@@ -52,10 +52,10 @@
       {% if _secondary %}
       <div class="usa-nav-secondary">
         {% if _secondary.search %}
-          <form action="{{ _secondary.search.action | relative_url }}" class="usa-search usa-search-small js-search-form">
+          <form action="{{ _secondary.search.action | relative_url }}" class="usa-search usa-search-small">
           <div role="search">
-            <label class="usa-sr-only" for="search-field-small">Search small</label>
-            <input id="search-input" type="search" name="{{ _secondary.search.query | default: 'search' }}">
+            <label class="usa-sr-only" for="search-field-small">Search</label>
+            <input id="search-input" placeholder="Search..." type="search" name="{{ _secondary.search.query | default: 'search' }}">
             <button type="submit">
               <span class="usa-sr-only">Search</span>
             </button>
@@ -63,11 +63,6 @@
         </form>
         {% endif %}
         <ul class="usa-unstyled-list usa-nav-secondary-links">
-          {% if _secondary.search %}
-          <li class="js-search-button-container">
-            <button class="usa-header-search-button js-search-button">Search</button>
-          </li>
-          {% endif %}
           {% assign secondary_links = site.data.navigation[_secondary.links] | default: _secondary.links %}
           {% for _link in secondary_links %}
           <li>
