@@ -38,11 +38,9 @@ h6 {
 }
 
 .home-hero {
-  padding-bottom: 4rem;
-  padding-top: 4rem;
-
   h2 {
     line-height: 1.4;
+    max-width: 77rem;
   }
 }
 
@@ -50,10 +48,13 @@ h6 {
   border-color: #D8BB7F;
 }
 
+.usa-banner {
+  font-family: $font-sans;
+}
+
 .home .usa-banner {
   background-color: $color-tan;
   border-bottom: 1px solid #D8BB7F;
-  font-family: $font-sans;
 }
 
 // Header
@@ -70,16 +71,14 @@ h6 {
   font-weight: 500;
 }
 
-.usa-nav-primary a:hover {
+.usa-nav-primary a:hover,
+.usa-nav-primary a.usa-current {
   color: $color-blue-darker;
+  font-weight: 400;
 
   span {
     border-color: $color-blue-darker;
   }
-}
-
-.usa-nav-primary a.usa-current {
-  font-weight: 400;
 }
 
 @media #{$breakpoint-lg} {
@@ -142,6 +141,12 @@ h6 {
 
   a {
     color: $color-base;
+  }
+}
+@media #{$breakpoint-lg} {
+  .usa-section {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
   }
 }
 
