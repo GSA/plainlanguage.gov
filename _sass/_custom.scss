@@ -1,7 +1,19 @@
+// Utility classes
+
+.border-blue  { border-color: $color-blue }
+
+.icon {
+  height: 1.5rem;
+  margin-right: 0.4rem;
+  position: relative;
+  top: 2px;
+  vertical-align: baseline;
+}
+
 // Typography
 
-.usa-section-light a {
-  color: $color-base;
+html {
+  font-family: $font-serif;
 }
 
 h1,
@@ -13,37 +25,104 @@ h6 {
   font-family: $font-sans;
 }
 
-.usa-heading-alt {
-  border-bottom: 1px solid $color-gray;
-  padding-bottom: .8rem;
+// Homepage
+
+.home-grid h3 {
+  border-bottom: 1px solid $color-blue;
+  padding-bottom: 1rem;
+  font-weight: 500;
+
+  a {
+    color: $color-blue;
+  }
+}
+
+.home-hero {
+  padding-bottom: 4rem;
+  padding-top: 4rem;
+
+  h2 {
+    line-height: 1.4;
+  }
+}
+
+.home .usa-navbar {
+  border-color: #D8BB7F;
+}
+
+.home .usa-banner {
+  background-color: $color-tan;
+  border-bottom: 1px solid #D8BB7F;
+  font-family: $font-sans;
 }
 
 // Header
 
-.usa-banner-inner {
-  padding-bottom: 3px;
-  padding-top: 3px;
+@media #{$breakpoint-sm} {
+  .usa-banner-header {
+    padding-top: 1.2rem;
+    padding-bottom: 1.2rem;
+  }
 }
 
 .usa-logo-text {
-    font-weight: 400;
+  font-family: $font-sans;
+  font-weight: 500;
+}
+
+.usa-nav-primary a:hover {
+  color: $color-blue-darker;
+
+  span {
+    border-color: $color-blue-darker;
+  }
+}
+
+.usa-nav-primary a.usa-current {
+  font-weight: 400;
 }
 
 @media #{$breakpoint-lg} {
+  .home .usa-header {
+    border-color: #D8BB7F;
+  }
+
+  .home .usa-header-extended .usa-nav {
+    background-color: $color-tan-light;
+    border-color: #D8BB7F;
+  }
+
+  .usa-header-extended em {
+    font-size: 2.8rem;
+  }
+
   .usa-nav-primary > li > a {
-    font-weight: 400;
+    color: $color-base;
+    font-family: $font-serif;
+    font-size: 2rem;
+    font-weight: $font-normal;
+    line-height: 1;
+  }
+
+  .usa-nav-primary > li > a:first-child {
+    padding-left: 1rem;
   }
 
   .usa-nav-primary a.current-parent span, {
-      border-bottom: 0.7rem solid $color-primary;
-      padding-bottom: 1rem;
+    border-bottom: 0.7rem solid $color-blue;
+    padding-bottom: 1rem;
+  }
+
+  .usa-nav-secondary-links a,
+  .usa-nav-secondary-links .usa-header-search-button {
+    color: $color-base;
   }
 }
 
 // Side navigation
 
 .usa-sidenav-list a.current-parent {
-    border-left: 0.4rem solid $color-primary;
+    border-left: 0.4rem solid $color-blue;
     color: #0071bc;
     font-weight: 700;
     padding-left: 1.4rem;
@@ -54,9 +133,16 @@ h6 {
 }
 
 // Misc
-
 .usa-font-lead {
-  font-family: $font-sans;
+  border-left: 1rem solid $color-tan;
+  padding-left: 3rem;
+}
+.usa-section-light {
+  background-color: $color-grey;
+
+  a {
+    color: $color-base;
+  }
 }
 
 // Footer
@@ -72,24 +158,16 @@ h6 {
     line-height: 1.7;
   }
 
-  a img {
-    height: 1.5rem;
-    margin-right: 0.4rem;
-    position: relative;
-    top: 2px;
-    vertical-align: baseline;
-  }
-
   .usa-button {
     font-weight: 700;
   }
 
   .usa-footer-primary-section {
-    background-color: $color-gray-lightest;
+    background-color: $color-grey;
   }
 
   .usa-footer-secondary_section {
-    background-color: $color-gray-lighter;
+    background-color: #D9D9D7;
   }
 }
 

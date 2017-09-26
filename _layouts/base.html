@@ -7,8 +7,10 @@
     {% include styles.html %}
   </head>
   <body class="lg-flex flex-column {{ layout.class }} {{ page.class }}" style="min-height:100vh">
-    {% include skipnav.html %}
-    {% include header.html %}
+    {% if page.class == "home" %}<div class="bg-tan">{% endif %}
+      {% include skipnav.html %}
+      {% include header.html %}
+    {% if page.class == "home" %}</div>{% endif %}
 
     <div class="flex-auto">
       <main id="main-content"{% for _attr in layout.main %} {{ _attr[0] }}="{{ _attr[1] }}"{% endfor %}>

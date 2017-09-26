@@ -71,7 +71,7 @@
           {% assign secondary_links = site.data.navigation[_secondary.links] | default: _secondary.links %}
           {% for _link in secondary_links %}
           <li>
-            <a href="{% if _link.external == true %}{{ _link.href }}{% else %}{{ _link.href | relative_url }}{% endif %}">{{ _link.text }}</a>
+            <a href="{% if _link.external == true %}{{ _link.href }}{% else %}{{ _link.href | relative_url }}{% endif %}">{% if _link.icon %}<img src="{{ "/assets/img/twitter.svg" | relative_url }}" alt="" class="icon">{% endif %}{{ _link.text }}</a>
           </li>
           {% endfor %}
         </ul>
