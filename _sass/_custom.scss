@@ -238,6 +238,7 @@ main.usa-section {
 
 .usa-layout-docs-main_content {
   background-color: white;
+  overflow: hidden;
   padding: $grid-3 $grid-2 $grid-3;
   @media screen and #{$breakpoint-md}{
     border-bottom-left-radius: $grid;
@@ -258,13 +259,31 @@ main.usa-section {
   ul,
   ol,
   li {
-    font-family: $font-serif;
-    font-size: $serif-s4;
+    font-family: $font-sans;
+    font-size: $sans-s4;
     line-height: $lh-body;
     margin: $grid-2 0;
     @media screen and #{$breakpoint-lg}{
-      font-size: $serif-s5;
+      font-size: $sans-s5;
       line-height: $lh-loose;
+    }
+  }
+
+  blockquote {
+    border-left: $grid-05 solid $color-warm-white-3;
+    margin-left: $grid-1;
+    margin-right: $grid-1;
+    padding-left: $grid-2;
+
+    p,
+    ul,
+    ol,
+    li {
+      font-weight: 500;
+      font-size: $sans-s3;
+      @media screen and #{$breakpoint-lg}{
+        font-size: $sans-s4;
+      }
     }
   }
 
@@ -272,8 +291,23 @@ main.usa-section {
     margin: $grid-05 0;
   }
 
-  h1 {
+  p.usa-font-lead {
+    font-weight: 200;
+    line-height: $lh-cap;
+    font-size: $sans-s7;
     margin-bottom: $grid-3;
+    @media screen and #{$breakpoint-md}{
+      margin-bottom: $grid-5;
+    }
+  }
+
+  h1 {
+    & + p {
+      margin-top: $grid-3;
+    }
+    & + p.usa-font-lead {
+      margin-top: $grid-105;
+    }
   }
 
   h2 {
@@ -312,6 +346,42 @@ main.usa-section {
 
   img {
     padding: $grid-2 0;
+  }
+
+  .sources {
+    background-color: $color-coastal-1;
+    padding: $grid-2;
+    margin: $grid-3 $grid-n2 0;
+    @media screen and #{$breakpoint-md}{
+      padding: $grid-4;
+      margin: $grid-5 $grid-n4 0;
+    }
+
+    h2 {
+      font-weight: 200;
+      margin-top: 0;
+    }
+  }
+
+  ul.sources-collection {
+    list-style-type: none;
+    margin-bottom: 0;
+    padding: 0 0 $grid-1;
+  }
+
+  li.sources-source {
+    border-top: 1px solid $color-primary;
+    margin: 8px 0 0;
+    padding: 8px 0 0;
+
+    p {
+      font-size: $sans-s3;
+      font-weight: 500;
+      margin: 0;
+      @media screen and #{$breakpoint-lg}{
+        font-size: $sans-s4;
+      }
+    }
   }
 }
 

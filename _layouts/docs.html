@@ -18,6 +18,18 @@ main:
   {% endif %}
 
   {{ content }}
+
+  {% if page.sources %}
+    <div class="sources">
+      <h2>Sources</h2>
+      <ul class="sources-collection">
+        {% for source in page.sources%}
+        <li class="sources-source">{{ source | markdownify }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+  {% endif %}
+
 </div>
 {% else %}
 <div class="usa-layout-docs-main_content">
