@@ -367,9 +367,18 @@ main.usa-section {
     background-color: $color-coastal-1;
     font-family: $font-sans;
     margin: $grid-3 $grid-n2 0;
-    @media screen and #{$breakpoint-md}{
-      padding: $grid-4;
+    padding: $grid-2;
+    @media screen and #{$breakpoint-xs}{
+      margin: $grid-5 $grid-n2 0;
+      padding: $grid-4 $grid-2;
+    }
+    @media screen and #{$breakpoint-lg}{
+      margin: $grid-5 $grid-n6 0;
+      padding: $grid-4 $grid-6;
+    }
+    @media screen and #{$breakpoint-xl}{
       margin: $grid-5 $grid-n4 0;
+      padding: $grid-4;
     }
 
     h2 {
