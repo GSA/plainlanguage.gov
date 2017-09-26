@@ -303,15 +303,14 @@ main.usa-section {
     ol,
     li {
       font-family: $font-sans;
-      font-weight: 500;
       font-size: $sans-s3;
-      @media screen and #{$breakpoint-lg}{
-        font-size: $sans-s4;
+      @media screen and #{$breakpoint-md}{
+        font-size: $sans-s5;
       }
       strong {
         font-size: $sans-s3;
         @media screen and #{$breakpoint-lg}{
-          font-size: $sans-s4;
+          font-size: $sans-s5;
         }
       }
     }
