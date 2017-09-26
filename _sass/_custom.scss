@@ -315,8 +315,6 @@ main.usa-section {
     margin-bottom: $grid-3;
     @media screen and #{$breakpoint-xs}{
       font-size: $sans-s7;
-    }
-    @media screen and #{$breakpoint-md}{
       margin-bottom: $grid-5;
     }
   }
