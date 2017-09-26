@@ -205,11 +205,16 @@ button.usa-button-primary-alt,
 // Home
 
 h2.usa-hero-title {
-  font-size: $sans-s7;
-  line-height: $lh-cap;
-  max-width: 80%;
+  font-size: $sans-s8;
+  line-height: $lh-hed;
+  max-width: 85%;
+  @media screen and #{$breakpoint-xs}{
+    font-size: $sans-s9;
+    max-width: 80%;
+  }
   @media screen and #{$breakpoint-sm}{
     font-size: $sans-s8;
+    line-height: $lh-cap;
   }
   @media screen and #{$breakpoint-md}{
     max-width: none;
