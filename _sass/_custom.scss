@@ -259,12 +259,12 @@ main.usa-section {
   ul,
   ol,
   li {
-    font-family: $font-serif;
-    font-size: $serif-s4;
+    font-family: $font-sans;
+    font-size: $sans-s4;
     line-height: $lh-body;
     margin: $grid-2 0;
     @media screen and #{$breakpoint-lg}{
-      font-size: $serif-s5;
+      font-size: $sans-s5;
       line-height: $lh-loose;
     }
     strong {
