@@ -1,7 +1,23 @@
+// Utility classes
+
+.border-blue  { border-color: $color-blue }
+
+.icon {
+  height: 1.5rem;
+  margin-right: 0.4rem;
+  position: relative;
+  top: 2px;
+  vertical-align: baseline;
+}
+
 // Typography
 
-.usa-section-light a {
-  color: $color-base;
+html {
+  font-family: $font-serif;
+}
+
+body {
+  background-color: $color-tan;
 }
 
 h1,
@@ -11,52 +27,177 @@ h4,
 h5,
 h6 {
   font-family: $font-sans;
+  font-weight: 500;
 }
 
-.usa-heading-alt {
-  border-bottom: 1px solid $color-gray;
-  padding-bottom: .8rem;
+// Homepage
+
+.home-grid {
+  background-color: #fff;
+
+  h3 {
+    border-bottom: 1px solid $color-blue;
+    padding-bottom: 1rem;
+    font-weight: 500;
+  }
+
+  a {
+    color: $color-blue;
+  }
 }
+
+.home-hero {
+  h2 {
+    line-height: 1.4;
+    max-width: 77rem;
+  }
+}
+
+.usa-navbar {
+  border-color: #B3B0A5;
+}
+
+.usa-banner {
+  background-color: $color-tan-darker;
+  border-bottom: 1px solid #B3B0A5;
+  font-family: $font-sans;
+}
+
+// Sub-page
+
+.usa-layout-docs {
+  padding-right: 0;
+  padding-left: 0;
+  padding-top: 0;
+ }
+
+.usa-layout-docs-main_content {
+  background-color: #ffffff;
+  border-radius: 3px;
+  box-shadow: 0 1px 1px rgba(0,0,0,.1);
+  padding: 1.5rem;
+
+  h1 {
+    border-bottom: 1px solid $color-blue;
+    padding-bottom: 1rem;
+  }
+}
+
+
+ @media #{$breakpoint-lg} {
+   .usa-layout-docs {
+     padding-right: 1.5rem;
+     padding-left: 1.5rem;
+     padding-top: 6rem;
+    }
+
+    .usa-layout-docs-main_content {
+      padding: 3rem;
+    }
+ }
 
 // Header
 
-.usa-banner-inner {
-  padding-bottom: 3px;
-  padding-top: 3px;
+@media #{$breakpoint-sm} {
+  .usa-banner-header {
+    padding-top: 1.2rem;
+    padding-bottom: 1.2rem;
+  }
 }
 
 .usa-logo-text {
-    font-weight: 400;
+  font-family: $font-sans;
+  font-weight: 500;
+}
+
+.usa-nav-primary a:hover,
+.usa-nav-primary a.usa-current {
+  color: $color-blue-darker;
+  font-weight: 400;
+
+  span {
+    border-color: $color-blue-darker;
+  }
 }
 
 @media #{$breakpoint-lg} {
+  .usa-header {
+    border-color: #B3B0A5;
+  }
+
+  .usa-header-extended .usa-nav {
+    background-color: $color-tan;
+    border-color: #B3B0A5;
+  }
+
+  .usa-header-extended em {
+    font-size: 2.8rem;
+  }
+
   .usa-nav-primary > li > a {
-    font-weight: 400;
+    color: $color-base;
+    font-family: $font-serif;
+    font-size: 2rem;
+    font-weight: $font-normal;
+    line-height: 1;
+  }
+
+  .usa-nav-primary > li > a:first-child {
+    padding-left: 1rem;
   }
 
   .usa-nav-primary a.current-parent span, {
-      border-bottom: 0.7rem solid $color-primary;
-      padding-bottom: 1rem;
+    border-bottom: 0.7rem solid $color-blue;
+    padding-bottom: 1rem;
+  }
+
+  .usa-nav-secondary-links a,
+  .usa-nav-secondary-links .usa-header-search-button {
+    color: $color-base;
   }
 }
 
 // Side navigation
 
-.usa-sidenav-list a.current-parent {
-    border-left: 0.4rem solid $color-primary;
-    color: #0071bc;
-    font-weight: 700;
-    padding-left: 1.4rem;
+.usa-sidenav-list a {
+  font-family: $font-serif;
+
+  &.current-parent {
+      border-left: 0.4rem solid $color-blue;
+      color: $color-blue;
+      font-weight: 700;
+      padding-left: 1.4rem;
+  }
+
+  &:hover {
+      background-color: $color-tan-darker;
+  }
 }
 
 .usa-sidenav-sub_list .usa-sidenav-sub_list .usa-sidenav-sub_list a {
     padding-left: 4.8rem;
 }
 
-// Misc
+.usa-sidenav-list > li {
+  border-color: #B3B0A5;
+}
 
+// Misc
 .usa-font-lead {
-  font-family: $font-sans;
+  border-left: 1rem solid $color-blue;
+  padding-left: 3rem;
+}
+.usa-section-light {
+  a {
+    color: $color-base;
+  }
+}
+
+@media #{$breakpoint-lg} {
+  .usa-section {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+  }
 }
 
 // Footer
@@ -72,24 +213,16 @@ h6 {
     line-height: 1.7;
   }
 
-  a img {
-    height: 1.5rem;
-    margin-right: 0.4rem;
-    position: relative;
-    top: 2px;
-    vertical-align: baseline;
-  }
-
   .usa-button {
     font-weight: 700;
   }
 
   .usa-footer-primary-section {
-    background-color: $color-gray-lightest;
+    background-color: $color-tan;
   }
 
   .usa-footer-secondary_section {
-    background-color: $color-gray-lighter;
+    background-color: $color-tan-darker;
   }
 }
 

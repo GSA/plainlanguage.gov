@@ -10,6 +10,9 @@ theme: uswds-jekyll
 # google_analytics_ua: UA-99995535-1
 repo: https://github.com/GSA/plainlanguage.gov
 
+facebook: https://www.facebook.com/plainlanguagegov-174397429237337/
+twitter: https://twitter.com/govplainlang/
+
 plugins:
   - jekyll-redirect-from
 

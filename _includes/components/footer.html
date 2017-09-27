@@ -1,17 +1,10 @@
 <footer class="usa-footer usa-footer-medium site" role="contentinfo">
-
-  {% unless page.top == false %}
-  <div class="usa-grid usa-footer-return-to-top">
-    <a href="#">Return to top</a>
-  </div>
-  {% endunless %}
-
   <div class="usa-footer-primary-section">
-    <div class="usa-grid py1 sm-py2">
+    <div class="usa-grid py2">
       <h4 class="my0">Subscribe to our mailing list</h4>
       <div class="usa-width-one-whole md-flex items-center">
         <p class="my0 md-mr1">Learn about upcoming events and get the latest news from the plain language community.</p>
-        <a class="usa-button usa-button-primary-alt my0 mt1 mr0 md-mt0 nowrap" href="https://www.digitalgov.gov/communities/plain-language-community-of-practice/">Subscribe now</a>
+        <a class="usa-button usa-button-primary my0 mt1 mr0 md-mt0 nowrap" href="https://www.digitalgov.gov/communities/plain-language-community-of-practice/">Subscribe now</a>
       </div>
     </div>
   </div>
@@ -22,7 +15,7 @@
           The <a href="{{ "/about/" | relative_url }}">Plain Language Action and Information Network</a> develops and maintains the content of this site with support from the <a href="https://www.gsa.gov/node/87579">General Services Administration</a>.
         </p>
         <p>
-          Help us improve this site on <a href="{{ site.repo }}"><img src="{{ "/assets/img/github.svg" | relative_url }}" alt="">GitHub</a>.
+          Help us improve this site on <a href="{{ site.repo }}"><img src="{{ "/assets/img/github.svg" | relative_url }}" alt="" class="icon">GitHub</a>.
         </p>
       </div>
       <div class="usa-width-one-fourth">
@@ -36,9 +29,9 @@
       <div class="usa-width-one-fourth">
         <h3>Contact us</h3>
         <ul class="usa-unstyled-list">
-          <li><a href="mailto:{{ site.email }}"><img src="{{ "/assets/img/envelope-o.svg" | relative_url }}" alt="">Email us</a></li>
-          <li><a href="https://www.facebook.com/plainlanguagegov-174397429237337/"><img src="{{ "/assets/img/facebook-f.svg" | relative_url }}" alt="">Facebook</a></li>
-          <li><a href="https://twitter.com/govplainlang"><img src="{{ "/assets/img/twitter.svg" | relative_url }}" alt="">Twitter</a></li>
+          <li><a href="mailto:{{ site.email }}"><img src="{{ "/assets/img/envelope-o.svg" | relative_url }}" alt="" class="icon">Email us</a></li>
+          <li><a href="{{ site.facebook }}"><img src="{{ "/assets/img/facebook-f.svg" | relative_url }}" alt="" class="icon">Facebook</a></li>
+          <li><a href="{{ site.twiter }}"><img src="{{ "/assets/img/twitter.svg" | relative_url }}" alt="" class="icon">Twitter</a></li>
         </ul>
       </div>
     </div>
