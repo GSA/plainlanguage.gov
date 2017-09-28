@@ -1,6 +1,6 @@
 // Utility classes
 
-.border-blue  { border-color: $color-blue }
+.border-blue  { border-color: $color-primary }
 
 .icon {
   height: 1.5rem;
@@ -10,14 +10,21 @@
   vertical-align: baseline;
 }
 
+// Global
+
+body {
+  background-color: $color-tan;
+}
+
+input, textarea, select {
+  border: $border-width solid $border-color;
+  border-radius: $border-radius;
+}
+
 // Typography
 
 html {
   font-family: $font-serif;
-}
-
-body {
-  background-color: $color-tan;
 }
 
 h1,
@@ -27,39 +34,39 @@ h4,
 h5,
 h6 {
   font-family: $font-sans;
-  font-weight: 500;
+  font-weight: $font-bold;
 }
 
 // Homepage
 
 .home-grid {
-  background-color: #fff;
+  background-color: $color-white;
 
   h3 {
-    border-bottom: 1px solid $color-blue;
-    padding-bottom: 1rem;
-    font-weight: 500;
+    border-bottom: $border-width solid $color-primary;
+    padding-bottom: $spacing-small;
+    font-weight: $font-bold;
   }
 
   a {
-    color: $color-blue;
+    color: $color-primary;
   }
 }
 
 .home-hero {
   h2 {
     line-height: 1.4;
-    max-width: 77rem;
+    max-width: $lead-max-width;
   }
 }
 
 .usa-navbar {
-  border-color: #B3B0A5;
+  border-color: $border-color;
 }
 
 .usa-banner {
-  background-color: $color-tan-darker;
-  border-bottom: 1px solid #B3B0A5;
+  background-color: $color-tan-dark;
+  border-bottom: $border-width solid $border-color;
   font-family: $font-sans;
 }
 
@@ -72,31 +79,35 @@ h6 {
  }
 
 .usa-layout-docs-main_content {
-  background-color: #ffffff;
-  border-radius: 3px;
+  background-color: $color-white;
+  border-radius: $border-radius;
   box-shadow: 0 1px 1px rgba(0,0,0,.1);
-  padding: 1.5rem;
+  padding: $spacing-md-small;
 
   h1 {
-    border-bottom: 1px solid $color-blue;
-    padding-bottom: 1rem;
+    border-bottom: $border-width solid $color-primary;
+    padding-bottom: $spacing-small;
   }
 }
 
 
  @media #{$breakpoint-lg} {
    .usa-layout-docs {
-     padding-right: 1.5rem;
-     padding-left: 1.5rem;
+     padding-right: $spacing-md-small;
+     padding-left: $spacing-md-small;
      padding-top: 6rem;
     }
 
     .usa-layout-docs-main_content {
-      padding: 3rem;
+      padding: $spacing-large;
     }
  }
 
 // Header
+
+.usa-banner-button {
+  color: $color-primary-darkest;
+}
 
 @media #{$breakpoint-sm} {
   .usa-banner-header {
@@ -107,27 +118,27 @@ h6 {
 
 .usa-logo-text {
   font-family: $font-sans;
-  font-weight: 500;
+  font-weight: $font-bold;
 }
 
 .usa-nav-primary a:hover,
 .usa-nav-primary a.usa-current {
-  color: $color-blue-darker;
+  color: $color-primary-darker;
   font-weight: 400;
 
   span {
-    border-color: $color-blue-darker;
+    border-color: $color-primary-darker;
   }
 }
 
 @media #{$breakpoint-lg} {
   .usa-header {
-    border-color: #B3B0A5;
+    border-color: $border-color;
   }
 
   .usa-header-extended .usa-nav {
     background-color: $color-tan;
-    border-color: #B3B0A5;
+    border-color: $border-color;
   }
 
   .usa-header-extended em {
@@ -143,12 +154,12 @@ h6 {
   }
 
   .usa-nav-primary > li > a:first-child {
-    padding-left: 1rem;
+    padding-left: $spacing-small;
   }
 
   .usa-nav-primary a.current-parent span, {
-    border-bottom: 0.7rem solid $color-blue;
-    padding-bottom: 1rem;
+    border-bottom: 0.7rem solid $color-primary;
+    padding-bottom: $spacing-small;
   }
 
   .usa-nav-secondary-links a,
@@ -163,14 +174,14 @@ h6 {
   font-family: $font-serif;
 
   &.current-parent {
-      border-left: 0.4rem solid $color-blue;
-      color: $color-blue;
+      border-left: 0.4rem solid $color-primary;
+      color: $color-primary;
       font-weight: 700;
       padding-left: 1.4rem;
   }
 
   &:hover {
-      background-color: $color-tan-darker;
+      background-color: $color-tan-dark;
   }
 }
 
@@ -179,18 +190,13 @@ h6 {
 }
 
 .usa-sidenav-list > li {
-  border-color: #B3B0A5;
+  border-color: $border-color;
 }
 
 // Misc
 .usa-font-lead {
-  border-left: 1rem solid $color-blue;
-  padding-left: 3rem;
-}
-.usa-section-light {
-  a {
-    color: $color-base;
-  }
+  border-left: 1rem solid $color-primary;
+  padding-left: $spacing-large;
 }
 
 @media #{$breakpoint-lg} {
@@ -219,10 +225,14 @@ h6 {
 
   .usa-footer-primary-section {
     background-color: $color-tan;
+    padding-bottom: $spacing-medium;
+    padding-top: $spacing-medium;
   }
 
   .usa-footer-secondary_section {
-    background-color: $color-tan-darker;
+    background-color: $color-tan-dark;
+    padding-bottom: $spacing-large;
+    padding-top: $spacing-large;
   }
 }
 
@@ -233,7 +243,7 @@ h6 {
     width: 100%;
 
     h3 {
-      margin-top: $space-1;
+      margin-top: $spacing-x-small;
     }
   }
 }
