@@ -1,8 +1,25 @@
 // Utility classes
 
+.blue { color: $color-primary-darkest }
+
 .border-blue  { border-color: $color-primary }
 
-.icon {
+.icon-large {
+  align-items: center;
+  background-color: $color-blue-light;
+  border-radius: 50%;
+  display: flex;
+  height: 7rem;
+  width: 7rem;
+
+  .fa {
+    color: $color-primary-darkest;
+    font-size: 3.5rem;
+    margin: 0 auto;
+  }
+}
+
+.icon-small {
   height: 1.5rem;
   margin-right: 0.4rem;
   position: relative;
@@ -10,55 +27,18 @@
   vertical-align: baseline;
 }
 
-// Global
-
-body {
-  background-color: $color-tan;
+.shadow {
+  box-shadow: 0 1px 1px rgba(0,0,0,.1);
 }
+
+// Forms
 
 input, textarea, select {
   border: $border-width solid $border-color;
   border-radius: $border-radius;
 }
 
-// Typography
-
-html {
-  font-family: $font-serif;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: $font-sans;
-  font-weight: $font-bold;
-}
-
-// Homepage
-
-.home-grid {
-  background-color: $color-white;
-
-  h3 {
-    border-bottom: $border-width solid $color-primary;
-    padding-bottom: $spacing-small;
-    font-weight: $font-bold;
-  }
-
-  a {
-    color: $color-primary;
-  }
-}
-
-.home-hero {
-  h2 {
-    line-height: 1.4;
-    max-width: $lead-max-width;
-  }
-}
+// Header
 
 .usa-navbar {
   border-color: $border-color;
@@ -66,44 +46,9 @@ h6 {
 
 .usa-banner {
   background-color: $color-tan-dark;
-  border-bottom: $border-width solid $border-color;
+  border-bottom: 0;
   font-family: $font-sans;
 }
-
-// Sub-page
-
-.usa-layout-docs {
-  padding-right: 0;
-  padding-left: 0;
-  padding-top: 0;
- }
-
-.usa-layout-docs-main_content {
-  background-color: $color-white;
-  border-radius: $border-radius;
-  box-shadow: 0 1px 1px rgba(0,0,0,.1);
-  padding: $spacing-md-small;
-
-  h1 {
-    border-bottom: $border-width solid $color-primary;
-    padding-bottom: $spacing-small;
-  }
-}
-
-
- @media #{$breakpoint-lg} {
-   .usa-layout-docs {
-     padding-right: $spacing-md-small;
-     padding-left: $spacing-md-small;
-     padding-top: 6rem;
-    }
-
-    .usa-layout-docs-main_content {
-      padding: $spacing-large;
-    }
- }
-
-// Header
 
 .usa-banner-button {
   color: $color-primary-darkest;
@@ -111,20 +56,20 @@ h6 {
 
 @media #{$breakpoint-sm} {
   .usa-banner-header {
-    padding-top: 1.2rem;
-    padding-bottom: 1.2rem;
+    padding-top: .9rem;
+    padding-bottom: .9rem;
   }
 }
 
 .usa-logo-text {
   font-family: $font-sans;
-  font-weight: $font-bold;
+  font-size: $h4-font-size;
 }
 
 .usa-nav-primary a:hover,
 .usa-nav-primary a.usa-current {
   color: $color-primary-darker;
-  font-weight: 400;
+  font-weight: $font-normal;
 
   span {
     border-color: $color-primary-darker;
@@ -133,7 +78,7 @@ h6 {
 
 @media #{$breakpoint-lg} {
   .usa-header {
-    border-color: $border-color;
+    border: 0;
   }
 
   .usa-header-extended .usa-nav {
@@ -142,15 +87,15 @@ h6 {
   }
 
   .usa-header-extended em {
-    font-size: 2.8rem;
+    font-size: 2.5rem;
+    font-weight: 300;
   }
 
   .usa-nav-primary > li > a {
     color: $color-base;
     font-family: $font-serif;
-    font-size: 2rem;
+    font-size: $h4-font-size;
     font-weight: $font-normal;
-    line-height: 1;
   }
 
   .usa-nav-primary > li > a:first-child {
@@ -195,55 +140,13 @@ h6 {
 
 // Misc
 .usa-font-lead {
-  border-left: 1rem solid $color-primary;
-  padding-left: $spacing-large;
+  border-left: .7rem solid $color-primary;
+  padding-left: $spacing-medium;
 }
 
-@media #{$breakpoint-lg} {
+@media #{$breakpoint-md} {
   .usa-section {
-    padding-top: 5rem;
-    padding-bottom: 5rem;
-  }
-}
-
-// Footer
-
-.usa-footer {
-  font-size: 1.4rem;
-
-  h3 {
-    font-size: 1.6rem;
-  }
-
-  p, li {
-    line-height: 1.7;
-  }
-
-  .usa-button {
-    font-weight: 700;
-  }
-
-  .usa-footer-primary-section {
-    background-color: $color-tan;
-    padding-bottom: $spacing-medium;
-    padding-top: $spacing-medium;
-  }
-
-  .usa-footer-secondary_section {
-    background-color: $color-tan-dark;
-    padding-bottom: $spacing-large;
     padding-top: $spacing-large;
-  }
-}
-
-@media #{$breakpoint-md-lg} {
-  .usa-footer-secondary_section .usa-grid > div {
-    float: none;
-    margin: 0;
-    width: 100%;
-
-    h3 {
-      margin-top: $spacing-x-small;
-    }
+    padding-bottom: $spacing-large;
   }
 }

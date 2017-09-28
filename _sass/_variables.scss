@@ -14,7 +14,7 @@ $breakpoint-xs: '(max-width: #{$small-screen})';
 $breakpoint-sm-md: '(min-width: #{$small-screen}) and (max-width: #{$medium-screen})';
 $breakpoint-md-lg: '(min-width: #{$medium-screen}) and (max-width: #{$large-screen})';
 
-$color-blue-light: #F0F6FA;
+$color-blue-light: #E4E9ED;
 $color-tan: #F3EFE0;
 $color-tan-dark: #D9D6C8;
 
@@ -30,3 +30,5 @@ $space-2: $spacing-small;
 $space-3: $spacing-md-small;
 $space-4: $spacing-medium;
 $space-5: $spacing-large;
+
+$fa-font-path: "../fonts";

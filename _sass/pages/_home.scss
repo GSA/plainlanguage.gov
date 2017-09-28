@@ -1,0 +1,50 @@
+.usa-section {
+  &.home-events {
+    padding-bottom: 0;
+  }
+
+  &.home-grid {
+    padding-bottom: 0;
+
+    h3 {
+      margin-top: 0;
+
+      a {
+        text-decoration: none;
+      }
+    }
+
+    p {
+      font-family: $font-sans;
+      font-size: $h4-font-size;
+      margin: 0;
+    }
+
+    .icon-large {
+      float: left;
+      margin-right: $spacing-md-small;
+    }
+  }
+
+  &.home-hero {
+    h1 {
+      line-height: 1.4;
+      max-width: $lead-max-width;
+    }
+  }
+}
+
+@media #{$breakpoint-md} {
+  .usa-section {
+    &.home-grid {
+      h3 {
+        margin-top: $spacing-md-small;
+      }
+
+      .icon-large {
+        float: none;
+        margin-right: 0;
+      }
+    }
+  }
+}

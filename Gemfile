@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'font-awesome-sass'
 gem 'jekyll'
 
 group :jekyll_plugins do

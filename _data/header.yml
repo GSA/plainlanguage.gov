@@ -2,6 +2,8 @@ type: extended
 
 primary:
   links:
+    - text: Home
+      href: /
     - text: Law and requirements
       href: /law/
     - text: Writing guidelines

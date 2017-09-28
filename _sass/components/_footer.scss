@@ -1,0 +1,41 @@
+.usa-footer {
+  .usa-button {
+    font-weight: 700;
+  }
+
+  .usa-footer-primary-section {
+    padding-bottom: $spacing-large;
+    padding-top: $spacing-large;
+  }
+
+  .usa-footer-secondary_section {
+    padding-bottom: $spacing-large;
+    padding-top: $spacing-large;
+
+    li {
+      border-right: 1px solid $border-color;
+      display: inline-block;
+      margin-right: $spacing-x-small;
+      padding-right: $spacing-small;
+
+      &:last-child {
+        border: 0;
+        margin-right: 0;
+        padding-right: 0;
+      }
+    }
+  }
+}
+
+@media #{$breakpoint-lg} {
+  .usa-footer {
+    .usa-footer-secondary_section {
+      li {
+        border-right: 0;
+        display: block;
+        margin-right: 0;
+        padding-right: 0;
+      }
+    }
+  }
+}

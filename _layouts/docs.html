@@ -1,7 +1,7 @@
 ---
 layout: base
 main:
-  class: usa-grid usa-section usa-content usa-layout-docs
+  class: usa-grid-full usa-section usa-content usa-layout-docs pt0 sm-pt3
 ---
 {% assign sidenav = site.data.navigation[page.sidenav] | default: page.sidenav %}
 {% if sidenav %}
@@ -9,7 +9,7 @@ main:
   {% include sidenav.html links=sidenav %}
 </aside>
 
-<div class="usa-width-two-thirds usa-layout-docs-main_content rounded">
+<div class="usa-width-two-thirds usa-layout-docs-main_content p3 sm-p4 bg-white rounded">
   {% if page.title %}
     <h1>{{ page.title }}</h1>
   {% endif %}
@@ -30,7 +30,7 @@ main:
   {% endunless %}
 </div>
 {% else %}
-<div class="usa-layout-docs-main_content rounded">
+<div class="usa-layout-docs-main_content rounded p3 sm-p4">
   {% if page.title %}
     <h1>{{ page.title }}</h1>
   {% endif %}
