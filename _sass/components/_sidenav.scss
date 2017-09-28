@@ -1,0 +1,51 @@
+.usa-layout-docs-sidenav {
+  padding-left: $spacing-md-small;
+  padding-top: 0;
+
+  h3 {
+    border-bottom: $border-width solid $border-color;
+    margin-bottom: 0;
+    padding-bottom: $spacing-small;
+  }
+}
+
+.usa-sidenav-list a {
+  font-family: $font-serif;
+  padding: $spacing-small $spacing-x-small;
+
+  &.current-parent {
+      border-left: 0;
+      color: $color-base;
+      font-weight: 700;
+      padding-left: $spacing-x-small;
+  }
+
+  &:hover {
+    background-color: #E8E4D6;
+    color: $color-primary-darker;
+  }
+}
+
+.usa-sidenav-list > li {
+  border-color: $border-color;
+}
+.usa-sidenav-sub_list a,
+.usa-sidenav-sub_list a:hover,
+.usa-sidenav-sub_list a.usa-current {
+  padding-left: $spacing-md-small;
+}
+
+.usa-sidenav-sub_list a:hover,
+.usa-sidenav-sub_list a.usa-current {
+  color: $color-primary-darker;
+}
+
+.usa-sidenav-sub_list a.usa-current {
+  font-weight: 700;
+}
+
+@media #{$breakpoint-lg} {
+  .usa-layout-docs-sidenav {
+    padding-top: $spacing-md-small;
+  }
+}

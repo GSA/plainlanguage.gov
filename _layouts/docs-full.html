@@ -3,15 +3,7 @@ layout: base
 main:
   class: usa-grid usa-content usa-layout-docs
 ---
-{% assign sidenav = site.data.navigation[page.sidenav] | default: page.sidenav %}
-{% if sidenav %}
-<aside class="usa-width-one-third usa-layout-docs-sidenav sm-mt4 show-lg">
-  <h3 class="caps">In this section</h3>
-  {% include sidenav.html links=sidenav %}
-</aside>
-{% endif %}
-
-<div class="{% if sidenav %}usa-width-two-thirds {% endif %}usa-layout-docs-main_content p3 md-p4 bg-white shadow clearfix">
+<div class="full p3 md-p4 bg-white shadow clearfix">
   {% if page.title %}
     <h1>{{ page.title }}</h1>
   {% endif %}
@@ -19,6 +11,7 @@ main:
   {% if page.sidebar %}
     <div class="usa-width-two-thirds">
   {% endif %}
+
     {% if page.intro %}
       <p class="usa-font-lead">{{ page.intro }}</p>
     {% endif %}

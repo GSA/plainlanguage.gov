@@ -1,0 +1,53 @@
+// Header
+
+.usa-navbar {
+  border-color: $border-color;
+}
+
+.usa-header {
+  border: 0;
+}
+
+.usa-logo-text {
+  font-family: $font-sans;
+  font-size: $h4-font-size;
+}
+
+@media #{$breakpoint-lg} {
+  .usa-header-extended em {
+    font-size: 2.5rem;
+    font-weight: 300;
+  }
+
+  .usa-header-extended .usa-nav {
+    background-color: $color-tan;
+    border-color: $border-color;
+  }
+
+  .usa-nav-primary > li > a {
+    color: $color-base;
+    font-family: $font-serif;
+    font-size: $h4-font-size;
+    font-weight: $font-normal;
+
+    &:first-child {
+      padding-left: $spacing-small;
+    }
+
+    &:hover,
+    &.current-parent,
+    &.usa-current {
+      color: $color-primary-darker;
+      font-weight: $font-normal;
+
+      span {
+        border-bottom: 0.7rem solid $color-primary;
+        padding-bottom: $spacing-small;
+      }
+    }
+  }
+
+  .usa-nav-secondary-links a {
+    color: $color-base;
+  }
+}

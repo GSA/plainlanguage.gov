@@ -3,8 +3,14 @@
 
 @import 'overrides';
 @import 'uswds/all';
+
+@import 'fonts';
 @import 'variables';
+
 @import 'basscss-sass/scss/basscss';
 @import 'basscss-sass/scss/responsive-margin';
 @import 'basscss-sass/scss/responsive-padding';
-@import 'all';
+@import 'vendor/font-awesome/font-awesome';
+
+@import 'components/all';
+@import 'pages/all';
