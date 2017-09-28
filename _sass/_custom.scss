@@ -427,6 +427,33 @@ main.usa-section {
   }
 }
 
+table {
+  td {
+    font-family: $font-sans;
+    font-size: $sans-s4;
+    line-height: $lh-body;
+    margin: $grid-2 0;
+    vertical-align: top;
+    @media screen and #{$breakpoint-xs}{
+      font-size: $sans-s4;
+    }
+    @media screen and #{$breakpoint-md}{
+      font-size: $sans-s5;
+      font-weight: 300;
+    }
+    strong {
+      font-family: $font-sans;
+      font-size: $sans-s4;
+      @media screen and #{$breakpoint-xs}{
+        font-size: $sans-s4;
+      }
+      @media screen and #{$breakpoint-md}{
+        font-size: $sans-s5;
+      }
+    }
+  }
+}
+
 .usa-layout-docs {
   @media screen and #{$breakpoint-md}{
     display: inherit;
