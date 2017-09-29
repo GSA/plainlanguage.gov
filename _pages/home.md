@@ -42,6 +42,12 @@ top: false
     </div>
   </section>
 
+  <div class="bg-white" markdown="0">
+    <div class="usa-grid">
+      <hr>
+    </div>
+  </div>
+
   <section class="usa-section usa-grid" markdown="0">
     <h2>It's the law</h2>
     <p class="usa-font-lead">President Obama signed the <a href="https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/content-detail.html">Plain Writing Act of 2010</a> on October 13, 2010. The law requires that federal agencies use clear government communication that the public can understand and use. On January 18, 2011, he issued <a href="https://obamawhitehouse.archives.gov/the-press-office/2011/01/18/executive-order-13563-improving-regulation-and-regulatory-review">Executive Order 13563 - Improving Regulation and Regulatory Review</a>, which states that our regulatory system "must ensure that regulations are accessible, consistent, written in plain language, and easy to understand."</p>
