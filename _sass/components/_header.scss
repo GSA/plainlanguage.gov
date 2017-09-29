@@ -1,9 +1,3 @@
-// Header
-
-.usa-navbar {
-  border-color: $border-color;
-}
-
 .usa-header {
   border: 0;
 }
@@ -13,37 +7,96 @@
   font-size: $h4-font-size;
 }
 
+.usa-nav .usa-current,
+.usa-nav-primary a.usa-current {
+  border-left: 0;
+  font-weight: 700;
+  padding-left: $spacing-x-small;
+}
+
+.usa-nav-primary {
+  margin-top: 60px;
+
+  & > li {
+    font-size: $h3-font-size;
+  }
+
+  & > li ul + a {
+    display: none;
+  }
+
+  button,
+  .usa-nav-link {
+    padding-left: $spacing-x-small;
+  }
+}
+
+.usa-nav-submenu {
+  display: block;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  a,
+  a.usa-current {
+    padding-left: $spacing-md-small;
+  }
+}
+
+.usa-navbar {
+  border-color: $border-color;
+}
+
 @media #{$breakpoint-lg} {
-  .usa-header-extended em {
-    font-size: 2.5rem;
-    font-weight: 300;
-  }
-
-  .usa-header-extended .usa-nav {
-    background-color: $color-tan;
-    border-color: $border-color;
-  }
-
-  .usa-nav-primary > li > a {
-    color: $color-base;
-    font-family: $font-serif;
-    font-size: $h4-font-size;
-    font-weight: $font-normal;
-
-    &:first-child {
-      padding-left: $spacing-small;
+  .usa-header-extended {
+    em {
+      font-size: 2.5rem;
+      font-weight: 300;
     }
 
-    &:hover,
-    &.current-parent,
-    &.usa-current {
-      color: $color-primary-darker;
+    .usa-nav {
+      background-color: $color-tan;
+      border-color: $border-color;
+    }
+  }
+
+  .usa-nav-link,
+  .usa-nav-submenu {
+    display: none;
+  }
+
+  .usa-nav-primary {
+    margin-top: 0;
+
+    & > li ul + a {
+      display: block;
+    }
+
+    & > li > a {
+      color: $color-base;
+      font-family: $font-serif;
+      font-size: $h4-font-size;
       font-weight: $font-normal;
 
-      span {
-        border-bottom: 0.7rem solid $color-primary;
-        padding-bottom: $spacing-small;
+      &:first-child {
+        padding-left: $spacing-small;
       }
+
+      &:hover,
+      &.current-parent,
+      &.usa-current {
+        color: $color-primary-darker;
+        font-weight: $font-normal;
+
+        span {
+          border-bottom: 0.7rem solid $color-primary;
+          padding-bottom: $spacing-small;
+        }
+      }
+    }
+
+    .usa-nav-link {
+      padding-left: 1.8rem;
     }
   }
 
