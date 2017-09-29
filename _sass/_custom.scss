@@ -181,8 +181,17 @@ button.usa-button-primary-alt,
 
 // Header
 
+.usa-logo {
+  align-items: center;
+  display: flex;
+  flex: 1;
+}
+
 .usa-logo-text {
+  display: inline-block;
   font-weight: 400;
+  height: auto;
+  padding-bottom: $grid-05;
 }
 
 @media screen and #{$breakpoint-lg} {
@@ -203,7 +212,11 @@ button.usa-button-primary-alt,
 }
 
 .usa-logo-img {
-  display: none;
+  margin-right: $grid-1;
+  width: $grid-3;
+  @media screen and #{$breakpoint-md}{
+    width: $grid-4;
+  }
 }
 
 // Home
@@ -634,7 +647,9 @@ h3.usa-sidenav-title {
 }
 
 .usa-navbar {
-  border-bottom: none;
+  align-items: center;
+  display: flex;
+  flex-direction: row-reverse;  border-bottom: none;
   height: $grid-6;
   @media screen and #{$breakpoint-xs}{
     height: $grid-7;
