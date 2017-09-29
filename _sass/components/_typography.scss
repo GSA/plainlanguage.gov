@@ -1,0 +1,32 @@
+html {
+  font-family: $font-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $font-sans;
+  font-weight: $font-bold;
+}
+
+h1 {
+  font-size: $h2-font-size;
+}
+
+.sans-serif {
+  font-family: $font-sans;
+}
+
+.usa-font-lead {
+  border-left: .7rem solid $color-primary;
+  padding-left: $spacing-medium;
+}
+
+@media #{$breakpoint-sm} {
+  h1 {
+    font-size: $h1-font-size;
+  }
+}

@@ -1,5 +1,10 @@
 // Basscss
 
+$bold-font-weight: $font-bold;
+$caps-letter-spacing: .1em;
+
+$border-color: #B3B0A5;
+$border-radius: 3px;
 $border-width: 1px;
 
 $breakpoint-sm: '(min-width: #{$small-screen})';
@@ -10,7 +15,9 @@ $breakpoint-xs: '(max-width: #{$small-screen})';
 $breakpoint-sm-md: '(min-width: #{$small-screen}) and (max-width: #{$medium-screen})';
 $breakpoint-md-lg: '(min-width: #{$medium-screen}) and (max-width: #{$large-screen})';
 
-$bold-font-weight: $font-bold;
+$color-blue-light: #E4E9ED;
+$color-tan: #F3EFE0;
+$color-tan-dark: #D9D6C8;
 
 $h1: $h1-font-size;
 $h2: $h2-font-size;
@@ -19,7 +26,12 @@ $h4: $h4-font-size;
 $h5: $h5-font-size;
 $h6: $h6-font-size;
 
-$space-1: 1rem;
-$space-2: 2rem;
-$space-3: 3rem;
-$space-4: 5rem;
+$space-1: $spacing-x-small;
+$space-2: $spacing-small;
+$space-3: $spacing-md-small;
+$space-4: $spacing-medium;
+$space-5: $spacing-large;
+
+// Font Awesome
+
+$fa-font-path: "../fonts";

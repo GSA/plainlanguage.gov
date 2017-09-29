@@ -1,7 +1,7 @@
 ---
 title: About us
 permalink: /about/
-layout: sidebar
+layout: docs-full
 sidebar: >-
   ## Our officers
 
@@ -19,9 +19,9 @@ sidebar: >-
 
   Staff Attorney, Office of the Federal Register<br>
   [National Archives and Records Administration](https://www.archives.gov/)
-  
+
   #### Wendy Wagner-Smith, Training coordinator
-  
+
   Senior Writer and Editor, Office of Financial Research<br>
   [Department of the Treasury](https://www.treasury.gov/)
 ---
