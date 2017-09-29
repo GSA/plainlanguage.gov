@@ -202,6 +202,10 @@ button.usa-button-primary-alt,
   }
 }
 
+.usa-logo-img {
+  display: none;
+}
+
 // Home
 
 h2.usa-hero-title {
@@ -275,6 +279,7 @@ main.usa-section {
   li {
     font-family: $font-sans;
     font-size: $sans-s4;
+    font-weight: 300;
     line-height: $lh-body;
     margin: $grid-2 0;
     @media screen and #{$breakpoint-xs}{

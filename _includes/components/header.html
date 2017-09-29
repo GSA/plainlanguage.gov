@@ -9,6 +9,9 @@
     <div class="usa-navbar">
       <button class="usa-menu-btn">Menu</button>
       <div class="usa-logo" id="logo">
+        <div class="usa-logo-img">
+          <img src='{{ site.baseurl }}/assets/img/pl-logo-temp.png'/>
+        </div>
         <em class="usa-logo-text">
           <a href="{% if header.href %}{{ header.href }}{% else %}{{ site.baseurl }}/{% endif %}" title="Home">
             {{ header.title | default: site.title }}
