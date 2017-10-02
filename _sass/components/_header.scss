@@ -7,15 +7,14 @@
   font-size: $h4-font-size;
 }
 
-.usa-nav .usa-current,
-.usa-nav-primary a.usa-current {
-  border-left: 0;
-  font-weight: 700;
-  padding-left: $spacing-x-small;
-}
-
 .usa-nav-primary {
   margin-top: 60px;
+
+  a.usa-current {
+    border-left: 0;
+    font-weight: 700;
+    padding-left: $spacing-x-small;
+  }
 
   & > li {
     font-size: $h3-font-size;
@@ -41,6 +40,11 @@
   a.usa-current {
     padding-left: $spacing-md-small;
   }
+
+  a.current-parent {
+    color: $color-primary;
+    font-weight: 700;
+  }
 }
 
 .usa-navbar {
@@ -60,11 +64,6 @@
     }
   }
 
-  .usa-nav-link,
-  .usa-nav-submenu {
-    display: none;
-  }
-
   .usa-nav-primary {
     margin-top: 0;
 
@@ -72,21 +71,18 @@
       display: block;
     }
 
-    & > li > a {
+    & > li > a,
+    .usa-nav-link {
       color: $color-base;
       font-family: $font-serif;
       font-size: $h4-font-size;
-      font-weight: $font-normal;
-
-      &:first-child {
-        padding-left: $spacing-small;
-      }
+      padding-left: $spacing-md-small;
 
       &:hover,
       &.current-parent,
       &.usa-current {
         color: $color-primary-darker;
-        font-weight: $font-normal;
+        padding-left: $spacing-md-small;
 
         span {
           border-bottom: 0.7rem solid $color-primary;
@@ -94,13 +90,14 @@
         }
       }
     }
-
-    .usa-nav-link {
-      padding-left: 1.8rem;
-    }
   }
 
   .usa-nav-secondary-links a {
     color: $color-base;
+  }
+
+  .usa-accordion-button,
+  .usa-nav-submenu {
+    display: none;
   }
 }
