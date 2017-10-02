@@ -6,12 +6,16 @@ primary:
       href: /
     - text: Law and requirements
       href: /law/
+      links: law
     - text: Writing guidelines
       href: /guidelines/
+      links: guidelines
     - text: Training
       href: /training/
+      links: training
     - text: Resources
       href: /resources/
+      links: resources
     - text: About us
       href: /about/
 

@@ -12,6 +12,7 @@ top: false
 
 <div class="bg-white">
   <section class="usa-section usa-grid home-grid" markdown="0">
+    <h2>We're here to help</h2>
     <div class="usa-width-one-fourth mb4 lg-mb0 clearfix">
       <div class="icon-large"><i class="fa fa-gavel" aria-hidden="true"></i></div>
       <div class="overflow-hidden">
