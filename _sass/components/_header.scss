@@ -78,6 +78,10 @@
       font-size: $h4-font-size;
       padding-left: $spacing-md-small;
 
+      &:first-child {
+        padding-left: $spacing-small;
+      }
+
       &:hover,
       &.current-parent,
       &.usa-current {
