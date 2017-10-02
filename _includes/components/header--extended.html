@@ -28,21 +28,23 @@
             {% assign section_links = site.data.navigation[_section.links] | default: _section.links %}
             {% assign _section_id = _section.id %}
             {% unless _section_id %}{% assign _section_id = 'nav-' | append: forloop.index %}{% endunless %}
-          <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="{{ _section_id }}">
+          <button class="usa-accordion-button usa-nav-link" aria-expanded="{% if _section.href != '/' %}{% if page.url contains _section.href or page.permalink contains _section.href %}true{% else %}false{% endif %}{% endif %}" aria-controls="{{ _section_id }}">
             <span>{{ _section.text }}</span>
           </button>
           <ul id="{{ _section_id }}" class="usa-nav-submenu">
+            <li>
+              <a href="{% if _section.external == true %}{{ _section.href }}{% else %}{{ _section.href | relative_url }}{% endif %}" class="{% if _section.href == page.permalink %} usa-current{% endif %}{% if _section.href != '/' %}{% if page.url contains _section.href or page.permalink contains _section.href %} current-parent{% endif %}{% endif %}">{{ _section.text }}</a>
+            </li>
             {% for _link in section_links %}
             <li>
-              <a href="{% if _link.external == true %}{{ _link.href }}{% else %}{{ _link.href | relative_url }}{% endif %}">{{ _link.text }}</a>
+              <a href="{% if _link.external == true %}{{ _link.href }}{% else %}{{ _link.href | relative_url }}{% endif %}" class="{% if _link.href == page.permalink %} usa-current{% endif %}{% if _link.href != '/' %}{% if page.url contains _link.href or page.permalink contains _link.href %} current-parent{% endif %}{% endif %}">{{ _link.text }}</a>
             </li>
             {% endfor %}
           </ul>
-          {% else %}
+          {% endif %}
           <a class="usa-nav-link{% if _section.href == page.permalink %} usa-current{% endif %}{% if _section.href != '/' %}{% if page.url contains _section.href or page.permalink contains _section.href %} current-parent{% endif %}{% endif %}" href="{% if _section.external == true %}{{ _section.href }}{% else %}{{ _section.href | relative_url }}{% endif %}">
             <span>{{ _section.text }}</span>
           </a>
-          {% endif %}
         </li>
         {% endfor %}
       </ul>
