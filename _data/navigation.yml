@@ -149,15 +149,12 @@ resources:
     href: /resources/quotes/
 
 training:
-  - text: Training
-    href: /training/
-    subnav:
-      - text: Introductory classes
-        href: /training/introductory-classes/
-      - text: Train-the-trainer bootcamp
-        href: /training/train-the-trainer-bootcamp/
-      - text: Online training
-        href: /training/online-training/
+  - text: Introductory classes
+    href: /training/introductory-classes/
+  - text: Train-the-trainer bootcamp
+    href: /training/train-the-trainer-bootcamp/
+  - text: Online training
+    href: /training/online-training/
   - text: For trainers
     href: /training/for-trainers/
     subnav:
