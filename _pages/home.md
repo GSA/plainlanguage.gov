@@ -55,7 +55,7 @@ top: false
 </div>
 
 <section class="usa-section usa-grid home-events" markdown="0">
-  <h2 class="mb3"><i class="fa fa-calendar mr2" aria-hidden="true"></i>Upcoming events</h2>
+  <h2 class="mb3"><i class="fa fa-calendar fa-lg mr2" aria-hidden="true"></i>Upcoming events</h2>
   <div class="usa-width-one-third bg-white rounded shadow p4 mb4 md-mb0">
     <h4 class="m0 h3"><a href="#" class="text-decoration-none">Train-the-Trainer Bootcamp</a></h4>
     <p class="mt0 h5 caps sans-serif">September 18, 2014</p>

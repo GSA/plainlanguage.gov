@@ -25,6 +25,10 @@
       }
     }
   }
+
+  .usa-unstyled-list li {
+    margin-bottom: $spacing-x-small;
+  }
 }
 
 @media #{$breakpoint-lg} {
