@@ -1,5 +1,5 @@
 .usa-header {
-  border: 0;
+  border-color: $border-color;
 }
 
 .usa-logo-text {
@@ -59,7 +59,6 @@
     }
 
     .usa-nav {
-      background-color: $color-tan;
       border-color: $border-color;
     }
   }
@@ -74,13 +73,9 @@
     & > li > a,
     .usa-nav-link {
       color: $color-base;
-      font-family: $font-serif;
       font-size: $h4-font-size;
+      font-weight: $font-normal;
       padding-left: $spacing-md-small;
-
-      &:first-child {
-        padding-left: $spacing-small;
-      }
 
       &:hover,
       &.current-parent,
@@ -89,8 +84,8 @@
         padding-left: $spacing-md-small;
 
         span {
-          border-bottom: 0.7rem solid $color-primary;
-          padding-bottom: $spacing-small;
+          border: 0;
+          padding-bottom: 0;
         }
       }
     }

@@ -1,8 +1,4 @@
 .usa-section {
-  &.home-events {
-    padding-bottom: 0;
-  }
-
   &.home-grid {
     h3 {
       margin-top: 0;
@@ -13,7 +9,6 @@
     }
 
     p {
-      font-family: $font-sans;
       font-size: $h4-font-size;
       margin: 0;
     }
@@ -26,8 +21,9 @@
 
   &.home-hero {
     h1 {
+      font-family: $font-serif;
       line-height: 1.4;
-      max-width: $lead-max-width;
+      max-width: 60rem;
     }
   }
 }

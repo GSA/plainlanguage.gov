@@ -15,15 +15,15 @@ $font-serif: 'Georgia', 'Cambria', 'Times New Roman', 'Times', serif;
 $font-mono: 'Roboto Mono', 'Bitstream Vera Sans Mono', 'Consolas', 'Courier', monospace;
 
 $font-normal: 400;
-$font-bold: 500;
+$font-bold: 700;
 
 $small-screen:  481px;
 $medium-screen: 600px;
 $large-screen:  951px;
 
-$color-primary: #4C7596;
-$color-primary-darker: #416480;
-$color-primary-darkest: #3F617D;
+$color-primary: #345E82;
+$color-primary-darker: darken($color-primary, 5%);
+$color-primary-darkest: darken($color-primary, 10%);
 
 $color-visited: $color-primary;
 

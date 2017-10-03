@@ -11,7 +11,7 @@ main:
 </aside>
 {% endif %}
 
-<div class="{% if sidenav %}usa-width-two-thirds {% endif %}usa-layout-docs-main_content p3 md-p4 bg-white shadow clearfix">
+<div class="{% if sidenav %}usa-width-two-thirds {% endif %}usa-layout-docs-main_content p3 md-p0 clearfix">
   {% for section in site.data.header.primary.links %}
     {% if section.links == page.sidenav %}
       <p class="lg-hide h6 caps mb1">{{ section.text }}</p>

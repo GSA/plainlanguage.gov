@@ -7,10 +7,3 @@
 .usa-banner-button {
   color: $color-primary-darkest;
 }
-
-@media #{$breakpoint-sm} {
-  .usa-banner-header {
-    padding-top: .9rem;
-    padding-bottom: .9rem;
-  }
-}
