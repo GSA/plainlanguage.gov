@@ -59,16 +59,16 @@ top: false
   <div class="usa-width-one-third bg-white rounded shadow p4 mb4 md-mb0">
     <h4 class="m0 h3"><a href="#" class="text-decoration-none">Plain language spectrum</a></h4>
     <p class="mt0 h5 caps sans-serif">July 18, 2014</p>
-    <p class="mb0">Katherine Spivey will share how to move forward with plain language when you don’t necessarily have permission to edit. <a href="#">Find out more &raquo;</a></p>
+    <p class="mb0">Katherine Spivey will share how to move forward with plain language when you don’t necessarily have permission to edit.</p>
   </div>
   <div class="usa-width-one-third bg-white rounded shadow p4 mb4 md-mb0">
     <h4 class="m0 h3"><a href="#" class="text-decoration-none">Plainspoken science</a></h4>
     <p class="mt0 h5 caps sans-serif">August 19, 2014</p>
-    <p class="mb0">Hear how plain language helps scientists share the excitement, importance, and often just plain enjoyment of what they do. <a href="#">Find out more &raquo;</a></p>
+    <p class="mb0">Hear how plain language helps scientists share the excitement, importance, and often just plain enjoyment of what they do.</p>
   </div>
   <div class="usa-width-one-third bg-white rounded shadow p4 mb4 md-mb0">
     <h4 class="m0 h3"><a href="#" class="text-decoration-none">Plain language spectrum</a></h4>
     <p class="mt0 h5 caps sans-serif">September 20, 2014</p>
-    <p class="mb0">Katherine Spivey will share how to move forward with plain language when you don’t necessarily have permission to edit. <a href="#">Find out more &raquo;</a></p>
+    <p class="mb0">Katherine Spivey will share how to move forward with plain language when you don’t necessarily have permission to edit.</p>
   </div>
 </section>
