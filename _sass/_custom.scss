@@ -264,22 +264,21 @@ main.usa-section {
 }
 
 .usa-layout-docs-main_content {
-  background-color: white;
   overflow: hidden;
   padding: $grid-3 $grid-2 $grid-3;
   @media screen and #{$breakpoint-md}{
-    border-bottom-left-radius: $grid;
-    border-top-left-radius: $grid;
     display: block;
-    float: left;
-    margin: 0;
+    float: none;
+    margin: 0 ;
     order: 2;
-    width: 66.6666666666%;
+    padding-left: 0;
+    padding-right: $grid-4;
+    width: auto;
   }
   @media screen and #{$breakpoint-lg}{
-    border-radius: $grid;
-    padding: $grid-4;
-    box-shadow: 0 1px 1px rgba(0,0,0,.1);
+    padding: $grid-2 0 0 0;
+    float: none;
+    width: auto;
   }
 
   &.with-sources {
@@ -299,8 +298,8 @@ main.usa-section {
       font-size: $sans-s5;
     }
     @media screen and #{$breakpoint-md}{
-      font-size: $sans-s6;
-      font-weight: 300;
+      font-size: $sans-s7;
+      font-weight: 400;
     }
     strong {
       font-family: $font-sans;
@@ -309,7 +308,7 @@ main.usa-section {
         font-size: $sans-s5;
       }
       @media screen and #{$breakpoint-md}{
-        font-size: $sans-s6;
+        font-size: $sans-s7;
       }
     }
   }
@@ -329,10 +328,13 @@ main.usa-section {
       @media screen and #{$breakpoint-xs}{
         font-size: $sans-s4;
       }
+      @media screen and #{$breakpoint-md}{
+        font-size: $sans-s6;
+      }
       strong {
         font-size: $sans-s3;
-        @media screen and #{$breakpoint-lg}{
-          font-size: $sans-s5;
+        @media screen and #{$breakpoint-md}{
+          font-size: $sans-s6;
         }
       }
     }
@@ -343,9 +345,10 @@ main.usa-section {
   }
 
   p.usa-font-lead {
+    //color: $color-coastal-60;
     font-family: $font-sans;
     font-size: $sans-s6;
-    font-weight: 200;
+    font-weight: 500;
     line-height: $lh-cap;
     margin-bottom: $grid-3;
     @media screen and #{$breakpoint-xs}{
@@ -354,6 +357,8 @@ main.usa-section {
     }
     @media screen and #{$breakpoint-md}{
       line-height: $lh-body;
+      margin-bottom: $grid-6;
+      padding-top: $grid-105;
     }
   }
 
@@ -481,7 +486,7 @@ table {
 .usa-content p:not(.usa-font-lead),
 .usa-content ul:not(.usa-accordion):not(.usa-accordion-bordered),
 .usa-content ol:not(.usa-accordion):not(.usa-accordion-bordered) {
-  max-width: none;
+  max-width: 35em;
 }
 
 // Side navigation
@@ -494,10 +499,10 @@ table {
     order: 1;
     padding-right: $grid-2;
     padding-top: $grid-2;
-    width: 33.33333333%;
+    width: $xsmall-screen;
   }
   @media screen and #{$breakpoint-md}{
-    padding-right: $grid-4;
+    padding-right: $grid-6;
     padding-top: $grid-4;
   }
 }
@@ -689,6 +694,10 @@ h3.usa-sidenav-title {
       border-color: $color-primary;
     }
   }
+  a.usa-current {
+    color: $color-gray-90;
+    font-weight: 500;
+  }
 }
 
 .usa-nav-container {
@@ -702,6 +711,8 @@ h3.usa-sidenav-title {
 }
 
 .usa-header-basic {
+  background-color: white;
+
   .usa-logo {
     @media screen and #{$breakpoint-lg}{
       bottom: auto;
