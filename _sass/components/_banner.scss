@@ -1,5 +1,5 @@
 .usa-banner {
-  background-color: $color-tan-dark;
+  background-color: $color-blue-light;
   border: 0;
   font-family: $font-sans;
 }
@@ -8,9 +8,9 @@
   color: $color-primary-darkest;
 }
 
-@media #{$breakpoint-sm} {
-  .usa-banner-header {
-    padding-top: .9rem;
-    padding-bottom: .9rem;
+
+@media #{$breakpoint-md} {
+  .usa-banner-inner {
+    padding: 0 $spacing-medium;
   }
 }

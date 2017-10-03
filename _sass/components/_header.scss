@@ -1,10 +1,14 @@
 .usa-header {
-  border: 0;
+  border-color: $border-color;
 }
 
 .usa-logo-text {
   font-family: $font-sans;
   font-size: $h4-font-size;
+
+  img {
+    width: 24px;
+  }
 }
 
 .usa-nav-primary {
@@ -51,6 +55,12 @@
   border-color: $border-color;
 }
 
+@media #{$breakpoint-md} {
+  .usa-logo {
+    margin-left: $spacing-medium;
+  }
+}
+
 @media #{$breakpoint-lg} {
   .usa-header-extended {
     em {
@@ -59,8 +69,17 @@
     }
 
     .usa-nav {
-      background-color: $color-tan;
       border-color: $border-color;
+    }
+  }
+
+  .usa-logo {
+    margin-left: 0;
+  }
+
+  .usa-logo-text {
+    img {
+      width: 36px;
     }
   }
 
@@ -76,11 +95,8 @@
       color: $color-base;
       font-family: $font-serif;
       font-size: $h4-font-size;
+      font-weight: $font-normal;
       padding-left: $spacing-md-small;
-
-      &:first-child {
-        padding-left: $spacing-small;
-      }
 
       &:hover,
       &.current-parent,
@@ -89,8 +105,8 @@
         padding-left: $spacing-md-small;
 
         span {
-          border-bottom: 0.7rem solid $color-primary;
-          padding-bottom: $spacing-small;
+          border: 0;
+          padding-bottom: 0;
         }
       }
     }

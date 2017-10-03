@@ -1,5 +1,6 @@
 .usa-layout-docs-sidenav {
   padding-left: $spacing-md-small;
+  padding-right: $spacing-large;
   padding-top: 0;
 
   h3 {
@@ -11,17 +12,17 @@
 
 .usa-sidenav-list a {
   font-family: $font-serif;
-  padding: $spacing-small $spacing-x-small;
+  padding: $spacing-small 0;
 
   &.current-parent {
       border-left: 0;
       color: $color-base;
       font-weight: 700;
-      padding-left: $spacing-x-small;
+      padding-left: 0;
   }
 
   &:hover {
-    background-color: #E8E4D6;
+    background-color: $color-white;
     color: $color-primary-darker;
   }
 }
