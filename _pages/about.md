@@ -12,7 +12,7 @@ sidebar: >-
 
   #### Kathryn Catania, Co-chair
 
-  Web Content Editor, Office of Communication<br>
+  Chief, Plain Language and Content Division, Office of Communications<br>
   [U.S. Citizenship and Immigration Services](https://www.uscis.gov/)
 
   #### Miriam Vincent, Web manager
