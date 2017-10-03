@@ -16,7 +16,7 @@ The guidelines are organized into sections, but many of the topics fit within mo
 
 ## History
 
-We first developed these writing guidelines in the mid 1990s. We continue to revise them to provide updated advice on clear communication. When we first developed these guidelines, we were primarily interested in regulations. We've broadened our coverage, but the information still bears the stamp of its origin.
+PLAIN's Federal Plain Language Guidelines are the best place to start. These are the official guidelines for the Plain Writing Act of 2010 and explain the basics for improving your communications skills.
 
 ## Questions? Comments?
 
