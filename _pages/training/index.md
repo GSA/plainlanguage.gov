@@ -2,6 +2,7 @@
 title: Training
 permalink: /training/
 sidenav: training
+top: false
 ---
 
 We offer two kinds of plain-language training:

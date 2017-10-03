@@ -55,6 +55,12 @@
   border-color: $border-color;
 }
 
+@media #{$breakpoint-md} {
+  .usa-logo {
+    margin-left: $spacing-medium;
+  }
+}
+
 @media #{$breakpoint-lg} {
   .usa-header-extended {
     em {
@@ -65,6 +71,10 @@
     .usa-nav {
       border-color: $border-color;
     }
+  }
+
+  .usa-logo {
+    margin-left: 0;
   }
 
   .usa-logo-text {
