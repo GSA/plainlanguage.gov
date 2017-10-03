@@ -359,7 +359,7 @@ main.usa-section {
   }
 
   p.usa-font-lead {
-    //color: $color-coastal-60;
+    color: $color-secondary;
     font-family: $font-sans;
     font-size: $sans-s6;
     font-weight: 500;
@@ -372,7 +372,6 @@ main.usa-section {
     @media screen and #{$breakpoint-md}{
       line-height: $lh-body;
       margin-bottom: $grid-6;
-      padding-top: $grid-105;
     }
   }
 

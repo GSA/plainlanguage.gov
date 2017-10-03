@@ -1,6 +1,7 @@
 ---
 title: Have a topic sentence
 sidenav: guidelines
+intro: Let users know where you’re going.
 ---
 
 If you tell your reader what they're going to read about, they're less likely to have to read your paragraph again. Headings help, but they're not enough. Establish a context for your audience before you provide them with the details. If you flood readers with details first, they become impatient and may resist hearing your message. A good topic sentence draws the reader in.
