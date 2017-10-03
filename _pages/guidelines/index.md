@@ -16,7 +16,7 @@ The guidelines are organized into sections, but many of the topics fit within mo
 
 ## History
 
-Our Federal Plain Language Guidelines are the best place to start. These are the official guidelines for the Plain Writing Act of 2010 and explain the basics for improving your communications skills.
+Our Federal Plain Language Guidelines are the best place to start. These are the official guidelines for the [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/content-detail.html) and explain the basics for improving your communications skills.
 
 ## Questions? Comments?
 
