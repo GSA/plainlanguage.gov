@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Federal plain language guidelines
 permalink: /guidelines/
 sidenav: guidelines
 ---
