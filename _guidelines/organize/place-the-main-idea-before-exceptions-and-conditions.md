@@ -33,11 +33,7 @@ If a condition and the main clause are **_both long_**, _foreshadow_ the conditi
 
 Don't say | Say
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------
-If you, or an interested party, requests that the hearing be held at the educational institution where you plan to instruct program participants, and the hearing room is both handicapped-accessible and large enough for at least 100 people, we may, at our discretion, hold the hearing at that location, after adequate public notice. | We may hold a hearing at the educational institution where you plan to instruct program participants **_if_**:
-
-1. You, or an interested party, request the location;
-2. The hearing room is large enough for at least 100 people and handicapped-accessible; and
-3. We can give adequate public notice.
+If you, or an interested party, requests that the hearing be held at the educational institution where you plan to instruct program participants, and the hearing room is both handicapped-accessible and large enough for at least 100 people, we may, at our discretion, hold the hearing at that location, after adequate public notice. | We may hold a hearing at the educational institution where you plan to instruct program participants **_if_**:<br/>1. You, or an interested party, request the location;<br/>2. The hearing room is large enough for at least 100 people and handicapped-accessible; and<br/>3. We can give adequate public notice. |
 
 Use a list (like the example above) if your sentence contains multiple conditions or exceptions. Here's how the first example, above, could be rewritten.
 

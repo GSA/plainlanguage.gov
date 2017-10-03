@@ -421,11 +421,7 @@ main.usa-section {
       padding: $grid-4 $grid-2;
     }
     @media screen and #{$breakpoint-lg}{
-      margin: $grid-5 $grid-n6 0;
-      padding: $grid-4 $grid-6;
-    }
-    @media screen and #{$breakpoint-xl}{
-      margin: $grid-5 $grid-n4 0;
+      margin: $grid-5 0 0;
       padding: $grid-4;
     }
 
@@ -498,15 +494,15 @@ table {
 .usa-layout-docs-sidenav {
   @media screen and #{$breakpoint-md}{
     display: block;
-    float: left;
+    float: right;
     margin: 0;
     order: 1;
     padding-right: $grid-2;
     padding-top: $grid-2;
-    width: $xsmall-screen;
+    width: 30%;
   }
   @media screen and #{$breakpoint-md}{
-    padding-right: $grid-6;
+    padding-left: $grid-7;
     padding-top: $grid-4;
   }
 }
@@ -540,11 +536,8 @@ h3.usa-sidenav-title {
     @media screen and #{$breakpoint-sm}{
       font-size: $sans-s5;
     }
-    @media screen and #{$breakpoint-md}{
-      font-size: $sans-s4;
-    }
     @media screen and #{$breakpoint-lg}{
-      font-size: $sans-s5;
+      font-size: $sans-s4;
     }
   }
   & > li:first-child {
@@ -582,9 +575,6 @@ h3.usa-sidenav-title {
     }
     @media screen and #{$breakpoint-md}{
       font-size: $sans-s4;
-    }
-    @media screen and #{$breakpoint-lg}{
-      font-size: $sans-s5;
     }
   }
   a {
