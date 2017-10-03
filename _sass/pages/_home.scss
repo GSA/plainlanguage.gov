@@ -1,16 +1,12 @@
 .usa-section {
   &.home-grid {
-    h3 {
-      margin-top: 0;
-
-      a {
-        text-decoration: none;
-      }
+    a {
+      font-family: $font-sans;
+      text-decoration: none;
     }
 
-    p {
-      font-size: $h4-font-size;
-      margin: 0;
+    h3 {
+      margin-top: 0;
     }
 
     .icon-large {
@@ -19,12 +15,12 @@
     }
   }
 
-  &.home-hero {
-    h1 {
-      font-family: $font-serif;
-      line-height: 1.4;
-      max-width: 60rem;
-    }
+  &.home-hero h1 {
+    max-width: 80rem;
+  }
+
+  &.home-law p {
+    max-width: $lead-max-width;
   }
 }
 

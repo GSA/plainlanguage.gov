@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Asset 2 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="plain-language-v3a" transform="translate(-100.000000, -55.000000)" fill-rule="nonzero">
+            <g id="Asset-2-Copy" transform="translate(100.000000, 55.000000)">
+                <circle id="Oval" fill="#335E82" cx="18" cy="18" r="18"></circle>
+                <rect id="Rectangle-path" fill="#FFFFFF" transform="translate(21.205000, 10.865000) rotate(-180.000000) translate(-21.205000, -10.865000) " x="16.91" y="9.75" width="8.59" height="2.23"></rect>
+                <rect id="Rectangle-path" fill="#FFFFFF" transform="translate(20.370000, 15.335000) rotate(-180.000000) translate(-20.370000, -15.335000) " x="15.25" y="14.22" width="10.24" height="2.23"></rect>
+                <rect id="Rectangle-path" fill="#FFFFFF" transform="translate(17.680000, 19.805000) rotate(180.000000) translate(-17.680000, -19.805000) " x="9.86" y="18.69" width="15.64" height="2.23"></rect>
+                <rect id="Rectangle-path" fill="#FFFFFF" transform="translate(17.680000, 24.275000) rotate(-180.000000) translate(-17.680000, -24.275000) " x="9.86" y="23.16" width="15.64" height="2.23"></rect>
+                <polygon id="Shape" fill="#F4B41B" points="9.86 16.45 16.9 16.45 16.9 9.74"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

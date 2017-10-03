@@ -3,7 +3,7 @@
 $bold-font-weight: $font-bold;
 $caps-letter-spacing: .1em;
 
-$border-color: #ECD9AA;
+$border-color: #D5E5ED;
 $border-radius: 3px;
 $border-width: 1px;
 
@@ -15,8 +15,9 @@ $breakpoint-xs: '(max-width: #{$small-screen})';
 $breakpoint-sm-md: '(min-width: #{$small-screen}) and (max-width: #{$medium-screen})';
 $breakpoint-md-lg: '(min-width: #{$medium-screen}) and (max-width: #{$large-screen})';
 
-$color-tan: #FFFAF0;
-$color-tan-dark: #F3EEE3;
+$color-blue-light: #EBF3F7;
+$color-tan: #FDFBF5;
+$color-tan-dark: #F8F7F0;
 
 $h1: $h1-font-size;
 $h2: $h2-font-size;

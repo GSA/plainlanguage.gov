@@ -5,6 +5,10 @@
 .usa-logo-text {
   font-family: $font-sans;
   font-size: $h4-font-size;
+
+  img {
+    width: 24px;
+  }
 }
 
 .usa-nav-primary {
@@ -63,6 +67,12 @@
     }
   }
 
+  .usa-logo-text {
+    img {
+      width: 36px;
+    }
+  }
+
   .usa-nav-primary {
     margin-top: 0;
 
@@ -73,6 +83,7 @@
     & > li > a,
     .usa-nav-link {
       color: $color-base;
+      font-family: $font-serif;
       font-size: $h4-font-size;
       font-weight: $font-normal;
       padding-left: $spacing-md-small;
