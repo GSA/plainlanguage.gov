@@ -699,8 +699,7 @@ h3.usa-sidenav-title {
     align-items: center;
     display: flex;
     line-height: $lh-single;
-    padding-bottom: $grid-3;
-    padding-top: $grid-5;
+    padding: $grid-5 $grid-4 $grid-3;
   }
 }
 
