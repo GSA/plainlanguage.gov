@@ -38,6 +38,10 @@ li {
   margin-bottom: $grid-1;
 }
 
+a {
+  text-underline-position: under;
+}
+
 [type=password]:focus,
 [type=text]:focus,
 a:focus,
