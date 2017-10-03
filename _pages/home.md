@@ -57,18 +57,18 @@ top: false
 <section class="usa-section usa-grid home-events" markdown="0">
   <h2 class="mb3"><i class="fa fa-calendar fa-lg mr2" aria-hidden="true"></i>Upcoming events</h2>
   <div class="usa-width-one-third bg-white rounded shadow p4 mb4 md-mb0">
-    <h4 class="m0 h3"><a href="#" class="text-decoration-none">Train-the-Trainer Bootcamp</a></h4>
-    <p class="mt0 h5 caps sans-serif">September 18, 2014</p>
-    <p class="mb0">This month's meeting features Katherine Spivey on Plain Language Spectrum - how to move forward with plain language when you don't necessarily have permission to edit. <a href="#">Find out more &raquo;</a></p>
+    <h4 class="m0 h3"><a href="#" class="text-decoration-none">Plain language spectrum</a></h4>
+    <p class="mt0 h5 caps sans-serif">July 18, 2014</p>
+    <p class="mb0">Katherine Spivey will share how to move forward with plain language when you don’t necessarily have permission to edit. <a href="#">Find out more &raquo;</a></p>
   </div>
   <div class="usa-width-one-third bg-white rounded shadow p4 mb4 md-mb0">
-    <h4 class="m0 h3"><a href="#" class="text-decoration-none">Train-the-Trainer Bootcamp</a></h4>
-    <p class="mt0 h5 caps sans-serif">September 18, 2014</p>
-    <p class="mb0">This month's meeting features Katherine Spivey on Plain Language Spectrum - how to move forward with plain language when you don't necessarily have permission to edit. <a href="#">Find out more &raquo;</a></p>
+    <h4 class="m0 h3"><a href="#" class="text-decoration-none">Plainspoken science</a></h4>
+    <p class="mt0 h5 caps sans-serif">August 19, 2014</p>
+    <p class="mb0">Hear how plain language helps scientists share the excitement, importance, and often just plain enjoyment of what they do. <a href="#">Find out more &raquo;</a></p>
   </div>
   <div class="usa-width-one-third bg-white rounded shadow p4 mb4 md-mb0">
-    <h4 class="m0 h3"><a href="#" class="text-decoration-none">Train-the-Trainer Bootcamp</a></h4>
-    <p class="mt0 h5 caps sans-serif">September 18, 2014</p>
-    <p class="mb0">This month's meeting features Katherine Spivey on Plain Language Spectrum - how to move forward with plain language when you don't necessarily have permission to edit. <a href="#">Find out more &raquo;</a></p>
+    <h4 class="m0 h3"><a href="#" class="text-decoration-none">Plain language spectrum</a></h4>
+    <p class="mt0 h5 caps sans-serif">September 20, 2014</p>
+    <p class="mb0">Katherine Spivey will share how to move forward with plain language when you don’t necessarily have permission to edit. <a href="#">Find out more &raquo;</a></p>
   </div>
 </section>
