@@ -39,6 +39,10 @@ li {
 }
 
 a {
+  border-bottom: 1px solid;
+  padding-bottom: 1px;
+  text-decoration: none;
+  text-decoration-skip: ink;
   text-underline-position: under;
 }
 
@@ -49,6 +53,12 @@ button:focus,
 select:focus,
 textarea:focus {
   outline: $grid-05 solid $color-gold-10;
+}
+
+hr {
+  border-style: none;
+  border-bottom: 2px solid;
+  margin: $grid-4 0;
 }
 
 // Banner
@@ -404,6 +414,14 @@ main.usa-section {
     @media screen and #{$breakpoint-lg}{
       margin-bottom: 0;
       font-size: $sans-s7;
+    }
+  }
+
+  h5 {
+    margin-bottom: $grid;
+    margin-top: $grid-3;
+    + p {
+      margin-top: $grid;
     }
   }
 

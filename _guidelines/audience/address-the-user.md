@@ -1,7 +1,6 @@
 ---
 title: Address the user
 sidenav: guidelines
-intro: Even though your document may affect a thousand or a million people, you are speaking to the one person who is reading it. When your writing reflects this, it's more economical and has a greater impact.
 sources:
   - Garner, Bryan A., _A Dictionary of Modern Legal Usage_, 2nd edition, 1995, Oxford University Press, Oxford and New York, p. 643.
   - Garner, Bryan A., _Legal Writing in Plain English_, 2001, University of Chicago Press, Chicago, p. 50 and 114.

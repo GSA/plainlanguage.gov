@@ -1,7 +1,6 @@
 ---
 title: Address separate audiences separately
 sidenav: guidelines
-intro: By addressing different audiences in the same place, you make it harder for each audience to find the material that applies to them.
 sources:
   - Murawski, Thomas A., _Writing Readable Regulations_, 1999, Carolina Academic Press Durham, NC, p. 4.
   - Redish, Janice C., _How to Write Regulations and Other Legal Documents in Clear English_, 1991, American Institutes for Research, Washington, DC, p. 17.

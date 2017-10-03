@@ -1,7 +1,6 @@
 ---
 title: 'Use short, simple words'
 sidenav: guidelines
-intro: While there is no problem with being expressive, most federal writing has no place for literary flair.
 sources:
   - Kimble, Joseph, _Lifting the Fog of Legalese_, 2006, Carolina Academic Press, Durham, NC, pp. 11, 165-174.
   - McGinty, Kathy, _Nine Easy Steps to Longer Sentences_, [www.plainlanguage.gov/examples/humor/9easysteps.cfm](#)

@@ -2,7 +2,7 @@
 title: Write for your audience
 sidenav: guidelines
 permalink: /guidelines/audience/
-intro: One of the most popular plain language myths is that you have to "dumb down" your content so that everyone can read it. That's not true.
+intro: 
 sources:
   - Garner, Bryan A., _Legal Writing in Plain English_, 2001, University of Chicago Press, Chicago, pp. 93-96.
   - Securities and Exchange Commission, _Plain English Handbook_, 1998, Washington, DC, p. 9.
