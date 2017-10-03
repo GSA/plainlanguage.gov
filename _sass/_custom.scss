@@ -391,7 +391,7 @@ main.usa-section {
     }
     & + p {
       @media screen and #{$breakpoint-md}{
-        margin-top: $grid-3;
+        margin-top: $grid-4;
       }
     }
   }

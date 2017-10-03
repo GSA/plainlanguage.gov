@@ -72,6 +72,14 @@
 );
 
 @include font-face(
+  '18Franklin-webfont',
+  '../fonts/18Franklin-BoldItalic',
+  700,
+  italic,
+  $file-formats: woff2 woff ttf
+);
+
+@include font-face(
   'Roboto Mono',
   '../fonts/RobotoMono-Regular',
   400,
