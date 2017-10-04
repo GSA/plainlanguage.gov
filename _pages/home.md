@@ -25,7 +25,7 @@ top: false
     <div class="usa-width-one-fourth mb4 md-pr3 lg-mb0 clearfix">
       <div class="icon-large"><i class="fa fa-check" aria-hidden="true"></i></div>
       <div class="overflow-hidden">
-        <h3><a href="{{ '/guidelines/' | relative_url }}">Writing guidelines</a></h3>
+        <h3><a href="{{ '/guidelines/' | relative_url }}">Federal guidelines</a></h3>
         <p class="mt0">Tips for understanding your users, writing information clearly, being concise, and testing your content.</p>
         <p><a href="{{ '/guidelines/' | relative_url }}">Read more ›</a></p>
       </div>
@@ -51,8 +51,8 @@ top: false
 
 <section class="usa-section bg-tan home-law" markdown="0">
   <div class="usa-grid">
-    <h3 class="mt0">It's the law</h3>
-    <p class="mb0">President Obama signed the <a href="https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/content-detail.html">Plain Writing Act of 2010</a> on October 13, 2010. The law requires that federal agencies use clear government communication that the public can understand and use. On January 18, 2011, he issued <a href="https://obamawhitehouse.archives.gov/the-press-office/2011/01/18/executive-order-13563-improving-regulation-and-regulatory-review">Executive Order 13563 - Improving Regulation and Regulatory Review</a>, which states that our regulatory system “must ensure that regulations are accessible, consistent, written in plain language, and easy to understand.”</p>
+    <h3 class="mt0">It’s the law</h3>
+    <p class="mb0">The <a href="https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/content-detail.html">Plain Writing Act of 2010</a> was signed on October 13, 2010. The law requires that federal agencies use clear government communication that the public can understand and use. <a href="https://obamawhitehouse.archives.gov/the-press-office/2011/01/18/executive-order-13563-improving-regulation-and-regulatory-review">Executive Order 13563 - Improving Regulation and Regulatory Review</a>, which was issued on January 18, 2011, states that our regulatory system “must ensure that regulations are accessible, consistent, written in plain language, and easy to understand.”</p>
   </div>
 </section>
 
