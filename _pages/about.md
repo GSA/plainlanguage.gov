@@ -33,9 +33,7 @@ Our goal is to promote the use of plain language for all government communicatio
 To promote plain language, we:
 
 - develop and maintain the content of this site
-- offer limited editing services to all federal agencies
 - sponsor occasional seminars about plain language
-- comment on agency documents, especially regulations
 - offer a short half day introduction to plain language and writing for the web free of charge to any federal agency
 
 ## Get involved
