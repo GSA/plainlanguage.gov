@@ -309,20 +309,21 @@ main.usa-section {
     line-height: $lh-body;
     margin: $grid-2 0;
     @media screen and #{$breakpoint-xs}{
-      font-size: $sans-s6;
+      font-size: $sans-s5;
     }
     @media screen and #{$breakpoint-md}{
-      font-size: $sans-s7;
+      font-size: $sans-s6;
       font-weight: 400;
+      line-height: $lh-loose;
     }
     strong {
       font-family: $font-sans;
       font-size: $sans-s4;
       @media screen and #{$breakpoint-xs}{
-        font-size: $sans-s6;
+        font-size: $sans-s5;
       }
       @media screen and #{$breakpoint-md}{
-        font-size: $sans-s7;
+        font-size: $sans-s6;
       }
     }
   }
@@ -343,7 +344,7 @@ main.usa-section {
         font-size: $sans-s5;
       }
       @media screen and #{$breakpoint-md}{
-        font-size: $sans-s6;
+        font-size: $sans-s5;
       }
       strong {
         font-size: $sans-s3;
@@ -351,7 +352,7 @@ main.usa-section {
           font-size: $sans-s5;
         }
         @media screen and #{$breakpoint-md}{
-          font-size: $sans-s6;
+          font-size: $sans-s5;
         }
       }
     }
