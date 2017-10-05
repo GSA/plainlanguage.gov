@@ -7,7 +7,7 @@ top: false
 
 <section class="usa-section home-hero bg-tan" markdown="0">
   <div class="usa-grid">
-    <h1 class="mb4">Plain language makes it easier for the public to read, understand, and use government communications.</h1>
+    <h1 class="mb4">{{ site.description }}</h1>
     <a class="usa-button usa-button-big usa-button-primary m0" href="{{ '/law/' | relative_url }}">Learn more</a>
   </div>
 </section>
