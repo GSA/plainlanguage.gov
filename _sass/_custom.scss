@@ -214,8 +214,8 @@ button.usa-button-primary-alt,
   }
 
   .usa-nav-primary a.current-parent span, {
-    border-bottom: 0.7rem solid #0071bc;
-    padding-bottom: 1rem;
+    border-bottom: $grid-05 solid $color-primary;
+    padding-bottom: $grid-1;
   }
 }
 
@@ -231,6 +231,11 @@ button.usa-button-primary-alt,
   @media screen and #{$breakpoint-md}{
     width: $grid-3;
   }
+}
+
+.usa-nav-link:hover span {
+  border-bottom: $grid-05 solid $color-primary;
+  padding-bottom: $grid-1;
 }
 
 // Home
