@@ -385,7 +385,7 @@ main.usa-section {
   h1,
   h2 {
     & + p {
-      margin-top: $grid-1;
+      margin-top: $grid-2;
       @media screen and #{$breakpoint-lg}{
         margin-top: $grid-105;
       }
