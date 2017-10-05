@@ -10,6 +10,7 @@
     {% include skipnav.html %}
     {% include header.html %}
     <div class="flex-auto">
+      {% include alert.html %}
       <main id="main-content"{% for _attr in layout.main %} {{ _attr[0] }}="{{ _attr[1] }}"{% endfor %}>
       {{ content }}
       </main>
