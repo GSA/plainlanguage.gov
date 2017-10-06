@@ -30,7 +30,8 @@ exclude:
   - vendor
 
 styles:
-  - /assets/css/main.css
+  - href: /assets/css/main.css
+    media: screen, print
 
 sass:
   load_paths:

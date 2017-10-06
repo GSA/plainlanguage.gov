@@ -8,7 +8,7 @@ top: false
 <section class="usa-section home-hero bg-tan" markdown="0">
   <div class="usa-grid">
     <h1 class="mb4">{{ site.description }}</h1>
-    <a class="usa-button usa-button-big usa-button-primary m0" href="{{ '/law/' | relative_url }}">Learn more</a>
+    <a class="usa-button usa-button-big usa-button-primary m0 no-print" href="{{ '/law/' | relative_url }}">Learn more</a>
   </div>
 </section>
 
@@ -19,7 +19,7 @@ top: false
       <div class="overflow-hidden">
         <h3><a href="{{ '/law/' | relative_url }}">Law and requirements</a></h3>
         <p class="mt0">Learn more about the Plain Writing Act of 2010 and a short history of plain language in government.</p>
-        <p><a href="{{ '/law/' | relative_url }}">Read more ›</a></p>
+        <p class="no-print"><a href="{{ '/law/' | relative_url }}">Read more ›</a></p>
       </div>
     </div>
     <div class="usa-width-one-fourth mb4 md-pr3 lg-mb0 clearfix">
@@ -27,7 +27,7 @@ top: false
       <div class="overflow-hidden">
         <h3><a href="{{ '/guidelines/' | relative_url }}">Federal guidelines</a></h3>
         <p class="mt0">Tips for understanding your users, writing information clearly, being concise, and testing your content.</p>
-        <p><a href="{{ '/guidelines/' | relative_url }}">Read more ›</a></p>
+        <p class="no-print"><a href="{{ '/guidelines/' | relative_url }}">Read more ›</a></p>
       </div>
     </div>
     <div class="usa-width-one-fourth mb4 md-pr3 md-mb0 clearfix">
@@ -35,7 +35,7 @@ top: false
       <div class="overflow-hidden">
         <h3><a href="{{ '/training/' | relative_url }}">Training</a></h3>
         <p class="mt0">An overview of free training sessions we offer along with course materials for trainers.</p>
-        <p><a href="{{ '/training/' | relative_url }}">Read more ›</a></p>
+        <p class="no-print"><a href="{{ '/training/' | relative_url }}">Read more ›</a></p>
       </div>
     </div>
     <div class="usa-width-one-fourth mb4 md-pr3 md-mb0 clearfix">
@@ -43,7 +43,7 @@ top: false
       <div class="overflow-hidden">
         <h3><a href="{{ '/resources/' | relative_url }}">Resources</a></h3>
         <p class="mt0">Links to books, articles, checklists, style guides, and online resources about plain language.</p>
-        <p><a href="{{ '/resources/' | relative_url }}">Read more ›</a></p>
+        <p class="no-print"><a href="{{ '/resources/' | relative_url }}">Read more ›</a></p>
       </div>
     </div>
   </div>
