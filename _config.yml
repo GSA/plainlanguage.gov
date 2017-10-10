@@ -58,8 +58,7 @@ kramdown:
   parse_block_html: true
 
 jekyll_pages_api_search:
-  # Uncomment this when site is no longer in development
-  skip_index: true
+  skip_index: false
   index_fields:
     title:
       boost: 10
