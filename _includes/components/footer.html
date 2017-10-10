@@ -1,4 +1,5 @@
 <footer class="usa-footer" role="contentinfo">
+  {% if page.url != '/' or page.permalink != '/' %}
   <div class="usa-footer-primary-section bg-tan">
     <div class="usa-grid">
       <h2>Subscribe to our mailing list</h2>
@@ -8,6 +9,7 @@
       </div>
     </div>
   </div>
+  {% endif %}
   <div class="usa-footer-secondary_section bg-tan-dark">
     <div class="usa-grid">
       <div class="usa-width-one-half h4">
