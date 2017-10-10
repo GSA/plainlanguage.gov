@@ -38,7 +38,7 @@ To promote plain language, we:
 
 ## Get involved
 
-We meet monthly to discuss plain language issues. Our meetings are open to all federal employees. [Join our listserv](https://www.digitalgov.gov/communities/plain-language-community-of-practice/) to learn about upcoming events.
+We meet monthly to discuss plain language issues. Our meetings are open to all federal employees. [Subscribe to our mailing list](https://www.digitalgov.gov/communities/plain-language-community-of-practice/) to learn about upcoming events.
 
 Please [contact us](mailto:{{ site.email }}) if:
 

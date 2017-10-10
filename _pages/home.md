@@ -18,7 +18,7 @@ top: false
       <div class="icon-large"><i class="fa fa-gavel" aria-hidden="true"></i></div>
       <div class="overflow-hidden">
         <h3><a href="{{ '/law/' | relative_url }}">Law and requirements</a></h3>
-        <p class="mt0">Learn more about the Plain Writing Act of 2010 and a short history of plain language in government.</p>
+        <p class="mt0">Learn about the Plain Writing Act of 2010, which requires federal agencies to use language that the public can understand.</p>
         <p class="no-print"><a href="{{ '/law/' | relative_url }}">Read more ›</a></p>
       </div>
     </div>
