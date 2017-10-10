@@ -51,8 +51,8 @@ top: false
 
 <section class="usa-section bg-tan home-law" markdown="0">
   <div class="usa-grid">
-    <h3 class="mt0">It’s the law</h3>
-    <p class="mb0">The <a href="https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/content-detail.html">Plain Writing Act of 2010</a> was signed on October 13, 2010. The law requires that federal agencies use clear government communication that the public can understand and use. <a href="https://obamawhitehouse.archives.gov/the-press-office/2011/01/18/executive-order-13563-improving-regulation-and-regulatory-review">Executive Order 13563 - Improving Regulation and Regulatory Review</a>, which was issued on January 18, 2011, states that our regulatory system “must ensure that regulations are accessible, consistent, written in plain language, and easy to understand.”</p>
+  <h3 class="mt0"><a href="{{ '/about/' | relative_url }}">About us</a></h3>
+    <p class="mb0">The Plain Language Action and Information Network (PLAIN) is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing. We believe that using plain language saves federal agencies time and money and provides better service to the American public.</p>
   </div>
 </section>
 
