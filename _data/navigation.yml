@@ -129,12 +129,12 @@ law:
     href: /law/examples/
 
 resources:
-  - text: Groups and organizations
-    href: /resources/groups/
   - text: Checklists
     href: /resources/checklists/
   - text: Style guides
     href: /resources/guides/
+  - text: Groups and organizations
+    href: /resources/groups/
   - text: Articles
     href: /resources/articles/
   - text: Books
