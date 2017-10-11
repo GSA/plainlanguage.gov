@@ -111,14 +111,14 @@
         }
       }
     }
+
+    .usa-accordion-button,
+    .usa-nav-submenu {
+      display: none;
+    }
   }
 
   .usa-nav-secondary-links a {
     color: $color-base;
-  }
-
-  .usa-accordion-button,
-  .usa-nav-submenu {
-    display: none;
   }
 }
