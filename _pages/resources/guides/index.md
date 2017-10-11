@@ -1,11 +1,11 @@
 ---
-title: Guides
+title: Style guides
 permalink: /resources/guides/
 sidenav: resources
 layout: list
 ---
 
-## Agency guides
+## Federal government
 
 - [Center for Medicare and Medicaid Services](https://www.cms.gov/Outreach-and-Education/Outreach/WrittenMaterialsToolkit/index.html)
 - [Centers for Disease Control and Prevention](https://www.cdc.gov/healthliteracy/developmaterials/plainlanguage.html)
@@ -21,4 +21,9 @@ layout: list
 - [Nuclear Regulatory Commission](https://www.nrc.gov/public-involve/open/plain-writing.html)
 - [Office of the Federal Register](http://www.archives.gov/federal-register/write/plain-language/)
 - [Securities and Exchange Commission](https://www.sec.gov/plainwriting.shtml)
+- [USAGov Bilingual Style Guide](https://www.usa.gov/style-guide/table-of-contents)
+- [18F Content Guide](https://content-guide.18f.gov/)
+
+## State and local government
+
 - [Plain Talk](http://www.governor.wa.gov/issues/issues/efficient-government/plain-talk), Washington State
