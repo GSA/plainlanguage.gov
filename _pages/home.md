@@ -52,8 +52,17 @@ top: false
 <section class="usa-section bg-tan home-law" markdown="0">
   <div class="usa-grid">
     <div class="usa-width-seven-twelfths mb4 md-mb0 sm-pr5">
-      <h2 class="mt0"><a href="{{ '/about/' | relative_url }}" class="text-decoration-none">About us</a></h2>
-      <p class="mb0">The Plain Language Action and Information Network (PLAIN) is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing. We believe that using plain language saves federal agencies time and money and provides better service to the American public.</p>
+      <h2 class="mt0 mb3"><i class="fa fa-calendar" aria-hidden="true"></i> Upcoming events</h2>
+      <div class="usa-width-one-half pr3 mb4 md-mb0">
+        <h4 class="m0 h3"><a href="#" class="text-decoration-none">Train-the-Trainer Bootcamp</a></h4>
+        <p class="mt0 h5 caps sans-serif">September 18, 2014</p>
+        <p class="mb0">This month's meeting features Katherine Spivey on Plain Language Spectrum - how to move forward with plain language.</p>
+      </div>
+      <div class="usa-width-one-half pr3 mb4 md-mb0">
+        <h4 class="m0 h3"><a href="#" class="text-decoration-none">Plainspoken science</a></h4>
+        <p class="mt0 h5 caps sans-serif">August 19, 2014</p>
+        <p class="mb0">Hear how plain language helps scientists share the excitement, importance, and often just plain enjoyment of what they do.</p>
+      </div>
     </div>
     <div class="usa-width-five-twelfths">
       <h2 class="mt0">Subscribe to our mailing list</h2>
@@ -65,21 +74,7 @@ top: false
 
 <section class="usa-section home-events" markdown="0">
   <div class="usa-grid">
-    <h2 class="mb3">Upcoming events</h2>
-    <div class="usa-width-one-third pr3 mb4 md-mb0">
-      <h4 class="m0 h3"><a href="#" class="text-decoration-none">Train-the-Trainer Bootcamp</a></h4>
-      <p class="mt0 h5 caps sans-serif">September 18, 2014</p>
-      <p class="mb0">This month's meeting features Katherine Spivey on Plain Language Spectrum - how to move forward with plain language when you don't necessarily have permission to edit.</p>
-    </div>
-    <div class="usa-width-one-third pr3 mb4 md-mb0">
-      <h4 class="m0 h3"><a href="#" class="text-decoration-none">Plainspoken science</a></h4>
-      <p class="mt0 h5 caps sans-serif">August 19, 2014</p>
-      <p class="mb0">Hear how plain language helps scientists share the excitement, importance, and often just plain enjoyment of what they do.</p>
-    </div>
-    <div class="usa-width-one-third pr3 mb4 md-mb0">
-      <h4 class="m0 h3"><a href="#" class="text-decoration-none">Train-the-Trainer Bootcamp</a></h4>
-      <p class="mt0 h5 caps sans-serif">September 18, 2014</p>
-      <p class="mb0">This month's meeting features Katherine Spivey on Plain Language Spectrum - how to move forward with plain language when you don't necessarily have permission to edit.</p>
-    </div>
+    <h2 class="mt0"><a href="{{ '/about/' | relative_url }}" class="text-decoration-none">About us</a></h2>
+    <p class="usa-font-lead">The Plain Language Action and Information Network (PLAIN) is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing. We believe that using plain language saves federal agencies time and money and provides better service to the American public.</p>
   </div>
 </section>
