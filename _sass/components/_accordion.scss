@@ -1,7 +1,11 @@
 .usa-layout-docs {
-  .usa-accordion > li,
-  .usa-accordion-bordered > li {
-    font-family: $font-serif;
+  .usa-accordion,
+  .usa-accordion-bordered {
+    max-width: $text-max-width;
+
+    & > li {
+      font-family: $font-serif;
+    }
   }
 
   .usa-accordion-bordered .usa-accordion-content {
