@@ -129,20 +129,20 @@ law:
     href: /law/examples/
 
 resources:
-  - text: Definitions
-    href: /resources/definitions/
+  - text: Groups and organizations
+    href: /resources/groups/
+  - text: Checklists
+    href: /resources/checklists/
+  - text: Style guides
+    href: /resources/guides/
   - text: Articles
     href: /resources/articles/
   - text: Books
     href: /resources/books/
-  - text: Checklists
-    href: /resources/checklists/
   - text: Content types
     href: /resources/content-types/
-  - text: Groups
-    href: /resources/groups/
-  - text: Guides
-    href: /resources/guides/
+  - text: Definitions
+    href: /resources/definitions/
   - text: Humor
     href: /resources/humor/
   - text: Quotes
