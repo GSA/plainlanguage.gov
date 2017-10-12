@@ -15,6 +15,10 @@
 .usa-nav-primary {
   margin-top: 60px;
 
+  a.current-parent {
+    font-weight: 700;
+  }
+
   a.usa-current {
     border-left: 0;
     font-weight: 700;
@@ -111,14 +115,14 @@
         }
       }
     }
+
+    .usa-accordion-button,
+    .usa-nav-submenu {
+      display: none;
+    }
   }
 
   .usa-nav-secondary-links a {
     color: $color-base;
-  }
-
-  .usa-accordion-button,
-  .usa-nav-submenu {
-    display: none;
   }
 }
