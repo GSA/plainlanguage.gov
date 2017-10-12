@@ -12,7 +12,7 @@ sidenav: law
 
 2. Follow [OMB's Guidance on Implementing the Plain Writing Act](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2011/m11-15.pdf).
 
-3. Follow our [writing guidelines]({{ site.baseurl }}/guidelines/).
+3. Follow the [Federal Plain Language Guidelines]({{ site.baseurl }}/guidelines/).
 
 ### By July 13, 2011 agencies must:
 
