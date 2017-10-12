@@ -1,7 +1,6 @@
 ---
 title: About us
 permalink: /about/
-layout: docs-full
 sidebar: >-
   ## Our officers
 
