@@ -129,16 +129,18 @@ law:
     href: /law/examples/
 
 resources:
-  - text: Checklists
-    href: /resources/checklists/
-  - text: Style guides
-    href: /resources/guides/
   - text: Groups and organizations
     href: /resources/groups/
-  - text: Articles
-    href: /resources/articles/
+  - text: Style guides
+    href: /resources/guides/
   - text: Books
     href: /resources/books/
+  - text: Articles
+    href: /resources/articles/
+  - text: Checklists
+    href: /resources/checklists/
+  - text: Reference sites
+    href: /resources/reference/
   - text: Content types
     href: /resources/content-types/
   - text: Definitions
