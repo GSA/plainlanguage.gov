@@ -1,5 +1,5 @@
 ---
-title: Mary Dash's writing tips
+title: Mary Dash’s writing tips
 permalink: /resources/articles/mary-dashs-writing-tips/
 sidenav: resources
 ---
@@ -16,12 +16,14 @@ To know whether you are writing in the active or passive voice, identify the sub
 
 - Passive Voice: the subject is the receiver of the action.<br>
   The tax return (subject) was completed (action) before the April 15 deadline by Mr. Doe.
+
 - Active Voice: the subject does an action to an object.<br>
   Mr. Doe (subject) completed (action) the tax return (object) before the April 15 deadline.
 
 When we write in the passive voice, we add some form of the helping verb "to be" (am, is, are, was, were, being, or been) to an otherwise strong verb that really did not need help.
 
 - Passive: Additional information (subject) can be obtained (action) by employees from our website.
+
 - Active: Employees (subject) can obtain (action) additional information (object) from our website.
 
 ### Why should we use active voice?
@@ -29,11 +31,13 @@ When we write in the passive voice, we add some form of the helping verb "to be"
 Active voice makes documents stronger by showing responsibility or giving credit for an action. When we avoid showing responsibility, we often don't give enough information to explain the problem and how to fix it. Often, we use a form of the passive called the "cut passive" and never identify the doer of the action. This form sounds vague and abstract.
 
 - Cut Passive: New requirements (subject) were introduced (action) to strengthen the banking system.
+
 - Active: The Banks Act of 1985 (subject) introduced (action) new requirements (object) to strengthen the banking system.
 
 By eliminating the helping verb, the active voice sentence generally uses fewer words to communicate the same information.
 
 - Passive: Mr. Doe (subject) was told (action) by the bank official that he would need to provide additional information. (16 words)
+
 - Active: The bank official (subject) told (action) Mr. Doe (object) he would need to provide additional information. (13 words)
 
 Active voice more closely resembles spoken language; hopefully ideal spoken language. When we speak, we generally use the active voice without thinking. Our writing should become that automatic.
@@ -70,16 +74,19 @@ Here are a few tips:
 Turn the clause or sentence around, putting the subject first:
 
 - Passive: This proposed rule (subject) was published (action) by General Counsel in the Federal Register.
+
 - Active: General Counsel (subject) published (action) this proposed rule (object) in the Federal Register.
 
 Change the verb to eliminate the helping verb "to be":
 
 - Passive: We must consider how our resources (subject) will be used (action) to deliver quality services.
+
 - Active: We (subject) must consider how to use (action) our resources (object) to deliver quality services.
 
 Rethink the sentence:
 
 - Passive: Although Mr. Doe (subject) was found (action) to be eligible for this position; all of the positions (subject) in Boston had already been filled (action) by our personnel office prior to receiving his application.
+
 - Active: Though we (subject) found (action) Mr. Doe (object) eligible for the position, our personnel office (subject) had filled (action) all positions (object) in Boston before we (subject) received (action) his application (object).
 
 Writing in the active voice isn't difficult if you follow who-does-what sequence. Your readers can visualize the action and follow the action to the conclusion.
@@ -162,15 +169,16 @@ Feasible        | Likely, possible  | Render          | Give
 Indicated       | Said              | Request         | Ask
 Inform          | Tell              | State           | Say
 
-Poor--During the telephone conversation, Mr. Doe identified himself and requested the realtor provide him information concerning the assets for sale.<br>
-Better--During the call, Mr. Doe identified himself and asked the realtor to give him information on the assets for sale.
+Poor: During the telephone conversation, Mr. Doe identified himself and requested the realtor provide him information concerning the assets for sale.
 
-Poor--I am responding to your correspondence of November 29, 2002.<br>
-Better--I am responding to your letter of November 29, 2002.
+Better: During the call, Mr. Doe identified himself and asked the realtor to give him information on the assets for sale.
 
-Using strong verbs. The more we use verbs in place of noun phrases, the clearer and less wordy our writing becomes.<br>
+Poor: I am responding to your correspondence of November 29, 2002.
+Better: I am responding to your letter of November 29, 2002.
 
-**Not this**         | **This**
+Using strong verbs. The more we use verbs in place of noun phrases, the clearer and less wordy our writing becomes.
+
+Not this        | This
 -------------------- | ---------
 Make an assessment   | Assess
 Have a meeting with  | Meet with
@@ -178,21 +186,25 @@ Make a decision      | Decide
 Come to an agreement | Agree
 Make an announcement | Announce
 
-Weak--The General Accounting Office made a recommendation that we take the program under review.<br>
-Stronger--The General Accounting Office recommended that we review the program.
+Weak: The General Accounting Office made a recommendation that we take the program under review.
 
-Weak--Ms. Doe made a suggestion that we require her employer to provide for catch--up contributions in its 401(k) plan.<br>
-Stronger--Ms. Doe suggested that we require her employer to provide for catch--up contributions in its 401(k) plan.
+Stronger: The General Accounting Office recommended that we review the program.
+
+Weak: Ms. Doe made a suggestion that we require her employer to provide for catch--up contributions in its 401(k) plan.
+
+Stronger: Ms. Doe suggested that we require her employer to provide for catch--up contributions in its 401(k) plan.
 
 Avoiding false subjects. False subjects are words like it is, it was, there is, there are, and there was. They usually occur at the beginning of a sentence and often displace the real subject
 
-False subject--It is possible that the taxpayer may not qualify for the earned income tax credit.<br>
-Real subject--The taxpayer may not qualify for the earned income tax credit.<br>
-False subject--There is a door leading out to the public reception area directly behind the place the interviewee sits. Real subject--A door leads out to the public reception area directly behind the place the interviewee sits.
+False subject: It is possible that the taxpayer may not qualify for the earned income tax credit.
 
-Eliminating or shortening wordy phrases. Wordy phrases use too many words to express an idea. Make your sentences short, direct, and clear.<br>
+Real subject: The taxpayer may not qualify for the earned income tax credit.
 
-**Don't Use**          | **Use**
+False subject: There is a door leading out to the public reception area directly behind the place the interviewee sits. Real subject--A door leads out to the public reception area directly behind the place the interviewee sits.
+
+Eliminating or shortening wordy phrases. Wordy phrases use too many words to express an idea. Make your sentences short, direct, and clear.
+
+Don't use        | Use
 ---------------------- | --------------
 At this time           | Now
 At which time          | Then
@@ -201,15 +213,17 @@ If at all possible     | If possible
 In a number of cases   | Many/some
 It is obvious that     | Obviously
 
-Wordy--As a matter of fact, any change to the law requires legislative action.<br>
-Shorter--In fact, any change to the law requires legislative action.
+Wordy: As a matter of fact, any change to the law requires legislative action.
 
-Wordy--Based on the fact that Mr. Doe is no longer a plan participant, he cannot make catch--up contributions.<br>
-Shorter--Because Mr. Doe is no longer a plan participant, he cannot make catch--up contributions.
+Shorter: In fact, any change to the law requires legislative action.
+
+Wordy: Based on the fact that Mr. Doe is no longer a plan participant, he cannot make catch--up contributions.
+
+Shorter: Because Mr. Doe is no longer a plan participant, he cannot make catch--up contributions.
 
 Avoiding redundancies. Redundant expressions needlessly repeat ideas when fewer words clearly communicate the meaning. They add no value to your documents. For example, in the expression final outcome, the word final is redundant because outcome implies finality. Here are a few more examples:
 
-**Redundant Expression** | **Possible Substitute**
+Redundant expression | Possible substitute
 ------------------------ | -----------------------
 Absolutely essential     | Essential
 Reason why               | Reason
@@ -218,21 +232,24 @@ True facts               | Facts
 Are now currently        | Are
 Advance plan/Preplan     | Plan
 
-Redundant--We completed the review of your program and will give you our final conclusion within two weeks.<br>
-Better--We completed the review of your program and will give you our conclusion within two weeks.
+Redundant: We completed the review of your program and will give you our final conclusion within two weeks.
 
-Redundant--A balance of $200.00 still remains on your credit card.<br>
-Better--A balance of $200.00 remains on your credit card.
+Better: We completed the review of your program and will give you our conclusion within two weeks.
+
+Redundant: A balance of $200.00 still remains on your credit card.
+Better: A balance of $200.00 remains on your credit card.
 
 Eliminating legal or technical terms. Studies have shown that not only non--technical readers, but also professionals in the technical field you are writing about appreciate plain language documents that are free from technical terms. People are busy and documents written in a plain language style help them understand the information more quickly. We don't need to impress our readers with big words.
 
 Good organization, a logical flow of information, and clear, understandable language are much more like to impress. If we need to cite legal code or court cases, we should put that information in parenthesis at the end of the sentence or paragraph it applies to or in footnotes at the bottom of the page. That way, the information is available if readers need it but does not distract from the information you are trying to communicate.
 
-Technical--Organizations can save shipping costs by sending their brochures via Standard A mail.<br>
-Plain--Organizations can save shipping costs by sending their brochures by bulk mail.
+Technical: Organizations can save shipping costs by sending their brochures via Standard A mail.
 
-Legal--Pursuant to Internal Revenue Code Section 86(a)(1)(A), gross income must include no more than one--half of the social security benefits received during the tax year.<br>
-Plain - Gross income must include no more than one-half of the social security benefits received during the tax year [Section 86(a)(1)(A)of the Internal Revenue Code].
+Plain: Organizations can save shipping costs by sending their brochures by bulk mail.
+
+Legal: Pursuant to Internal Revenue Code Section 86(a)(1)(A), gross income must include no more than one--half of the social security benefits received during the tax year.
+
+Plain: Gross income must include no more than one-half of the social security benefits received during the tax year [Section 86(a)(1)(A)of the Internal Revenue Code].
 
 ## Problem words
 
