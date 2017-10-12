@@ -6,9 +6,7 @@ sidenav: law
 
 ## Plain Writing Act of 2010
 
-[The Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/content-detail.html) promotes clear government communication that the public can understand and use. President Obama also emphasized the importance of establishing "a system of transparency, public participation, and collaboration" in his January 21, 2009, [Memorandum on Transparency and Open Government](https://obamawhitehouse.archives.gov/the-press-office/transparency-and-open-government).
-
-On October 13, 2010, President Obama signed the Plain Writing Act into law. The Office of Management and Budget issued [final guidance to implement the law on April 13, 2011](https://obamawhitehouse.archives.gov/blog/2011/04/19/putting-it-plainly).
+[The Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/content-detail.html) promotes clear government communication that the public can understand and use. The Office of Management and Budget issued [final guidance to implement the law on April 13, 2011](https://obamawhitehouse.archives.gov/blog/2011/04/19/putting-it-plainly).
 
 At [Agency Name], we are committed to writing in plain language and using the [Federal Plain Language Guidelines]({{ site.baseurl }}/guidelines/):
 

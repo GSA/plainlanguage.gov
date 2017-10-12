@@ -4,7 +4,7 @@ permalink: /law/
 sidenav: law
 ---
 
-President Obama signed the [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/content-detail.html) on October 13, 2010. The law requires that federal agencies use clear government communication that the public can understand and use.
+The [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/content-detail.html) was signed on October 13, 2010. The law requires that federal agencies use clear government communication that the public can understand and use.
 
 This section includes:
 
