@@ -123,10 +123,10 @@ law:
     subnav:
       - text: Plain writing page template
         href: /law/requirements/page-template/
-      - text: Agency contacts
-        href: /law/requirements/agency-contacts/
   - text: Examples
     href: /law/examples/
+  - text: Agency contacts
+    href: /law/agency-contacts/
 
 resources:
   - text: Groups and organizations

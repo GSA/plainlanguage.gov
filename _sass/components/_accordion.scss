@@ -1,0 +1,18 @@
+.usa-layout-docs {
+  .usa-accordion,
+  .usa-accordion-bordered {
+    max-width: $text-max-width;
+
+    & > li {
+      font-family: $font-serif;
+    }
+  }
+
+  .usa-accordion-bordered .usa-accordion-content {
+    border-color: $color-tan;
+  }
+
+  .usa-accordion-button {
+    background-color: $color-tan;
+  }
+}

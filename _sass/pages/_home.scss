@@ -1,17 +1,30 @@
 .usa-section {
-  &.home-grid {
-    a {
-      font-family: $font-sans;
-      text-decoration: none;
-    }
+  &.home-grid a {
+    text-decoration: none;
 
     h3 {
+      color: $color-primary;
       margin-top: 0;
+    }
+
+    p {
+      color: $color-base;
     }
 
     .icon-large {
       float: left;
       margin-right: $spacing-md-small;
+    }
+
+    &:hover {
+      h3 {
+        color: $color-primary-darker;
+        text-decoration: underline;
+      }
+
+      .icon-large .fa {
+        color: $color-primary-darker;
+      }
     }
   }
 
@@ -26,7 +39,7 @@
 
 @media #{$breakpoint-md} {
   .usa-section {
-    &.home-grid {
+    &.home-grid a {
       h3 {
         margin-top: $spacing-md-small;
       }

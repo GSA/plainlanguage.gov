@@ -26,6 +26,10 @@ h1 {
   padding-left: $spacing-medium;
 }
 
+.usa-nav-link {
+  -webkit-font-smoothing: auto;
+}
+
 @media #{$breakpoint-sm} {
   h1 {
     font-size: $h1-font-size;
