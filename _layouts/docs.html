@@ -3,25 +3,40 @@ layout: base
 main:
   class: usa-grid usa-content usa-layout-docs
 ---
+
+{% for section in site.data.header.primary.links %}
+  {% if section.links == page.sidenav %}
+    <p class="lg-hide h6 caps mb1">{{ section.text }}</p>
+  {% endif %}
+{% endfor %}
+
+{% if page.title %}
+  <h1>{{ page.title }}</h1>
+{% endif %}
+
 {% assign sidenav = site.data.navigation[page.sidenav] | default: page.sidenav %}
 {% if sidenav %}
 <aside class="usa-width-one-third usa-layout-docs-sidenav lg-show">
   <h4 class="caps">In this section</h4>
   {% include sidenav.html links=sidenav %}
+  {% if page.sidenav == 'guidelines' %}
+  <h4 class="caps mt5 mb3">Downloads</h4>
+  <a href="{{ site.baseurl }}/media/FederalPLGuidelines.pdf" class="guidelines block clearfix">
+    <img src="{{ site.baseurl }}/assets/img/guidelines-cover.png" class="left mr3" alt="">
+    <div class="overflow-hidden">
+      <h5 class="h4 mt0">Federal Plain Language Guidelines</h5>
+      <p class="usa-text-small">
+        March 2011<br>
+        <em>Revision 1, May 2011</em><br>
+        Filetype: PDF
+      </p>
+    </div>
+  </a>
+  {% endif %}
 </aside>
 {% endif %}
 
 <div class="{% if sidenav %}usa-width-two-thirds {% endif %}usa-layout-docs-main_content clearfix">
-  {% for section in site.data.header.primary.links %}
-    {% if section.links == page.sidenav %}
-      <p class="lg-hide h6 caps mb1">{{ section.text }}</p>
-    {% endif %}
-  {% endfor %}
-
-  {% if page.title %}
-    <h1>{{ page.title }}</h1>
-  {% endif %}
-
   {% if page.intro %}
     <p class="usa-font-lead">{{ page.intro }}</p>
   {% endif %}

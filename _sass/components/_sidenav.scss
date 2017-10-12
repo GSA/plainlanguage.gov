@@ -1,6 +1,28 @@
+.guidelines {
+  text-decoration: none;
+
+  img {
+    border: 3px solid $border-color;
+    width: 33%;
+  }
+
+  p {
+    color: $color-base;
+  }
+
+  &:hover {
+    h5 {
+      color: $color-primary-darker;
+      text-decoration: underline;
+    }
+  }
+}
+
 .usa-layout-docs-sidenav {
-  padding-left: $spacing-md-small;
-  padding-right: $spacing-large;
+  float: right;
+  margin-right: 0;
+  padding-right: 0;
+  padding-left: $spacing-large;
   padding-top: 0;
 
   h3 {
@@ -43,10 +65,4 @@
 
 .usa-sidenav-sub_list a.usa-current {
   font-weight: 700;
-}
-
-@media #{$breakpoint-lg} {
-  .usa-layout-docs-sidenav {
-    padding-top: $spacing-md-small;
-  }
 }
