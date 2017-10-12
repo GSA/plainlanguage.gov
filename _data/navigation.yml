@@ -45,8 +45,6 @@ guidelines:
     subnav:
       - text: 'Use short, simple words'
         href: '/guidelines/concise/use-short-simple-words/'
-      - text: Omit unnecessary words
-        href: '/guidelines/concise/omit-unnecessary-words/'
       - text: Write short sentences
         href: '/guidelines/concise/write-short-sentences/'
       - text: Keep the subject, verb, and object close together
