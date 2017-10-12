@@ -2,13 +2,13 @@
   padding: $spacing-md-small;
 
   h1 {
-    border-bottom: $border-width solid $border-color;
-    margin-bottom: $spacing-medium;
     margin-top: 0;
-    padding-bottom: $spacing-md-small;
   }
 }
 
+.usa-layout-docs-main_content {
+  padding-right: $spacing-large;
+}
 
 @media (max-width: #{$large-screen}) {
   .usa-layout-docs-main_content {

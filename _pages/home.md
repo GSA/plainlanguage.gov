@@ -50,12 +50,12 @@ top: false
     <div class="usa-width-seven-twelfths mb4 md-mb0 sm-pr5">
       <h2 class="mt0 mb3"><i class="fa fa-calendar" aria-hidden="true"></i> Upcoming events</h2>
       <div class="usa-width-one-half pr3 mb4 md-mb0">
-        <h4 class="m0 h3"><a href="#" class="text-decoration-none">Train-the-trainer bootcamp</a></h4>
+        <h4 class="m0 h3"><a href="#" class="text-decoration-none">Train-the-trainer bootcamp »</a></h4>
         <p class="mt0 h5 caps sans-serif">September 18, 2014</p>
         <p class="mb0">This month’s meeting features Katherine Spivey on Plain Language Spectrum - how to move forward with plain language.</p>
       </div>
       <div class="usa-width-one-half pr3 mb4 md-mb0">
-        <h4 class="m0 h3"><a href="#" class="text-decoration-none">Plainspoken science</a></h4>
+        <h4 class="m0 h3"><a href="#" class="text-decoration-none">Plainspoken science »</a></h4>
         <p class="mt0 h5 caps sans-serif">August 19, 2014</p>
         <p class="mb0">Hear how plain language helps scientists share the excitement, importance, and often just plain enjoyment of what they do.</p>
       </div>
@@ -70,7 +70,7 @@ top: false
 
 <section class="usa-section home-events" markdown="0">
   <div class="usa-grid">
-    <h2 class="mt0"><a href="{{ '/about/' | relative_url }}" class="text-decoration-none">About us</a></h2>
+    <h2 class="mt0"><a href="{{ '/about/' | relative_url }}" class="text-decoration-none">About us  »</a></h2>
     <p class="usa-font-lead">The Plain Language Action and Information Network (PLAIN) is a community of federal employees dedicated to the idea that citizens deserve clear communications from government. We believe that using plain language saves federal agencies time and money and provides better service to the American public.</p>
   </div>
 </section>
