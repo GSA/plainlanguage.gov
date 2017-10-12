@@ -14,38 +14,34 @@ top: false
 
 <section class="usa-section home-grid" markdown="0">
   <div class="usa-grid">
-    <div class="usa-width-one-fourth mb4 md-pr3 lg-mb0 clearfix">
+    <a href="{{ '/law/' | relative_url }}" class="usa-width-one-fourth mb4 md-pr3 lg-mb0 clearfix">
       <div class="icon-large"><i class="fa fa-gavel" aria-hidden="true"></i></div>
       <div class="overflow-hidden">
-        <h3><a href="{{ '/law/' | relative_url }}">Law and requirements</a></h3>
+        <h3>Law and requirements »</h3>
         <p class="mt0">Learn about the Plain Writing Act, related memoranda, and executive orders that require federal agencies to use plain language.</p>
-        <p class="no-print"><a href="{{ '/law/' | relative_url }}">Read more ›</a></p>
       </div>
-    </div>
-    <div class="usa-width-one-fourth mb4 md-pr3 lg-mb0 clearfix">
+    </a>
+    <a href="{{ '/guidelines/' | relative_url }}" class="usa-width-one-fourth mb4 md-pr3 lg-mb0 clearfix">
       <div class="icon-large"><i class="fa fa-check" aria-hidden="true"></i></div>
       <div class="overflow-hidden">
-        <h3><a href="{{ '/guidelines/' | relative_url }}">Federal guidelines</a></h3>
+        <h3>Federal guidelines »</h3>
         <p class="mt0">Official writing tips for understanding your audience, writing clearly, being concise, and testing your content.</p>
-        <p class="no-print"><a href="{{ '/guidelines/' | relative_url }}">Read more ›</a></p>
       </div>
-    </div>
-    <div class="usa-width-one-fourth mb4 md-pr3 md-mb0 clearfix">
+    </a>
+    <a href="{{ '/training/' | relative_url }}" class="usa-width-one-fourth mb4 md-pr3 md-mb0 clearfix">
       <div class="icon-large"><i class="fa fa-graduation-cap" aria-hidden="true"></i></div>
       <div class="overflow-hidden">
-        <h3><a href="{{ '/training/' | relative_url }}">Training</a></h3>
+        <h3>Training »</h3>
         <p class="mt0">Request a free training session for your federal agency, or use our course materials to create your own class.</p>
-        <p class="no-print"><a href="{{ '/training/' | relative_url }}">Read more ›</a></p>
       </div>
-    </div>
-    <div class="usa-width-one-fourth mb4 md-pr3 md-mb0 clearfix">
+    </a>
+    <a href="{{ '/resources/' | relative_url }}" class="usa-width-one-fourth mb4 md-pr3 md-mb0 clearfix">
       <div class="icon-large"><i class="fa fa-book" aria-hidden="true"></i></div>
       <div class="overflow-hidden">
-        <h3><a href="{{ '/resources/' | relative_url }}">Resources</a></h3>
+        <h3>Resources »</h3>
         <p class="mt0">Links to books, articles, checklists, style guides, and online resources about plain language.</p>
-        <p class="no-print"><a href="{{ '/resources/' | relative_url }}">Read more ›</a></p>
       </div>
-    </div>
+    </a>
   </div>
 </section>
 
