@@ -2,7 +2,6 @@
 title: Style guides
 permalink: /resources/guides/
 sidenav: resources
-layout: list
 ---
 
 ## Federal government
@@ -11,19 +10,22 @@ layout: list
 - [Centers for Disease Control and Prevention](https://www.cdc.gov/healthliteracy/developmaterials/plainlanguage.html)
 - [Citizenship and Immigration Services](https://www.uscis.gov/plainlanguage)
 - [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/plain-writing/)
-- [Environmental Protection Agency](https://www.epa.gov/home/plain-writing)
-- [Federal Aviation Administration](https://www.faa.gov/about/initiatives/plain_language/)
-- [Fish and Wildlife Service](https://www.fws.gov/pdm/plainlang.html)
 - [Department of Agriculture](https://www.usda.gov/plain-writing)
 - [Department of Defense](http://www.esd.whs.mil/DD/plainlanguage/)
+- [Federal Aviation Administration](https://www.faa.gov/about/initiatives/plain_language/)
+  - [Federal Aviation Administration Writing Standards](https://www.faa.gov/documentlibrary/media/order/branding_writing/order1000_36.pdf)
+- [Fish and Wildlife Service](https://www.fws.gov/pdm/plainlang.html)
+- [Environmental Protection Agency](https://www.epa.gov/home/plain-writing)
 - [National Aeronautics and Space Administration](https://www.nasa.gov/open/plainlanguage.html)
 - [National Institutes of Health](https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/clear-communication/plain-language)
 - [Nuclear Regulatory Commission](https://www.nrc.gov/public-involve/open/plain-writing.html)
 - [Office of the Federal Register](http://www.archives.gov/federal-register/write/plain-language/)
 - [Securities and Exchange Commission](https://www.sec.gov/plainwriting.shtml)
+  - [A Plain English Handbook: How to create clear SEC disclosure documents](https://www.sec.gov/pdf/handbook.pdf)
 - [USAGov Bilingual Style Guide](https://www.usa.gov/style-guide/table-of-contents)
 - [18F Content Guide](https://content-guide.18f.gov/)
 
-## State and local government
+## State government
 
-- [Plain Talk](http://www.governor.wa.gov/issues/issues/efficient-government/plain-talk), Washington State
+- [Plain language: It's the law, and a good idea](http://www.oregon.gov/DAS/Pages/writingplainlanguage.aspx), Oregon
+- [Plain Talk](http://www.governor.wa.gov/issues/issues/efficient-government/plain-talk), Washington
