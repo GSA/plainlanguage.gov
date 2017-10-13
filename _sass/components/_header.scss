@@ -4,6 +4,7 @@
 
 .usa-logo-text {
   font-family: $font-sans;
+  font-feature-settings: 'ss01' 1, 'kern' 1;
   font-weight: 300;
   font-size: $h4-font-size;
 

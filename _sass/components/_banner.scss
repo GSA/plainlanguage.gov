@@ -2,6 +2,7 @@
   background-color: $color-blue-light;
   border: 0;
   font-family: $font-sans;
+  font-feature-settings: 'ss01' 1, 'kern' 1;
 }
 
 @media #{$breakpoint-md} {

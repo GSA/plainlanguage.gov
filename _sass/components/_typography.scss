@@ -19,6 +19,7 @@ h4,
 h5,
 h6 {
   font-family: $font-sans;
+  font-feature-settings: 'ss01' 1, 'kern' 1;
   font-weight: $font-bold;
 }
 
@@ -28,6 +29,7 @@ h1 {
 
 .sans-serif {
   font-family: $font-sans;
+  font-feature-settings: 'ss01' 1, 'kern' 1;
 }
 
 .home .usa-font-lead {
