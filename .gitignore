@@ -1,4 +1,5 @@
 _site/
+assets/js/build/
 .sass-cache/
 node_modules/
 .DS_Store

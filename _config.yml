@@ -28,6 +28,10 @@ exclude:
   - package-lock.json
   - README.md
   - vendor
+  - webpack.config.js
+
+scripts:
+  - /assets/js/build/bundle.js
 
 styles:
   - href: /assets/css/main.css

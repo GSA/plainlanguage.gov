@@ -4,6 +4,7 @@ machine:
 
 dependencies:
   post:
+    - npm run federalist
     - bundle install
     - bundle exec jekyll build
 
