@@ -12,6 +12,10 @@
     padding-bottom: $spacing-large;
     padding-top: $spacing-large;
 
+    a {
+      color: $color-base;
+    }
+
     li {
       border-right: 1px solid $color-base;
       display: inline-block;

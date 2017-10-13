@@ -7,6 +7,10 @@
   font-weight: 300;
   font-size: $h4-font-size;
 
+  a:hover {
+    text-decoration: none;
+  }
+
   img {
     width: 24px;
   }

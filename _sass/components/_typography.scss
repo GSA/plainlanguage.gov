@@ -3,6 +3,15 @@ html {
   font-family: $font-serif;
 }
 
+a {
+  color: $color-primary;
+
+  &:hover {
+    color: $color-primary-darker;
+    text-decoration: underline;
+  }
+}
+
 h1,
 h2,
 h3,
