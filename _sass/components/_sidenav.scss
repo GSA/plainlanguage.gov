@@ -1,20 +1,11 @@
 .guidelines {
-  text-decoration: none;
-
   img {
     border: 3px solid $border-color;
     width: 33%;
   }
 
-  p {
-    color: $color-base;
-  }
-
-  &:hover {
-    h5 {
-      color: $color-primary-darker;
-      text-decoration: underline;
-    }
+  a .usa-label:hover {
+    background-color: $color-primary-darker;
   }
 }
 

@@ -11,18 +11,7 @@ main:
     <h4 class="caps">In this section</h4>
     {% include sidenav.html links=sidenav %}
     {% if page.sidenav == 'guidelines' %}
-    <h4 class="caps mt5 mb3">Downloads</h4>
-    <a href="{{ site.baseurl }}/media/FederalPLGuidelines.pdf" class="guidelines block clearfix">
-      <img src="{{ site.baseurl }}/assets/img/guidelines-cover.png" class="left mr3" alt="">
-      <div class="overflow-hidden">
-        <h5 class="h4 mt0">Federal Plain Language Guidelines</h5>
-        <p class="usa-text-small">
-          March 2011<br>
-          <em>Revision 1, May 2011</em><br>
-          Filetype: PDF
-        </p>
-      </div>
-    </a>
+      {% include downloads.html %}
     {% endif %}
   {% else %}
     {{ page.sidebar | markdownify }}
@@ -50,10 +39,4 @@ main:
   {% if page.sources %}
     {% include sources.html %}
   {% endif %}
-
-  {% unless page.top == false %}
-    <p class="mt5 no-print">
-      <a href="#">Return to top</a>
-    </p>
-  {% endunless %}
 </div>
