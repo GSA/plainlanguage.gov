@@ -135,8 +135,6 @@ resources:
     href: /resources/books/
   - text: Articles
     href: /resources/articles/
-  - text: Videos
-    href: /resources/videos/
   - text: Checklists
     href: /resources/checklists/
   - text: Reference sites
@@ -155,7 +153,7 @@ training:
     href: /training/introductory-classes/
   - text: Train-the-trainer bootcamp
     href: /training/train-the-trainer-bootcamp/
-  - text: Online training
+  - text: Videos and online training
     href: /training/online-training/
   - text: For trainers
     href: /training/for-trainers/
