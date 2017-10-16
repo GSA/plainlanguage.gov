@@ -32,6 +32,7 @@ exclude:
 
 scripts:
   - /assets/js/build/bundle.js
+  - /assets/uswds/js/uswds.min.js
 
 styles:
   - href: /assets/css/main.css
