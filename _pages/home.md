@@ -57,7 +57,7 @@ top: false
       <div class="usa-width-one-half pr3 mb4 md-mb0">
         <h4 class="m0 h3"><a href="https://www.digitalgov.gov/event/connect-with-your-spanishlanguage-audience-on-social-media/" class="text-decoration-none">Connect with your Spanish-language audience on social media</a></h4>
         <p class="mt0 h5 caps sans-serif">October 24, 2017</p>
-        <p class="mb0">Hear what USAGov has learned in the past few months while engaging the Spanish-speaking community via social media and how they’ve tweaked their strategy along the way to reach more people and connect with influencers.</p>
+        <p class="mb0">Hear what USAGov has learned while engaging the Spanish-speaking community via social media and how they’ve tweaked their strategy to reach more people and connect with influencers.</p>
       </div>
     </div>
     <div class="usa-width-five-twelfths">
