@@ -18,7 +18,7 @@ top: false
       <div class="icon-large"><i class="fa fa-gavel" aria-hidden="true"></i></div>
       <div class="overflow-hidden">
         <h3>Law and requirements »</h3>
-        <p class="mt0">Learn about the Plain Writing Act, related memoranda, and executive orders that require federal agencies to use plain language.</p>
+        <p class="mt0">Learn about the Plain Writing Act, related memoranda, and executive orders that require agencies to use plain language.</p>
       </div>
     </a>
     <a href="{{ '/guidelines/' | relative_url }}" class="usa-width-one-fourth mb4 md-pr3 lg-mb0 clearfix">
