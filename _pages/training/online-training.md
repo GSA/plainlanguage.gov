@@ -4,7 +4,7 @@ permalink: /training/online-training/
 sidenav: training
 ---
 
-Plain-language training is available in many forms. This page provides links to some of our favorite videos and online courses
+Plain-language training is available in many forms. This page provides links to some of our favorite videos and online courses.
 
 ## Videos
 
