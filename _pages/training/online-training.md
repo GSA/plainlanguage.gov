@@ -10,6 +10,8 @@ Plain-language training is available in many forms. This page provides links to 
 
 ### YouTube playlists
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3FKyVeipMss" frameborder="0" allowfullscreen></iframe>
+
 * [PLAIN](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nHMlmPFMw8cJxN_DW-odj0J)
 * [U.S. Citizenship and Immigration Services](https://www.youtube.com/playlist?list=PLADE80C67FDB39352)
 
