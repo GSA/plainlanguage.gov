@@ -1,10 +1,18 @@
 import $ from 'jquery';
+import Stickyfill from 'stickyfilljs';
+
+var elements = $('.sticky');
+Stickyfill.add(elements);
 
 var navHeight = function () {
-  if ($('.usa-layout-docs-main_content').height() > window.innerHeight) {
-    $('.usa-layout-docs-sidenav').css('height', (window.innerHeight));
+  var windowHeight = window.innerHeight;
+  var mainContent = $('.usa-layout-docs-main_content')
+  var sideNav = $('.usa-layout-docs-sidenav');
+
+  if (sideNav.height() > windowHeight && mainContent.height() > windowHeight) {
+    sideNav.css('height', (windowHeight));
   } else {
-    $('.usa-layout-docs-sidenav').css('height', 'auto');
+    sideNav.css('height', 'auto');
   }
 };
 
