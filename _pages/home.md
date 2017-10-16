@@ -46,22 +46,15 @@ top: false
 </section>
 
 <section class="usa-section bg-tan home-law" markdown="0">
-  <div class="usa-grid">
-    <div class="usa-width-seven-twelfths mb4 md-mb0 sm-pr5">
+  <div class="usa-grid lg-flex items-center">
+    <div class="usa-width-one-half mb4 mr0 md-mb0 sm-pr5 border-right border-tan">
       <h2 class="mt0 mb3"><i class="fa fa-calendar" aria-hidden="true"></i> Upcoming events</h2>
-      <div class="usa-width-one-half pr3 mb4 md-mb0">
-        <h4 class="m0 h3"><a href="#" class="text-decoration-none">An around-the-world recap</a></h4>
-        <p class="mt0 h5 caps sans-serif">October 11, 2017</p>
-        <p class="mb0">PLAIN co-chairs will provide a recap of international plain language intiatives discussed at the 2017 Plain Language Association International conference in Graz, Austria.</p>
-      </div>
-      <div class="usa-width-one-half pr3 mb4 md-mb0">
-        <h4 class="m0 h3"><a href="https://www.digitalgov.gov/event/connect-with-your-spanishlanguage-audience-on-social-media/" class="text-decoration-none">Connect with your Spanish-language audience on social media</a></h4>
-        <p class="mt0 h5 caps sans-serif">October 24, 2017</p>
-        <p class="mb0">Hear what USAGov has learned while engaging the Spanish-speaking community via social media and how they’ve tweaked their strategy to reach more people and connect with influencers.</p>
-      </div>
+      <p class="m0 h5 caps sans-serif">October 24, 2017</p>
+      <h4 class="m0 h3"><a href="https://www.digitalgov.gov/event/connect-with-your-spanishlanguage-audience-on-social-media/" class="text-decoration-none">Connect with your Spanish-language audience on social media</a></h4>
+      <p class="mb0">Hear what USAGov has learned while engaging the Spanish-speaking community via social media and how they’ve tweaked their strategy to reach more people and connect with influencers.</p>
     </div>
-    <div class="usa-width-five-twelfths">
-      <h2 class="mt0">Subscribe to our mailing list</h2>
+    <div class="usa-width-one-half px5">
+      <h3 class="mt0">Subscribe to our mailing list</h3>
       <p>Learn about upcoming events and get the latest news from the federal plain language community.</p>
       <a class="usa-button usa-button-primary m0 nowrap" href="https://www.digitalgov.gov/communities/plain-language-community-of-practice/">Subscribe</a>
     </div>

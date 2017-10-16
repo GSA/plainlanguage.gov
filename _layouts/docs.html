@@ -6,7 +6,7 @@ main:
 
 {% assign sidenav = site.data.navigation[page.sidenav] | default: page.sidenav %}
 {% if sidenav or page.sidebar %}
-<aside class="usa-width-one-third usa-layout-docs-sidenav sticky{% if sidenav %} lg-show{% endif %}">
+<aside class="usa-width-one-third usa-layout-docs-sidenav py3 {% if sidenav %}sticky pr5 lg-show{% elsif page.sidebar %}right mr0 pl5{% endif %}">
   {% if sidenav %}
     <h4 class="caps">In this section</h4>
     {% include sidenav.html links=sidenav %}
@@ -20,11 +20,6 @@ main:
 {% endif %}
 
 <div class="{% if sidenav or page.sidebar %}usa-width-two-thirds {% endif %}usa-layout-docs-main_content clearfix">
-  {% for section in site.data.header.primary.links %}
-    {% if section.links == page.sidenav %}
-      <p class="h5 caps mb1">{{ section.text }}</p>
-    {% endif %}
-  {% endfor %}
 
   {% if page.title %}
     <h1>{{ page.title }}</h1>

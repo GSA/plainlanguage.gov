@@ -1,7 +1,7 @@
 .guidelines {
   img {
     border: 3px solid $border-color;
-    width: 33%;
+    width: 90px;
   }
 
   a .usa-label:hover {
@@ -11,7 +11,6 @@
 
 .usa-layout-docs-sidenav {
   overflow-y: auto;
-  padding: $spacing-medium $spacing-large $spacing-medium 0;
 
   h3 {
     border-bottom: $border-width solid $border-color;

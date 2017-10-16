@@ -21,6 +21,6 @@
 
 @media #{$breakpoint-md} {
   .usa-layout-docs {
-    padding: $spacing-medium;
+    padding: $spacing-large $spacing-medium;
   }
 }
