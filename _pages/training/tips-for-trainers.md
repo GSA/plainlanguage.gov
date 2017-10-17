@@ -14,7 +14,7 @@ As a first step, you'll want to look at our training materials to get an idea of
 
 - The [Federal Plain Language Guidelines]({{ site.baseurl }}/guidelines/) is our handbook for writers. You can use it to structure a training course. It makes a good text or reference for your students.
 
-- You can also use our training materials to [create your own class]({{ site.baseurl }}/training/for-trainers/create-your-own-class/).
+- You can also use our training materials to [create your own class]({{ site.baseurl }}/training/create-your-own-class/).
 
 ## Set SMART goals
 
