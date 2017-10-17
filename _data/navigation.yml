@@ -159,10 +159,7 @@ training:
     href: /training/online-training/
   - text: Train-the-trainer bootcamp
     href: /training/train-the-trainer-bootcamp/
-  - text: For trainers
-    href: /training/for-trainers/
-    subnav:
-      - text: Create your own class
-        href: /training/for-trainers/create-your-own-class/
-      - text: Tips for starting a plain language program
-        href: /training/for-trainers/tips-for-starting-plain-language-program/
+  - text: Tips for starting a plain language program
+    href: /training/tips-for-trainers/
+  - text: Create your own class
+    href: /training/create-your-own-class/

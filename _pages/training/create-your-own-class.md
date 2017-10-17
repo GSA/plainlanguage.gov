@@ -1,6 +1,6 @@
 ---
 title: Create your own class
-permalink: /training/for-trainers/create-your-own-class/
+permalink: /training/create-your-own-class/
 sidenav: training
 ---
 
@@ -29,6 +29,6 @@ These presentations last between 30 and 60 minutes. They are brief overviews abo
 
 - [The Plain Writing Act of 2010]({{ 'media/training/forManagers_theAct_training.pptx' | relative_url }}) (PPTX) and the importance of creating a plain-language training program
 
-- [Why plain language is important]({{ 'media/training/forManagers_whyPL_benefits.ppt' | relative_url }}) (PPT) and the benefits of communicating in plain language
+- [Why Plain Language is Important]({{ 'media/training/forManagers_whyPL_benefits.ppt' | relative_url }}) (PPT) and the benefits of communicating in plain language
 
-- [Plain language, usability, and information architecture]({{ 'media/training/Overview-pl_usability_ia.pptx' | relative_url }}) (PPTX)
+- [Plain Language, Usability, and Information Architecture]({{ 'media/training/Overview-pl_usability_ia.pptx' | relative_url }}) (PPTX)
