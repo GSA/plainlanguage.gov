@@ -139,7 +139,7 @@ resources:
     href: /resources/articles/
   - text: Checklists
     href: /resources/checklists/
-  - text: Reference sites
+  - text: Reference tools
     href: /resources/reference/
   - text: Content types
     href: /resources/content-types/
@@ -159,10 +159,7 @@ training:
     href: /training/online-training/
   - text: Train-the-trainer bootcamp
     href: /training/train-the-trainer-bootcamp/
-  - text: For trainers
-    href: /training/for-trainers/
-    subnav:
-      - text: Tips for starting a plain language program
-        href: /training/for-trainers/tips-for-starting-plain-language-program/
-      - text: Create your own class
-        href: /training/for-trainers/create-your-own-class/
+  - text: Create your own class
+    href: /training/create-your-own-class/
+  - text: Tips for starting a plain language program
+    href: /training/tips-for-trainers/

@@ -5,7 +5,7 @@ sidenav: training
 top: false
 ---
 
-We offer two kinds of plain-language training:
+We offer two kinds of plain language training:
 
 ## Introductory classes
 
@@ -15,7 +15,7 @@ We provide a free half-day introduction to plain language to federal agencies. Y
 
 ## Train-the-trainer bootcamp
 
-We need trainers to help us provide plain language training to government agencies. Our trainers are federal employees from across the government who volunteer 1—2 classes a year (besides their own agencies)
+We need trainers to help us provide plain language training to government agencies. Our trainers are federal employees from across the government who volunteer 1–2 classes a year (besides their own agencies)
 
 If you are interested in becoming a trainer and have received permission from your supervisor to teach at least 1 or 2 classes a year, attend a Train-the-trainer Bootcamp. We offer these quarterly.
 

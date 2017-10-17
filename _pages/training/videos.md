@@ -4,8 +4,6 @@ permalink: /training/videos/
 sidenav: training
 ---
 
-Plain-language training is available in many forms. This page provides links to some of our favorite videos and online courses.
-
 ## Featured video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZZdDJWl8bEc?rel=0" frameborder="0" allowfullscreen></iframe>

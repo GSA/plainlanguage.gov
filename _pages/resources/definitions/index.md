@@ -19,7 +19,3 @@ sidenav: resources
 [Elements of Plain Language]({{ site.baseurl }}{% link _pages/resources/articles/the-elements-of-plain-language.md %}), Joe Kimble, _Michigan Bar Journal._
 
 [_Revisiting Plain Language_]({{ site.baseurl }}{% link _pages/resources/articles/revisiting-plain-language.md %}), Beth Mazur, _Technical Communication, the Journal of the Society for Technical Communication_.
-
-## Historical essay
-
-[Politics and the English Language.]({{ site.baseurl }}{% link _pages/resources/articles/politics-and-the-english-language-george-orwell-1946.md %}) George Orwell, 1946.

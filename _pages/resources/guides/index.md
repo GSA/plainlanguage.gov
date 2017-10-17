@@ -29,3 +29,7 @@ sidenav: resources
 
 - [Plain language: It's the law, and a good idea](http://www.oregon.gov/DAS/Pages/writingplainlanguage.aspx), Oregon
 - [Plain Talk](http://www.governor.wa.gov/issues/issues/efficient-government/plain-talk), Washington
+
+## International community
+
+- [Putting Plain Language Into Practice](http://en.copian.ca/library/learning/nwt/practice/contents.htm), Aggie Brockman for Canada's Literacy Council
