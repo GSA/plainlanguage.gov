@@ -8,9 +8,9 @@ These are the official guidelines for the [Plain Writing Act of 2010](https://ww
 
 We developed these guidelines to help you and your agency write clearly, so your users can:
 
-- find what they need
-- understand what they find
-- use what they find to meet their needs
+- Find what they need
+- Understand what they find
+- Use what they find to meet their needs
 
 ## Contents
 
