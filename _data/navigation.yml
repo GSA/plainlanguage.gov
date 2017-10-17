@@ -86,6 +86,8 @@ guidelines:
   - text: Follow web standards
     href: /guidelines/web/
     subnav:
+      - text: Avoid FAQs
+        href: '/guidelines/web/avoid-faqs/'
       - text: Write effective links
         href: '/guidelines/web/write-effective-links/'
       - text: Repurpose print material for the web
@@ -151,10 +153,12 @@ resources:
 training:
   - text: Introductory classes
     href: /training/introductory-classes/
+  - text: Videos
+    href: /training/videos/
+  - text: Online training
+    href: /training/online-training/
   - text: Train-the-trainer bootcamp
     href: /training/train-the-trainer-bootcamp/
-  - text: Videos and online training
-    href: /training/online-training/
   - text: For trainers
     href: /training/for-trainers/
     subnav:

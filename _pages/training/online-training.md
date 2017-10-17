@@ -4,24 +4,7 @@ permalink: /training/online-training/
 sidenav: training
 ---
 
-Plain-language training is available in many forms. This page provides links to some of our favorite videos and online courses.
-
-## Videos
-
-### YouTube playlists
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3FKyVeipMss" frameborder="0" allowfullscreen></iframe>
-
-* [PLAIN](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nHMlmPFMw8cJxN_DW-odj0J)
-* [U.S. Citizenship and Immigration Services](https://www.youtube.com/playlist?list=PLADE80C67FDB39352)
-
-### Other videos we like
-
-* [How to Use Plain Language on a Government Website](https://www.youtube.com/watch?v=QtXSCwphuzg)
-
-* [Demand to Understand: How Plain Language Makes Life Simpler](https://www.youtube.com/watch?v=OXcLwlZOE1s), Deborah Bosley
-
-## Web-based courses
+Plain-language training is available in many forms. This page provides links to some of the plain language training resources we have found. If you know of any training resources that we've overlooked, please [contact us](mailto:{{ site.email }}).
 
 - The Federal Aviation Administration has made its [basic course](https://www.faa.gov/about/initiatives/plain_language/basic_course/) available online.
 
@@ -32,7 +15,3 @@ Plain-language training is available in many forms. This page provides links to 
 - The CDC has an [online health literacy training](https://www.cdc.gov/healthliteracy/training/) for health professionals.
 
 - The government of Mexico kicked off a program in 2004 encouraging plain language in government writing. You can download this compressed file of [the materials]({{ site.baseurl }}/media/lenguaje.zip) they prepared for the participants. This material is in Spanish.
-
----
-
-If you know of any training resources that we've overlooked, please [contact us](mailto:{{ site.email }}).
