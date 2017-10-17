@@ -5,7 +5,7 @@ sidenav: training
 top: false
 ---
 
-We offer two kinds of plain-language training:
+We offer two kinds of plain language training:
 
 ## Introductory classes
 
