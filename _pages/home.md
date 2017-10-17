@@ -32,7 +32,7 @@ top: false
       <div class="icon-large"><i class="fa fa-graduation-cap" aria-hidden="true"></i></div>
       <div class="overflow-hidden">
         <h3>Training »</h3>
-        <p class="mt0">Request a free training session for your federal agency, or use our course materials to create your own class.</p>
+        <p class="mt0">Request in-person training for your federal agency, or use our videos and materials to create your own class.</p>
       </div>
     </a>
     <a href="{{ '/resources/' | relative_url }}" class="usa-width-one-fourth mb4 md-pr3 md-mb0 clearfix">
