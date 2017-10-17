@@ -1,5 +1,5 @@
 ---
-title: Videos and online training
+title: Online training
 permalink: /training/online-training/
 sidenav: training
 ---
