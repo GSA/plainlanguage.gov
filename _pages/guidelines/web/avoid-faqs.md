@@ -56,5 +56,5 @@ At USCIS, the [Form Filing Tips](https://www.uscis.gov/forms-filing-tips) page b
 
 - [Are FAQs Still Relevant?](https://www.digitalgov.gov/2015/04/27/are-faqs-still-relevant/), DigitalGov
 - [Don't Use FAQs](https://content-guide.18f.gov/structure-the-content/#dont-use-faqs), 18F
-- [FAQs Are the Dinosaurs of Web
-- [FAQs: Why We Don't Have Them](https://gds.blog.gov.uk/2013/07/25/faqs-why-we-dont-have-them/), GOV.UK Navigation](http://gerrymcgovern.com/faqs-are-the-dinosaurs-of-web-navigation/), Gerry McGovern
+- [FAQs Are the Dinosaurs of Web](http://gerrymcgovern.com/faqs-are-the-dinosaurs-of-web-navigation/), Gerry McGovern
+- [FAQs: Why We Don't Have Them](https://gds.blog.gov.uk/2013/07/25/faqs-why-we-dont-have-them/), GOV.UK Navigation
