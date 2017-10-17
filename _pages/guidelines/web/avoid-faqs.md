@@ -5,6 +5,8 @@ sidenav: guidelines
 
 _This post was originally published on [DigitalGov](https://www.digitalgov.gov/2015/09/04/faqs-done-right/)._
 
+If you write clear web content that is easy to navigate and answers your readers questions, you will not need to create a FAQ. FAQs often cause your readers more frustration.
+
 Frequently Asked Questions (FAQs) can be overwhelming and leave your customers searching through a sea of content. Before creating a FAQ, think about what you are trying to say, what you want people to do with that information, and the most effective way to convey that information. Often your best solution is a clear, well-organized main content page explaining a process.
 
 ## How to write better FAQs
