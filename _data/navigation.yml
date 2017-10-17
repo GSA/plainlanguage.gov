@@ -162,7 +162,7 @@ training:
   - text: For trainers
     href: /training/for-trainers/
     subnav:
-      - text: Tips for starting a plain language program
-        href: /training/for-trainers/tips-for-starting-plain-language-program/
       - text: Create your own class
         href: /training/for-trainers/create-your-own-class/
+      - text: Tips for starting a plain language program
+        href: /training/for-trainers/tips-for-starting-plain-language-program/
