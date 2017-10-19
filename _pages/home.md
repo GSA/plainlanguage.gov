@@ -22,7 +22,7 @@ top: false
       </div>
     </a>
     <a href="{{ '/guidelines/' | relative_url }}" class="usa-width-one-fourth mb4 md-pr3 lg-mb0 clearfix">
-      <div class="icon-large"><i class="fa fa-check" aria-hidden="true"></i></div>
+      <div class="icon-large"><i class="fa fa-pencil" aria-hidden="true"></i></div>
       <div class="overflow-hidden">
         <h3>Federal guidelines »</h3>
         <p class="mt0">Official writing tips for understanding your audience, writing clearly, being concise, and testing your content.</p>
