@@ -1,5 +1,13 @@
 .usa-section {
+  &.home-grid > :last-child > a {
+    margin-bottom: 0;
+  }
+
   &.home-grid a {
+    border: 1px solid $border-color;
+    border-radius: $border-radius;
+    display: block;
+    margin-bottom: $spacing-medium;
     text-decoration: none;
 
     h3 {
@@ -34,20 +42,5 @@
 
   &.home-law p {
     max-width: $lead-max-width;
-  }
-}
-
-@media #{$breakpoint-md} {
-  .usa-section {
-    &.home-grid a {
-      h3 {
-        margin-top: $spacing-md-small;
-      }
-
-      .icon-large {
-        float: none;
-        margin-right: 0;
-      }
-    }
   }
 }
