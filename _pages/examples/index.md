@@ -1,7 +1,7 @@
 ---
 title: Examples
-permalink: /law/examples/
-sidenav: law
+permalink: /examples/
+sidenav: examples
 ---
 
 Plain language has been around in the government for over 40 years. Here are some examples, both historical and current.
@@ -59,4 +59,4 @@ One of the best ways to see how a plain-language approach can improve a document
 
 ---
 
-See the [resources]({{ site.baseurl }}/resources/) section for more guides and examples of plain language.
+See the [resources]({{ site.baseurl }}/resources/) section for more style guides and articles about plain language.

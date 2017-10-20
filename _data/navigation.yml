@@ -123,8 +123,6 @@ law:
     subnav:
       - text: Plain writing page template
         href: /law/requirements/page-template/
-  - text: Examples
-    href: /law/examples/
   - text: Agency contacts
     href: /law/agency-contacts/
 
@@ -163,3 +161,9 @@ training:
     href: /training/create-your-own-class/
   - text: Tips for starting a plain language program
     href: /training/tips-for-trainers/
+
+examples:
+  - text: Section 1
+    href: /examples/section-1/
+  - text: Section 2
+    href: /examples/section-2/  
