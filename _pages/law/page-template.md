@@ -1,7 +1,11 @@
 ---
 title: Plain writing page template
-permalink: /law/requirements/page-template/
+permalink: /law/page-template/
 sidenav: law
+---
+
+_You can use the following template to develop your agency's own plain language page._
+
 ---
 
 ## Plain Writing Act of 2010
