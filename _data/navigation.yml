@@ -1,3 +1,36 @@
+law:
+  - text: Background
+    href: /law/background/
+    subnav:
+      - text: Timeline
+        href: /law/background/timeline/
+      - text: A history of plain language in the U.S. government
+        href: /law/background/plain-language-in-the-government/
+      - text: Regulations
+        href: /law/background/regulations/
+      - text: 'Walters v. Reno'
+        href: /law/background/walters-v-reno/
+      - text: 'Guidelines for President Clinton''s memo'
+        href: /law/background/memo-guidelines/
+  - text: Plain writing page template
+    href: /law/page-template/
+  - text: Agency contacts
+    href: /law/agency-contacts/
+
+training:
+  - text: Introductory classes
+    href: /training/introductory-classes/
+  - text: Videos
+    href: /training/videos/
+  - text: Online training
+    href: /training/online-training/
+  - text: Train-the-trainer bootcamp
+    href: /training/train-the-trainer-bootcamp/
+  - text: Create your own class
+    href: /training/create-your-own-class/
+  - text: Tips for starting a plain language program
+    href: /training/tips-for-trainers/
+
 guidelines:
   - text: Write for your audience
     href: /guidelines/audience/
@@ -104,27 +137,11 @@ guidelines:
       - text: Controlled comparative studies
         href: '/guidelines/test/controlled-comparative-studies/'
 
-law:
-  - text: Background
-    href: /law/background/
-    subnav:
-      - text: Timeline
-        href: /law/background/timeline/
-      - text: A history of plain language in the U.S. government
-        href: /law/background/plain-language-in-the-government/
-      - text: Regulations
-        href: /law/background/regulations/
-      - text: 'Walters v. Reno'
-        href: /law/background/walters-v-reno/
-      - text: 'Guidelines for President Clinton''s memo'
-        href: /law/background/memo-guidelines/
-  - text: Requirements
-    href: /law/requirements/
-    subnav:
-      - text: Plain writing page template
-        href: /law/requirements/page-template/
-  - text: Agency contacts
-    href: /law/agency-contacts/
+examples:
+  - text: Section 1
+    href: /examples/section-1/
+  - text: Section 2
+    href: /examples/section-2/
 
 resources:
   - text: Groups and organizations
@@ -147,23 +164,3 @@ resources:
     href: /resources/humor/
   - text: Quotes
     href: /resources/quotes/
-
-training:
-  - text: Introductory classes
-    href: /training/introductory-classes/
-  - text: Videos
-    href: /training/videos/
-  - text: Online training
-    href: /training/online-training/
-  - text: Train-the-trainer bootcamp
-    href: /training/train-the-trainer-bootcamp/
-  - text: Create your own class
-    href: /training/create-your-own-class/
-  - text: Tips for starting a plain language program
-    href: /training/tips-for-trainers/
-
-examples:
-  - text: Section 1
-    href: /examples/section-1/
-  - text: Section 2
-    href: /examples/section-2/  
