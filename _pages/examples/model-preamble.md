@@ -1,7 +1,7 @@
 ---
 title: Model preamble for a proposed rule
-permalink: /law/examples/model-preamble/
-sidenav: law
+permalink: /examples/model-preamble/
+sidenav: examples
 ---
 
 This is an abridged version of a proposed rule published in the Federal Register on April 26, 2000 (65 FR 24541).

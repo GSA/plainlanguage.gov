@@ -1,7 +1,7 @@
 ---
 title: Department of Health and Human Services Handbook
-permalink: /law/examples/hhs-handbook/
-sidenav: law
+permalink: /examples/hhs-handbook/
+sidenav: examples
 ---
 
 The revised publication _Assuring Access to Essential Health Care_ replaces _Profile 1996_. The name alone is a significant improvement for readers, and makes it more likely they will read it. The rewritten publication eliminates irrelevant information, but includes illustrations and pictures of professionals and services.

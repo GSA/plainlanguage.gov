@@ -1,7 +1,7 @@
 ---
 title: Johnson Space Center Manual Example 3
-permalink: /law/examples/johnson-space-center-manual-example-3/
-sidenav: law
+permalink: /examples/johnson-space-center-manual-example-3/
+sidenav: examples
 ---
 
 ## Johnson Space Center Handbook Chapter

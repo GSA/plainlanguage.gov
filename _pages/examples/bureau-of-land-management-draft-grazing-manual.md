@@ -1,7 +1,7 @@
 ---
 title: 'Bureau of Land Management - Draft Grazing Manual, 12/97'
-permalink: /resources/guides/bureau-of-land-management-draft-grazing-manual/
-sidenav: resources
+permalink: /examples/bureau-of-land-management-draft-grazing-manual/
+sidenav: examples
 ---
 
 **CHAPTER 2 - Range Improvements. _[excerpt, figures are not included]_**

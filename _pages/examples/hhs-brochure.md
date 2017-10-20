@@ -1,7 +1,7 @@
 ---
 title: 'Department of Health and Human Services brochure'
-permalink: /law/examples/hhs-brochure/
-sidenav: law
+permalink: /examples/hhs-brochure/
+sidenav: examples
 ---
 
 ## Losing weight safely

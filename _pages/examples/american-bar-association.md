@@ -1,7 +1,7 @@
 ---
 title: 'American Bar Association: Adoption by the House of Delegates'
-permalink: /law/examples/american-bar-association/
-sidenav: law
+permalink: /examples/american-bar-association/
+sidenav: examples
 ---
 
 August 9-10, 1999

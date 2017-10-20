@@ -1,7 +1,7 @@
 ---
 title: 'National Oceanic and Atmosphere Administration, Quick-Reference Card'
-permalink: /law/examples/quick-reference-card/
-sidenav: law
+permalink: /examples/quick-reference-card/
+sidenav: examples
 ---
 
 Not only did the National Marine Fisheries Service improve the language of this regulation, they turned the critical points into a user-friendly quick reference card, bright yellow so it's easy to find, and laminated so it will stand up to wet conditions.

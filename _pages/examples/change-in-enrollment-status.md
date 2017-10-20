@@ -1,7 +1,7 @@
 ---
 title: Change in Enrollment Status
-permalink: /law/examples/change-in-enrollment-status/
-sidenav: law
+permalink: /examples/change-in-enrollment-status/
+sidenav: examples
 ---
 
 addressee<br>

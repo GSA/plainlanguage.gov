@@ -1,7 +1,7 @@
 ---
 title: Minerals Management Service
-permalink: /law/examples/minerals-management-service/
-sidenav: law
+permalink: /examples/minerals-management-service/
+sidenav: examples
 ---
 
 ## PART 250-Oil and Gas and Sulphur Operations in the Outer Continental Shelf

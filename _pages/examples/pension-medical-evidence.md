@@ -1,7 +1,7 @@
 ---
 title: Pension Medical Evidence
-permalink: /law/examples/pension-medical-evidence/
-sidenav: law
+permalink: /examples/pension-medical-evidence/
+sidenav: examples
 ---
 
 addressee<br>

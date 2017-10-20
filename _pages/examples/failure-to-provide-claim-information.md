@@ -1,7 +1,7 @@
 ---
 title: Failure to Provide Claim Information
-permalink: /law/examples/failure-to-provide-claim-information/
-sidenav: law
+permalink: /examples/failure-to-provide-claim-information/
+sidenav: examples
 ---
 
 addressee<br>
