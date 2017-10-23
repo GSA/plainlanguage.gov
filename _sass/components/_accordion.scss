@@ -1,18 +1,18 @@
 .usa-layout-docs {
-  .usa-accordion,
-  .usa-accordion-bordered {
-    max-width: $text-max-width;
-
-    & > li {
-      font-family: $font-serif;
-    }
+  .usa-accordion li,
+  .usa-accordion-bordered li {
+    font-family: $font-serif;
   }
 
   .usa-accordion-bordered .usa-accordion-content {
-    border-color: $color-tan;
+    border-color: $color-tan-dark;
   }
 
   .usa-accordion-button {
     background-color: $color-tan;
+
+    &:hover {
+      background-color: $color-tan-dark;
+    }
   }
 }

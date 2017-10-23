@@ -1,19 +1,12 @@
 .p5  { padding:        $space-5 }
-
 .pt5 { padding-top:    $space-5 }
-
 .pr5 { padding-right:  $space-5 }
-
 .pb5 { padding-bottom: $space-5 }
-
 .pl5 { padding-left:   $space-5 }
-
 .py5 { padding-top:    $space-5; padding-bottom: $space-5 }
-
 .px5 { padding-left:   $space-5; padding-right:  $space-5 }
 
 @media #{$breakpoint-sm} {
-
   .sm-p5  { padding:        $space-5 }
   .sm-pt5 { padding-top:    $space-5 }
   .sm-pr5 { padding-right:  $space-5 }
@@ -21,11 +14,9 @@
   .sm-pl5 { padding-left:   $space-5 }
   .sm-px5 { padding-left:   $space-5; padding-right:  $space-5 }
   .sm-py5 { padding-top:    $space-5; padding-bottom: $space-5 }
-
 }
 
 @media #{$breakpoint-md} {
-
   .md-p5  { padding:        $space-5 }
   .md-pt5 { padding-top:    $space-5 }
   .md-pr5 { padding-right:  $space-5 }
@@ -33,11 +24,9 @@
   .md-pl5 { padding-left:   $space-5 }
   .md-px5 { padding-left:   $space-5; padding-right:  $space-5 }
   .md-py5 { padding-top:    $space-5; padding-bottom: $space-5 }
-
 }
 
 @media #{$breakpoint-lg} {
-
   .lg-p5  { padding:        $space-5 }
   .lg-pt5 { padding-top:    $space-5 }
   .lg-pr5 { padding-right:  $space-5 }
@@ -45,5 +34,4 @@
   .lg-pl5 { padding-left:   $space-5 }
   .lg-px5 { padding-left:   $space-5; padding-right:  $space-5 }
   .lg-py5 { padding-top:    $space-5; padding-bottom: $space-5 }
-
 }

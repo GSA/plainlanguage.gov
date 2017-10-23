@@ -5,7 +5,7 @@
   display: inline-block;
   height: 1.7rem;
   position: relative;
-  top: 2px;
+  vertical-align: text-top;
   width: 1.7rem;
 }
 
@@ -63,28 +63,19 @@ h6 .icon,
   width: $h6-font-size;
 }
 
+// Primary color
+
 .icon-book {
   background-image: url(../img/icons/primary/book.svg);
 }
 
-.icon-envelope {
-  background-image: url(../img/icons/base/envelope-o.svg);
-}
-
 .icon-external-link {
   background-image: url(../img/icons/primary/external-link.svg);
-}
-
-.icon-facebook {
-  background-image: url(../img/icons/base/facebook-f.svg);
+  vertical-align: middle;
 }
 
 .icon-gavel {
   background-image: url(../img/icons/primary/gavel.svg);
-}
-
-.icon-github {
-  background-image: url(../img/icons/base/github.svg);
 }
 
 .icon-graduation-cap {
@@ -93,6 +84,20 @@ h6 .icon,
 
 .icon-pencil {
   background-image: url(../img/icons/primary/pencil.svg);
+}
+
+// Base color
+
+.icon-envelope {
+  background-image: url(../img/icons/base/envelope-o.svg);
+}
+
+.icon-facebook {
+  background-image: url(../img/icons/base/facebook-f.svg);
+}
+
+.icon-github {
+  background-image: url(../img/icons/base/github.svg);
 }
 
 .icon-twitter {

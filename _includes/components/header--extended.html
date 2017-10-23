@@ -34,7 +34,7 @@
           </button>
           <ul id="{{ _section_id }}" class="usa-nav-submenu">
             <li>
-              <a href="{% if _section.external == true %}{{ _section.href }}{% else %}{{ _section.href | relative_url }}{% endif %}" class="{% if _section.href == page.permalink %} usa-current{% endif %}">{{ _section.text }}</a>
+              <a href="{% if _section.external == true %}{{ _section.href }}{% else %}{{ _section.href | relative_url }}{% endif %}" class="{% if _section.href == page.permalink %} usa-current{% endif %}">Overview</a>
             </li>
             {% for _link in section_links %}
             <li>
