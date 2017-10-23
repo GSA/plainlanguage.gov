@@ -1,6 +1,6 @@
 .arrow::after {
-  content: '\00a0 \00BB';
-  display: inline-block;
+  content: '\00a0\00BB';
+  display: inline;
 }
 
 .border-tan {
