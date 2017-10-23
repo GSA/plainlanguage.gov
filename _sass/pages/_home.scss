@@ -1,11 +1,11 @@
 .usa-section {
-  &.home-grid > :last-child > a {
+  &.home-grid > :last-child > :last-child {
     margin-bottom: 0;
   }
 
   &.home-grid a {
     border: 1px solid $border-color;
-    border-radius: $border-radius;
+    border-radius: 8px;
     display: block;
     margin-bottom: $spacing-medium;
     text-decoration: none;
@@ -25,13 +25,14 @@
     }
 
     &:hover {
+      background-color: $color-blue-light;
+
       h3 {
         color: $color-primary-darker;
-        text-decoration: underline;
       }
 
-      .icon-large .fa {
-        color: $color-primary-darker;
+      .icon-large {
+        background-color: $border-color;
       }
     }
   }
@@ -40,7 +41,19 @@
     max-width: 80rem;
   }
 
-  &.home-law p {
+  &.home-events p {
     max-width: $lead-max-width;
+  }
+}
+
+@media #{$breakpoint-md} {
+  .usa-section {
+    &.home-grid > :last-child > a {
+      margin-bottom: 0;
+    }
+
+    &.home-grid .usa-grid a:first-child {
+      margin-right: $spacing-medium;
+    }
   }
 }

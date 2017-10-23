@@ -14,40 +14,40 @@ top: false
 
 <section class="usa-section home-grid" markdown="0">
   <div class="usa-grid md-flex">
-    <a href="{{ '/law/' | relative_url }}" class="usa-width-one-half px3 py4 clearfix">
+    <a href="{{ '/law/' | relative_url }}" class="usa-width-one-half p3 lg-p4 clearfix">
       <i class="icon-large icon-gavel" aria-hidden="true"></i>
       <div class="overflow-hidden">
-        <h3>Law and requirements »</h3>
+        <h3 class="arrow">Law and requirements</h3>
         <p class="my0">Learn about the Plain Writing Act, related memoranda, and executive orders that require agencies to use plain language.</p>
       </div>
     </a>
-    <a href="{{ '/guidelines/' | relative_url }}" class="usa-width-one-half px3 py4 clearfix">
+    <a href="{{ '/guidelines/' | relative_url }}" class="usa-width-one-half p3 lg-p4 clearfix">
       <i class="icon-large icon-pencil" aria-hidden="true"></i>
       <div class="overflow-hidden">
-        <h3>Plain language guidelines »</h3>
+        <h3 class="arrow">Plain language guidelines</h3>
         <p class="my0">Official writing tips for understanding your audience, writing clearly, being concise, and testing your content.</p>
       </div>
     </a>
   </div>
   <div class="usa-grid md-flex">
-    <a href="{{ '/training/' | relative_url }}" class="usa-width-one-half px3 py4 clearfix">
+    <a href="{{ '/training/' | relative_url }}" class="usa-width-one-half p3 lg-p4 clearfix">
       <i class="icon-large icon-graduation-cap" aria-hidden="true"></i>
       <div class="overflow-hidden">
-        <h3>Training »</h3>
+        <h3 class="arrow">Training</h3>
         <p class="my0">Request in-person training for your federal agency, or use our videos and materials to create your own class.</p>
       </div>
     </a>
-    <a href="{{ '/resources/' | relative_url }}" class="usa-width-one-half px3 py4 clearfix">
+    <a href="{{ '/resources/' | relative_url }}" class="usa-width-one-half p3 lg-p4 clearfix">
       <i class="icon-large icon-book" aria-hidden="true"></i>
       <div class="overflow-hidden">
-        <h3>Resources »</h3>
+        <h3 class="arrow">Resources</h3>
         <p class="my0">Links to books, articles, checklists, style guides, and online resources about plain language.</p>
       </div>
     </a>
   </div>
 </section>
 
-<section class="usa-section bg-tan home-law" markdown="0">
+<section class="usa-section bg-tan home-events" markdown="0">
   <div class="usa-grid">
     <h2 class="mt0 mb3">Upcoming events</h2>
     <p class="m0 h5 caps sans-serif">October 24, 2017</p>
@@ -56,7 +56,7 @@ top: false
   </div>
 </section>
 
-<section class="usa-section home-events" markdown="0">
+<section class="usa-section" markdown="0">
   <div class="usa-grid">
     <h2 class="mt0">About us</h2>
     <div class="usa-width-two-thirds md-pr5">
