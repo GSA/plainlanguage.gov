@@ -15,28 +15,28 @@ top: false
 <section class="usa-section home-grid" markdown="0">
   <div class="usa-grid">
     <a href="{{ '/law/' | relative_url }}" class="usa-width-one-fourth mb4 md-pr3 lg-mb0 clearfix">
-      <div class="icon-large"><i class="fa fa-gavel" aria-hidden="true"></i></div>
+      <i class="icon-large icon-gavel" aria-hidden="true"></i>
       <div class="overflow-hidden">
         <h3>Law and requirements »</h3>
         <p class="mt0">Learn about the Plain Writing Act, related memoranda, and executive orders that require agencies to use plain language.</p>
       </div>
     </a>
     <a href="{{ '/guidelines/' | relative_url }}" class="usa-width-one-fourth mb4 md-pr3 lg-mb0 clearfix">
-      <div class="icon-large"><i class="fa fa-pencil" aria-hidden="true"></i></div>
+      <i class="icon-large icon-pencil" aria-hidden="true"></i>
       <div class="overflow-hidden">
         <h3>Plain language guidelines »</h3>
         <p class="mt0">Official writing tips for understanding your audience, writing clearly, being concise, and testing your content.</p>
       </div>
     </a>
     <a href="{{ '/training/' | relative_url }}" class="usa-width-one-fourth mb4 md-pr3 md-mb0 clearfix">
-      <div class="icon-large"><i class="fa fa-graduation-cap" aria-hidden="true"></i></div>
+      <i class="icon-large icon-graduation-cap" aria-hidden="true"></i>
       <div class="overflow-hidden">
         <h3>Training »</h3>
         <p class="mt0">Request in-person training for your federal agency, or use our videos and materials to create your own class.</p>
       </div>
     </a>
     <a href="{{ '/resources/' | relative_url }}" class="usa-width-one-fourth mb4 md-pr3 md-mb0 clearfix">
-      <div class="icon-large"><i class="fa fa-book" aria-hidden="true"></i></div>
+      <i class="icon-large icon-book" aria-hidden="true"></i>
       <div class="overflow-hidden">
         <h3>Resources »</h3>
         <p class="mt0">Links to books, articles, checklists, style guides, and online resources about plain language.</p>

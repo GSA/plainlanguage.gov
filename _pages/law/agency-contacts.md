@@ -18,9 +18,9 @@ sidenav: law
 <p>{{ contact.official.name }}, <em>{{ contact.official.title }}</em></p>
 {% endif %}
 <ul class="usa-unstyled-list">
-<li class="inline-block mr3"><a href="{{ contact.website }}"><i class="fa fa-external-link mr1" aria-hidden="true"></i>Website</a></li>
+<li class="inline-block mr3"><a href="{{ contact.website }}"><i class="icon icon-external-link mr1" aria-hidden="true"></i>Website</a></li>
 {% if contact.email %}
-<li class="inline-block"><a href="mailto:{{ contact.email }}"><i class="fa fa-envelope-o mr1" aria-hidden="true"></i>Email</a></li>
+<li class="inline-block"><a href="mailto:{{ contact.email }}"><i class="icon icon-envelope mr1" aria-hidden="true"></i>Email</a></li>
 {% endif %}
 </ul>
 </div>
