@@ -2,7 +2,6 @@
 title: Home
 layout: base
 permalink: /
-top: false
 ---
 
 <section class="usa-section home-hero bg-tan" markdown="0">
@@ -50,9 +49,13 @@ top: false
 <section class="usa-section bg-tan home-events" markdown="0">
   <div class="usa-grid">
     <h2 class="mt0 mb3">Upcoming events</h2>
-    <p class="m0 h5 caps sans-serif">October 24, 2017</p>
-    <h4 class="m0 h3"><a href="https://www.digitalgov.gov/event/connect-with-your-spanishlanguage-audience-on-social-media/" class="text-decoration-none">Connect with your Spanish-language audience on social media</a></h4>
-    <p>Hear what USAGov has learned while engaging the Spanish-speaking community via social media and how they’ve tweaked their strategy to reach more people and connect with influencers.</p>
+    {% assign events = site.data.events | sort: 'date' %}
+    {% assign events_sorted = events | reverse %}
+    {% for event in events_sorted %}
+      <p class="m0 h5 caps sans-serif">{{ event.date | date: "%B %e, %Y" }}</p>
+      <h4 class="m0 h3"><a href="{{ event.link }}" class="text-decoration-none">{{ event.title }}</a></h4>
+      <p>{{ event.description }}</p>
+    {% endfor %}
   </div>
 </section>
 
