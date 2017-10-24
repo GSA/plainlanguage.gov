@@ -1,5 +1,4 @@
-import $ from 'jquery';
 import Stickyfill from 'stickyfilljs';
 
-var elements = $('.sticky');
+var elements = document.getElementsByClassName('sticky');
 Stickyfill.add(elements);
