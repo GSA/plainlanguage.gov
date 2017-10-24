@@ -1,28 +1,12 @@
 law:
-  - text: History
-    href: /law/history/
-    subnav:
-      - text: Timeline
-        href: /law/history/timeline/
-      - text: A history of plain language in the U.S. government
-        href: /law/history/plain-language-in-the-government/
-      - text: Regulations
-        href: /law/history/regulations/
-      - text: 'Walters v. Reno'
-        href: /law/history/walters-v-reno/
-      - text: 'Guidelines for President Clinton''s memo'
-        href: /law/history/memo-guidelines/
-  - text: Requirements
-    href: /law/requirements/
-    subnav:
-      - text: Agency page template
-        href: /law/page-template/
-      - text: Agency contacts
-        href: /law/agency-contacts/
-      - text: Checklist
-        href: /law/requirements/checklist/
-      - text: Web checklist
-        href: /law/requirements/web-checklist/
+  - text: Agency page template
+    href: /law/page-template/
+  - text: Agency contacts
+    href: /law/agency-contacts/
+  - text: Checklist
+    href: /law/checklist/
+  - text: Web checklist
+    href: /law/web-checklist/
 
 training:
   - text: Introductory classes
@@ -157,6 +141,19 @@ examples:
     href: /examples/regulations/
 
 resources:
+  - text: Background
+    href: /resources/background/
+    subnav:
+      - text: Timeline
+        href: /resources/background/timeline/
+      - text: A history of plain language in the U.S. government
+        href: /resources/background/plain-language-in-the-government/
+      - text: Regulations
+        href: /resources/background/regulations/
+      - text: 'Walters v. Reno'
+        href: /resources/background/walters-v-reno/
+      - text: 'Guidelines for President Clinton''s memo'
+        href: /resources/background/memo-guidelines/
   - text: Groups and organizations
     href: /resources/groups/
   - text: Style guides
@@ -167,10 +164,10 @@ resources:
     href: /resources/articles/
   - text: Reference tools
     href: /resources/reference/
-  - text: Content types
-    href: /resources/content-types/
   - text: Definitions
     href: /resources/definitions/
+  - text: Content types
+    href: /resources/content-types/
   - text: Humor
     href: /resources/humor/
   - text: Quotes

@@ -1,7 +1,7 @@
 ---
 title: 'Walters v. Reno'
-permalink: /law/history/walters-v-reno/
-sidenav: law
+permalink: /resources/background/walters-v-reno/
+sidenav: resources
 ---
 
 ## Maria Walters and others v. United States Immigration and Naturalization Service

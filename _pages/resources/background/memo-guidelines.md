@@ -1,7 +1,7 @@
 ---
 title: 'Guidelines for President Clinton''s memo'
-permalink: /law/history/memo-guidelines/
-sidenav: law
+permalink: /resources/background/memo-guidelines/
+sidenav: resources
 
 ---
 

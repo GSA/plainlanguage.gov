@@ -1,6 +1,6 @@
 ---
 title: Web checklist
-permalink: /law/requirements/web-checklist/
+permalink: /law/web-checklist/
 sidenav: law
 ---
 

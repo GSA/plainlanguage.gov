@@ -1,7 +1,7 @@
 ---
-title: History
-permalink: /law/history/
-sidenav: law
+title: Background
+permalink: /resources/background/
+sidenav: resources
 ---
 
 Plain language (also called plain writing or plain English) is communication your audience can understand the first time they read or hear it.
