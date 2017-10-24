@@ -1,5 +1,5 @@
 ---
-title: 'National Oceanic and Atmosphere Administration, Quick-Reference Card'
+title: 'National Oceanic and Atmosphere Administration quick-reference card'
 permalink: /examples/brochures/quick-reference-card/
 sidenav: examples
 ---

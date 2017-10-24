@@ -156,7 +156,6 @@ examples:
   - text: Regulations
     href: /examples/regulations/
 
-
 resources:
   - text: Groups and organizations
     href: /resources/groups/
@@ -166,8 +165,6 @@ resources:
     href: /resources/books/
   - text: Articles
     href: /resources/articles/
-  - text: Checklists
-    href: /resources/checklists/
   - text: Reference tools
     href: /resources/reference/
   - text: Content types
