@@ -10,6 +10,9 @@ primary:
     - text: Plain language guidelines
       href: /guidelines/
       links: guidelines
+    - text: Examples
+      href: /examples/
+      links: examples
     - text: Training
       href: /training/
       links: training

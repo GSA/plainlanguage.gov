@@ -1,3 +1,27 @@
+law:
+  - text: Agency contacts
+    href: /law/agency-contacts/
+  - text: Agency plain writing page template
+    href: /law/page-template/
+  - text: Checklist
+    href: /law/checklist/
+  - text: Web checklist
+    href: /law/web-checklist/
+
+training:
+  - text: Introductory classes
+    href: /training/introductory-classes/
+  - text: Videos
+    href: /training/videos/
+  - text: Online training
+    href: /training/online-training/
+  - text: Train-the-trainer bootcamp
+    href: /training/train-the-trainer-bootcamp/
+  - text: Create your own class
+    href: /training/create-your-own-class/
+  - text: Tips for starting a plain language program
+    href: /training/tips-for-trainers/
+
 guidelines:
   - text: Write for your audience
     href: /guidelines/audience/
@@ -104,31 +128,32 @@ guidelines:
       - text: Controlled comparative studies
         href: '/guidelines/test/controlled-comparative-studies/'
 
-law:
-  - text: Background
-    href: /law/background/
-    subnav:
-      - text: Timeline
-        href: /law/background/timeline/
-      - text: A history of plain language in the U.S. government
-        href: /law/background/plain-language-in-the-government/
-      - text: Regulations
-        href: /law/background/regulations/
-      - text: 'Walters v. Reno'
-        href: /law/background/walters-v-reno/
-      - text: 'Guidelines for President Clinton''s memo'
-        href: /law/background/memo-guidelines/
-  - text: Requirements
-    href: /law/requirements/
-    subnav:
-      - text: Plain writing page template
-        href: /law/requirements/page-template/
-  - text: Examples
-    href: /law/examples/
-  - text: Agency contacts
-    href: /law/agency-contacts/
+examples:
+  - text: Before and after
+    href: /examples/before-and-after/
+  - text: Brochures
+    href: /examples/brochures/
+  - text: Handbooks and manuals
+    href: /examples/handbooks/
+  - text: Letters and notices
+    href: /examples/notices/
+  - text: Regulations
+    href: /examples/regulations/
 
 resources:
+  - text: Background
+    href: /resources/background/
+    subnav:
+      - text: Timeline
+        href: /resources/background/timeline/
+      - text: A history of plain language in the U.S. government
+        href: /resources/background/plain-language-in-the-government/
+      - text: Regulations
+        href: /resources/background/regulations/
+      - text: 'Walters v. Reno'
+        href: /resources/background/walters-v-reno/
+      - text: 'Guidelines for President Clinton''s memo'
+        href: /resources/background/memo-guidelines/
   - text: Groups and organizations
     href: /resources/groups/
   - text: Style guides
@@ -137,29 +162,13 @@ resources:
     href: /resources/books/
   - text: Articles
     href: /resources/articles/
-  - text: Checklists
-    href: /resources/checklists/
   - text: Reference tools
     href: /resources/reference/
-  - text: Content types
-    href: /resources/content-types/
   - text: Definitions
     href: /resources/definitions/
+  - text: Content types
+    href: /resources/content-types/
   - text: Humor
     href: /resources/humor/
   - text: Quotes
     href: /resources/quotes/
-
-training:
-  - text: Introductory classes
-    href: /training/introductory-classes/
-  - text: Videos
-    href: /training/videos/
-  - text: Online training
-    href: /training/online-training/
-  - text: Train-the-trainer bootcamp
-    href: /training/train-the-trainer-bootcamp/
-  - text: Create your own class
-    href: /training/create-your-own-class/
-  - text: Tips for starting a plain language program
-    href: /training/tips-for-trainers/
