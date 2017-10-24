@@ -1,6 +1,6 @@
 .usa-footer {
   .usa-button {
-    font-weight: 700;
+    font-weight: $font-bold;
   }
 
   .usa-footer-primary-section {
@@ -17,21 +17,13 @@
     }
 
     li {
-      border-right: 1px solid $color-base;
       display: inline-block;
-      margin-right: $spacing-x-small;
-      padding-right: $spacing-small;
+      margin-right: $spacing-small;
 
       &:last-child {
-        border: 0;
         margin-right: 0;
-        padding-right: 0;
       }
     }
-  }
-
-  .usa-unstyled-list li {
-    margin-bottom: $spacing-x-small;
   }
 }
 
@@ -39,11 +31,13 @@
   .usa-footer {
     .usa-footer-secondary_section {
       li {
-        border-right: 0;
         display: block;
         margin-right: 0;
-        padding-right: 0;
       }
+    }
+
+    .usa-unstyled-list li {
+      margin-bottom: $spacing-x-small;
     }
   }
 }
