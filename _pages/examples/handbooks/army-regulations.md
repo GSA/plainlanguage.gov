@@ -1,6 +1,6 @@
 ---
 title: Army regulations
-permalink: /examples/army-regulations/
+permalink: /examples/handbooks/army-regulations/
 sidenav: examples
 intro: This rewritten version of an Army Information Security manual makes good use of subsections and white space and eliminates irrelevant information.
 

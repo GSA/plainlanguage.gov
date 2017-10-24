@@ -1,6 +1,6 @@
 ---
 title: Minerals Management Service
-permalink: /examples/minerals-management-service/
+permalink: /examples/regulations/minerals-management-service/
 sidenav: examples
 ---
 

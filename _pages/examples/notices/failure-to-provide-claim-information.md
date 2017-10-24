@@ -1,6 +1,6 @@
 ---
 title: Failure to Provide Claim Information
-permalink: /examples/failure-to-provide-claim-information/
+permalink: /examples/notices/failure-to-provide-claim-information/
 sidenav: examples
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Pension Medical Evidence
-permalink: /examples/pension-medical-evidence/
+permalink: /examples/notices/pension-medical-evidence/
 sidenav: examples
 ---
 

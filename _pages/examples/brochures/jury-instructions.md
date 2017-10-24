@@ -1,6 +1,6 @@
 ---
 title: Jury instructions
-permalink: /examples/jury-instructions/
+permalink: /examples/brochures/jury-instructions/
 sidenav: examples
 ---
 

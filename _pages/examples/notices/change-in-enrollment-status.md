@@ -1,6 +1,6 @@
 ---
 title: Change in Enrollment Status
-permalink: /examples/change-in-enrollment-status/
+permalink: /examples/notices/change-in-enrollment-status/
 sidenav: examples
 ---
 

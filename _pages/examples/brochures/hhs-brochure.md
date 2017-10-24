@@ -1,6 +1,6 @@
 ---
 title: 'Department of Health and Human Services brochure'
-permalink: /examples/hhs-brochure/
+permalink: /examples/brochures/hhs-brochure/
 sidenav: examples
 ---
 

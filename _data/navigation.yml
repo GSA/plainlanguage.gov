@@ -145,10 +145,17 @@ guidelines:
         href: '/guidelines/test/controlled-comparative-studies/'
 
 examples:
-  - text: Section 1
-    href: /examples/section-1/
-  - text: Section 2
-    href: /examples/section-2/
+  - text: Before and after
+    href: /examples/before-and-after/
+  - text: Brochures
+    href: /examples/brochures/
+  - text: Handbooks and manuals
+    href: /examples/handbooks/
+  - text: Letters and notices
+    href: /examples/notices/
+  - text: Regulations
+    href: /examples/regulations/
+
 
 resources:
   - text: Groups and organizations

@@ -1,6 +1,6 @@
 ---
 title: 'National Oceanic and Atmosphere Administration, Quick-Reference Card'
-permalink: /examples/quick-reference-card/
+permalink: /examples/brochures/quick-reference-card/
 sidenav: examples
 ---
 

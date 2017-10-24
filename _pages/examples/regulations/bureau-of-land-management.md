@@ -1,10 +1,10 @@
 ---
 title: Bureau of Land Management
-permalink: /examples/bureau-of-land-management/
+permalink: /examples/regulations/bureau-of-land-management/
 sidenav: examples
 ---
 
-Here's a [practical example]({{ site.baseurl }}{% link _pages/examples/model-preamble.md %}) from this model.
+Here's a [practical example]({{ site.baseurl }}{% link _pages/examples/regulations/model-preamble.md %}) from this model.
 
 **MODEL PREAMBLE FOR A PROPOSED RULE** _[as of May 11, 1998]_
 

@@ -1,6 +1,6 @@
 ---
 title: Model preamble for a proposed rule
-permalink: /examples/model-preamble/
+permalink: /examples/regulations/model-preamble/
 sidenav: examples
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Plain language regulations
-permalink: /examples/plain-language-regulations/
+permalink: /examples/regulations/plain-language-regulations/
 sidenav: examples
 ---
 
@@ -16,7 +16,7 @@ To see any of these regulations:
 
 4. On the resulting page, scroll down to the regulation. Note that on that page, if you click on the left-most column you will be taken to the entire regulation, including a table of contents. If you click on the second column, you will be taken to individual sections, one at a time.
 
-## Overall Organization
+## Overall organization
 
 Regulation | Comments | Well organized | Short sections | Minimizes subdivisions | Uses lists | Uses tables
 --- | --- | --- | --- | --- | --- | ---

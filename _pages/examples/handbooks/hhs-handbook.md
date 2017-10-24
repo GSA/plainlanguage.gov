@@ -1,6 +1,6 @@
 ---
 title: Department of Health and Human Services Handbook
-permalink: /examples/hhs-handbook/
+permalink: /examples/handbooks/hhs-handbook/
 sidenav: examples
 ---
 
