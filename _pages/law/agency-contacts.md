@@ -16,7 +16,7 @@ sidenav: law
 <div id="a{{forloop.index}}" class="usa-accordion-content">
 
 {% if department.website or department.contacts contains "@" %}
-<h4>Department information</h4>
+<h4>Plain language resources</h4>
 <ul>
 {% if department.website %}<li><a href="{{ department.website }}">Visit website<i class="icon icon-external-link ml1" aria-hidden="true"></i></a></li>{% endif %}
 {% if department.contacts contains "@" %}<li><a href="mailto:{{ department.contacts }}">{{ department.contacts }}</a></li>{% endif %}
