@@ -14,7 +14,7 @@ While the Act does not cover regulations, two separate Executive Orders emphasiz
 
 2. Follow [OMB's Guidance on Implementing the Plain Writing Act](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2011/m11-15.pdf).
 
-3. Make sure your agency has a plain writing section of its website. Start with our templates for your [plain writing page]({{ site.baseurl }}/law/requirements/page-template/) and [compliance report]({{ '/media/agency_compliance_report_template.doc' | relative_url }}).
+3. Make sure your agency has a plain writing section of its website. Start with our templates for your [plain writing page]({{ 'law/page-template/' | relative_url }}) and [compliance report]({{ '/media/agency_compliance_report_template.doc' | relative_url }}).
 
 ## Deadlines
 

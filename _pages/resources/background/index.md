@@ -25,4 +25,4 @@ There are many techniques that can help you achieve this goal. Among the most co
 - Common, everyday words
 - Easy-to-read design features
 
-We've developed [templates]({{ site.baseurl }}/law/requirements/), [checklists]({{ site.baseurl }}/resources/checklists/), and in-depth [writing guidelines]({{ site.baseurl }}/guidelines/) to help you develop web and print communications in plain language.
+We've developed [templates]({{ site.baseurl }}/law/page-template/), [checklists]({{ site.baseurl }}/law/checklist/), and in-depth [writing guidelines]({{ site.baseurl }}/guidelines/) to help you develop web and print communications in plain language.
