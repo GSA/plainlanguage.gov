@@ -1,7 +1,7 @@
 ---
-title: Checklist for plain language on the web
-permalink: /resources/checklists/checklist-for-plain-language-on-the-web/
-sidenav: resources
+title: Web checklist
+permalink: /law/requirements/web-checklist/
+sidenav: law
 ---
 
 On the web, people are in a hurry. They skim and scan, looking for quick answers to their questions. Help your readers quickly find what they need with these web writing tips:

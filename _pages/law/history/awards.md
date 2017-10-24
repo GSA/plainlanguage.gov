@@ -1,6 +1,6 @@
 ---
 title: Awards
-permalink: /law/awards/
+permalink: /law/history/awards/
 sidenav: law
 layout: list
 ---

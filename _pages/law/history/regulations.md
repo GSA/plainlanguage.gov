@@ -1,6 +1,6 @@
 ---
 title: Regulations
-permalink: /law/background/regulations/
+permalink: /law/history/regulations/
 sidenav: law
 
 ---
@@ -11,7 +11,7 @@ Regulations that are unclear or unreadable make work for the reader and for the 
 
 Regulations don't have to be written in "legalese." Don't let anyone convince you that outmoded forms of language are needed in regulations. Plain language works for regulations just as it does for other important forms of written communication.
 
-Yes, Virginia, [plain language regulations]({{ site.baseurl }}/law/examples/plain-language-regulations/) do exist. In fact, President Clinton issued two separate Executive Orders emphasizing the need for plain language (neither of which has been rescinded). [E.O. 12866](https://www.archives.gov/files/federal-register/executive-orders/pdf/12866.pdf) says that regulations must be "simple and easy to understand, with the goal of minimizing uncertainty and litigation" (Sec. 1, Par. (b)(12)) and [E.O. 12988](https://www.gpo.gov/fdsys/pkg/FR-1996-02-07/pdf/96-2755.pdf) says that each regulation must specify its effect "in clear language" (Sec. 3 Par. (b)(2)).
+Yes, Virginia, [plain language regulations]({{ site.baseurl }}/examples/plain-language-regulations/) do exist. In fact, President Clinton issued two separate Executive Orders emphasizing the need for plain language (neither of which has been rescinded). [E.O. 12866](https://www.archives.gov/files/federal-register/executive-orders/pdf/12866.pdf) says that regulations must be "simple and easy to understand, with the goal of minimizing uncertainty and litigation" (Sec. 1, Par. (b)(12)) and [E.O. 12988](https://www.gpo.gov/fdsys/pkg/FR-1996-02-07/pdf/96-2755.pdf) says that each regulation must specify its effect "in clear language" (Sec. 3 Par. (b)(2)).
 
 On January 18, 2011, President Obama issued [E.O. 13563 — Improving Regulation and Regulatory Review](https://obamawhitehouse.archives.gov/the-press-office/2011/01/18/executive-order-13563-improving-regulation-and-regulatory-review). It states that our regulatory system must ensure that regulations are accessible, consistent, written in plain language, and easy to understand.
 
@@ -28,7 +28,7 @@ The Register even shows you how to rewrite an existing rule in plain language in
 
 ## Further reading
 
-- The [American Bar Association]({{ site.baseurl }}/law/examples/american-bar-association/) urges the federal government to write regulations in plain language.
+- The [American Bar Association]({{ site.baseurl }}/examples/american-bar-association/) urges the federal government to write regulations in plain language.
 
 - Tom Murawski's _Writing Readable Regulations_ is a great resource by a pioneering advocate of plain language. [Contact Tom](http://writingandspeaking.com/project-consulting/regulations) for purchase information.
 

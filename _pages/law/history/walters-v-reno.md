@@ -1,6 +1,6 @@
 ---
 title: 'Walters v. Reno'
-permalink: /law/background/walters-v-reno/
+permalink: /law/history/walters-v-reno/
 sidenav: law
 ---
 

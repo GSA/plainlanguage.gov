@@ -1,11 +1,11 @@
 ---
 title: Timeline
-permalink: /law/background/timeline/
+permalink: /law/history/timeline/
 sidenav: law
 intro:
 ---
 
-This timeline is an abbreviated and updated version of [A History of Plain Language in the Government]({{ site.baseurl }}{% link _pages/law/background/plain-language-in-the-government.md %}) by Joanne Locke.
+This timeline is an abbreviated and updated version of [A History of Plain Language in the Government]({{ site.baseurl }}{% link _pages/law/history/plain-language-in-the-government.md %}) by Joanne Locke.
 
 ## 2010s
 
@@ -30,13 +30,13 @@ Dockets](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inf
 
 * [Walters v. Reno](http://www.ca9.uscourts.gov/ca9/newopinions.nsf/04485f8dcbd4e1ea882569520074e698/6e9ec23768fd7e8888256e5a00718998?OpenDocument), 145 F.3d 1032 (9th Cir. 1998). Court decision that forms issued by the Immigration and Naturalization Service were so confusing and misleading that they violated a person's due-process rights.
 
-* PLAIN issued [guidelines for implementing the presidential memos]({{ site.baseurl }}{% link _pages/law/background/memo-guidelines.md %}) in 1998.
+* PLAIN issued [guidelines for implementing the presidential memos]({{ site.baseurl }}{% link _pages/law/history/memo-guidelines.md %}) in 1998.
 
 * President Clinton signed two executive orders: [E.O. 12866](https://www.archives.gov/files/federal-register/executive-orders/pdf/12866.pdf) in 1993 and [E.O. 12988](https://www.gpo.gov/fdsys/pkg/FR-1996-02-07/pdf/96-2755.pdf) in 1996.
 
 * The [Plain Language Action and Information Network (PLAIN)]({{ site.baseurl }}/about/) launched our original site in 1994 and started meeting regularly in 1995. This group remains at the center of the U.S. movement.
 
-* Vice President Gore believed that plain language promotes trust in government, and said, "Plain Language is a civil right." As the lead for the plain language initiative, he presented [No Gobbledygook awards]({{ site.baseurl }}{% link _pages/law/background/awards.md %}) monthly to federal employees who took bureaucratic messages and turned them into plain language that citizens can understand.
+* Vice President Gore believed that plain language promotes trust in government, and said, "Plain Language is a civil right." As the lead for the plain language initiative, he presented [No Gobbledygook awards]({{ site.baseurl }}{% link _pages/law/history/awards.md %}) monthly to federal employees who took bureaucratic messages and turned them into plain language that citizens can understand.
 
 ## 1980s
 

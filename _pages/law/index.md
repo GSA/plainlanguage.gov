@@ -1,5 +1,5 @@
 ---
-title: It’s the law
+title: Law and requirements
 permalink: /law/
 sidenav: law
 ---

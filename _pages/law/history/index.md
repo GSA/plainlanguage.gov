@@ -1,6 +1,6 @@
 ---
-title: Background
-permalink: /law/background/
+title: History
+permalink: /law/history/
 sidenav: law
 ---
 
@@ -9,7 +9,6 @@ Plain language (also called plain writing or plain English) is communication you
 The [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/content-detail.html) defines plain language as:
 
 > Writing that is clear, concise, well-organized, and follows other best practices appropriate to the subject or field and intended audience.
-
 
 Language that is plain to one set of readers may not be plain to others. Written material is in plain language if your audience can:
 

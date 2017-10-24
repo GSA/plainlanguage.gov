@@ -7,15 +7,15 @@ primary:
     - text: Law and requirements
       href: /law/
       links: law
-    - text: Training
-      href: /training/
-      links: training
-    - text: Guidelines
+    - text: Plain language guidelines
       href: /guidelines/
       links: guidelines
     - text: Examples
       href: /examples/
       links: examples
+    - text: Training
+      href: /training/
+      links: training
     - text: Resources
       href: /resources/
       links: resources
