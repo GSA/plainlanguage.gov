@@ -30,6 +30,9 @@ exclude:
   - vendor
   - webpack.config.js
 
+keep_files:
+  - /assets/js/build/bundle.js
+
 scripts:
   - /assets/js/build/bundle.js
   - /assets/uswds/js/uswds.min.js
