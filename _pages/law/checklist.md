@@ -4,7 +4,7 @@ permalink: /law/checklist/
 sidenav: law
 ---
 
-Use this checklist to see if your document meets plain language standards. (If you are writing for the web, here's the [checklist for web writing]({{ site.baseurl }}{% link _pages/law/web-checklist.md %})).
+Use this checklist to see if your document meets plain language standards. (If you're writing for the web, here's the [web checklist]({{ site.baseurl }}{% link _pages/law/web-checklist.md %}).)
 
 - written for the average reader
 - [organized to serve the reader's needs]({{ site.baseurl }}/guidelines/organize)

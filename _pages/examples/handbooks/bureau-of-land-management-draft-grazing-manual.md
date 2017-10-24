@@ -1,6 +1,6 @@
 ---
 title: 'Bureau of Land Management - Draft Grazing Manual, 12/97'
-permalink: /examples/bureau-of-land-management-draft-grazing-manual/
+permalink: /examples/handbooks/bureau-of-land-management-draft-grazing-manual/
 sidenav: examples
 ---
 

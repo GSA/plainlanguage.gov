@@ -1,5 +1,5 @@
 ---
-title: Agency page template
+title: Agency plain writing page template
 permalink: /law/page-template/
 sidenav: law
 ---

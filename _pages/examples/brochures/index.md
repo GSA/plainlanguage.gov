@@ -4,3 +4,5 @@ permalink: /examples/brochures/
 sidenav: examples
 layout: list
 ---
+
+Simple examples of effective instructions.
