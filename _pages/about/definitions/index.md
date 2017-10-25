@@ -27,7 +27,7 @@ There are many techniques that can help you achieve this goal. Among the most co
 
 We've developed [templates]({{ site.baseurl }}/law/page-template/), [checklists]({{ site.baseurl }}/law/checklist/), and in-depth [writing guidelines]({{ site.baseurl }}/guidelines/) to help you develop communications in plain language.
 
-## Other definitions we like
+## Other definitions of plain language
 
 ### Short definitions
 
