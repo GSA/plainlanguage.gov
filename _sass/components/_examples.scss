@@ -4,6 +4,8 @@ $heading-size: 2rem;
   th,
   td {
     border-color: $color-tan-dark;
+    font-size: $h4-font-size;
+    line-height: $base-line-height;
     vertical-align: top;
     width: 50%;
   }
@@ -15,7 +17,7 @@ $heading-size: 2rem;
     font-size: $heading-size;
 
     &:first-of-type {
-      border-bottom: 2px solid #CC3D3D;
+      border-bottom: 3px solid #CC3D3D;
 
       &::before {
         display: inline-block;
@@ -30,7 +32,7 @@ $heading-size: 2rem;
     }
 
     &:last-of-type {
-      border-bottom: 2px solid #40A381;
+      border-bottom: 3px solid #40A381;
 
       &::before {
         display: inline-block;
