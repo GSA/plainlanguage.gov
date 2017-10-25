@@ -39,12 +39,14 @@ on the ground that | because
 an amount of X | X
 be responsible for | must
 in order to | to
+{:.example-table}
 
 ## Omit redundant words
 
 Don't say | Say
 --- | ---
 The X Department and the Y Department worked together on a joint project to improve... | The X and Y Departments worked on a project to improve...
+{:.example-table}
 
 In this statement, you don't need "joint." You don't even need "together." Saying that X and Y worked on a project says it all. "Joint" and "together" are redundant.
 
@@ -57,6 +59,7 @@ Don't say | Say
 Their claim was totally unrealistic. | Their claim was absurd.
 It is particularly difficult to reconcile the somewhat differing views expressed by the management team. | It is difficult to reconcile the differing views expressed by the management team.
 Total disclosure of all facts is very important to make sure we draw up a total and completely accurate picture of the Agency's financial position. | Disclosing all facts is important to creating an accurate picture of the Agency's financial position.
+{:.example-table}
 
 ## Avoid doublets and triplets
 
@@ -68,6 +71,7 @@ due and payable | due
 cease and desist | stop
 knowledge and information | (either one)
 begin and commence | start
+{:.example-table}
 
 ## Related guidelines
 
@@ -84,5 +88,6 @@ This example uses several of the techniques discussed above to cut a 54 word sen
 Don't say | Say
 --- | ---
 If the State Secretary finds that an individual has received a payment to which the individual was not entitled, whether or not the payment was due to the individual's fault or misrepresentation, the individual shall be liable to repay to State the total sum of the payment to which the individual was not entitled. | If the State agency finds that you received a payment that you weren't entitled to, you must pay the entire sum back.
+{:.example-table}
 
 Omitting excess words can cut documents significantly. Be diligent in challenging every word you write, and eventually you will learn to write not only clearly, but concisely.

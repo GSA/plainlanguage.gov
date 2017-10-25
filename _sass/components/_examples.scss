@@ -1,0 +1,49 @@
+$heading-size: 2rem;
+
+.example-table {
+  th,
+  td {
+    border-color: $color-tan-dark;
+    font-size: $h4-font-size;
+    line-height: $base-line-height;
+    vertical-align: top;
+    width: 50%;
+  }
+
+  thead th,
+  thead td {
+    background-color: $color-tan;
+    font-family: $font-sans;
+    font-size: $heading-size;
+
+    &:first-of-type {
+      border-bottom: 3px solid #CC3D3D;
+
+      &::before {
+        display: inline-block;
+        content: ' ';
+        background-image: url(../img/icons/times.svg);
+        background-size: auto $heading-size;
+        height: $heading-size;
+        margin-right: $spacing-small;
+        vertical-align: text-top;
+        width: $heading-size;
+      }
+    }
+
+    &:last-of-type {
+      border-bottom: 3px solid #40A381;
+
+      &::before {
+        display: inline-block;
+        content: ' ';
+        background-image: url(../img/icons/check.svg);
+        background-size: auto $heading-size;
+        height: $heading-size;
+        margin-right: $spacing-small;
+        vertical-align: text-top;
+        width: $heading-size;
+      }
+    }
+  }
+}
