@@ -19,7 +19,7 @@ primary:
     - text: Resources
       href: /resources/
       links: resources
-    - text: About us
+    - text: About
       href: /about/
 
 secondary:

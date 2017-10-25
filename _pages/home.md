@@ -24,7 +24,7 @@ permalink: /
       <i class="icon-large icon-pencil" aria-hidden="true"></i>
       <div class="overflow-hidden">
         <h3 class="arrow">Plain language guidelines</h3>
-        <p class="my0">Official writing tips for understanding your audience, writing clearly, being concise, and testing your content.</p>
+        <p class="my0">Official writing guidelines for understanding your audience, being clear and concise, and testing your content.</p>
       </div>
     </a>
   </div>
@@ -40,7 +40,7 @@ permalink: /
       <i class="icon-large icon-book" aria-hidden="true"></i>
       <div class="overflow-hidden">
         <h3 class="arrow">Resources</h3>
-        <p class="my0">Links to books, articles, checklists, style guides, and online resources about plain language.</p>
+        <p class="my0">Find books, articles, reference tools, and organizations around the world that are focused on plain language.</p>
       </div>
     </a>
   </div>

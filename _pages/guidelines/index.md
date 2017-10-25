@@ -4,9 +4,7 @@ permalink: /guidelines/
 sidenav: guidelines
 ---
 
-These are the official guidelines for the [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/content-detail.html) and explain the basics for improving your communications.
-
-We developed these guidelines to help you and your agency write clearly, so your users can:
+These are the official guidelines for the [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/content-detail.html). We developed these guidelines to help you and your agency write clearly, so your users can:
 
 - Find what they need
 - Understand what they find
