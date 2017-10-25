@@ -23,6 +23,7 @@ sources:
     publisher: 'Securities and Exchange Commission, Washington, DC'
     page: p. 21
   - author: 'Wright, Nick'
+    title: Hidden Verbs
     link: 'http://www.plainlanguage.gov/howto/wordsuggestions/hiddenverbs.cfm'
 ---
 

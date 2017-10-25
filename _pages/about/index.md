@@ -1,5 +1,5 @@
 ---
-title: About us
+title: About
 permalink: /about/
 sidebar: >-
   ## Our officers
@@ -32,18 +32,19 @@ Our goal is to promote the use of plain language for all government communicatio
 To promote plain language, we:
 
 - develop and maintain the content of this site
+- [manage the plain language community of practice](https://www.digitalgov.gov/communities/plain-language-community-of-practice/)
+- [offer free half-day training sessions to federal agencies]({{ site.baseurl }}/training/introductory-classes/)
 - sponsor occasional seminars about plain language
-- offer a short half day introduction to plain language and writing for the web free of charge to any federal agency
 
-## Get involved
+Please [contact us](mailto:{{ site.email }}) if you have questions about how to promote plain language within your agency.
+
+### Stay informed
 
 We meet monthly to discuss plain language issues. Our meetings are open to all federal employees. [Subscribe to our mailing list](https://www.digitalgov.gov/communities/plain-language-community-of-practice/) to learn about upcoming events.
 
-Please [contact us](mailto:{{ site.email }}) if:
+### Get involved
 
-- we can help your agency with plain language issues
-- you want us to present a half day training program at your agency
-- you want to join PLAIN
+Interested in becoming a plain language trainer or contributing to our website? Learn more about [becoming a volunteer]({{ site.baseurl }}/about/get-involved/).
 
 ## About the site
 

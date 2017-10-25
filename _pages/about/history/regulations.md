@@ -1,7 +1,7 @@
 ---
 title: Regulations
-permalink: /resources/background/regulations/
-sidenav: resources
+permalink: /about/history/regulations/
+sidenav: about
 
 ---
 

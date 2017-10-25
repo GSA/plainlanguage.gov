@@ -141,19 +141,6 @@ examples:
     href: /examples/regulations/
 
 resources:
-  - text: Background
-    href: /resources/background/
-    subnav:
-      - text: Timeline
-        href: /resources/background/timeline/
-      - text: A history of plain language in the U.S. government
-        href: /resources/background/plain-language-in-the-government/
-      - text: Regulations
-        href: /resources/background/regulations/
-      - text: 'Walters v. Reno'
-        href: /resources/background/walters-v-reno/
-      - text: 'Guidelines for President Clinton''s memo'
-        href: /resources/background/memo-guidelines/
   - text: Groups and organizations
     href: /resources/groups/
   - text: Style guides
@@ -164,11 +151,24 @@ resources:
     href: /resources/articles/
   - text: Reference tools
     href: /resources/reference/
-  - text: Definitions
-    href: /resources/definitions/
   - text: Content types
     href: /resources/content-types/
   - text: Humor
     href: /resources/humor/
   - text: Quotes
     href: /resources/quotes/
+
+about:
+  - text: What is plain language?
+    href: /about/definitions/
+  - text: Plain language in government
+    href: /about/history/
+    subnav:
+      - text: Regulations
+        href: /about/history/regulations/
+      - text: 'Walters v. Reno'
+        href: /about/history/walters-v-reno/
+      - text: Awards
+        href: /about/history/awards/
+  - text: Get involved
+    href: /about/get-involved/

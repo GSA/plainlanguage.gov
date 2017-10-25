@@ -10,6 +10,8 @@ While the Act does not cover regulations, two separate Executive Orders emphasiz
 
 ## Requirements
 
+Executive departments and agencies must:
+
 1. Follow the [Federal Plain Language Guidelines]({{ site.baseurl }}/guidelines/).
 
 2. Follow [OMB's Guidance on Implementing the Plain Writing Act](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2011/m11-15.pdf).

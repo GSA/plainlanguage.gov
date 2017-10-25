@@ -7,7 +7,7 @@ primary:
     - text: Law and requirements
       href: /law/
       links: law
-    - text: Plain language guidelines
+    - text: Writing guidelines
       href: /guidelines/
       links: guidelines
     - text: Examples
@@ -19,7 +19,7 @@ primary:
     - text: Resources
       href: /resources/
       links: resources
-    - text: About us
+    - text: About
       href: /about/
 
 secondary:
