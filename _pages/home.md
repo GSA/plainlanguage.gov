@@ -23,8 +23,8 @@ permalink: /
     <a href="{{ '/guidelines/' | relative_url }}" class="usa-width-one-half p3 lg-p4 clearfix">
       <i class="icon-large icon-pencil" aria-hidden="true"></i>
       <div class="overflow-hidden">
-        <h3 class="arrow">Writing guidelines</h3>
-        <p class="my0">Official guidelines for understanding your audience, writing clearly, being concise, and testing your content.</p>
+        <h3 class="arrow">Plain language guidelines</h3>
+        <p class="my0">Official writing guidelines for understanding your audience, being clear and concise, and testing your content.</p>
       </div>
     </a>
   </div>
