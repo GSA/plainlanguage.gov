@@ -1,6 +1,8 @@
 $heading-size: 2rem;
 
 .example-table {
+  font-family: $font-sans;
+
   th,
   td {
     border-color: $color-tan-dark;
@@ -13,7 +15,6 @@ $heading-size: 2rem;
   thead th,
   thead td {
     background-color: $color-tan;
-    font-family: $font-sans;
     font-size: $heading-size;
 
     &:first-of-type {
