@@ -1,28 +1,7 @@
 ---
 title: About
 permalink: /about/
-sidebar: >-
-  ## Our officers
-
-  #### Katherine Spivey, Co-chair
-
-  Web Content/Social Media Manager, Plain Language Launcher<br>
-  [General Services Administration](https://www.gsa.gov)
-
-  #### Kathryn Catania, Co-chair
-
-  Chief, Plain Language and Content Division, Office of Communications<br>
-  [U.S. Citizenship and Immigration Services](https://www.uscis.gov/)
-
-  #### Miriam Vincent, Web manager
-
-  Staff Attorney, Office of the Federal Register<br>
-  [National Archives and Records Administration](https://www.archives.gov/)
-
-  #### Wendy Wagner-Smith, Training coordinator
-
-  Senior Writer and Editor, Office of Financial Research<br>
-  [Department of the Treasury](https://www.treasury.gov/)
+sidenav: about
 ---
 
 The Plain Language Action and Information Network (PLAIN) is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing. Originally called the Plain English Network, PLAIN has been meeting informally since the mid 1990s.
@@ -45,6 +24,39 @@ We meet monthly to discuss plain language issues. Our meetings are open to all f
 ### Get involved
 
 Interested in becoming a plain language trainer or contributing to our website? Learn more about [becoming a volunteer]({{ site.baseurl }}/about/get-involved/).
+
+## Our officers
+
+<div class="about-grid">
+<div class="usa-grid-full">
+<div class="usa-width-one-half">
+#### Katherine Spivey
+##### Co-chair
+Web Content/Social Media Manager, Plain Language Launcher  
+[General Services Administration](https://www.gsa.gov)
+</div>
+<div class="usa-width-one-half">
+#### Kathryn Catania
+##### Co-chair
+Chief, Plain Language and Content Division, Office of Communications  
+[U.S. Citizenship and Immigration Services](https://www.uscis.gov/)
+</div>
+</div>
+<div class="usa-grid-full">
+<div class="usa-width-one-half">
+#### Miriam Vincent
+##### Web manager
+Staff Attorney, Office of the Federal Register  
+[National Archives and Records Administration](https://www.archives.gov/)
+</div>
+<div class="usa-width-one-half">
+#### Wendy Wagner-Smith
+##### Training coordinator
+Senior Writer and Editor, Office of Financial Research  
+[Department of the Treasury](https://www.treasury.gov/)
+</div>
+</div>
+</div>
 
 ## About the site
 
