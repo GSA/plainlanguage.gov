@@ -29,18 +29,18 @@ permalink: /
     </a>
   </div>
   <div class="usa-grid md-flex">
+    <a href="{{ '/examples/' | relative_url }}" class="usa-width-one-half p3 lg-p4 clearfix">
+      <i class="icon-large icon-map-signs" aria-hidden="true"></i>
+      <div class="overflow-hidden">
+        <h3 class="arrow">Examples</h3>
+        <p class="my0">See plain language in action in a variety of regulations, legal documents, handbooks, and publications.</p>
+      </div>
+    </a>
     <a href="{{ '/training/' | relative_url }}" class="usa-width-one-half p3 lg-p4 clearfix">
       <i class="icon-large icon-graduation-cap" aria-hidden="true"></i>
       <div class="overflow-hidden">
         <h3 class="arrow">Training</h3>
         <p class="my0">Request in-person training for your federal agency, or use our videos and materials to create your own class.</p>
-      </div>
-    </a>
-    <a href="{{ '/resources/' | relative_url }}" class="usa-width-one-half p3 lg-p4 clearfix">
-      <i class="icon-large icon-book" aria-hidden="true"></i>
-      <div class="overflow-hidden">
-        <h3 class="arrow">Resources</h3>
-        <p class="my0">Find books, articles, reference tools, and organizations around the world that are focused on plain language.</p>
       </div>
     </a>
   </div>
