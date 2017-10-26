@@ -21,8 +21,6 @@ During the Clinton Administration, the National Partnership for Reinventing Gove
 
 Read Gore's [announcement speech]({{ site.baseurl }}/about/awards/gore-speech/), which features several before-and-after examples.
 
-Here are some examples from former Vice President Gore's No Gobbledygook Awards:
-
 * [Award 1]({{ site.baseurl }}/about/history/awards/award-1/): Marthe Kent, OSHA
 * [Award 2]({{ site.baseurl }}/about/history/awards/award-2/): Chris Fontecchio and Richard Hoops, Bureau of Land Management
 * [Award 3]({{ site.baseurl }}/about/history/awards/award-3/): Jim Harte and Umeki Thorne at the General Services Administration
