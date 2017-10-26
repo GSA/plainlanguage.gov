@@ -9,7 +9,7 @@ repo: https://github.com/GSA/plainlanguage.gov
 sitewide_notification:
   display: false
   heading: Information Status
-  text: >
+  text: >-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.
 
 theme: uswds-jekyll
@@ -45,6 +45,7 @@ sass:
   load_paths:
     - _sass
     - node_modules
+  style: compressed
 
 defaults:
   - scope:
