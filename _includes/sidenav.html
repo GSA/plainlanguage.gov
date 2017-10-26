@@ -21,3 +21,7 @@
     </li>
   {% endfor %}
 </ul>
+
+{% if page.sidenav == 'guidelines' %}
+  {% include downloads.html %}
+{% endif %}

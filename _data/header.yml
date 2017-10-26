@@ -21,6 +21,7 @@ primary:
       links: resources
     - text: About
       href: /about/
+      links: about
 
 secondary:
   search:
