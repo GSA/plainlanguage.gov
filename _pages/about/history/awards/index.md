@@ -19,7 +19,7 @@ Many organizations give awards for their writing. We've chosen a few examples fr
 
 During the Clinton Administration, the National Partnership for Reinventing Government awarded one plain language prize (No Gobbledygook Award) a month since the award was established in July 1998 for a total of 17 awards. Vice President Al Gore created the award to recognize federal employees who use plain language in innovative ways after President Clinton issued a June 1998 memorandum directing agencies to write all forms, documents, and letters in plain language.
 
-Read Gore's [announcement speech]({{ site.baseurl }}/about/awards/gore-speech/), which features several before-and-after examples.
+Read Gore's [announcement speech]({{ site.baseurl }}/about/history/awards/gore-speech/), which features several before-and-after examples.
 
 * [Award 1]({{ site.baseurl }}/about/history/awards/award-1/): Marthe Kent, OSHA
 * [Award 2]({{ site.baseurl }}/about/history/awards/award-2/): Chris Fontecchio and Richard Hoops, Bureau of Land Management
