@@ -10,7 +10,11 @@ Office of the Vice President
 
 ## Vice President Gore Presents First Plain Language Award
 
-Vice President Gore gave the first No-Gobbledygook plain language award to Marthe Kent of OSHA on June 30 in the White House. Marthe received the award for an upcoming OSHA regulation on Dip Tanks. Here's the section of the old and new regulation the Vice President read as part of the ceremony.
+Vice President Gore gave the first No Gobbledygook plain language award to Marthe Kent of the Occupational Safety and Health Administration on June 30 in the White House. Kent, Director of Regulatory Analysis, received the award for an upcoming OSHA regulation on dip tanks.
+
+"Reviewing and rewriting government language is another step toward reinventing our government so that it better communicates with the American people," the Vice President said.
+
+Here's the section of the old and new regulation the Vice President read as part of the ceremony.
 
 ## GSA Federal Travel Regulation
 
