@@ -58,6 +58,10 @@
     color: $color-primary;
     font-weight: 700;
   }
+
+  .usa-nav-submenu a {
+    padding-left: $spacing-medium;
+  }
 }
 
 .usa-navbar {
