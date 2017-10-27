@@ -1,0 +1,48 @@
+# Sample entry:
+#  - title: Article title goes here
+#    href: /path/to/resource/ or http://external.link/to/resource
+#    external: true  #Optional
+#    author: Author's name goes here #Optional
+#    pub_date: 2010-10-31  #Optional, must follow specified date format
+#    description: >- #Optional
+#      Speech given to 600 high-level Mexican public servants at the launching
+#      plain language conference Lenguaje ciudadano on the 5th of October 2004.
+
+articles:
+  - title: Arguments in favor of plain language
+    href: /resources/articles/arguments-in-favor-of-plain-language/
+  - title: Mary Dash’s writing tips
+    href: /resources/articles/mary-dashs-writing-tips/
+  - title: "Plain language: beyond a movement"
+    href: /resources/articles/plain-language-beyond-a-movement/
+  - title: Plain language in spoken communication
+    href: /resources/articles/plain-language-in-spoken-communication/
+  - title: Plain language in Sweden, the results after 30 years
+    href: /resources/articles/plain-language-in-sweden-the-results-after-30-years/
+    author: Barbro Ehrenberg-Sundin, Senior Adviser, Ministry of Justice, Sweden
+    pub_date: 2004-10-05
+    description: >-
+      Speech given to 600 high-level Mexican public servants at the launching plain language
+      conference Lenguaje ciudadano on the 5th of October 2004.
+  - title: "Plain language: its effect on organizational performance"
+    href: /resources/articles/plain-language-its-effect-on-organizational-performance/
+  - title: "Plain language: the bottom line"
+    href: /resources/articles/plain-language-the-bottom-line/
+  - title: “Plain talk” in Washington
+    href: /resources/articles/plain-talk-in-washington/
+  - title: Politics and the English language
+    href: /resources/articles/politics-and-the-english-language/
+  - title: Pretentious language wastes time
+    href: /resources/articles/pretentious-language-wastes-time/
+  - title: Revisiting plain language
+    href: /resources/articles/revisiting-plain-language/
+  - title: Scientists need plain language
+    href: /resources/articles/scientists-need-plain-language/
+  - title: Simple words work best
+    href: /resources/articles/simple-words-work-best/
+  - title: The arguments against plain language have been refuted
+    href: /resources/articles/the-arguments-against-plain-language-have-been-refuted/
+  - title: The elements of plain language
+    href: /resources/articles/the-elements-of-plain-language/
+  - title: The hidden costs of complex language
+    href: /resources/articles/the-hidden-costs-of-complex-language/

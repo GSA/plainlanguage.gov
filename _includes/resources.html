@@ -1,0 +1,15 @@
+{% assign resources = site.data.resources[page.resources] %}
+<ul>
+{% for resource in resources %}
+  <li>
+    <a href="{% if resource.external == true %}{{ resource.href }}{% else %}{{ resource.href | relative_url }}{% endif %}" class="bold">{{ resource.title }}</a>
+    {% if resource.author or resource.pub_date %}
+    <ul class="usa-unstyled-list h5">
+      <li><strong>Author:</strong> {{ resource.author }}</li>
+      <li><strong>Published:</strong> {{ resource.pub_date }}</li>
+    </ul>
+    {% endif %}
+    {% if resource.description %}<p class="h5">{{ resource.description }}</p>{% endif %}
+  </li>
+{% endfor %}
+</ul>
