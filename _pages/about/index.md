@@ -30,16 +30,16 @@ Interested in becoming a plain language trainer or contributing to our website? 
 <div class="about-grid">
 <div class="usa-grid-full">
 <div class="usa-width-one-half">
-#### Katherine Spivey
-##### Co-chair
-Web Content/Social Media Manager, Plain Language Launcher  
-[General Services Administration](https://www.gsa.gov)
-</div>
-<div class="usa-width-one-half">
 #### Kathryn Catania
 ##### Co-chair
 Chief, Plain Language and Content Division, Office of Communications  
 [U.S. Citizenship and Immigration Services](https://www.uscis.gov/)
+</div>
+<div class="usa-width-one-half">
+#### Katherine Spivey
+##### Co-chair
+Web Content/Social Media Manager, Plain Language Launcher  
+[General Services Administration](https://www.gsa.gov)
 </div>
 </div>
 <div class="usa-grid-full">
