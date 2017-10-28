@@ -7,7 +7,7 @@ permalink: /
 <section class="usa-section home-hero bg-tan" markdown="0">
   <div class="usa-grid">
     <h1 class="mb4">{{ site.description }}</h1>
-    <a class="usa-button usa-button-big usa-button-primary m0 no-print" href="{{ '/law/' | relative_url }}">Learn more</a>
+    <a class="usa-button usa-button-big usa-button-primary m0 no-print" href="{{ '/about/definitions/' | relative_url }}">Learn more</a>
   </div>
 </section>
 
