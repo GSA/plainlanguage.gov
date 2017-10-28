@@ -107,3 +107,7 @@ Make sure each of the bullets in a list can make a complete sentence if combined
 - Your application
 - Recommendation letter
 - Mail it express mail
+
+## Use no more than two or three levels
+
+Readers get lost when you use more than two or three levels in a document. If you find you need more levels, consider sub-dividing your top level into more parts.
