@@ -22,6 +22,6 @@
   {% endfor %}
 </ul>
 
-{% if page.sidenav == 'guidelines' %}
+{% if page.sidenav == 'guidelines' or page.sidenav == 'law' %}
   {% include downloads.html %}
 {% endif %}
