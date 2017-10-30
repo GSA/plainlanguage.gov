@@ -27,7 +27,7 @@ There are many techniques that can help you achieve this goal. Among the most co
 - Common, everyday words
 - Easy-to-read design features
 
-We've developed [templates]({{ site.baseurl }}/law/page-template/), [checklists]({{ site.baseurl }}/law/checklist/), and in-depth [writing guidelines]({{ site.baseurl }}/guidelines/) to help you develop communications in plain language.
+We've developed [templates]({{ site.baseurl }}/law/page-template/), [checklists]({{ site.baseurl }}/resources/checklists/), and in-depth [writing guidelines]({{ site.baseurl }}/guidelines/) to help you develop communications in plain language.
 
 ## Other definitions of plain language
 
