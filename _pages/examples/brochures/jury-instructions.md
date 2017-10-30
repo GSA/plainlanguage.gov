@@ -24,23 +24,25 @@ A preponderance of the evidence. | More likely than not.
 Failure of recollection is common. Innocent misrecollection is not uncommon. | People often forget things or make mistakes in what they remember.
 Circumstantial evidence is evidence that, if found to be true, proves a fact from which an inference of the existence of another fact may be drawn. A factual inference is a deduction that may logically and reasonably be drawn from one or more facts established by the evidence. | Some evidence proves a fact directly, such as testimony of a witness who saw a jet plane flying across the sky. Some evidence proves a fact indirectly, such as testimony of a witness who saw only the white trail that jet planes often leave. This indirect evidence is sometimes referred to as "circumstantial evidence." In either instance, the witness's testimony is evidence that a jet plane flew across the sky.
 The amount of caution required of a person whose physical faculties are impaired is the care which a person of ordinary prudence with similarly impaired faculties would use under circumstances similar to those shown by the evidence.  | A person with a physical disability is required to use the amount of care that a reasonably careful person who has the same physical disability would use in the same situation.
+{:.example-table}
 
 ## Example
 
-### Before
+* #### Before
 
-A psychotherapist has no duty to warn third persons of a patient's threatened violent behavior, nor any duty to predict such behavior or to protect third persons from such behavior, unless the patient has communicated to the psychotherapist a serious threat of physical violence against [a] reasonably identifiable potential victim[s]. If a patient has communicated such a threat to a psychotherapist the psychotherapist then has a duty to warn and to protect the reasonably identifiable potential victim[s]. If you find a psychotherapist had this duty, it is satisfied and there is no liability if the psychotherapist made reasonable efforts to communicate the threat to the victim or victims and to a law enforcement agency.
+  A psychotherapist has no duty to warn third persons of a patient's threatened violent behavior, nor any duty to predict such behavior or to protect third persons from such behavior, unless the patient has communicated to the psychotherapist a serious threat of physical violence against [a] reasonably identifiable potential victim[s]. If a patient has communicated such a threat to a psychotherapist the psychotherapist then has a duty to warn and to protect the reasonably identifiable potential victim[s]. If you find a psychotherapist had this duty, it is satisfied and there is no liability if the psychotherapist made reasonable efforts to communicate the threat to the victim or victims and to a law enforcement agency.
 
-### After
+* #### After
 
-[Name of plaintiff] claims that [name of defendant] was negligent because [he/she] did not warn [name of plaintiff] or a law enforcement agency about [name of third party ]'s threat of violent behavior. To establish this claim, [name of plaintiff] must prove all of the following:
+  [Name of plaintiff] claims that [name of defendant] was negligent because [he/she] did not warn [name of plaintiff] or a law enforcement agency about [name of third party ]'s threat of violent behavior. To establish this claim, [name of plaintiff] must prove all of the following:
 
-1. That [name of defendant] was a psychotherapist.
+  1. That [name of defendant] was a psychotherapist.
 
-2. That [name of third party] was [name of defendant ]'s patient.
+  2. That [name of third party] was [name of defendant ]'s patient.
 
-3. That [name of third party] communicated a serious threat of physical violence to [name of defendant].
+  3. That [name of third party] communicated a serious threat of physical violence to [name of defendant].
 
-4. That [name of defendant] knew or should have known that [name of plaintiff] was [name of third party ]'s intended victim.
+  4. That [name of defendant] knew or should have known that [name of plaintiff] was [name of third party ]'s intended victim.
 
-5. That [name of defendant] did not make reasonable efforts to warn [name of plaintiff] and a law enforcement agency about the threat.
+  5. That [name of defendant] did not make reasonable efforts to warn [name of plaintiff] and a law enforcement agency about the threat.
+{: .example-side-by-side}
