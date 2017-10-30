@@ -64,20 +64,20 @@ $example-good-color: #0D855B;
     margin-bottom: 0;
   }
 
-  h3 {
+  & > h3 {
     color: $color-base;
     font-weight: $font-normal;
     margin-bottom: $spacing-md-small;
     margin-top: 0;
   }
 
-  h4 {
+  & > h4 {
     font-weight: $font-normal;
     margin-top: 0;
     padding-bottom: $spacing-x-small;
   }
 
-  li {
+  & > li {
     background-color: $color-tan;
     border: 1px solid $color-tan-dark;
     border-radius: 4px;
@@ -109,7 +109,7 @@ $example-good-color: #0D855B;
 }
 
 @media #{$breakpoint-md} {
-  #main-content .example-side-by-side li {
+  #main-content .example-side-by-side > li {
     @include span-columns(6);
     margin-bottom: 0;
     padding: $spacing-medium;
