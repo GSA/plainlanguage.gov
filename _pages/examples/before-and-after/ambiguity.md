@@ -1,6 +1,6 @@
 ---
 title: Ambiguous wording rewritten
-permalink: /examples/regulations/ambiguity/
+permalink: /examples/before-and-after/ambiguity/
 sidenav: examples
 redirect_from:
   - http://www.plainlanguage.gov/examples/before_after/ambigwd.cfm

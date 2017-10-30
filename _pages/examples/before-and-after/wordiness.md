@@ -1,6 +1,6 @@
 ---
 title: Wordiness made spare
-permalink: /examples/regulations/wordiness/
+permalink: /examples/before-and-after/wordiness/
 sidenav: examples
 redirect_from:
   - http://www.plainlanguage.gov/examples/before_after/wordiness.cfm
