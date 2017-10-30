@@ -39,7 +39,7 @@ Don't say | Say
 
 Here are some expressions that signal double negatives.
 
-Change the double negative | To a positive
+Don't say | Say
 -------------------------- | -----------------
 no fewer than ...          | at least
 has not yet attained       | is under
