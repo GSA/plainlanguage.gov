@@ -2,7 +2,9 @@
 title: Plain language in government
 permalink: /about/history/
 sidenav: about
-intro:
+redirect_from:
+  - http://www.plainlanguage.gov/whatisPL/govmandates/index.cfm
+  - http://www.plainlanguage.gov/whatisPL/history/index.cfm
 ---
 
 This timeline is an abbreviated and updated version of [A History of Plain Language in the Government]({{ site.baseurl }}{% link _pages/about/history/plain-language-in-the-government.md %}) by Joanne Locke.
@@ -30,7 +32,9 @@ Dockets](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inf
 
 * [Walters v. Reno](http://www.ca9.uscourts.gov/ca9/newopinions.nsf/04485f8dcbd4e1ea882569520074e698/6e9ec23768fd7e8888256e5a00718998?OpenDocument), 145 F.3d 1032 (9th Cir. 1998). Court decision that forms issued by the Immigration and Naturalization Service were so confusing and misleading that they violated a person's due-process rights.
 
-* PLAIN issued [guidelines for implementing the presidential memos]({{ site.baseurl }}{% link _pages/about/history/memo-guidelines.md %}) in 1998.
+* PLAIN issued [guidelines for implementing the presidential memos]({{ site.baseurl }}{% link _pages/law/memo-guidelines.md %}) in 1998.
+
+* President Clinton issued a [Memorandum on Plain Language in Government Writing](http://www.presidency.ucsb.edu/ws/?pid=56067) in 1998.
 
 * President Clinton signed two executive orders: [E.O. 12866](https://www.archives.gov/files/federal-register/executive-orders/pdf/12866.pdf) in 1993 and [E.O. 12988](https://www.gpo.gov/fdsys/pkg/FR-1996-02-07/pdf/96-2755.pdf) in 1996.
 

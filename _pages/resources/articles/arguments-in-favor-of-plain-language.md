@@ -2,16 +2,11 @@
 title: Arguments in favor of plain language
 permalink: /resources/articles/arguments-in-favor-of-plain-language/
 sidenav: resources
+redirect_from:
+  - http://www.plainlanguage.gov/whyPL/arguments_in_favor/index.cfm
 ---
 
 There have been several traditional arguments against plain language — plain language is dumbing down, plain language can't be used with technical subjects, plain language oversimplifies, plain language is not precise. By now, however, the arguments against plain language have been refuted.
-
-The benefits of plain language are both tangible and intangible:
-
-- Plain language gets your message across in the shortest time possible.
-- More people are able to understand your message.
-- There is less chance that your document will be misunderstood, so you spend less time explaining it to people. And if your document gives instructions, your readers are more likely to understand them and follow them correctly.
-- Many studies have shown that plain language affects your bottom line. You can save time, personnel resources, and money. And you will give better service to your readers.
 
 This page includes some of the key articles that support using plain language.
 

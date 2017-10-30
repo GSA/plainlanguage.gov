@@ -2,6 +2,8 @@
 title: What is plain language?
 permalink: /about/definitions/
 sidenav: about
+redirect_from:
+  - http://www.plainlanguage.gov/whatisPL/index.cfm
 ---
 
 **Plain language** (also called plain writing or plain English) is communication your audience can understand the first time they read or hear it.
