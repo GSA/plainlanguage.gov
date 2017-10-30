@@ -24,18 +24,13 @@ That study says that even in a very short document like a half-page warranty, pe
 4\. My conclusion from all my research is that headings need to make connections to the user. Single nouns or noun phrases that have no people and no verbs in them do not do well as headings. However, this does not mean that questions are always the best type of heading. Other types of headings that work well are
 
 - verb phrases like
-
 - Filling out the Application
-
 - sentences like
-
 - You Must Get a Permit to Operate a Center
-
 - and even phrases that have pronouns and verbs
-
 - What You Must Do First
 
-All of these help users connect to the text and cue the user better than nouns do. In a user's manual, people are trying to do tasks--actions. Actions are verbs. Verb phrases are the best headings for sections that relate to procedures. Ssometimes verb phrases would make good headings for procedural sections of rules.
+All of these help users connect to the text and cue the user better than nouns do. In a user's manual, people are trying to do tasks--actions. Actions are verbs. Verb phrases are the best headings for sections that relate to procedures. Sometimes verb phrases would make good headings for procedural sections of rules.
 
 5\. Writing a good verb heading
 
@@ -51,7 +46,6 @@ In our study, we found that when the headings all started with "how to," users c
 - Filling out the permit
 - Changing your address
 
-<br>
 users could see the different actions right away.
 
 6\. One issue that writers need to consider is that we also want to strive for parallelism in the way we write the headings in a particular section of the rules at a particular level of heading. It takes more mental energy to switch back and forth in understanding when the structure of the headings keeps changing. If the structure changes with the level that's okay because it in fact helps users understand the document--the change from one structure to another signals a change from top level to subtopic. So, one of the reasons to use questions in regulations is parallelism. Once we start with a question, it is easier for users if we keep going with questions, like this:
@@ -72,27 +66,18 @@ So, I like to suggest that we find the best structure for headings for a particu
 
 - Do I need a permit?
 - How do I get a permit?
-
 - Applying for a permit
-
 - Filling out the application form
-
 - Signing the application form
 - Sending in the application form
-
 - What do I do if I change my address?
-
 - Are permits renewable?
-
 - Arranging for a renewal
 
-One consideration in writing questions is being concise. I originally wrote
-
-<br>
+One consideration in writing questions is being concise. I originally wrote:
 
 - What do I need to do to get a permit?
 
-<br>
-Then I looked at that and said "too long," so I rewrote it as
+Then I looked at that and said "too long," so I rewrote it as:
 
 - How do I get a permit?

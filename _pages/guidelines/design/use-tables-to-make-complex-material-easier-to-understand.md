@@ -1,6 +1,8 @@
 ---
 title: Use tables to make complex material easier to understand
 sidenav: guidelines
+redirect_from:
+  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeTables.cfm
 sources:
   - author: 'Kimble, Joseph'
     title: Lifting the Fog of Legalese

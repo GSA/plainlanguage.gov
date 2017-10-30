@@ -1,6 +1,10 @@
 ---
 title: Add useful headings
 sidenav: guidelines
+redirect_from:
+  - http://www.plainlanguage.gov/howto/guidelines/headings.cfm
+  - http://www.plainlanguage.gov/howto/quickreference/pops/headers.cfm
+  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/orgHeadings.cfm
 sources:
   - author: 'Garner, Bryan A.'
     title: Legal Writing in Plain English
@@ -98,3 +102,4 @@ Don't say | Say
 § 254.13 Multi-tribal grants | § 254.13 When must I submit my application?
 § 254.14 Administrative requirements | § 254.14 Can a multi-tribal organization submit a single grant request?
 § 254.15 Appeals | § 254.15 What special information do I need for an application by a multi-tribal organization?
+{:.example-table}

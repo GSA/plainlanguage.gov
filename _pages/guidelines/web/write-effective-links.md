@@ -1,6 +1,8 @@
 ---
 title: Write effective links
 sidenav: guidelines
+redirect_from:
+  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/links.cfm
 sources:
   - author: 'McGovern, Gerry'
     title: 'Killer Web Content: Make the Sale, Deliver the Service, Build the Brand (and other works)'

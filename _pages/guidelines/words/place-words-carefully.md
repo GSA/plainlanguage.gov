@@ -3,6 +3,7 @@ title: Place words carefully
 sidenav: guidelines
 redirect_from:
   - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeWordPlace.cfm
+  - http://www.plainlanguage.gov/howto/quickreference/pops/placement.cfm
 sources:
   - author: 'Garner, Bryan A.'
     title: Garner's Modern American Usage
