@@ -2,6 +2,7 @@
 title: Federal plain language guidelines
 permalink: /guidelines/
 sidenav: guidelines
+pagination: false
 redirect_from:
   - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/index.cfm
   - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/FederalPLGuidelines.pdf

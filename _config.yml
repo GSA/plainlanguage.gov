@@ -57,6 +57,10 @@ defaults:
       type: "pages"
     values:
       layout: "docs"
+  - scope:
+      path: "_pages/guidelines"
+    values:
+      pagination: true
 
 collections:
   pages:

@@ -1,0 +1,9 @@
+.pagination {
+  border-top: 1px solid $border-color;
+  margin-top: $spacing-medium;
+  padding-top: $spacing-medium;
+
+  .usa-width-one-half {
+    @include span-columns(6);
+  }
+}
