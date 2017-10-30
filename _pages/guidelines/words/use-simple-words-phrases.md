@@ -1,13 +1,16 @@
 ---
-title: Simple words and phrases
+title: 'Use simple words and phrases'
 sidenav: guidelines
 redirect_from:
-- http://www.plainlanguage.gov/howto/wordsuggestions/simplewords.cfm
+  - http://www.plainlanguage.gov/howto/wordsuggestions/simplewords.cfm
 ---
+
+When you're making word choices, pick the familiar or commonly used word over the unusual or obscure. There are many lists of complex words and suggested substitutes, like the one below. See also the lists in Kimble (2006).
 
 Bold marks the dirty dozen, the 12 offenders most likely to weaken your work.
 
 **Don’t say** | **Say**
+---- | ----
 a and/or b | a or b or both
 accompany | go with
 accomplish | carry out, do
