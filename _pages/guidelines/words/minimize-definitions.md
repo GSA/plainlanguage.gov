@@ -1,6 +1,8 @@
 ---
 title: Minimize definitions
 sidenav: guidelines
+redirect_from:
+  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeDefs.cfm
 sources:
   - author: 'Cohen, Morris'
     title: Reason and Law

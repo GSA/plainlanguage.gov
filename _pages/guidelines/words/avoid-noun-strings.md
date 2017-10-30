@@ -1,6 +1,8 @@
 ---
 title: Avoid noun strings
 sidenav: guidelines
+redirect_from:
+  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeNoNounStrings.cfm
 sources:
   - author: 'Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.'
     title: 'Clear & Effective Legal Writing, 4th edition'
@@ -36,7 +38,7 @@ Technically, clustering nouns turns all but the last noun into adjectives. Howev
 Bring these constructions under control by eliminating descriptive words that aren't essential. If you can't do that, open up the construction by using more prepositions and articles to clarify the relationships among the words.
 
 Don't say | Say
------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------
+--- | ----
 Underground mine worker safety protection procedures development | Developing procedures to protect the safety of workers in underground mines
 Draft laboratory animal rights protection regulations | Draft regulations to protect the rights of laboratory animals
 National Highway Traffic Safety Administration's automobile seat belt interlock rule | The National Highway Traffic Safety Administration's interlock rule applies to automotive seat belts

@@ -1,6 +1,8 @@
 ---
 title: Avoid hidden verbs
 sidenav: guidelines
+redirect_from:
+  - http://www.plainlanguage.gov/howto/guidelines/bigdoc/writenoverbnouns.cfm
 sources:
   - author: 'Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.'
     title: 'Clear & Effective Legal Writing, 4th edition'
@@ -25,6 +27,7 @@ sources:
   - author: 'Wright, Nick'
     title: Hidden Verbs
     link: 'http://www.plainlanguage.gov/howto/wordsuggestions/hiddenverbs.cfm'
+
 ---
 
 Use the strongest, most direct form of the verb possible. Too often, we hide verbs by turning them into nouns, making them less effective and using more words than we need. Hidden verbs are a particular problem in government writing.

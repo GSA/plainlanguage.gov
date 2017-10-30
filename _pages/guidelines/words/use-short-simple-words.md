@@ -10,6 +10,8 @@ sources:
   - author: 'McGinty, Kathy'
     title: Nine Easy Steps to Longer Sentences
     link: 'http://www.plainlanguage.gov/examples/humor/9easysteps.cfm'
+redirect_from:
+  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeShort.cfm
 ---
 
 Word choice is an important part of communicating clearly. While there is generally no problem with being expressive, most federal writing has no place for literary flair. People do not curl up in front of the fire with a federal regulation to have a relaxing read.
@@ -30,4 +32,4 @@ And the original, using stronger, simpler words:
 
 > More night jobs would keep youths off the streets.
 
-When you're making word choices, pick the familiar or commonly used word over the unusual or obscure. There are many lists of complex words and suggested substitutes, for example [Simple words and phrases]({{ site.baseurl }}{% link _pages/guidelines/words/simple-words-and-phrases.md %})). See also the lists in Kimble (2006).
+When you're making word choices, pick the familiar or commonly used word over the unusual or obscure. There are many lists of complex words and suggested substitutes, for example [Simple words and phrases]({{ site.baseurl }}{% link _pages/guidelines/words/simple-words-and-phrases.md %}). See also the lists in Kimble (2006).
