@@ -42,3 +42,4 @@ Don't say | Say
 Underground mine worker safety protection procedures development | Developing procedures to protect the safety of workers in underground mines
 Draft laboratory animal rights protection regulations | Draft regulations to protect the rights of laboratory animals
 National Highway Traffic Safety Administration's automobile seat belt interlock rule | The National Highway Traffic Safety Administration's interlock rule applies to automotive seat belts
+{:.example-table}

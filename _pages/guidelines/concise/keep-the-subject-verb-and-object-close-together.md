@@ -1,5 +1,7 @@
 ---
 title: 'Keep the subject, verb, and object close together'
+redirect_from:
+  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeProximity.cfm
 sidenav: guidelines
 sources:
   - author: 'Garner, Bryan A.'
@@ -46,5 +48,6 @@ If you submit your form: | We must receive it by:
 --- | ---
 By email | the 25th of the second month following the month you are reporting
 By mail or fax | the 15th of the second month following the month you are reporting
+{:.example-table}
 
 For more information on tables see [Use tables to make complex material easier to understand]({{ site.baseurl }}{% link _pages/guidelines/design/use-tables-to-make-complex-material-easier-to-understand.md %}).
