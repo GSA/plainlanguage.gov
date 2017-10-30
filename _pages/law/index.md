@@ -16,7 +16,7 @@ Executive departments and agencies must:
 
 2. Follow [OMB's Guidance on Implementing the Plain Writing Act](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2011/m11-15.pdf).
 
-3. Make sure your agency has a plain writing section of its website. Start with our templates for your [plain writing page]({{ 'law/page-template/' | relative_url }}) and [compliance report]({{ '/media/agency_compliance_report_template.doc' | relative_url }}).
+3. Have a plain writing section on your website. Start with our templates for your [plain writing page]({{ 'law/page-template/' | relative_url }}) and [compliance report]({{ '/media/agency_compliance_report_template.doc' | relative_url }}).
 
 ## Deadlines
 
