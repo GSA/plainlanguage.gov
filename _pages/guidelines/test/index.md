@@ -2,6 +2,9 @@
 title: Test your assumptions
 sidenav: guidelines
 permalink: /guidelines/test/
+redirect_from:
+  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/testing.cfm
+  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/testsuccess.cfm
 ---
 
 Testing your content should be an integral part of your writing and planning process—not just something you just do after the fact. It's especially important to test our assumptions in government, because we're often writing for thousands or even millions of people.

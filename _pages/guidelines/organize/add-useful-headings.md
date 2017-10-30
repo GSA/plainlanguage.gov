@@ -1,6 +1,10 @@
 ---
 title: Add useful headings
 sidenav: guidelines
+redirect_from:
+  - http://www.plainlanguage.gov/howto/guidelines/headings.cfm
+  - http://www.plainlanguage.gov/howto/quickreference/pops/headers.cfm
+  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/orgHeadings.cfm
 sources:
   - author: 'Garner, Bryan A.'
     title: Legal Writing in Plain English
@@ -83,9 +87,10 @@ In the following example, broad topic headings help organize the document, and s
 
 Headings should not be so long that they overwhelm the material itself. Avoid headings with one-word answers. With rare exceptions, headings should be shorter than the content that follows them.
 
-Heading overwhelms content | Content should be longer than headings
+Don't say | Say
 ---- | ----
 **Do I have to file a newspaper notice of my activities before I begin operations?** Yes. | **Do I need to publish a public notice?** You must publish a notice of your operations in a local newspaper before you begin.
+{:.example-table}
 
 ### Focus on clarity over brevity
 
@@ -98,3 +103,4 @@ Don't say | Say
 § 254.13 Multi-tribal grants | § 254.13 When must I submit my application?
 § 254.14 Administrative requirements | § 254.14 Can a multi-tribal organization submit a single grant request?
 § 254.15 Appeals | § 254.15 What special information do I need for an application by a multi-tribal organization?
+{:.example-table}

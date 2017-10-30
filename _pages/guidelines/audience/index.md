@@ -2,6 +2,9 @@
 title: Write for your audience
 sidenav: guidelines
 permalink: /guidelines/audience/
+redirect_from:
+  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/think.cfm
+  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/audId.cfm
 sources:
   - author: 'Garner, Bryan A.'
     title: Legal Writing in Plain English

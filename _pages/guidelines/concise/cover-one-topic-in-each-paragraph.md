@@ -1,6 +1,8 @@
 ---
 title: Cover one topic in each paragraph
 sidenav: guidelines
+redirect_from:
+  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/write1Issue.cfm
 ---
 
 Limit each paragraph or section to one topic to make it easier for your audience to understand your information. Each paragraph should start with a topic sentence that captures the essence of everything in the paragraph.

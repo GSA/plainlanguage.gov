@@ -1,6 +1,10 @@
 ---
 title: Write short sentences
 sidenav: guidelines
+redirect_from:
+  - http://www.plainlanguage.gov/howto/quickreference/pops/short.cfm
+  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeShortSent.cfm
+  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/sentences.cfm
 sources:
   - author: 'Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.'
     title: 'Clear & Effective Legal Writing, 4th edition'
@@ -53,6 +57,7 @@ Sentences loaded with dependent clauses and exceptions confuse the audience by l
 Don't say  | Say
 ---- | ----
 Once the candidate's goals are established, one or more potential employers are identified. A preliminary proposal for presentation to the employer is developed. The proposal is presented to an employer who agrees to negotiate an individualized job that meets the employment needs of the applicant and real business needs of the employer. | Once we establish your goals, we identify one or more potential employers. We prepare a preliminary proposal to present to an employer who agrees to negotiate a job that meets both his and your employment needs.
+{:.example-table}
 
 Complexity is the greatest enemy of clear communication. You may need to be especially inventive to translate complicated provisions into more manageable language. In the following example, we have made an "if" clause into a separate sentence. By beginning the first sentence with "suppose" (that is, "if") and the second sentence with "in this case" (that is, "then") we have preserved the relationship between the two.
 

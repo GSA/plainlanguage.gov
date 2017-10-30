@@ -1,6 +1,9 @@
 ---
 title: Use lists
 sidenav: guidelines
+redirect_from:
+  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeLists.cfm
+  - http://www.plainlanguage.gov/howto/quickreference/pops/levels.cfm
 sources:
   - author: 'Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.'
     title: 'Clear & Effective Legal Writing, 4th edition'
@@ -107,3 +110,7 @@ Make sure each of the bullets in a list can make a complete sentence if combined
 - Your application
 - Recommendation letter
 - Mail it express mail
+
+## Use no more than two or three levels
+
+Readers get lost when you use more than two or three levels in a document. If you find you need more levels, consider sub-dividing your top level into more parts.

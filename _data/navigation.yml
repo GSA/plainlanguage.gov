@@ -50,6 +50,8 @@ guidelines:
   - text: Choose your words carefully
     href: '/guidelines/words/'
     subnav:
+      - text: 'Use simple words and phrases'
+        href: '/guidelines/words/use-simple-words-phrases/'
       - text: Avoid hidden verbs
         href: '/guidelines/words/avoid-hidden-verbs/'
       - text: Avoid noun strings
@@ -67,8 +69,6 @@ guidelines:
   - text: Be concise
     href: '/guidelines/concise/'
     subnav:
-      - text: 'Use short, simple words'
-        href: '/guidelines/concise/use-short-simple-words/'
       - text: Write short sentences
         href: '/guidelines/concise/write-short-sentences/'
       - text: Keep the subject, verb, and object close together
