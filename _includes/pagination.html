@@ -33,7 +33,7 @@
   {% if _current > 0 %}
   <div class="usa-width-one-half">
     <h5 class="caps mt0">Previous</h5>
-    <a href="{{ _pages[_prev][0] }}">{{ _pages[_prev][1] }}</a>
+    <a href="{{ _pages[_prev][0] | relative_url }}">{{ _pages[_prev][1] }}</a>
   </div>
   {% endif %}
   {% assign _next = _current | plus: 1 %}
@@ -41,7 +41,7 @@
   {% if _current < subpages_total %}
   <div class="{% if _current != 0 %}usa-width-one-half {% endif %}right-align">
     <h5 class="caps mt0">Next</h5>
-    <a href="{{ _pages[_next][0] }}">{{ _pages[_next][1] }}</a>
+    <a href="{{ _pages[_next][0] | relative_url }}">{{ _pages[_next][1] }}</a>
   </div>
   {% endif %}
 </div>
