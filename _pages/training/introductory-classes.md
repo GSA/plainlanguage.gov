@@ -2,6 +2,8 @@
 title: Introductory classes
 permalink: /training/introductory-classes/
 sidenav: training
+redirect_from:
+  - http://www.plainlanguage.gov/resources/take_training/freetraining.cfm
 ---
 
 PLAIN is dedicated to helping federal agencies train their staff to communicate clearly and develop their own plain language programs.
