@@ -2,6 +2,10 @@
 title: Follow web standards
 sidenav: guidelines
 permalink: /guidelines/web/
+redirect_from:
+  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/useWeb.cfm
+  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/webTechniques.cfm
+  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeWeb.cfm
 sources:
   - title: How Little Do Users Read?
     link: 'https://www.nngroup.com/articles/how-little-do-users-read/'

@@ -1,6 +1,8 @@
 ---
 title: Consider using visuals
 sidenav: guidelines
+redirect_from:
+  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeIllustrat.cfm
 ---
 
 While government pamphlets and similar items intended for the public usually include photos and illustrations, visuals rarely appear in letters or regulations. However, even in these documents, you can use illustrations to good effect. Consider these examples from regulations.

@@ -1,6 +1,9 @@
 ---
 title: Write short paragraphs
 sidenav: guidelines
+redirect_from:
+  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeShortPara.cfm
+  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/paragraphs.cfm
 sources:
   - author: 'Garner, Bryan A.'
     title: Legal Writing in Plain English

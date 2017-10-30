@@ -1,6 +1,8 @@
 ---
 title: Use contractions
 sidenav: guidelines
+redirect_from:
+  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeContract.cfm
 sources:
   - author: 'Danielson, Wayne A. and Dominic L. Larosa'
     title: 'A New Readability Formula Based on the Stylistic Age of Novels, 33'
@@ -28,3 +30,4 @@ Use contractions with discretion. Just as you shouldn't bullet everything on a p
 Don't say | Say
 --- | ---
 No pilot in command of a civil aircraft may allow any object to be dropped from that aircraft in flight that creates a hazard to persons or property. | If you are a pilot in command of a civil aircraft, don't allow any object that creates a hazard to persons or property to be dropped from that aircraft during flight.
+{:.example-table}

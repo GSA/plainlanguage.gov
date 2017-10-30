@@ -1,6 +1,8 @@
 ---
 title: Use tables to make complex material easier to understand
 sidenav: guidelines
+redirect_from:
+  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeTables.cfm
 sources:
   - author: 'Kimble, Joseph'
     title: Lifting the Fog of Legalese
@@ -23,6 +25,8 @@ sources:
     publisher: 'Washington, DC'
     page: pp. 49-52
 ---
+
+You can shorten and clarify complex material by [using lists]({{ site.baseurl }}/guidelines/organize/use-lists/) and tables. And these features give your document more white space, making it more appealing to the reader.
 
 Tables help your audience see relationships that are often times hidden in dense text. And for most readers, it's not necessary to understand all possibilities and conditions, only those that apply to the reader's situation.
 
