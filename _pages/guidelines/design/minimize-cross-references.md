@@ -1,6 +1,9 @@
 ---
 title: Minimize cross-references
 sidenav: guidelines
+redirect_from:
+  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeNoXRefs.cfm
+  - http://www.plainlanguage.gov/howto/quickreference/pops/complex.cfm
 sources:
   - author: 'Flesch, Rudolf'
     title: 'How to Write in Plain English, A Book for Lawyers and Consumers'
@@ -40,6 +43,7 @@ In this excerpt, the first cross-reference is to brief material, so you can just
 Before | After
 --- | ---
 If you hold one of the vehicle entry passes listed in Section 18 for entry into a national park, you may camp in that park. But you may not sleep in a tent if the park has declared one of the animal danger levels described in paragraphs (c) through (h) of Section 51, and the campsite is not covered by an animal emergency plan as described in Section 52. | If you hold a daily, weekly, or annual vehicle entry pass for a national park, you may camp in that park. But you may not sleep in a tent if the park has declared one of the animal danger levels described in paragraphs (c) through (h) of Section 51, and the campsite is not covered by an animal emergency plan.
+{:.example-table}
 
 ### Move cross-references to the end of a passage
 
@@ -48,6 +52,7 @@ If you must include cross-references, consider putting them at the end of the te
 Before | After
 --- | ---
 If you hold one of the vehicle entry passes listed in Section 18 for entry into a national park, you may camp in that park. But you may not sleep in a tent if the park has declared one of the animal danger levels described in paragraphs (c) through (h) of Section 51, and the campsite is not covered by an animal emergency plan as described in Section 52. | If you hold a daily, weekly, or annual vehicle entry pass for a national park, you may camp in that park. But you may not sleep in a tent if the park has declared an animal danger level and the campsite is not covered by an animal emergency plan. See paragraphs (c) through (h) of Section 51 for animal danger levels, and Section 52 for animal emergency plans.
+{:.example-table}
 
 ## Referring to another agency's regulations
 

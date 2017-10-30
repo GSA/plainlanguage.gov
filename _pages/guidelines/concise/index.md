@@ -2,6 +2,8 @@
 title: Be concise
 sidenav: guidelines
 permalink: /guidelines/concise/
+redirect_from:
+  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeOmitUnnecc.cfm
 sources:
   - author: 'Garner, Bryan A.'
     title: Legal Writing in Plain English

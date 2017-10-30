@@ -2,6 +2,9 @@
 title: Federal plain language guidelines
 permalink: /guidelines/
 sidenav: guidelines
+redirect_from:
+  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/index.cfm
+  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/FederalPLGuidelines.pdf
 ---
 
 These are the official guidelines for the [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/content-detail.html). We developed these guidelines to help you and your agency write clearly, so your users can:

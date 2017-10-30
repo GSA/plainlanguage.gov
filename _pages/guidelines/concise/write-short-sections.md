@@ -1,5 +1,7 @@
 ---
 title: Write short sections
+redirect_from:
+  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeShortSect.cfm
 sidenav: guidelines
 sources:
   - author: 'Kimble, Joseph'

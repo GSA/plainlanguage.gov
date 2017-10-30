@@ -1,6 +1,8 @@
 ---
 title: Place the main idea before exceptions and conditions
 sidenav: guidelines
+redirect_from:
+  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeExceptLast.cfm
 sources:
   - author: 'Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.'
     title: 'Clear & Effective Legal Writing, 4th edition'
@@ -31,6 +33,7 @@ When you start a sentence with an introductory phrase or clause beginning with "
 Don't say | Say
 --- | ---
 Except as described in paragraph (b), the Division Manager will not begin the statutory 180-day review period for the program until after the preliminary review determines that your submission is administratively complete. | The Division Manager will not begin the statutory 180-day review period for the program until the preliminary review determines that your submission is administratively complete. However, see paragraph (b) for an exception.
+{:.example-table}
 
 In the first version, the audience has to decide whether to jump immediately down to paragraph (b) or continue reading to the end of the sentence. This means the audience is focusing on reading strategy, not on your content.
 
@@ -43,12 +46,14 @@ If an exception or condition is just **_a few words_**, and seeing it first will
 Don't say | Say
 --- | ---
 With your grant application you must submit a resume containing your undergraduate, graduate, and any other professional education, your work experience in the field of health care, and the name, and phone number of current and previous employers in the health care field, **_unless you have already submitted this information_**. | **_Unless you have already submitted an up-to-date resume_**, you must submit a resume containing your undergraduate, graduate, and any other professional education, your work experience in the field of health care, and the name, address and phone number of current and previous employers in the health care field.
+{:.example-table}
 
 If an exception or condition is **_long_** and the main clause is **_short_**, put the main clause first and then state the exception or condition.
 
 Don't say | Say
 --- | ---
 **Except when you submitted an identical application for an education grant in the previous year and you received full or partial grant for that year's program**, we will schedule a hearing on your application. | We will schedule a hearing on your application, **except when you submitted an identical application for an education grant in the previous year and you received full or partial grant for that year's program.**
+{:.example-table}
 
 If a condition and the main clause are **_both long_**, _foreshadow_ the condition and put it at the end of the sentence. If there are several conditions, lead with "_if_" or a phrase such as "_in the following circumstances_."
 
@@ -77,15 +82,18 @@ Make implied conditions explicit by using **if**.
 Don't say | Say
 --- | ---
 A party must make advance arrangements with the hearing officer for the transportation and receipt of **_exhibits of unusual bulk_**. | **_If your exhibits are unusually bulky_**, you must make advance arrangements for transporting them with the hearing.
+{:.example-table}
 
 Avoid using an exception, if you can, by stating a rule or category directly rather than describing that rule or category by stating its exceptions.
 
 Don't say | Say
 ----| ----
 All persons except those 18 years or older must... | Each person under 18 years of age must...
+{:.example-table}
 
 But use an exception if it avoids a long and cumbersome list or elaborate description.
 
 Don't say | Say
 --- | ---
 Alabama, Alaska, ..., and Wyoming (a list of 47 states) must | Each state except Texas, New Mexico, and Arizona must...
+{:.example-table}

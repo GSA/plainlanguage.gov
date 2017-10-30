@@ -1,6 +1,8 @@
 ---
 title: Use “must” to indicate requirements
 sidenav: guidelines
+redirect_from:
+  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeMust.cfm
 sources:
   - author: 'Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.'
     title: 'Clear & Effective Legal Writing, 4th edition'
@@ -35,7 +37,7 @@ sources:
 
 The word "must" is the clearest way to convey to your audience that they have to do something. "Shall" is one of those officious words that has encumbered legal style writing for many years. The message that "shall" sends to the audience is, "this is deadly material." "Shall" is also obsolete. When was the last time you heard it used in everyday speech?
 
-Many legal scholars have written about the problem of "shall." Read a brief summary of several arguments at: [Shall and must]({{ site.baseurl }}{% link _pages/guidelines/words/shall-and-must.md %})).
+Many legal scholars have written about the problem of "shall." Read a brief summary of several arguments at: [Shall and must]({{ site.baseurl }}{% link _pages/guidelines/conversational/shall-and-must.md %})).
 
 Besides being outdated, "shall" is imprecise. It can indicate either an obligation or a prediction.
 

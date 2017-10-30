@@ -2,6 +2,9 @@
 title: Design for reading
 sidenav: guidelines
 permalink: /guidelines/design/
+redirect_from:
+  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/otherAids.cfm
+  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeDesign.cfm
 sources:
   - author: 'Schriver, Karen'
     title: 'Dynamics in Document Design: Creating Text for Readers'

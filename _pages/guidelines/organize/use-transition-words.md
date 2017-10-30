@@ -1,6 +1,8 @@
 ---
 title: Use transition words
 sidenav: guidelines
+redirect_from:
+  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeTransitions.cfm
 sources:
   - author: 'Garner, Bryan A.'
     title: Legal Writing in Plain English

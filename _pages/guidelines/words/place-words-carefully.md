@@ -1,6 +1,9 @@
 ---
 title: Place words carefully
 sidenav: guidelines
+redirect_from:
+  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeWordPlace.cfm
+  - http://www.plainlanguage.gov/howto/quickreference/pops/placement.cfm
 sources:
   - author: 'Garner, Bryan A.'
     title: Garner's Modern American Usage
@@ -17,12 +20,14 @@ Sloppy word placement can cause ambiguity. To reduce ambiguity:
 
 In the left column below, it's difficult to figure out which words relate to the forest products, which to the tribe, and which to the payments. The right column eliminates this problem by dividing the material into shorter sentences and pulling together the words about each provision.
 
-Confusing word placement | Clearer construction
+Don't say | Say
 --- | ---
 Upon the request of an Indian tribe, the Secretary may provide that the purchaser of the forest products of such tribe, which are harvested under a timber sale contract, permit, or other harvest sale document, make advance deposits, or direct payments of the gross proceeds of such forest products, less any amounts segregated as forest management deductions pursuant to section 163.25, into accounts designated by such Indian tribe. | If a tribe (you) asks us, we will require purchasers of your forest products to deposit their payment into an account that you designate. You can instruct us to deposit advance payments as well as direct payments into the account. We will withhold from the deposit any forest management deductions under section 163.25.
+{:.example-table}
 
-You will eliminate many potential sources of ambiguity by writing shorter sentences. The less complex the sentence, the clearer the meaning and less chance that ambiguity will creep in. Still, you must watch how you place words even in short sentences. In the example below, the audience may have to read the original statement several times to realize that we don't mean, "If you really want to have a disability ..."
+You will eliminate many potential sources of ambiguity by writing shorter sentences. The less complex the sentence, the clearer the meaning and less chance that ambiguity will creep in. Still, you must watch how you place words even in short sentences. In the example below, the audience may have to read the original statement several times to realize that we don't mean, "If you really want to have a disability..."
 
-Ambiguous construction | Clearer construction
+Don't say | Say
 --- | ---
 If you are determined to have a disability, we will pay you the following: | If we determine that you have a disability, we will pay you the following:
+{:.example-table}
