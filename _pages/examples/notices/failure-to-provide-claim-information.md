@@ -2,6 +2,8 @@
 title: Failure to Provide Claim Information
 permalink: /examples/notices/failure-to-provide-claim-information/
 sidenav: examples
+redirect_from:
+  - http://www.plainlanguage.gov/examples/government/VBA-noInfo.cfm
 ---
 
 addressee<br>

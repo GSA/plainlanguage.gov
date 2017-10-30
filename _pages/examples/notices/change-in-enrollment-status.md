@@ -2,6 +2,8 @@
 title: Change in Enrollment Status
 permalink: /examples/notices/change-in-enrollment-status/
 sidenav: examples
+redirect_from:
+  - http://www.plainlanguage.gov/examples/government/VBA-change.cfm
 ---
 
 addressee<br>

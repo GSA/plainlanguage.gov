@@ -2,6 +2,8 @@
 title: Jury instructions
 permalink: /examples/brochures/jury-instructions/
 sidenav: examples
+redirect_from:
+  - http://www.plainlanguage.gov/examples/before_after/jury.cfm
 ---
 
 Most jury instructions — long winded collections of complex sentences, arcane definitions and Talmudic distinctions — are all but impenetrable to lay people. So bad are some jury instructions that Court TV Anchor and former Prosecutor Nancy Grace reports having seen jurors turn to one another while listening to instructions and mouth the question, "What are they saying?"

@@ -2,6 +2,8 @@
 title: Pension Medical Evidence
 permalink: /examples/notices/pension-medical-evidence/
 sidenav: examples
+redirect_from:
+  - http://www.plainlanguage.gov/examples/government/VBA-pension.cfm
 ---
 
 addressee<br>

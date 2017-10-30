@@ -2,6 +2,8 @@
 title: Model preamble for a proposed rule
 permalink: /examples/regulations/model-preamble/
 sidenav: examples
+redirect_from:
+  - http://www.plainlanguage.gov/examples/government/BLM-PR.cfm
 ---
 
 This is an abridged version of a proposed rule published in the Federal Register on April 26, 2000 (65 FR 24541).

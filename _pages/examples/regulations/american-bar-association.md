@@ -2,6 +2,8 @@
 title: 'American Bar Association: Adoption by the House of Delegates'
 permalink: /examples/american-bar-association/
 sidenav: examples
+redirect_from:
+  - http://www.plainlanguage.gov/populartopics/regulations/aba.cfm
 ---
 
 August 9-10, 1999

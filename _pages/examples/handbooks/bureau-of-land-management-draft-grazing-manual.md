@@ -2,6 +2,8 @@
 title: 'Bureau of Land Management - Draft Grazing Manual, 12/97'
 permalink: /examples/handbooks/bureau-of-land-management-draft-grazing-manual/
 sidenav: examples
+redirect_from:
+  - http://www.plainlanguage.gov/examples/government/BLM-Manual.cfm
 ---
 
 **CHAPTER 2 - Range Improvements. _[excerpt, figures are not included]_**

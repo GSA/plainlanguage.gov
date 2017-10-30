@@ -2,6 +2,8 @@
 title: Department of Health and Human Services Handbook
 permalink: /examples/handbooks/hhs-handbook/
 sidenav: examples
+redirect_from:
+  - http://www.plainlanguage.gov/examples/before_after/pub_hhs_hlthcare.cfm
 ---
 
 The revised publication _Assuring Access to Essential Health Care_ replaces _Profile 1996_. The name alone is a significant improvement for readers, and makes it more likely they will read it. The rewritten publication eliminates irrelevant information, but includes illustrations and pictures of professionals and services.

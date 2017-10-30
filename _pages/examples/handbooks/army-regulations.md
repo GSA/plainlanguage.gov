@@ -2,6 +2,8 @@
 title: Army regulations
 permalink: /examples/handbooks/army-regulations/
 sidenav: examples
+redirect_from:
+  - http://www.plainlanguage.gov/examples/before_after/govregarmy.cfm
 intro: This rewritten version of an Army Information Security manual makes good use of subsections and white space and eliminates irrelevant information.
 
 ---
