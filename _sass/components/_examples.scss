@@ -64,25 +64,25 @@ $example-good-color: #0D855B;
     margin-bottom: 0;
   }
 
-  & > h3 {
-    color: $color-base;
-    font-weight: $font-normal;
-    margin-bottom: $spacing-md-small;
-    margin-top: 0;
-  }
-
-  & > h4 {
-    font-weight: $font-normal;
-    margin-top: 0;
-    padding-bottom: $spacing-x-small;
-  }
-
   & > li {
     background-color: $color-tan;
     border: 1px solid $color-tan-dark;
     border-radius: 4px;
     margin-bottom: $spacing-md-small;
     padding: $spacing-md-small;
+
+    & > h3 {
+      color: $color-base;
+      font-weight: $font-normal;
+      margin-bottom: $spacing-md-small;
+      margin-top: 0;
+    }
+
+    & > h4 {
+     font-weight: $font-normal;
+     margin-top: 0;
+     padding-bottom: $spacing-x-small;
+    }
 
     &:first-of-type {
       h4 {
