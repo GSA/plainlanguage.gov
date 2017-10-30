@@ -39,7 +39,7 @@
             {% for _link in section_links %}
             <li>
               <a href="{% if _link.external == true %}{{ _link.href }}{% else %}{{ _link.href | relative_url }}{% endif %}" class="{% if _link.href == page.permalink %} usa-current{% endif %}{% if _link.href != '/' %}{% if page.url contains _link.href or page.permalink contains _link.href %} current-parent{% endif %}{% endif %}">{{ _link.text }}</a>
-              {% if _link.subnav %}
+              {% if (page.url contains _link.href or page.permalink contains _link.href) and _link.subnav %}
               <ul class="usa-nav-submenu">
                 {% for sub_link in _link.subnav %}
                 <li>
