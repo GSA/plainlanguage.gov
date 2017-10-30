@@ -1,14 +1,12 @@
 ---
-title: Wordiness made spare
-permalink: /examples/regulations/airworthy-directives/
+title: 'Federal Aviation Administration: Airworthiness Directives'
+permalink: /examples/regulations/faa-regulation/
 sidenav: examples
 redirect_from:
   - http://www.plainlanguage.gov/examples/before_after/airworthydirective.cfm
 ---
 
-## Airworthy Directives Regulation: 14 CFR Part 39:
-
-Note the confusing organization in the "before" version. (Additional material not in old version of regulation omitted.)
+_Note the confusing organization in the "before" version. (Additional material not in old version of regulation omitted.)_
 
 * #### Before
 
