@@ -1,7 +1,7 @@
 ---
 title: Web checklist
-permalink: /law/web-checklist/
-sidenav: law
+permalink: /resources/checklists/web-checklist/
+sidenav: resources
 ---
 
 On the web, people are in a hurry. They skim and scan, looking for quick answers to their questions. Help your readers quickly find what they need with these web writing tips:
