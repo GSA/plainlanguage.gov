@@ -1,6 +1,7 @@
 ---
-title: 'National Oceanic and Atmosphere Administration quick-reference card'
-permalink: /examples/brochures/quick-reference-card/
+title: 'Regulation Quick-reference Card'
+author: National Oceanic and Atmosphere Administration
+permalink: /examples/regulations/quick-reference-card/
 sidenav: examples
 redirect_from:
   - http://www.plainlanguage.gov/examples/before_after/regfisheries.cfm

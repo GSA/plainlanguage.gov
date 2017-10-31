@@ -1,5 +1,5 @@
 ---
-title: Monthly Due Date
+title: Lead Warning
 author: Environmental Protection Agency
 permalink: /examples/before-and-after/lead-warning/
 sidenav: examples
@@ -16,12 +16,12 @@ _This example was created for training and is not official agency text._
 
   Lead in drinking water can make you sick. Here are some possible health effects of high lead levels in your drinking water.
 
-  Children:
+  **Children:**
   - Delayed growth
   - Learning disabilities
   - Short attention span
 
-  Adults:
+  **Adults:**
   - Kidney problems
   - High blood pressure
 {: .example-side-by-side}
