@@ -1,8 +1,8 @@
 ---
 title: No Gobbledygook Award 1
 author: Occupational Safety and Health Administration
-permalink: /about/history/awards/award-1/
-sidenav: about
+permalink: /examples/awards/award-1/
+sidenav: examples
 
 ---
 

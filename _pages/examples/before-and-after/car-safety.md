@@ -1,5 +1,5 @@
 ---
-title: Car safety
+title: Car Safety
 permalink: /examples/before-and-after/car-safety/
 sidenav: examples
 redirect_from:

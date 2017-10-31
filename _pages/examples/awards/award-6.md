@@ -1,7 +1,7 @@
 ---
 title: No Gobbledygook Award 6
-permalink: /about/history/awards/award-6/
-sidenav: about
+permalink: /examples/awards/award-6/
+sidenav: examples
 redirect_from:
   - http://www.plainlanguage.gov/examples/award_winning/award6.cfm
 ---

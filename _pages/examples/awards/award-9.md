@@ -1,15 +1,15 @@
 ---
 title: No Gobbledygook Award 9
-permalink: /about/history/awards/award-9/
-sidenav: about
+permalink: /examples/awards/award-9/
+sidenav: examples
 redirect_from:
   - http://www.plainlanguage.gov/examples/award_winning/award9.cfm
 ---
 
-The White House
+The White House  
 Office of the Vice President
 
-For Immediate Release
+For Immediate Release  
 April 26, 1999
 
 ## Veterans Benefits Administration Employees Get Vice President Gore's Plain Language Award
@@ -32,13 +32,14 @@ The rewritten letter significantly simplifies the message in language and format
 - Make it easier for the recipient to understand
 - Tell how addressees can get help if they need it
 
-### Before
+* #### Before
 
-"The proceeds of your life insurance policy will be paid to your last named beneficiary of record with the Department of Veterans Affairs according to the payment option selected by you. Our experience shows that many insureds fail to keep their designations up-to-date when there are changes in their personal circumstances... Therefore, if you desire, but have not selected the lump sum settlement option or cannot remember the option you selected, or believe your beneficiary designation is not otherwise current, we suggest you complete the enclosed form and return it to us."
+  The proceeds of your life insurance policy will be paid to your last named beneficiary of record with the Department of Veterans Affairs according to the payment option selected by you. Our experience shows that many insureds fail to keep their designations up-to-date when there are changes in their personal circumstances... Therefore, if you desire, but have not selected the lump sum settlement option or cannot remember the option you selected, or believe your beneficiary designation is not otherwise current, we suggest you complete the enclosed form and return it to us.
 
-### After
+* #### After
 
-"We are updating our computer systems for the year 2000. This also allows us to update the way we store our records and process our claims. This is a perfect opportunity for you to update your records as well. This letter will explain what we have done to update our records and what you can do to update yours."
+  We are updating our computer systems for the year 2000. This also allows us to update the way we store our records and process our claims. This is a perfect opportunity for you to update your records as well. This letter will explain what we have done to update our records and what you can do to update yours.
+{: .example-side-by-side}
 
 ### VBA Is Tracking Savings
 

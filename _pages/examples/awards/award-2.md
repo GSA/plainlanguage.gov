@@ -1,8 +1,8 @@
 ---
 title: No Gobbledygook Award 2
 author: Bureau of Land Management
-permalink: /about/history/awards/award-2/
-sidenav: about
+permalink: /examples/awards/award-2/
+sidenav: examples
 
 ---
 

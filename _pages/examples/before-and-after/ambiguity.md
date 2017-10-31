@@ -1,5 +1,5 @@
 ---
-title: Ambiguous wording rewritten
+title: Ambiguous Wording Rewritten
 permalink: /examples/before-and-after/ambiguity/
 sidenav: examples
 redirect_from:

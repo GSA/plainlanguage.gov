@@ -1,12 +1,12 @@
 ---
 title: No Gobbledygook Award 7
-permalink: /about/history/awards/award-7/
-sidenav: about
+permalink: /examples/awards/award-7/
+sidenav: examples
 redirect_from:
   - http://www.plainlanguage.gov/examples/award_winning/award7.cfm
 ---
 
-The White House
+The White House  
 Office of the Vice President
 
 ## Vice President Gore Lauds U.S. Securities and Exchange Commission Rewrite of Financial Disclosure Forms

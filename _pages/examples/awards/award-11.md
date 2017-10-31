@@ -1,15 +1,15 @@
 ---
 title: No Gobbledygook Award 11
-permalink: /about/history/awards/award-11/
-sidenav: about
+permalink: /examples/awards/award-11/
+sidenav: examples
 redirect_from:
   - http://www.plainlanguage.gov/examples/award_winning/award11.cfm
 ---
 
-The White House
+The White House  
 Office of the Vice President
 
-For Immediate Release
+For Immediate Release  
 July 20, 1999
 
 ## Vice President Gore Praises NASA Employee for Plain Language Rewrite of Safety and Health Handbook
@@ -30,26 +30,27 @@ With regard to today's announcement, below is a sample of the language both befo
 
 ## Chapter 204: Cryogenic Materials
 
-### Before
+* #### Before
 
-204.1 Purpose
+  **204.1 Purpose**
 
-The purpose of this chapter is to provide minimum safety requirements for the safe handling and use of the more commonly used cryogenic substances and to identify specific precautions, emergency treatment (Attachment 204A, Appendix B), protective clothing and equipment guidelines, training requirements, and housekeeping information.
+  The purpose of this chapter is to provide minimum safety requirements for the safe handling and use of the more commonly used cryogenic substances and to identify specific precautions, emergency treatment (Attachment 204A, Appendix B), protective clothing and equipment guidelines, training requirements, and housekeeping information.
 
-Requirements set forth in this chapter shall apply to all JSC personnel performing operations that require the use, handling, or storage of cryogenic materials. Liquid oxygen or liquid hydrogen used as propellants shall follow the requirements of chapter 206, "Explosives and Propellants." Each supervisor involved with cryogenic substances shall thoroughly understand the hazards involved, the safe handling methods, work procedures, and emergency procedures, and ensure that these procedures are understood and strictly adhered to.
+  Requirements set forth in this chapter shall apply to all JSC personnel performing operations that require the use, handling, or storage of cryogenic materials. Liquid oxygen or liquid hydrogen used as propellants shall follow the requirements of chapter 206, "Explosives and Propellants." Each supervisor involved with cryogenic substances shall thoroughly understand the hazards involved, the safe handling methods, work procedures, and emergency procedures, and ensure that these procedures are understood and strictly adhered to.
 
-Facility managers shall be familiar with the cryogenic safety and emergency procedures to ensure that they are implemented in the workplace.
+  Facility managers shall be familiar with the cryogenic safety and emergency procedures to ensure that they are implemented in the workplace.
 
-Each employee working with cryogenic substances shall thoroughly understand the hazards involved, safe handling methods, work procedures, and emergency procedures.
+  Each employee working with cryogenic substances shall thoroughly understand the hazards involved, safe handling methods, work procedures, and emergency procedures.
 
-### After
+* #### After
 
-This could be you:
+  **This could be you:**
 
-Two technicians passed out while transferring liquid nitrogen from a truck because nitrogen spilled into the loading dock and displaced oxygen in the area. They were rescued and are okay. A liquid helium dewar ruptured. Fortunately, no one was in the room at the time. A liquid nitrogen dewar exploded and sent glass fragments flying. Fortunately, the technicians working with the dewar were not in the path of the flying glass.
+  Two technicians passed out while transferring liquid nitrogen from a truck because nitrogen spilled into the loading dock and displaced oxygen in the area. They were rescued and are okay. A liquid helium dewar ruptured. Fortunately, no one was in the room at the time. A liquid nitrogen dewar exploded and sent glass fragments flying. Fortunately, the technicians working with the dewar were not in the path of the flying glass.
 
-You must follow this chapter if you:
+  You must follow this chapter if you:
 
-- Handle, store, or transfer cryogenic liquids as a part of your job.
-- Handle or work around gaseous nitrogen, oxygen, or hydrogen.
-- Supervise anyone who does the above tasks.
+  - Handle, store, or transfer cryogenic liquids as a part of your job.
+  - Handle or work around gaseous nitrogen, oxygen, or hydrogen.
+  - Supervise anyone who does the above tasks.
+{: .example-side-by-side}

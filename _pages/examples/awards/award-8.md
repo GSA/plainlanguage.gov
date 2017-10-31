@@ -1,15 +1,15 @@
 ---
 title: No Gobbledygook Award 8
-permalink: /about/history/awards/award-8/
-sidenav: about
+permalink: /examples/awards/award-8/
+sidenav: examples
 redirect_from:
   - http://www.plainlanguage.gov/examples/award_winning/award8.cfm
 ---
 
-The White House
+The White House  
 Office of the Vice President
 
-For Immediate Release
+For Immediate Release  
 March 11, 1999
 
 ## Vice President Gore Unveils New Safety Labeling Requirements for Over-the-Counter Medications

@@ -1,5 +1,5 @@
 ---
-title: Wordiness made spare
+title: Wordiness Made Spare
 permalink: /examples/before-and-after/wordiness/
 sidenav: examples
 redirect_from:
