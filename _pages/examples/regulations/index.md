@@ -6,6 +6,7 @@ layout: list
 redirect_from:
   - http://www.plainlanguage.gov/populartopics/regulations/
   - http://www.plainlanguage.gov/populartopics/regulations/index.cfm
+  - http://www.plainlanguage.gov/examples/government/radio.cfm
 ---
 
 - [State Statutes](http://www.languageandlaw.org/TEXTS/STATS/PLAINENG.HTM)
