@@ -26,12 +26,6 @@ A new round of training began this month. VBA intends to train 8000 of their 11,
 
 As an example, below is a description of the changes plain language writers made to a beneficiary solicitation letter from the Insurance Service. This letter asks insured veterans to update their beneficiary information.
 
-The rewritten letter significantly simplifies the message in language and format. VBA presents the information in its written letter in questions and answers and provides very direct and simply stated answers compared with the "before" version, which is very vague in its purpose. The language is directed to the second person making a better connection with the intended audience of the letter. VBA uses questions and answers to:
-
-- Clearly organize the information in the letter
-- Make it easier for the recipient to understand
-- Tell how addressees can get help if they need it
-
 * #### Before
 
   The proceeds of your life insurance policy will be paid to your last named beneficiary of record with the Department of Veterans Affairs according to the payment option selected by you. Our experience shows that many insureds fail to keep their designations up-to-date when there are changes in their personal circumstances... Therefore, if you desire, but have not selected the lump sum settlement option or cannot remember the option you selected, or believe your beneficiary designation is not otherwise current, we suggest you complete the enclosed form and return it to us.
@@ -40,6 +34,12 @@ The rewritten letter significantly simplifies the message in language and format
 
   We are updating our computer systems for the year 2000. This also allows us to update the way we store our records and process our claims. This is a perfect opportunity for you to update your records as well. This letter will explain what we have done to update our records and what you can do to update yours.
 {: .example-side-by-side}
+
+The rewritten letter significantly simplifies the message in language and format. VBA presents the information in its written letter in questions and answers and provides very direct and simply stated answers compared with the "before" version, which is very vague in its purpose. The language is directed to the second person making a better connection with the intended audience of the letter. VBA uses questions and answers to:
+
+- Clearly organize the information in the letter
+- Make it easier for the recipient to understand
+- Tell how addressees can get help if they need it
 
 ### VBA Is Tracking Savings
 
