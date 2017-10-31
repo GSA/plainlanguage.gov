@@ -1,5 +1,5 @@
 ---
-title: Checklist
+title: Checklists
 permalink: /resources/checklists/checklist/
 sidenav: resources
 ---
