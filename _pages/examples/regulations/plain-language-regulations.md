@@ -2,6 +2,7 @@
 title: Plain Language Regulations
 permalink: /examples/regulations/plain-language-regulations/
 sidenav: examples
+archived: true
 redirect_from:
   - http://www.plainlanguage.gov/usingPL/government/regstable.cfm
 ---

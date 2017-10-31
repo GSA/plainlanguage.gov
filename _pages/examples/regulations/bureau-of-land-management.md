@@ -2,6 +2,7 @@
 title: Bureau of Land Management
 permalink: /examples/regulations/bureau-of-land-management/
 sidenav: examples
+archived: true
 ---
 
 Here's a [practical example]({{ site.baseurl }}/examples/regulations/model-preamble/) from this model.
