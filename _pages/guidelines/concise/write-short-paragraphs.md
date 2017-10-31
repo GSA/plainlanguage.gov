@@ -18,7 +18,7 @@ sources:
     page: pp. 24-25
 ---
 
-Write short paragraphs and [cover one topic per paragraph]({{ site.baseurl }}{% link _pages/guidelines/concise/cover-one-topic-in-each-paragraph.md %}). Long paragraphs discourage users from even trying to understand your material. Short paragraphs are easier to read and understand.
+Write short paragraphs and cover one topic per paragraph. Long paragraphs discourage users from even trying to understand your material. Short paragraphs are easier to read and understand.
 
 Writing experts recommend paragraphs of no more than 150 words in three to eight sentences. Paragraphs should never be longer than 250 words. Vary the lengths of your paragraphs to make them more interesting. As with sentence length, if all paragraphs are the same size your writing will be choppy.
 
@@ -57,7 +57,7 @@ Along with breaking material up into shorter paragraphs, consider [adding headin
   In addition, the Department of State has asked its embassies and consulates to consider preparedness measures that consider that travel into or out of a country may not be possible, safe or medically advisable. Guidance on how private citizens can prepare for a "stay in place" response, including stockpiling food, water, and medical supplies, is available on the CDC and pandemicflu.gov websites.
 {: .example-side-by-side}
 
-## Cover one topic in each paragraphs
+## Cover one topic in each paragraph
 
 Limit each paragraph or section to one topic to make it easier for your audience to understand your information. Each paragraph should start with a topic sentence that captures the essence of everything in the paragraph.
 
