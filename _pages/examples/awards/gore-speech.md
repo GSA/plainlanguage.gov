@@ -54,26 +54,38 @@ Because of VBA's leadership in reaching out to customers like Jock—letters tha
 
 Here's another example from the VBA:
 
-> Before: "We are providing the following information about an insurance payment you indicate you have not received or which is otherwise missing. We have given the Treasury Department the necessary information to trace the check in question."
+* #### Before
 
-> After: "We received the missing check form you sent us. We asked the Treasury Department to find out what happened to your check."
+  We are providing the following information about an insurance payment you indicate you have not received or which is otherwise missing. We have given the Treasury Department the necessary information to trace the check in question.
+
+* #### After
+
+  We received the missing check form you sent us. We asked the Treasury Department to find out what happened to your check.
+{: .example-side-by-side}
 
 There's more. Here's the first ever plain language regulation in the federal government. It's from the Federal Communications Commission Rules for the Citizens Band Radio Service:
 
-> Before: "95.421 Who may sign applications. ....applications, amendments thereto, and related statements of fact required by the Commission shall be personally signed by the applicant, if the applicant is an individual; by one of the partners, if the applicant is a partnership; by an officer, if the applicant is a corporation; or by a member, who is an officer, if the applicant is an unincorporated association.
+* #### Before
 
-> Applications, amendments, and related statements of fact filed on behalf of eligible government entities, such as states and territories of the United States and political subdivisions thereof, the District of Columbia, and units of local government, including incorporated municipalities shall be signed by such duly elected or appointed officials as may be competent to do so under the law of the applicable jurisdiction."
+  **95.421 Who may sign applications.**
 
-> After: "95.425 How do I sign my CB license application?
+  Applications, amendments thereto, and related statements of fact required by the Commission shall be personally signed by the applicant, if the applicant is an individual; by one of the partners, if the applicant is a partnership; by an officer, if the applicant is a corporation; or by a member, who is an officer, if the applicant is an unincorporated association.
 
-> (a) If you are an individual, you must sign your own application personally
+  Applications, amendments, and related statements of fact filed on behalf of eligible government entities, such as states and territories of the United States and political subdivisions thereof, the District of Columbia, and units of local government, including incorporated municipalities shall be signed by such duly elected or appointed officials as may be competent to do so under the law of the applicable jurisdiction.
 
-> (b) If the applicant is not an individual, the signature on an application must be made as follows:
+* #### After
 
-> *	For a partnership, one of the partners must sign;
-> *	For a Corporation, one of the officers must sign;
-> *	For an Association, one of the members who is an officer must sign;
-> *	For a Governmental Unit, an appropriate elected or appointed official must sign."
+  **95.425 How do I sign my CB license application?**
+
+  (a) If you are an individual, you must sign your own application personally
+
+  (b) If the applicant is not an individual, the signature on an application must be made as follows:
+
+  *	For a partnership, one of the partners must sign;
+  *	For a Corporation, one of the officers must sign;
+  *	For an Association, one of the members who is an officer must sign;
+  *	For a Governmental Unit, an appropriate elected or appointed official must sign.
+{: .example-side-by-side}
 
 Here's another example—an old regulation from OSHA:
 
