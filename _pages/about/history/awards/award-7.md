@@ -25,10 +25,11 @@ With regard to today's announcement, the attached page illustrates a disclosure 
 
 ## Financial Disclosure Form
 
-### Before
+* #### Before
 
-Drakecorp has filed with the Internal Revenue Service a tax ruling request concerning, among other things, the tax consequences of the Distribution to the United States holders of the Drakecorp Stock. It is expected that the Distribution of Beco Common Stock to the shareholders of Drakecorp will be tax-free to such shareholders for federal income tax purposes, except to the extent that cash is received for fractional share interests.
+  Drakecorp has filed with the Internal Revenue Service a tax ruling request concerning, among other things, the tax consequences of the Distribution to the United States holders of the Drakecorp Stock. It is expected that the Distribution of Beco Common Stock to the shareholders of Drakecorp will be tax-free to such shareholders for federal income tax purposes, except to the extent that cash is received for fractional share interests.
 
-### After
+* #### After
 
-While we expect that this transaction will be tax free for U.S. shareholders at the federal level (except for any cash paid for fractional shares), we have asked the Internal Revenue Service to rule that it is.
+  While we expect that this transaction will be tax free for U.S. shareholders at the federal level (except for any cash paid for fractional shares), we have asked the Internal Revenue Service to rule that it is.
+{: .example-side-by-side}

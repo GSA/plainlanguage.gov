@@ -1,5 +1,6 @@
 ---
-title: 'American Bar Association: Adoption by the House of Delegates'
+title: 'Adoption by the House of Delegates'
+author: American Bar Association
 permalink: /examples/regulations/american-bar-association/
 sidenav: examples
 redirect_from:

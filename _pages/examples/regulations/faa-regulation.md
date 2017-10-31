@@ -1,6 +1,7 @@
 ---
-title: 'Federal Aviation Administration: Airworthiness Directives'
-permalink: /examples/regulations/faa-regulation/
+title: 'Airworthiness Directives'
+author: Federal Aviation Administration
+permalink: /examples/regulations/airworthiness/
 sidenav: examples
 redirect_from:
   - http://www.plainlanguage.gov/examples/before_after/airworthydirective.cfm

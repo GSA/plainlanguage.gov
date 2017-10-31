@@ -2,6 +2,10 @@
 title: Examples
 permalink: /examples/
 sidenav: examples
+redirect_from:
+  - http://www.plainlanguage.gov/examples/government/index.cfm
+  - http://www.plainlanguage.gov/usingPL/privsector/smbusccr.cfm
+  - http://www.plainlanguage.gov/usingPL/privsector/smbussba.cfm
 ---
 
 Plain language has been around in the government for over 40 years. Here are some examples, both historical and current.

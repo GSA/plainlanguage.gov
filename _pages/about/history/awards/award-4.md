@@ -6,10 +6,10 @@ redirect_from:
   - http://www.plainlanguage.gov/examples/award_winning/award4.cfm
 ---
 
-The White House
-Office of the Vice President
+The White House  
+Office of the Vice President  
 
-For Immediate Release
+For Immediate Release  
 October 28, 1998
 
 ## Vice President Gore Lauds HUD Employees for Using Plain Language
@@ -32,18 +32,19 @@ Individuals may file a housing discrimination complaint with HUD by calling 1-80
 
 ## Part 103: Fair Housing: Complaint Processing
 
-### Before
+* #### Before
 
-Sec. 103.40 Date of filing of complaint.
+  **Sec. 103.40 Date of filing of complaint.**
 
-(a) Except as provided in paragraph (b) of this section, a complaint is filed when it is received by HUD, or dual filed with HUD through a substantially equivalent State or local agency, in a form that reasonably meets the standards of Sec. 103.30.
+  (a) Except as provided in paragraph (b) of this section, a complaint is filed when it is received by HUD, or dual filed with HUD through a substantially equivalent State or local agency, in a form that reasonably meets the standards of Sec. 103.30.
 
-(b) The Assistant Secretary may determine that a complaint is filed for the purposes of the one-year period for the filing of complaints, upon the submission of written information (including information provided by telephone and reduced to writing by an employee of HUD) identifying the parties and describing generally the alleged discriminatory housing practice.
+  (b) The Assistant Secretary may determine that a complaint is filed for the purposes of the one-year period for the filing of complaints, upon the submission of written information (including information provided by telephone and reduced to writing by an employee of HUD) identifying the parties and describing generally the alleged discriminatory housing practice.
 
-(c) Where a complaint alleges a discriminatory housing practice that is continuing, as manifested in a number of incidents of such conduct, the complaint will be timely if filed within one year of the last alleged occurrence of that practice.
+  (c) Where a complaint alleges a discriminatory housing practice that is continuing, as manifested in a number of incidents of such conduct, the complaint will be timely if filed within one year of the last alleged occurrence of that practice.
 
-### After
+* #### After
 
-Sec. 103.18 Is there a time limit on when I can file?
+  **Sec. 103.18 Is there a time limit on when I can file?**
 
-Yes. You must notify us within one year that you are a victim of discrimination. If you indicate there is more than one act of discrimination, or that it is continuing, we must receive your information within one year of the last incident.
+  Yes. You must notify us within one year that you are a victim of discrimination. If you indicate there is more than one act of discrimination, or that it is continuing, we must receive your information within one year of the last incident.
+{: .example-side-by-side}

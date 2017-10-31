@@ -6,10 +6,10 @@ redirect_from:
   - http://www.plainlanguage.gov/examples/award_winning/award5.cfm
 ---
 
-The White House
-Office of the Vice President
+The White House  
+Office of the Vice President  
 
-For Immediate Release
+For Immediate Release  
 November 24, 1998
 
 ## Vice President Gore Lauds USDA Employee for Plain Language Rewrite
@@ -30,12 +30,13 @@ With regard to today's announcement, the following is an excerpt of the article 
 
 ## Turkey Basics
 
-### Before
+* #### Before
 
-If stuffing a turkey, use a meat thermometer. Cooking a home-stuffed turkey can be somewhat riskier than cooking one not stuffed. Bacteria can survive in stuffing which has not reached the safe temperature of 165 F, possibly resulting in a foodborne illness. Even if the turkey itself has reached the proper internal temperature of 180 F in the innermost part of the thigh, the stuffing may not have reached a temperature in all parts of the stuffing sufficient to destroy foodborne bacteria. If stuffing does not reach 165 F when the turkey itself is done to 180 F, further cooking will be required. During the added cooking necessary to bring the stuffing up to a safe temperature, the meat may become overcooked.
+  If stuffing a turkey, use a meat thermometer. Cooking a home-stuffed turkey can be somewhat riskier than cooking one not stuffed. Bacteria can survive in stuffing which has not reached the safe temperature of 165 F, possibly resulting in a foodborne illness. Even if the turkey itself has reached the proper internal temperature of 180 F in the innermost part of the thigh, the stuffing may not have reached a temperature in all parts of the stuffing sufficient to destroy foodborne bacteria. If stuffing does not reach 165 F when the turkey itself is done to 180 F, further cooking will be required. During the added cooking necessary to bring the stuffing up to a safe temperature, the meat may become overcooked.
 
-### After
+* #### After
 
-Make sure you cook both your turkey and your stuffing completely. If you don't, bacteria that can make you sick may still be alive. Here are the most important things to remember about stuffing:
+  Make sure you cook both your turkey and your stuffing completely. If you don't, bacteria that can make you sick may still be alive. Here are the most important things to remember about stuffing:
 
-**Cook the stuffing separately** -- it's MUCH safer! If you absolutely have to cook the stuffing in the turkey, use a thermometer to make sure the stuffing reaches a temperature of 165 F and the turkey reaches a temperature of 180 F in the innermost part of the thigh. Measure the temperature of both the turkey and stuffing! Don't just trust a pop-up indicator!
+  **Cook the stuffing separately** -- it's MUCH safer! If you absolutely have to cook the stuffing in the turkey, use a thermometer to make sure the stuffing reaches a temperature of 165 F and the turkey reaches a temperature of 180 F in the innermost part of the thigh. Measure the temperature of both the turkey and stuffing! Don't just trust a pop-up indicator!
+{: .example-side-by-side}

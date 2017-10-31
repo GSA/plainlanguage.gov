@@ -1,5 +1,5 @@
 ---
-title: Plain language regulations
+title: Plain Language Regulations
 permalink: /examples/regulations/plain-language-regulations/
 sidenav: examples
 redirect_from:

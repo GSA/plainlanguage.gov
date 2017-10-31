@@ -1,5 +1,5 @@
 ---
-title: Jury instructions
+title: Jury Instructions
 permalink: /examples/brochures/jury-instructions/
 sidenav: examples
 redirect_from:
@@ -15,7 +15,7 @@ Many studies support anecdotal criticism of legalese jury instructions. For exam
 - Forty percent of capital jurors wrongly believed that their jury instructions required them to accompany a conviction with a death sentence, according to a study by the Northeastern University's Capital Jury Project.
 - More than fifty percent of jurors defined "preponderance of the evidence" as a "slow and careful pondering of the evidence, according to a study of Washington DC jurors. The same study found that more than 50 percent of jurors could not define "speculate," and about 25 percent did not know the meaning of "burden of proof," "impeach" or "admissible evidence."
 
-A number of states have recently acknowledged the limitations of legalese jury instructions. First among them is California, which officially replaced its legalese jury instructions with plain English jury instructions for civil cases in 2003\. The state is expected to do the same for criminal jury instructions sometime in 2005.
+A number of states have recently acknowledged the limitations of legalese jury instructions. First among them is California, which officially replaced its legalese jury instructions with plain English jury instructions for civil cases in 2003\. The state also replaced its [criminal jury instructions](http://www.courts.ca.gov/partners/312.htm) in 2005.
 
 Before | After
 --- | ---

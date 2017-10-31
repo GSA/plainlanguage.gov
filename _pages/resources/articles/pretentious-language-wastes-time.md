@@ -1,5 +1,5 @@
 ---
-title: Pretentious language wastes time
+title: Pretentious Language Wastes Time
 permalink: /resources/articles/pretentious-language-wastes-time/
 sidenav: resources
 
