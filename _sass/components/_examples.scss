@@ -1,6 +1,22 @@
 $example-heading-size: 2rem;
 $example-bad-color: #CC3D3D;
-$example-good-color: #0D855B;
+$example-good-color: #0D8259;
+
+#main-content blockquote {
+  border-left: 5px solid $color-tan-dark;
+  font-family: $font-sans;
+  font-size: $h4-font-size;
+  margin: 2em $spacing-medium;
+  padding: $spacing-x-small $spacing-md-small;
+
+  & > :first-child {
+    margin-top: 0;
+  }
+
+  & > :last-child {
+    margin-bottom: 0;
+  }
+}
 
 .example-table {
   font-family: $font-sans;

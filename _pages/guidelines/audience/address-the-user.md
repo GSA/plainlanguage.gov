@@ -113,7 +113,7 @@ Individuals and organizations wishing to apply must file applications with the a
 To avoid confusing the two different user groups, separate their instructions:
 
 > **If you are an individual**, apply at your local state office in the state where you reside.
-
+>
 > **If you are an organization**, apply at the state office in the state where your headquarters is located.
 
 For more details on addressing multiple users, see [Address separate audiences separately]({{ site.baseurl }}{% link _pages/guidelines/audience/address-separate-audiences-separately.md %}).
