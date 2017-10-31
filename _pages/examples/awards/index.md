@@ -4,6 +4,8 @@ permalink: /examples/awards/
 sidenav: examples
 redirect_from:
   - http://www.plainlanguage.gov/examples/award_winning/
+  - http://www.plainlanguage.gov/examples/award_winning/index.cfm
+  - http://www.plainlanguage.gov/examples/award_winning/nogobbledygook.cfm
   - http://www.plainlanguage.gov/examples/award_winning/nogobbledygookarchives.cfm
 ---
 
