@@ -30,4 +30,8 @@ main:
   {% if page.sources %}
     {% include sources.html %}
   {% endif %}
+
+  {% if page.pagination and page.sidenav %}
+    {% include pagination.html %}
+  {% endif %}
 </div>
