@@ -80,3 +80,4 @@ jekyll_pages_api_search:
     url:
       boost: 5
     body:
+  results_page_title: Search results
