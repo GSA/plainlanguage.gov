@@ -28,7 +28,7 @@ The Register even shows you how to rewrite an existing rule in plain language in
 
 ## Further reading
 
-- The [American Bar Association]({{ site.baseurl }}/examples/american-bar-association/) urges the federal government to write regulations in plain language.
+- The [American Bar Association]({{ site.baseurl }}/examples/regulations/american-bar-association/) urges the federal government to write regulations in plain language.
 
 - Tom Murawski's _Writing Readable Regulations_ is a great resource by a pioneering advocate of plain language. [Contact Tom](http://writingandspeaking.com/project-consulting/regulations) for purchase information.
 

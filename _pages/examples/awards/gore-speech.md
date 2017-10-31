@@ -1,7 +1,7 @@
 ---
 title: Plain Language Initiative Announcement
-permalink: /about/history/awards/gore-speech/
-sidenav: about
+permalink: /examples/awards/gore-speech/
+sidenav: examples
 redirect_from:
   - http://www.plainlanguage.gov/examples/award_winning/nogobbledygookannounce.cfm
 ---

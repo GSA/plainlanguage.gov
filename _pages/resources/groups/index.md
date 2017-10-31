@@ -6,7 +6,6 @@ redirect_from:
   - http://www.plainlanguage.gov/usingPL/US/index.cfm
   - http://www.plainlanguage.gov/usingPL/world/index.cfm
 
-
 ---
 
 ## In the U.S.

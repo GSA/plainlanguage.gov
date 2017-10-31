@@ -1,15 +1,15 @@
 ---
 title: No Gobbledygook Award 13
-permalink: /about/history/awards/award-13/
-sidenav: about
+permalink: /examples/awards/award-13/
+sidenav: examples
 redirect_from:
   - http://www.plainlanguage.gov/examples/award_winning/award13.cfm
 ---
 
-The White House
+The White House  
 Office of the Vice President
 
-For Immediate Release
+For Immediate Release  
 November 24, 1998
 
 ## Vice President Gore Lauds FDA "No ID, No Smokes" Campaign

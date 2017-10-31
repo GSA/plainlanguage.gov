@@ -2,6 +2,9 @@
 title: Johnson Space Center Manual Example 2
 permalink: /examples/handbooks/johnson-space-center-manual-example-2/
 sidenav: examples
+redirect_from:
+  - http://www.plainlanguage.gov/examples/before_after/johnsonmanualBEFORE2.cfm
+  - http://www.plainlanguage.gov/examples/before_after/johnsonmanualAFTER2.cfm
 ---
 
 ## Johnson Space Center Handbook Chapter

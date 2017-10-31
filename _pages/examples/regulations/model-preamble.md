@@ -1,8 +1,13 @@
 ---
-title: Model preamble for a proposed rule
+title: Model Preamble for a Proposed Rule
+author: Bureau of Land Management
 permalink: /examples/regulations/model-preamble/
 sidenav: examples
+redirect_from:
+  - http://www.plainlanguage.gov/examples/government/BLM-PR.cfm
 ---
+
+_This model preamble was last reviewed in May, 1998. You should check with your own legal staff to make sure there are no more recent requirements._
 
 This is an abridged version of a proposed rule published in the Federal Register on April 26, 2000 (65 FR 24541).
 

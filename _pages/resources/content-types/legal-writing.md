@@ -6,7 +6,7 @@ sidenav: resources
 
 Support for plain-writing is growing in the legal professions, which bring us some of our best and most varied examples of plain-writing.
 
-* The [American Bar Association]({{ site.baseurl }}{% link _pages/examples/american-bar-association.md %}) passed this resolution advising federal agencies to write regulations in plain language.
+* The [American Bar Association]({{ site.baseurl }}{% link _pages/examples/regulations/american-bar-association.md %}) passed this resolution advising federal agencies to write regulations in plain language.
 
 * The Office of the Federal Register provides excellent guidance on [Drafting Legal Documents](http://www.archives.gov/federal-register/write/legal-docs/).
 

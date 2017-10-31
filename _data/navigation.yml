@@ -127,6 +127,8 @@ guidelines:
 examples:
   - text: Before and after
     href: /examples/before-and-after/
+  - text: Award winners
+    href: /examples/awards/
   - text: Brochures
     href: /examples/brochures/
   - text: Handbooks and manuals
@@ -168,7 +170,5 @@ about:
         href: /about/history/regulations/
       - text: 'Walters v. Reno'
         href: /about/history/walters-v-reno/
-      - text: Awards
-        href: /about/history/awards/
   - text: Get involved
     href: /about/get-involved/

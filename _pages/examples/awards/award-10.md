@@ -1,14 +1,14 @@
 ---
 title: No Gobbledygook Award 10
-permalink: /about/history/awards/award-10/
-sidenav: about
+permalink: /examples/awards/award-10/
+sidenav: examples
 
 ---
 
-The White House
+The White House  
 Office of the Vice President
 
-For Immediate Release
+For Immediate Release  
 June 4, 1999
 
 ## Vice President Gore Praises FDA Employee for Publishing Plain Language Information on Women's Health
@@ -23,4 +23,8 @@ Eu then worked with local communities to translate the pamphlet into seven Asian
 
 "This innovative brochure makes clear what women can and should do to reduce their risk of cancer," said Jane E. Henney, M.D., Commissioner of Food and Drugs. "It also shows what creativity and clear writing can accomplish."
 
-Today's award builds on an Executive Memorandum the Vice President announced on June 1, 1998. The memorandum directed all executive departments and agencies to: (1) write any new document that tells the public how to get a benefit or comply with a requirement in plain language by October 1, 1998; (2) write all new government regulations in plain language by January 1, 1999; and (3) revise all existing letters and notices into plain language by 2002.
+Today's award builds on an Executive Memorandum the Vice President announced on June 1, 1998. The memorandum directed all executive departments and agencies to:
+
+1. Write any new document that tells the public how to get a benefit or comply with a requirement in plain language by October 1, 1998;
+2. Write all new government regulations in plain language by January 1, 1999; and
+3. Revise all existing letters and notices into plain language by 2002.

@@ -40,7 +40,7 @@ Dockets](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inf
 
 * The [Plain Language Action and Information Network (PLAIN)]({{ site.baseurl }}/about/) launched our original site in 1994 and started meeting regularly in 1995. This group remains at the center of the U.S. movement.
 
-* Vice President Gore believed that plain language promotes trust in government, and said, "Plain Language is a civil right." As the lead for the plain language initiative, he presented [No Gobbledygook awards]({{ site.baseurl }}/about/history/awards/) monthly to federal employees who took bureaucratic messages and turned them into plain language that citizens can understand.
+* Vice President Gore believed that plain language promotes trust in government, and said, "Plain Language is a civil right." As the lead for the plain language initiative, he presented [No Gobbledygook Awards]({{ site.baseurl }}/examples/awards/) monthly to federal employees who took bureaucratic messages and turned them into plain language that citizens can understand.
 
 ## 1980s
 

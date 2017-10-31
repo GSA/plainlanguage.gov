@@ -2,9 +2,11 @@
 title: Minerals Management Service
 permalink: /examples/regulations/minerals-management-service/
 sidenav: examples
+redirect_from:
+  - http://www.plainlanguage.gov/examples/government/MMS-CFR.cfm
 ---
 
-## PART 250-Oil and Gas and Sulphur Operations in the Outer Continental Shelf
+## PART 250: Oil and Gas and Sulphur Operations in the Outer Continental Shelf
 
 (Excerpt, see CFR for the complete text.)
 
