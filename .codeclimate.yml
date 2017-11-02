@@ -1,3 +1,6 @@
 plugins:
  scss-lint:
     enabled: true
+    checks:
+      ImportantRule:
+        enabled: false
