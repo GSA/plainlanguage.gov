@@ -1,2 +1,2 @@
-rules "~MD013", "~MD002", "~MD036", "~MD033"
+rules "~MD002", "~MD003", ~"MD004", "~MD013", "~MD022", "~MD033", "~MD036"
 ignore_front_matter true
