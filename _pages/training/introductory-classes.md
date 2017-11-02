@@ -6,11 +6,9 @@ redirect_from:
   - http://www.plainlanguage.gov/resources/take_training/freetraining.cfm
 ---
 
-PLAIN is dedicated to helping federal agencies train their staff to communicate clearly and develop their own plain language programs.
+PLAIN is dedicated to helping federal agencies train their staff to communicate clearly and develop their own plain language programs. We'll train your managers as well.
 
-We offer free, half day plain language and writing for the web training classes for all federal agencies. All of our classes are based on the [Federal Plain Language Guidelines]({{ site.baseurl }}/guidelines/) and involve interactive writing exercises.
-
-For training outside the DC area, you must pay the trainer's expenses. We'll train your managers as well.
+We offer free, half-day training classes for federal agencies. All of our classes are based on the [Federal Plain Language Guidelines]({{ site.baseurl }}/guidelines/) and involve interactive writing exercises.
 
 ## Class descriptions
 
@@ -45,6 +43,6 @@ Let us know:
 - Which month or specific date you'd like the classes - we schedule about 3 months in advance
 - How many federal employees will attend (20—35 people per session is a good number)
 
-After reviewing your request, a trainer will email you to set up the details. Please keep in mind that all of our trainers are volunteers.
+After reviewing your request, a trainer will email you to set up the details. Please keep in mind that all of our trainers are volunteers. For training outside the DC area, you must pay the trainer's expenses.
 
 
