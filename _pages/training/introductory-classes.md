@@ -33,7 +33,7 @@ We offer free, half-day training classes for federal agencies. All of our classe
 
 We schedule classes on a first-come, first-served basis, depending on trainer availability. Please request training **at least 3 months** in advance.
 
-You must have a .gov or .mil email address to register. [Complete this form](https://goo.gl/forms/fRsKV5i9bwvOTeE73) or email us (if you can’t access Google Apps). 
+You must have a .gov or .mil email address to register. [Complete this form](https://goo.gl/forms/fRsKV5i9bwvOTeE73), or [email us](mailto:{{ site.email }}) if you can’t access Google Apps. 
 
 Let us know:
 
