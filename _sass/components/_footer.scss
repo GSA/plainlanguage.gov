@@ -8,7 +8,7 @@
     padding-top: $spacing-large;
   }
 
-  .usa-footer-secondary_section {
+  .usa-footer-secondary_section { // scss-lint:disable SelectorFormat
     padding-bottom: $spacing-large;
     padding-top: $spacing-large;
 
@@ -29,7 +29,7 @@
 
 @media #{$breakpoint-lg} {
   .usa-footer {
-    .usa-footer-secondary_section {
+    .usa-footer-secondary_section { // scss-lint:disable SelectorFormat
       li {
         display: block;
         margin-right: 0;

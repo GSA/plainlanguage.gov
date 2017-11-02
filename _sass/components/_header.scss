@@ -4,8 +4,8 @@
 
 .usa-logo-text {
   font-family: $font-sans;
-  font-weight: 300;
   font-size: $h4-font-size;
+  font-weight: 300;
 
   a:hover {
     text-decoration: none;
@@ -19,22 +19,22 @@
 .usa-nav-primary {
   margin-top: 60px;
 
-  a.current-parent {
+  .current-parent {
     font-weight: 700;
   }
 
-  a.usa-current {
+  .usa-current {
     border-left: 0;
     font-weight: 700;
     padding-left: $spacing-x-small;
   }
 
-  & > li {
+  > li {
     font-size: $h3-font-size;
-  }
 
-  & > li ul + a {
-    display: none;
+    ul + a {
+      display: none;
+   }
   }
 
   button,
@@ -50,11 +50,11 @@
   padding: 0;
 
   a,
-  a.usa-current {
+  .usa-current {
     padding-left: $spacing-md-small;
   }
 
-  a.current-parent {
+  .current-parent {
     color: $color-primary;
     font-weight: 700;
   }
@@ -99,11 +99,11 @@
   .usa-nav-primary {
     margin-top: 0;
 
-    & > li ul + a {
+    > li ul + a {
       display: block;
     }
 
-    & > li > a,
+    > li > a,
     .usa-nav-link {
       color: $color-base;
       font-family: $font-serif;
