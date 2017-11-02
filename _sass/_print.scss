@@ -1,24 +1,24 @@
 @media print {
   @page {
-     margin: 2cm;
+   margin: 2cm;
   }
 
   *,
-  *:before,
-  *:after,
-  *:first-letter,
-  p:first-line,
-  div:first-line,
-  blockquote:first-line,
-  li:first-line {
-      background: transparent !important;
-      color: #000 !important;
-      box-shadow: none !important;
-      text-shadow: none !important;
+  *::before,
+  *::after,
+  *::first-letter,
+  p::first-line,
+  div::first-line,
+  blockquote::first-line,
+  li::first-line {
+    background: transparent !important;
+    box-shadow: none !important;
+    color: $color-black !important;
+    text-shadow: none !important;
   }
 
   .icon-large {
-    border: 1px solid #000;
+    border: 1px solid $color-black;
   }
 
   .no-print,
@@ -54,8 +54,8 @@
       word-wrap: break-word;
     }
 
-    a[href^=http]:after {
-      content:" <" attr(href) "> ";
+    a[href^=http]::after {
+      content: ' <" attr(href) "> ';
     }
   }
 }

@@ -1,6 +1,6 @@
 $example-heading-size: 2rem;
-$example-bad-color: #CC3D3D;
-$example-good-color: #0D8259;
+$example-bad-color: #cc3d3d;
+$example-good-color: #0d8259;
 
 #main-content blockquote {
   border-left: 5px solid $color-tan-dark;
@@ -9,11 +9,11 @@ $example-good-color: #0D8259;
   margin: 2em $spacing-medium;
   padding: $spacing-x-small $spacing-md-small;
 
-  & > :first-child {
+  > :first-child {
     margin-top: 0;
   }
 
-  & > :last-child {
+  > :last-child {
     margin-bottom: 0;
   }
 }
@@ -27,22 +27,20 @@ $example-good-color: #0D8259;
   margin: 2em 0;
   padding: $spacing-md-small;
 
-  & > :first-child {
+  > :first-child {
     margin-top: 0;
   }
 
-  & > :last-child {
+  > :last-child {
     margin-bottom: 0;
   }
 
   table {
     margin: 0;
 
-    thead {
-      th {
-        background-color: transparent;
-        border-top: 0;
-      }
+    thead th {
+      background-color: transparent;
+      border-top: 0;
     }
 
     th,
@@ -52,10 +50,8 @@ $example-good-color: #0D8259;
       border-right: 0;
     }
 
-    th {
-      &:first-child {
-        padding-left: 0;
-      }
+    th:first-child {
+      padding-left: 0;
     }
   }
 
@@ -82,10 +78,10 @@ $example-good-color: #0D8259;
       border-bottom: 3px solid $example-bad-color;
 
       &::before {
-        display: inline-block;
-        content: ' ';
-        background-image: url(../img/icons/times.svg);
+        background-image: url('../img/icons/times.svg');
         background-size: auto $example-heading-size;
+        content: ' ';
+        display: inline-block;
         height: $example-heading-size;
         margin-right: $spacing-small;
         vertical-align: text-top;
@@ -97,10 +93,10 @@ $example-good-color: #0D8259;
       border-bottom: 3px solid $example-good-color;
 
       &::before {
-        display: inline-block;
-        content: ' ';
-        background-image: url(../img/icons/check.svg);
+        background-image: url('../img/icons/check.svg');
         background-size: auto $example-heading-size;
+        content: ' ';
+        display: inline-block;
         height: $example-heading-size;
         margin-right: $spacing-small;
         vertical-align: text-top;
@@ -119,28 +115,28 @@ $example-good-color: #0D8259;
   max-width: none;
   padding-left: 0;
 
-  & > li > :last-child {
+  > li > :last-child {
     margin-bottom: 0;
   }
 
-  & > li {
+  > li {
     background-color: $color-tan;
     border: 1px solid $color-tan-dark;
     border-radius: 4px;
     margin-bottom: $spacing-md-small;
     padding: $spacing-md-small;
 
-    & > h3 {
+    > h3 {
       color: $color-base;
       font-weight: $font-normal;
       margin-bottom: $spacing-md-small;
       margin-top: 0;
     }
 
-    & > h4 {
-     font-weight: $font-normal;
-     margin-top: 0;
-     padding-bottom: $spacing-x-small;
+    > h4 {
+      font-weight: $font-normal;
+      margin-top: 0;
+      padding-bottom: $spacing-x-small;
     }
 
     &:first-of-type {
@@ -158,13 +154,13 @@ $example-good-color: #0D8259;
     }
   }
 
-  &:before,
-  &:after {
+  &::before,
+  &::after {
     content: ' ';
-    display: table
+    display: table;
   }
 
-  &:after { clear: both }
+  &::after { clear: both; }
 }
 
 @media #{$breakpoint-md} {
