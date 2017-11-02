@@ -40,8 +40,8 @@ Let us know:
 - Which federal agency you work for
 - Where your office is located
 - Which class you're interested in
-- Which month or specific date you'd like the classes - we schedule about 3 months in advance
-- How many federal employees will attend (20—35 people per session is a good number)
+- Which month or specific date you'd like the classes (we schedule about 3 months in advance)
+- How many federal employees will attend (20–35 people per session is a good number)
 
 After reviewing your request, a trainer will email you to set up the details. Please keep in mind that all of our trainers are volunteers. For training outside the DC area, you must pay the trainer's expenses.
 
