@@ -6,5 +6,6 @@ group :jekyll_plugins do
   gem 'html-proofer'
   gem 'jekyll_pages_api_search'
   gem 'jekyll-redirect-from'
+  gem 'mdl'
   gem 'uswds-jekyll'
 end

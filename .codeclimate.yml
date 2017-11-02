@@ -6,3 +6,13 @@ plugins:
         enabled: false
   markdownlint:
     enabled: true
+    exclude_paths:
+    - "_includes/"
+    - "_layouts/"
+    - "_plugins/"
+    - "_sass/"
+    - "assets/"
+    - "media/"
+exclude_paths:
+- "_site/"
+- "node_modules/"

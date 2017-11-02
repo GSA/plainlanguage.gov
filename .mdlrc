@@ -1,0 +1,2 @@
+rules "~MD013", "~MD002", "~MD036", "~MD033"
+ignore_front_matter true
