@@ -10,7 +10,7 @@ PLAIN is dedicated to helping federal agencies train their staff to communicate 
 
 We offer free, half day plain language and writing for the web training classes for all federal agencies. All of our classes are based on the [Federal Plain Language Guidelines]({{ site.baseurl }}/guidelines/) and involve interactive writing exercises.
 
-For training outside the DC area, you must pay the trainer's expenses. We'll come to your managers as well.
+For training outside the DC area, you must pay the trainer's expenses. We'll train your managers as well.
 
 ## Class descriptions
 
@@ -31,13 +31,20 @@ For training outside the DC area, you must pay the trainer's expenses. We'll com
 - 10–30 minute overview of the Plain Writing Act of 2010
 - Assessment of benefits of using plain language
 
-## Schedule a class
+## Request training
 
-Please [contact us](mailto:{{ site.email }}) to request training at least 3 months before you want to schedule the class. Let us know:
+We schedule classes on a first-come, first-served basis, depending on trainer availability. Please request training **at least 3 months** in advance.
+
+You must have a .gov or .mil email address to register. [Complete this form](https://goo.gl/forms/fRsKV5i9bwvOTeE73) or email us (if you can’t access Google Apps). 
+
+Let us know:
 
 - Which federal agency you work for
-- Which classes you'd prefer
+- Where your office is located
+- Which class you're interested in
 - Which month or specific date you'd like the classes - we schedule about 3 months in advance
-- How many students will take the class (20—35 people per session is a good number)
+- How many federal employees will attend (20—35 people per session is a good number)
 
 After reviewing your request, a trainer will email you to set up the details. Please keep in mind that all of our trainers are volunteers.
+
+
