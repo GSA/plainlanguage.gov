@@ -14,19 +14,13 @@ Our goal is to promote the use of plain language for all government communicatio
 To promote plain language, we:
 
 - develop and maintain the content of this site
-- [manage the plain language community of practice](https://www.digitalgov.gov/communities/plain-language-community-of-practice/)
+- [manage the plain language community of practice](https://www.digitalgov.gov/communities/plain-language/)
 - [offer free half-day training sessions to federal agencies]({{ site.baseurl }}/training/introductory-classes/)
 - sponsor occasional seminars about plain language
 
+We meet monthly to discuss plain language issues. Our meetings are open to all federal employees. [Subscribe to our mailing list](https://www.digitalgov.gov/communities/plain-language/) to learn about upcoming events.
+
 Please [contact us](mailto:{{ site.email }}) if you have questions about how to promote plain language within your agency.
-
-### Stay informed
-
-We meet monthly to discuss plain language issues. Our meetings are open to all federal employees. [Subscribe to our mailing list](https://www.digitalgov.gov/communities/plain-language-community-of-practice/) to learn about upcoming events.
-
-### Get involved
-
-Interested in becoming a plain language trainer or contributing to our website? Learn more about [becoming a volunteer]({{ site.baseurl }}/about/get-involved/).
 
 ## Our officers
 
@@ -67,4 +61,4 @@ This site launched in 1994, and was redesigned in 2004 with volunteers from PLAI
 
 In 2017, we partnered with [18F](https://18f.gsa.gov/) to redesign the site and make it more accessible in modern browsers. plainlanguage.gov is built with the [U.S. Web Design Standards](https://standards.usa.gov/) and is hosted on [Federalist](https://federalist.18f.gov/) by the [General Services Administration](https://www.gsa.gov/portal/category/25729).
 
-We are continuing to improve the site and welcome your feedback.
+We are continuing to improve the site and [welcome your feedback](mailto:{{ site.email }}).
