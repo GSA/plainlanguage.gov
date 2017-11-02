@@ -45,6 +45,6 @@ Executive departments and agencies must:
 
 ## Questions?
 
-- [Contact us](mailto:{{ site.email }}) or [subscribe to our mailing list](https://www.digitalgov.gov/communities/plain-language-community-of-practice/) for the latest updates.
+- [Contact us](mailto:{{ site.email }}) or [subscribe to our mailing list](https://www.digitalgov.gov/communities/plain-language/) for the latest updates.
 
 - Request a free [training session]({{ site.baseurl }}/training/) for your federal agency.
