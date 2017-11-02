@@ -1,5 +1,5 @@
 plugins:
- scss-lint:
+  scss-lint:
     enabled: true
     checks:
       ImportantRule:
