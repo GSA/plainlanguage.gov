@@ -4,7 +4,7 @@
 .mb5 { margin-bottom: $space-5; }
 .ml5 { margin-left: $space-5; }
 .mx5 { margin-left: $space-5; margin-right: $space-5; }
-.my5 { margin-top: $space-5; margin-bottom: $space-5; }
+.my5 { margin-bottom: $space-5; margin-top: $space-5; }
 .mxn5 { margin-left: -$space-5; margin-right: -$space-5; }
 
 @media #{$breakpoint-sm} {
@@ -14,7 +14,7 @@
   .sm-mb5 { margin-bottom: $space-5; }
   .sm-ml5 { margin-left: $space-5; }
   .sm-mx5 { margin-left: $space-5; margin-right: $space-5; }
-  .sm-my5 { margin-top: $space-5; margin-bottom: $space-5; }
+  .sm-my5 { margin-bottom: $space-5; margin-top: $space-5; }
   .sm-mxn5 { margin-left: -$space-5; margin-right: -$space-5; }
 }
 
@@ -25,7 +25,7 @@
   .md-mb5 { margin-bottom: $space-5; }
   .md-ml5 { margin-left: $space-5; }
   .md-mx5 { margin-left: $space-5; margin-right: $space-5; }
-  .md-my5 { margin-top: $space-5; margin-bottom: $space-5; }
+  .md-my5 { margin-bottom: $space-5; margin-top: $space-5; }
   .md-mxn5 { margin-left: -$space-5; margin-right: -$space-5; }
 }
 
@@ -36,6 +36,6 @@
   .lg-mb5 { margin-bottom: $space-5; }
   .lg-ml5 { margin-left: $space-5; }
   .lg-mx5 { margin-left: $space-5; margin-right: $space-5; }
-  .lg-my5 { margin-top: $space-5; margin-bottom: $space-5; }
+  .lg-my5 { margin-bottom: $space-5; margin-top: $space-5; }
   .lg-mxn5 { margin-left: -$space-5; margin-right: -$space-5; }
 }
