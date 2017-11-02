@@ -1,6 +1,6 @@
 @media print {
   @page {
-   margin: 2cm;
+    margin: 2cm;
   }
 
   *,
@@ -37,7 +37,7 @@
     max-width: none !important;
   }
 
-  .usa-layout-docs-main_content {
+  .usa-layout-docs-main_content { // scss-lint:disable SelectorFormat
     float: none;
     margin: 0;
     padding: 0;
@@ -54,7 +54,7 @@
       word-wrap: break-word;
     }
 
-    a[href^=http]::after {
+    a[href^=http]::after { // scss-lint:disable QualifyingElement
       content: ' <" attr(href) "> ';
     }
   }
