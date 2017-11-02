@@ -13,7 +13,7 @@
 }
 
 @media (max-width: #{$large-screen}) {
-  .usa-layout-docs-main_content {
+  .usa-layout-docs-main_content { // scss-lint:disable SelectorFormat
     float: none;
     width: 100%;
   }

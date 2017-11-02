@@ -4,12 +4,11 @@
 }
 
 .sticky {
-  position: -webkit-sticky;
   position: sticky;
   top: 0;
 
-  &:before,
-  &:after {
+  &::before,
+  &::after {
     content: '';
     display: table;
   }

@@ -30,10 +30,10 @@
   border-color: $border-color;
 }
 
- // scss-lint:disable SelectorFormat
+ // scss-lint:disable SelectorFormat, QualifyingElement
 .usa-sidenav-sub_list a,
 .usa-sidenav-sub_list a:hover,
-.usa-sidenav-sub_list .usa-current {
+.usa-sidenav-sub_list a.usa-current {
   padding-left: $spacing-md-small;
 }
 
