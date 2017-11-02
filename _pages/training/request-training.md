@@ -8,4 +8,4 @@ We set up the class schedule on a first-come, first-served basis, depending on t
 
 You may request up to 3 sessions of the same class (which we may or may not be able to provide depending on our trainers' availability). If you wish to schedule 2 different types of classes, please complete the form a second time.
 
-[ FORM ]
+[Request training](https://goo.gl/forms/fRsKV5i9bwvOTeE73)
