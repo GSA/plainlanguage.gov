@@ -14,10 +14,10 @@
   padding: $spacing-small 0;
 
   &.current-parent {
-      border-left: 0;
-      color: $color-base;
-      font-weight: 700;
-      padding-left: 0;
+    border-left: 0;
+    color: $color-base;
+    font-weight: 700;
+    padding-left: 0;
   }
 
   &:hover {
@@ -29,9 +29,11 @@
 .usa-sidenav-list > li {
   border-color: $border-color;
 }
+
+ // scss-lint:disable SelectorFormat
 .usa-sidenav-sub_list a,
 .usa-sidenav-sub_list a:hover,
-.usa-sidenav-sub_list a.usa-current {
+.usa-sidenav-sub_list .usa-current {
   padding-left: $spacing-md-small;
 }
 
@@ -43,3 +45,4 @@
 .usa-sidenav-sub_list a.usa-current {
   font-weight: 700;
 }
+ // scss-lint:enable SelectorFormat

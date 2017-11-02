@@ -2,7 +2,7 @@ $example-heading-size: 2rem;
 $example-bad-color: #cc3d3d;
 $example-good-color: #0d8259;
 
-#main-content blockquote {
+.usa-layout-docs blockquote {
   border-left: 5px solid $color-tan-dark;
   font-family: $font-sans;
   font-size: $h4-font-size;
@@ -54,7 +54,6 @@ $example-good-color: #0d8259;
       padding-left: 0;
     }
   }
-
 }
 
 .example-table {
@@ -115,16 +114,16 @@ $example-good-color: #0d8259;
   max-width: none;
   padding-left: 0;
 
-  > li > :last-child {
-    margin-bottom: 0;
-  }
-
   > li {
     background-color: $color-tan;
     border: 1px solid $color-tan-dark;
     border-radius: 4px;
     margin-bottom: $spacing-md-small;
     padding: $spacing-md-small;
+
+    > :last-child {
+      margin-bottom: 0;
+    }
 
     > h3 {
       color: $color-base;

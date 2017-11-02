@@ -10,10 +10,10 @@
 }
 
 .icon-large {
+  background-color: $color-blue-light;
   background-position: center;
   background-repeat: no-repeat;
   background-size: auto 3.5rem;
-  background-color: $color-blue-light;
   border-radius: 50%;
   display: inline-block;
   height: 7rem;
@@ -66,40 +66,40 @@ h6 .icon,
 // Primary color
 
 .icon-external-link {
-  background-image: url(../img/icons/primary/external-link.svg);
+  background-image: url('../img/icons/primary/external-link.svg');
   vertical-align: middle;
 }
 
 .icon-gavel {
-  background-image: url(../img/icons/primary/gavel.svg);
+  background-image: url('../img/icons/primary/gavel.svg');
 }
 
 .icon-graduation-cap {
-  background-image: url(../img/icons/primary/graduation-cap.svg);
+  background-image: url('../img/icons/primary/graduation-cap.svg');
 }
 
 .icon-map-signs {
-  background-image: url(../img/icons/primary/map-signs.svg);
+  background-image: url('../img/icons/primary/map-signs.svg');
 }
 
 .icon-pencil {
-  background-image: url(../img/icons/primary/pencil.svg);
+  background-image: url('../img/icons/primary/pencil.svg');
 }
 
 // Base color
 
 .icon-envelope {
-  background-image: url(../img/icons/base/envelope-o.svg);
+  background-image: url('../img/icons/base/envelope-o.svg');
 }
 
 .icon-facebook {
-  background-image: url(../img/icons/base/facebook-f.svg);
+  background-image: url('../img/icons/base/facebook-f.svg');
 }
 
 .icon-github {
-  background-image: url(../img/icons/base/github.svg);
+  background-image: url('../img/icons/base/github.svg');
 }
 
 .icon-twitter {
-  background-image: url(../img/icons/base/twitter.svg);
+  background-image: url('../img/icons/base/twitter.svg');
 }
