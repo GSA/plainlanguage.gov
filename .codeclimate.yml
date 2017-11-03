@@ -10,6 +10,3 @@ plugins:
         enabled: false
   markdownlint:
     enabled: true
-    checks:
-      MD009:
-        br_spaces: 2
