@@ -19,20 +19,20 @@
 .usa-nav-primary {
   margin-top: 60px;
 
-  > li > .current-parent {
-    font-weight: $font-bold;
-  }
-
-  a.usa-current {
-    border-left: 0;
-  }
-
   > li {
     font-size: $h3-font-size;
 
     ul + a {
       display: none;
-   }
+    }
+
+    > .current-parent {
+      font-weight: $font-bold;
+    }
+  }
+
+  a.usa-current { // scss-lint:disable QualifyingElement
+    border-left: 0;
   }
 
   button,

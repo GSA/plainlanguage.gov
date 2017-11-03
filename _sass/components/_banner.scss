@@ -3,23 +3,23 @@
   border: 0;
   font-family: $font-sans;
   font-size: 1rem;
-  padding-bottom: 0
+  padding-bottom: 0;
 }
 
 .usa-banner-header {
-  padding-top: 0;
   padding-bottom: 0;
+  padding-top: 0;
 
   .usa-banner-inner {
     img {
-      margin-right: 0.7rem;
+      margin-right: .7rem;
       width: 2rem;
     }
 
     > p {
-      margin-top: 2px;
-      margin-bottom: 2px;
       display: inline-block;
+      margin-bottom: 2px;
+      margin-top: 2px;
     }
   }
 }
