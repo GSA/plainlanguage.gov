@@ -1,7 +1,9 @@
 ---
-title: Legal quotes
+title: Legal Quotes
 permalink: /resources/quotes/legal-quotes/
 sidenav: resources
+redirect_from:
+  - http://www.plainlanguage.gov/resources/quotes/legal.cfm
 ---
 
 During the First World War, Sir Roger Casement was charged with treason. But the question was: Did the law apply to acts of treason performed abroad? The answer depended on whether there was a pair of commas in the relevant section. The Act was so old that this was not clear, but the judges went down to the Public Record Office and looked up the old parchment Statute rolls, where they found markings that they interpreted as punctuation. As a result Sir Roger Casement was almost literally "hanged by a comma." The moral of the story is: do not neglect punctuation.<br>

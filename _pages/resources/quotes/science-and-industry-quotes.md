@@ -1,7 +1,9 @@
 ---
-title: Science and industry quotes
+title: Science and Industry Quotes
 permalink: /resources/quotes/science-and-industry-quotes/
 sidenav: resources
+redirect_from:
+  - http://www.plainlanguage.gov/resources/quotes/science.cfm
 ---
 
 If you can't explain what you're doing and why you're doing it to any intelligent layman, that really means that you don't understand it yourself.<br>

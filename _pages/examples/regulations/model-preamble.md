@@ -3,6 +3,7 @@ title: Model Preamble for a Proposed Rule
 author: Bureau of Land Management
 permalink: /examples/regulations/model-preamble/
 sidenav: examples
+archived: true
 redirect_from:
   - http://www.plainlanguage.gov/examples/government/BLM-PR.cfm
 ---

@@ -1,7 +1,9 @@
 ---
-title: Style guides
+title: Style Guides
 permalink: /resources/guides/
 sidenav: resources
+redirect_from:
+  - http://www.plainlanguage.gov/howto/guidelines/index.cfm
 ---
 
 ## Federal government

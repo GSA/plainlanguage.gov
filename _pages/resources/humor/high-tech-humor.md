@@ -1,7 +1,9 @@
 ---
-title: High tech humor
+title: High Tech Humor
 permalink: /resources/humor/high-tech-humor/
 sidenav: resources
+redirect_from:
+  - http://www.plainlanguage.gov/examples/humor/technologywriters.cfm
 ---
 
 The remarkable growth of the information technology industry has created a tremendous opportunity for people with skill putting words on paper. Technical writers, once a rare and highly skilled position, are now as common as fruit flies--though they take up a lot more space. Yet the pay is pretty good considering how little work they actually do, so young English-major weenies desperate for employment continue to swarm around IT companies, hoping for a bit of rotting fru--er, looking for a plum position.

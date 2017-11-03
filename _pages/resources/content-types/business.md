@@ -1,7 +1,9 @@
 ---
-title: Plain language in business
-permalink: /resources/content-types/plain-language-in-business/
+title: Plain language in Business
+permalink: /resources/content-types/business/
 sidenav: resources
+redirect_from:
+  - http://www.plainlanguage.gov/usingPL/privsector/index.cfm
 ---
 
 The National Writing Project, dedicated to improving writing and learning in the nation's schools, issued a report on the [need for a writing revolution](http://www.writingcommission.org/prod_downloads/writingcom/neglectedr.pdf).
