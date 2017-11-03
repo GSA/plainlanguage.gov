@@ -1,5 +1,5 @@
 ---
-title: Groups and Organizations
+title: Groups and organizations
 permalink: /resources/groups/
 sidenav: resources
 redirect_from:

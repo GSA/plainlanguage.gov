@@ -1,5 +1,5 @@
 ---
-title: Timeline and History
+title: History and timeline
 permalink: /about/history/
 sidenav: about
 redirect_from:

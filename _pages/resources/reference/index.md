@@ -1,5 +1,5 @@
 ---
-title: Reference Tools
+title: Reference tools
 permalink: /resources/reference/
 sidenav: resources
 redirect_from:

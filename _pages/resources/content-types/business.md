@@ -1,5 +1,5 @@
 ---
-title: Plain language in Business
+title: Plain Language in Business
 permalink: /resources/content-types/business/
 sidenav: resources
 redirect_from:

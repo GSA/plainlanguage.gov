@@ -1,5 +1,5 @@
 ---
-title: How to write good
+title: How to Write Good
 permalink: /resources/humor/how-to-write-good/
 sidenav: resources
 redirect_from:

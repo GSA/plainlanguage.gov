@@ -1,5 +1,5 @@
 ---
-title: Agency plain writing page template
+title: Plain writing page template
 permalink: /law/page-template/
 sidenav: law
 redirect_from:
