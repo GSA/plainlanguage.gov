@@ -18,6 +18,10 @@
   display: none !important;
 }
 
+.white {
+  color: $color-white;
+}
+
 @media #{$breakpoint-lg} {
   .lg-show {
     display: block !important;
