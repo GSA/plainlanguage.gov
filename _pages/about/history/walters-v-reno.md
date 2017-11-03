@@ -8,7 +8,7 @@ redirect_from:
 
 ## Maria Walters and others v. United States Immigration and Naturalization Service
 
-#### No. 96-36304 United States Court of Appeals for the Ninth Circuit
+### No. 96-36304 United States Court of Appeals for the Ninth Circuit
 
 1998 U.S. App. LEXIS 9846, May 18, 1998.
 
