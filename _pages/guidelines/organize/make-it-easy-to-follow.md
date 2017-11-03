@@ -64,6 +64,8 @@ Dividing your document into more pieces at the top levels should allow you to li
 
 ### Chronological order
 
+<div class="example-container">
+
 #### Part 791: Gifted and Talented Students
 
 ##### Subpart A: How the Grant Program Works
@@ -89,7 +91,11 @@ Dividing your document into more pieces at the top levels should allow you to li
 791.30 Under what conditions may I use my grant award?<br>
 791.31 What are my responsibilities for serving students and teachers in private schools?
 
+</div>
+
 ### Chronological order with general information first
+
+<div class="example-container">
 
 #### Part 725: Claims For Benefits Under The Federal Mine Safety And Health Act
 
@@ -120,3 +126,5 @@ Dividing your document into more pieces at the top levels should allow you to li
 725.403 How long do I have to file an appeal?<br>
 725.404 What types of evidence must I submit?<br>
 725.405 What happens if I won't get a medical examination?
+
+</div>

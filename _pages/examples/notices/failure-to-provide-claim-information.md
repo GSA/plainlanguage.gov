@@ -6,6 +6,8 @@ redirect_from:
   - http://www.plainlanguage.gov/examples/government/VBA-noInfo.cfm
 ---
 
+<div class="example-container">
+
 addressee<br>
 street:<br>
 city<br>
@@ -37,3 +39,5 @@ Sincerely,
 
 Enclosures:<br>
 VAF 1-4107
+
+</div>

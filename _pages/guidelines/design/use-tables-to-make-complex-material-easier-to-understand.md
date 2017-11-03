@@ -40,6 +40,8 @@ If-then tables are powerful tools for simplifying complicated material. And tabl
 
 #### Dense text
 
+<div class="example-container">
+
 1. Pursuant to the provisions of 25 U.S.C. 413 and 25 U.S.C. 3105, a forest management deduction shall be withheld from the gross proceeds of sales of Indian forest land as described in this section.
 
 2. Gross proceeds shall mean the value in money or money's worth of consideration furnished by the purchaser of forest products purchased under a contract, permit, or other document for the sale of forest products.
@@ -50,7 +52,11 @@ If-then tables are powerful tools for simplifying complicated material. And tabl
 
 5. The Secretary may increase the forest management deduction percentage for Indian forest land upon receipt of a written request from a tribe supported by a written resolution executed by the authorized tribal representatives. At the request of the authorized tribal representatives and at the discretion of the Secretary the forest management deduction percentage may be decreased to not less than one percent (1%) or the requirement for collection may be waived.
 
+</div>
+
 #### If-then table
+
+<div class="example-container">
 
 ##### § 163.25 Will BIA withhold any forest management deductions?
 
@@ -63,20 +69,28 @@ an authorized tribal representative requests a decrease in the deduction | we ap
 an authorized tribal representative requests a waiver of the deduction | we approve the waiver | waived
 none of the above conditions apply | | the percentage in effect on November 28, 1990, or 10 percent, whichever is less.
 
+</div>
+
 ### § 163.17 Deposit with bid
 
 You can use variations on the if-then table to clarify other types of complicated provisions. Which of the following would you rather read?
 
 #### Dense text
 
+<div class="example-container">
+
 1. A deposit shall be made with each proposal for the purchase of Indian forest products. Such deposits shall be at least:
 
-  1. Ten (10) percent if the appraised stumpage value is less than $100,000 in any event not less than $1,000 or full value whichever is less.
-  2. Five (5) percent if the appraised stumpage value is $100,000 to $250,000 but in any event not less than $10,000; and
+    1. Ten (10) percent if the appraised stumpage value is less than $100,000 in any event not less than $1,000 or full value whichever is less.
+    2. Five (5) percent if the appraised stumpage value is $100,000 to $250,000 but in any event not less than $10,000; and
 
 2. Three (3) percent if the appraised stumpage value exceeds $250,000 but it any event not less than $12,500.
 
+</div>
+
 #### If-then table
+
+<div class="example-container">
 
 ##### § 163.17 Must I make a deposit with my bid?
 
@@ -87,3 +101,5 @@ If the appraised stumpage value is: | you must deposit: | and the minimum amount
 less than $100,000 | ten percent of the stumpage value | $1,000
 between $100,000 and $250,000 | five percent of the stumpage value | $10,000
 over $250,000 | three percent of the stumpage value | $12,500
+
+</div>
