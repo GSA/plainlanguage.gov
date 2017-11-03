@@ -8,5 +8,3 @@ plugins:
         enabled: false
       SelectorDepth:
         enabled: false
-  markdownlint:
-    enabled: true
