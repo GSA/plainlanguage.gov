@@ -68,6 +68,8 @@ It's often useful to start writing your document by developing the headings, str
 
 In the following example, broad topic headings help organize the document, and specific topics add a second level of organization:
 
+<div class="example-container">
+
 ### Qualifications of permittees and lessees
 
 - Who may hold leases and permits?
@@ -82,6 +84,8 @@ In the following example, broad topic headings help organize the document, and s
 - What types of bonds are acceptable?
 - How does BLM establish bond amounts?
 - When does BLM terminate my liability under a bond?
+
+</div>
 
 ## Be concise and descriptive
 

@@ -6,6 +6,8 @@ redirect_from:
   - http://www.plainlanguage.gov/examples/government/VBA-pension.cfm
 ---
 
+<div class="example-container">
+
 addressee<br>
 street<br>
 city<br>
@@ -32,3 +34,5 @@ Sincerely
 Enclosures:<br>
 Your Privacy Rights<br>
 Doctor's Guide
+
+</div>

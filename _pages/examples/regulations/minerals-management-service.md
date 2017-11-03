@@ -6,6 +6,8 @@ redirect_from:
   - http://www.plainlanguage.gov/examples/government/MMS-CFR.cfm
 ---
 
+<div class="example-container">
+
 ## PART 250: Oil and Gas and Sulphur Operations in the Outer Continental Shelf
 
 (Excerpt, see CFR for the complete text.)
@@ -63,3 +65,5 @@ The Director will regulate all operations under a lease, right-of-use and easeme
 (f) You must operate and maintain all other material-handling equipment in a manner that ensures safe operations and prevents pollution.
 
 [68 FR 7426, Feb. 14, 2003]
+
+</div>
