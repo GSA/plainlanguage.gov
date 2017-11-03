@@ -1,7 +1,9 @@
 ---
-title: The elements of plain language
-permalink: /resources/articles/the-elements-of-plain-language/
+title: The Elements of Plain Language
+permalink: /resources/articles/elements-of-plain-language/
 sidenav: resources
+redirect_from:
+  - http://www.plainlanguage.gov/whatisPL/definitions/Kimble.cfm
 ---
 
 Joe Kimble, a law professor and a major force in plain language in the United States, published this October 2002 article, _The Elements of Plain Language,_ in the _Michigan Bar Journal_.

@@ -1,7 +1,9 @@
 ---
-title: 'Plain language: beyond a movement'
-permalink: /resources/articles/plain-language-beyond-a-movement/
+title: 'Plain Language: Beyond a Movement'
+permalink: /resources/articles/beyond-a-movement/
 sidenav: resources
+redirect_from:
+  - http://www.plainlanguage.gov/whatisPL/definitions/balmford.cfm
 ---
 
 Repositioning clear communication in the minds of decision-makers

@@ -1,5 +1,5 @@
 ---
-title: What is plain language?
+title: What is Plain Language?
 permalink: /about/definitions/
 sidenav: about
 redirect_from:

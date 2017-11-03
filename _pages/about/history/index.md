@@ -1,5 +1,5 @@
 ---
-title: Plain language in government
+title: Timeline and History
 permalink: /about/history/
 sidenav: about
 redirect_from:

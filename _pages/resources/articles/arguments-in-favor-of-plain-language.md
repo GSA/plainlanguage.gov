@@ -1,5 +1,5 @@
 ---
-title: Arguments in favor of plain language
+title: Arguments in Favor of Plain Language
 permalink: /resources/articles/arguments-in-favor-of-plain-language/
 sidenav: resources
 redirect_from:

@@ -2,7 +2,8 @@
 title: Pretentious Language Wastes Time
 permalink: /resources/articles/pretentious-language-wastes-time/
 sidenav: resources
-
+redirect_from:
+  - http://www.plainlanguage.gov/usingPL/privsector/wastetime.cfm
 ---
 
 _Carol Briam, a management communication specialist in France, offers an illustration of how unclear and pretentious language wastes management's time, even in minor ways._

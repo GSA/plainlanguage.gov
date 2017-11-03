@@ -4,8 +4,6 @@ permalink: /examples/regulations/
 sidenav: examples
 layout: list
 redirect_from:
-  - http://www.plainlanguage.gov/populartopics/regulations/
-  - http://www.plainlanguage.gov/populartopics/regulations/index.cfm
   - http://www.plainlanguage.gov/examples/government/radio.cfm
 ---
 

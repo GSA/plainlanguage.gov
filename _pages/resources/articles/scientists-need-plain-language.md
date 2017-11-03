@@ -1,7 +1,9 @@
 ---
-title: Scientists need plain language
+title: Scientists Need Plain Language
 permalink: /resources/articles/scientists-need-plain-language/
 sidenav: resources
+redirect_from:
+  - http://www.plainlanguage.gov/usingPL/sciences/whiteman.cfm
 ---
 
 _Lily Whiteman expresses concisely why scientists need to use plain language when they write for the public._
