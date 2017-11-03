@@ -1,12 +1,12 @@
 .icon {
   background-position: center;
   background-repeat: no-repeat;
-  background-size: auto 1.5rem;
+  background-size: auto $spacing-md-small;
   display: inline-block;
-  height: 1.5rem;
+  height: $spacing-md-small;
   position: relative;
   vertical-align: text-top;
-  width: 1.5rem;
+  width: $spacing-md-small;
 }
 
 .icon-large {
@@ -64,11 +64,6 @@ h6 .icon,
 }
 
 // Primary color
-
-.icon-external-link {
-  background-image: url('../img/icons/primary/external-link.svg');
-  vertical-align: middle;
-}
 
 .icon-gavel {
   background-image: url('../img/icons/primary/gavel.svg');

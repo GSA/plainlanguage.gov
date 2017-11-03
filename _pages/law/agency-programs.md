@@ -21,7 +21,7 @@ redirect_from:
 {% if department.website or department.contacts contains "@" %}
 <h4>Plain language resources</h4>
 <ul>
-{% if department.website %}<li><a href="{{ department.website }}">Visit website<i class="icon icon-external-link ml1" aria-hidden="true"></i></a></li>{% endif %}
+{% if department.website %}<li><a href="{{ department.website }}">Visit website</a></li>{% endif %}
 {% if department.contacts contains "@" %}<li><a href="mailto:{{ department.contacts }}">{{ department.contacts }}</a></li>{% endif %}
 </ul>
 {% endif %}
