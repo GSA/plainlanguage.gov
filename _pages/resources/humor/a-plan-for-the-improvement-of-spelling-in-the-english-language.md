@@ -1,8 +1,10 @@
 ---
-title: A plan for the improvement of spelling in the English language
+title: A Plan for the Improvement of Spelling in the English Language
 permalink: >-
-  /resources/humor/a-plan-for-the-improvement-of-spelling-in-the-english-language/
+  /resources/humor/spelling-in-the-english-language/
 sidenav: resources
+redirect_from:
+  - http://www.plainlanguage.gov/examples/humor/marktwain.cfm
 ---
 
 By Mark Twain

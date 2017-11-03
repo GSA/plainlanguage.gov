@@ -1,7 +1,9 @@
 ---
-title: 'Plain language: the bottom line'
-permalink: /resources/articles/plain-language-the-bottom-line/
+title: 'Plain Language: The Bottom Line'
+permalink: /resources/articles/the-bottom-line/
 sidenav: resources
+redirect_from:
+  - http://www.plainlanguage.gov/whyPL/benefits/bottomline.cfm
 ---
 
 Why should we use plain language? It saves us time and money. It saves our customers time and money. And it improves compliance with requirements we impose on the public. Here are some examples taken mostly from Professor Joe Kimble's book _Writing for Dollars, Writing to Please_.

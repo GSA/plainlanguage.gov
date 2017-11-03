@@ -1,7 +1,9 @@
 ---
-title: Clarity in financial documents
-permalink: /resources/content-types/clarity-in-financial-documents/
+title: Plain Language in Finance
+permalink: /resources/content-types/finance/
 sidenav: resources
+redirect_from:
+  - http://www.plainlanguage.gov/populartopics/financial/index.cfm
 ---
 
 The battle for clarity continues at the Securities and Exchange Commission. Just do a search for "plain English" on their website. You'll get over 600 hits.

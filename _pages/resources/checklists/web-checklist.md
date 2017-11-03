@@ -1,7 +1,10 @@
 ---
-title: Web checklist
+title: Checklist for Plain Language on the Web
 permalink: /resources/checklists/web-checklist/
 sidenav: resources
+redirect_from:
+  - http://www.plainlanguage.gov/resources/for_trainers/plainFiles/addendum_web_classes.pdf
+  - http://www.plainlanguage.gov/howto/quickreference/weblist.cfm
 ---
 
 On the web, people are in a hurry. They skim and scan, looking for quick answers to their questions. Help your readers quickly find what they need with these web writing tips:

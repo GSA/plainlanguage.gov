@@ -1,5 +1,5 @@
 ---
-title: Arguments in favor of plain language
+title: Arguments in Favor of Plain Language
 permalink: /resources/articles/arguments-in-favor-of-plain-language/
 sidenav: resources
 redirect_from:
@@ -22,7 +22,7 @@ This page includes some of the key articles that support using plain language.
 
 - In her second article on this subject, also from 2000, [Wanted: Articulate Scientists](http://www.sciencemag.org/careers/2000/11/wanted-articulate-scientists), Lily Whiteman describes how more and more scientists are learning how to reach wider audiences. The article outlines the benefits you will get if you use a plain style.
 
-- Rose Grotsky reported on a recent study of the benefits of plain language and [its effect on organizational performance]({{ site.baseurl }}/resources/articles/plain-language-its-effect-on-organizational-performance/) in a financial-services company. The article appeared in _Clarity_, a periodical devoted to plain legal language.
+- Rose Grotsky reported on a recent study of the benefits of plain language and [its effect on organizational performance]({{ site.baseurl }}/resources/articles/its-effect-on-organizational-performance/) in a financial-services company. The article appeared in _Clarity_, a periodical devoted to plain legal language.
 
 - John Klotsche, an attorney who was a political appointee in IRS during the Bush administration, is a strong advocate for plain language, especially in tax matters. Read his blog, [Plain Tax Talk](http://www.plaintaxtalk.org/).
 
