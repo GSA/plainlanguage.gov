@@ -1,7 +1,9 @@
 ---
-title: Plain language in the sciences
-permalink: /resources/content-types/plain-language-in-the-sciences/
+title: Plain Language in the Sciences
+permalink: /resources/content-types/sciences/
 sidenav: resources
+redirect_from:
+  - http://www.plainlanguage.gov/usingPL/sciences/index.cfm
 ---
 
 A recent National Science Foundation study shows that:

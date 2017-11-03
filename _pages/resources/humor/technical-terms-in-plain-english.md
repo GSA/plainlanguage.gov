@@ -1,7 +1,9 @@
 ---
-title: Technical terms in plain English
+title: Technical Terms in Plain English
 permalink: /resources/humor/technical-terms-in-plain-english/
 sidenav: resources
+redirect_from:
+  - http://www.plainlanguage.gov/examples/humor/technical.cfm
 ---
 
 1\. A NUMBER OF DIFFERENT APPROACHES ARE BEING TRIED--

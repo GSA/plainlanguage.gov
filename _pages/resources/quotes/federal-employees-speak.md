@@ -1,7 +1,9 @@
 ---
-title: Federal employees speak
+title: Federal Employees Speak
 permalink: /resources/quotes/federal-employees-speak/
 sidenav: resources
+redirect_from:
+  - http://www.plainlanguage.gov/whyPL/testimonials/feds.cfm
 ---
 
 Here's what front line employees have to say about plain language.

@@ -1,7 +1,9 @@
 ---
-title: Mary Dash’s writing tips
-permalink: /resources/articles/mary-dashs-writing-tips/
+title: Mary Dash’s Writing Tips
+permalink: /resources/articles/dash-writing-tips/
 sidenav: resources
+redirect_from:
+  - http://www.plainlanguage.gov/howto/quickreference/dash.cfm
 ---
 
 _Mary Dash, Chief of the Congressional Correspondence and Quality Review Branch of the Internal Revenue Service, wrote these excellent writing tips._

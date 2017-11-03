@@ -1,7 +1,9 @@
 ---
-title: Checklists
+title: Checklist for Plain Language
 permalink: /resources/checklists/checklist/
 sidenav: resources
+redirect_from:
+  - http://www.plainlanguage.gov/howto/quickreference/checklist.cfm
 ---
 
 Use this checklist to see if your document meets plain language standards. (If you're writing for the web, here's the [web checklist]({{ site.baseurl }}{% link _pages/resources/checklists/web-checklist.md %}).)

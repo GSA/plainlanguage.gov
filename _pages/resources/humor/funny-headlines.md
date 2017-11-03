@@ -1,7 +1,9 @@
 ---
-title: Funny headlines
+title: Funny Headlines
 permalink: /resources/humor/funny-headlines/
 sidenav: resources
+redirect_from:
+  - http://www.plainlanguage.gov/examples/humor/headlines.cfm
 ---
 
 - Iraqi Head Seeks Arms

@@ -2,6 +2,8 @@
 title: 'Walters v. Reno'
 permalink: /about/history/walters-v-reno/
 sidenav: about
+redirect_from:
+  - http://www.plainlanguage.gov/whatisPL/govmandates/walters.cfm
 ---
 
 ## Maria Walters and others v. United States Immigration and Naturalization Service

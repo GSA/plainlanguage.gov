@@ -1,7 +1,9 @@
 ---
-title: Revisiting plain language
+title: Revisiting Plain Language
 permalink: /resources/articles/revisiting-plain-language/
 sidenav: resources
+redirect_from:
+  - http://www.plainlanguage.gov/whatisPL/history/mazur.cfm
 ---
 
 #### Reprinted from the May 2000, Vol. 47, No. 2, issue of _Technical Communication_ with permission of STC
