@@ -1,5 +1,5 @@
 ---
-title: The arguments against plain language have been refuted
+title: The Arguments Against Plain Language Have Been Refuted
 permalink: /resources/articles/arguments-against-plain-language-have-been-refuted/
 sidenav: resources
 redirect_from:
