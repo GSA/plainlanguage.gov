@@ -22,22 +22,18 @@
   > li {
     font-size: $h3-font-size;
 
-    ul + a {
-      display: none;
+    button,
+    .usa-nav-link {
+      padding-left: $spacing-x-small;
     }
 
-    > .current-parent {
-      font-weight: $font-bold;
+    ul + a {
+      display: none;
     }
   }
 
   a.usa-current { // scss-lint:disable QualifyingElement
     border-left: 0;
-  }
-
-  button,
-  .usa-nav-link {
-    padding-left: $spacing-x-small;
   }
 }
 
@@ -74,10 +70,7 @@
 
 @media #{$breakpoint-lg} {
   .usa-header-extended {
-    em {
-      font-size: 2.5rem;
-      font-weight: 300;
-    }
+
 
     .usa-nav {
       border-color: $border-color;
@@ -86,9 +79,12 @@
 
   .usa-logo {
     margin-left: 0;
-  }
 
-  .usa-logo-text {
+    em {
+      font-size: $h2-font-size;
+      font-weight: 300;
+    }
+
     img {
       width: 36px;
     }
@@ -101,13 +97,17 @@
       display: block;
     }
 
-    > li > a,
-    .usa-nav-link {
+    > li > .usa-nav-link {
       color: $color-base;
       font-family: $font-serif;
       font-size: $h4-font-size;
       font-weight: $font-normal;
       padding-left: $spacing-md-small;
+
+      &.current-parent,
+      &.usa-current {
+        font-weight: $font-bold;
+      }
 
       &:hover,
       &.current-parent,

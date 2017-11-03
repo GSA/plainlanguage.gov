@@ -74,14 +74,16 @@
           </div>
         </form>
         {% endif %}
+        {% assign secondary_links = site.data.navigation[_secondary.links] | default: _secondary.links %}
+        {% if secondary_links %}
         <ul class="usa-unstyled-list usa-nav-secondary-links">
-          {% assign secondary_links = site.data.navigation[_secondary.links] | default: _secondary.links %}
           {% for _link in secondary_links %}
           <li>
             <a href="{% if _link.external == true %}{{ _link.href }}{% else %}{{ _link.href | relative_url }}{% endif %}">{% if _link.icon %}<img src="{{ "/assets/img/twitter.svg" | relative_url }}" alt="" class="icon">{% endif %}{{ _link.text }}</a>
           </li>
           {% endfor %}
         </ul>
+        {% endif %}
       </div>
       {% endif %}
 
