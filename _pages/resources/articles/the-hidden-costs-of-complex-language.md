@@ -1,6 +1,6 @@
 ---
 title: The Hidden Costs of Complex Language
-permalink: /resources/articles/the-hidden-costs-of-complex-language/
+permalink: /resources/articles/hidden-costs-of-complex-language/
 sidenav: resources
 redirect_from:
   - http://www.plainlanguage.gov/usingPL/privsector/hidcost.cfm
