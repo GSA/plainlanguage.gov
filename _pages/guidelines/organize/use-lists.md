@@ -61,12 +61,16 @@ Lists are also helpful in clarifying the chronological order of steps in a proce
 
 ### Example
 
+<div class="example-container">
+
 #### When a foreign student presents a completed Form I-20:
 
 1. Enter the student's admission number from Form 94.
 2. Endorse all copies of the form.
 3. Return a copy to the student.
 4. Send a copy to the Immigration and Naturalization Service.
+
+</div>
 
 ## Focus on clarity and readability
 
@@ -113,8 +117,12 @@ Make sure each of the bullets in a list can make a complete sentence if combined
 
 ### Example
 
+<div class="example-container">
+
 #### You must submit:
 
 - Your application
 - Recommendation letter
 - Mail it express mail
+
+</div>

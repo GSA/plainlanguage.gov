@@ -6,6 +6,8 @@ redirect_from:
   - http://www.plainlanguage.gov/examples/government/VBA-change.cfm
 ---
 
+<div class="example-container">
+
 addressee<br>
 street:<br>
 city<br>
@@ -50,3 +52,5 @@ VA Form 21-4138<br>
 Changes in Your Enrollment<br>
 Basic Rights<br>
 If You Need Help
+
+</div>
