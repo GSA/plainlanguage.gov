@@ -4,8 +4,20 @@
     width: 90px;
   }
 
-  a .usa-label:hover {
-    background-color: $color-primary-darker;
+  a {
+    color: $color-white;
+    text-decoration: none;
+
+    &.usa-label {
+      line-height: 1;
+      padding: .4rem .7rem .3rem;
+    }
+
+    &:hover {
+      background-color: $color-primary-darker;
+      color: $color-white;
+      text-decoration: none;
+    }
   }
 }
 

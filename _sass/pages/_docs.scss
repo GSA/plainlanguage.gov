@@ -12,7 +12,7 @@
   }
 }
 
-.usa-layout-docs-main_content a[href*="//"]:not([href*="plainlangugage.gov"]):after {
+.usa-layout-docs-main_content a[href*="//"]:not([href*="plainlangugage.gov"])::after { // scss-lint:disable SelectorFormat, QualifyingElement
   background-image: url('../img/icons/primary/external-link.svg');
   background-position: center;
   background-repeat: no-repeat;
