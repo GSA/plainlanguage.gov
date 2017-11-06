@@ -22,13 +22,14 @@
 }
 
 .usa-sidenav-list a {
+  display: block;
   font-family: $font-serif;
   padding: $spacing-small 0;
 
   &.current-parent {
     border-left: 0;
     color: $color-base;
-    font-weight: 700;
+    font-weight: $font-bold;
     padding-left: 0;
   }
 
@@ -55,6 +56,6 @@
 }
 
 .usa-sidenav-sub_list a.usa-current {
-  font-weight: 700;
+  font-weight: $font-bold;
 }
  // scss-lint:enable SelectorFormat
