@@ -28,7 +28,7 @@ As part of its work to revitalize communities, create jobs, produce affordable h
 
 Today's "No Gobbledygook Award" builds on President Clinton's June 1st Executive Memorandum that directed all executive departments and agencies to (1) write any new document that tells the public how to get a benefit or comply with a requirement in plain language by October 1, 1998; (2) write all new government regulations in plain language by January 1, 1999; and (3) revise all existing letters and notices into plain language by 2002.
 
-Individuals may file a housing discrimination complaint with HUD by calling 1-800-669-9777 or visiting <http://www.hud.gov/hdiscrim.html>. (No longer a valid link.) With regard to today's announcement, the following is an excerpt of the regulation both before and after it was re-written
+Individuals may file a housing discrimination complaint with HUD by calling 1-800-669-9777 or visiting http://www.hud.gov/hdiscrim.html. (No longer a valid link.) With regard to today's announcement, the following is an excerpt of the regulation both before and after it was re-written
 
 ## Part 103: Fair Housing: Complaint Processing
 

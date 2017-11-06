@@ -34,7 +34,7 @@
       title: Chief, Promotions
       email: w.neil.tillman@census.gov
 - department: Department of Defense
-  website: http://http://www.esd.whs.mil/DD/plainlanguage/
+  website: http://www.esd.whs.mil/DD/plainlanguage/
   officials:
     - name: Michael L. Rhodes
       title: Director of Administration and Management
@@ -88,7 +88,7 @@
     - name: Michael Broome
       email: michael.broome@hq.dhs.gov
 - department: Department of Housing and Urban Development
-  website: http://portal.hud.gov/hudportal/HUD?src=/plainlanguage
+  website: https://www.hud.gov/program_offices/spm/plain_language
   contacts: webmanager@hud.gov
 - department: Department of Interior
   website: http://www.interior.gov/open/Plain-Writing.cfm
@@ -137,7 +137,7 @@
       title: Executive Secretary
   contacts: VAPlainLanguage@va.gov
 - department: Environmental Protection Agency
-  website: http://www.epa.gov/plainlanguage/
+  website: https://www.epa.gov/home/plain-writing
   officials:
     - name: Eric Wachter
       title: Director of the Office of the Executive Secretariat in the Office of the Administrator
@@ -158,7 +158,7 @@
   website: http://www.fdic.gov/plainlanguage/
   contacts: PlainWriting@fdic.gov
 - department: Federal Election Commission
-  website: http://www.fec.gov/info/plainwriting.shtml
+  website: https://www.fec.gov/about/plain-language/
   officials:
     - name: Gregg Scott
       title: Assistant Staff Director, Information Division
@@ -213,19 +213,19 @@
       title: Senior Official for Plain Writing
   contacts: plainwriting@nara.gov
 - department: National Capitol Planning Commission
-  website: http://www.ncpc.gov/Open/home.html
+  website: https://www.ncpc.gov/policies/plainwriting/
   officials:
     - name: Barry Socks
       title: Chief Operating Officer
   contacts: plainwriting@ncpc.gov
 - department: National Credit Union Administration
-  website: http://www.ncua.gov/Legal/plainlanguage/Pages/default.aspx
+  website: https://www.ncua.gov/About/Pages/open-government/plain-writing.aspx
   officials:
     - name: John Kutchey
       title: Deputy Executive Director
   contacts: PlainWriting@ncua.gov
 - department: National Endowment for the Arts
-  website: http://www.nea.gov/open/Plain-language.html
+  website: hhttps://www.arts.gov/open/plain-language
   officials:
     - name: Don Ball
       title: Assistant Director, Office of Public Affairs
@@ -236,7 +236,7 @@
     - name: Darren B. Ash
       title: Deputy Executive Director for Corporate Management
 - department: Occupational Safety and Health Review Commission
-  website: http://www.oshrc.gov/open/plain_writing.html
+  website: https://www.oshrc.gov/plain-writing/
   officials:
     - name: John X. Cerveny
       title: Executive Secretary
@@ -246,7 +246,7 @@
     - name: Lauren Wright
       title: Assistant Director for Management and Operations
 - department: Office of Navajo and Hopi Indian Relocation
-  website: http://onhir.gov/Plain_Writing/index.htm
+  website: https://www.onhir.gov/plain-writing/index.html
   officials:
     - name: Christopher J. Bavasi
       title: Executive Director
