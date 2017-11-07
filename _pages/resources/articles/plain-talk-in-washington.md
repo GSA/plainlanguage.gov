@@ -1,5 +1,5 @@
-—-
-title: 'Plain Talk in Washington'
+---
+title: Plain Talk in Washington
 permalink: /resources/articles/plain-talk-in-washington/
 sidenav: resources
 redirect_from:
