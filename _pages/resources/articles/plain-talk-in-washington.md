@@ -34,9 +34,9 @@ Clear measures aren't always possible, but the best example comes from the state
 
 - 1997: Newly-elected Washington Governor Gary Locke issues an Executive Order on Regulatory Improvement, requiring state agencies to use, among other things, "Plain language, whereby rules are written and organized so they may be easily understood and used by people who are affected by them."
 
-- 1999: The state's workplace safety program, "WISHA," (housed in the Department of Labor and Industries) wins legislative appropriation to write the state's massive set of [basic workplace safety rules](http://www.lni.wa.gov/wisha/rules/corerules/default.htm) into easy–to–read language available to businesses on CD or online. Intensive stakeholder involvement and customer usability testing are included in the project. Winner of many regional and national awards.
+- 1999: The state's workplace safety program, "WISHA," (housed in the Department of Labor and Industries) wins legislative appropriation to write the state's massive set of basic workplace safety rules into easy–to–read language available to businesses on CD or online. Intensive stakeholder involvement and customer usability testing are included in the project. Winner of many regional and national awards.
 
-- 2001: Department of Labor and Industries launches the ["Plain Talk" initiative](http://www.lni.wa.gov/main/docs/plaintalk.doc), promising then–Gov. Locke that it would rewrite into plain language 100 unclear, high–volume form letters in one year. The project creates 15 staff teams who work with a plain language writer and rewrite more than 115 customer documents, testing many of them for usability with typical customers. Winner of the Governor's Customer Service Award, November 2003.
+- 2001: Department of Labor and Industries launches the "Plain Talk" initiative, promising then–Gov. Locke that it would rewrite into plain language 100 unclear, high–volume form letters in one year. The project creates 15 staff teams who work with a plain language writer and rewrite more than 115 customer documents, testing many of them for usability with typical customers. Winner of the Governor's Customer Service Award, November 2003.
 
 - 2003: Washington Department of Revenue launches "Straight Talk," training many employees and rewriting 250 customer letters into plain language in one year. The rewrite of one tax collection letter has yielded the state an additional $5 million to date and won a Governor's Award for Quality Performance in 2004.
 
@@ -46,7 +46,7 @@ Clear measures aren't always possible, but the best example comes from the state
 
 - 2003: Washington Department of Labor and Industries launches a two-year project to redesign and rewrite its [website](http://www.lni.wa.gov) into an easy-to-read and navigate site. The agency undertakes intensive usability testing and many staff were trained in the process. (Wins Distinguished Technical Communication Award from Society of Technical Communication, 2005.)
 
-- 2004: Washington Department of Personnel begins project to write its [brand new civil service rules](http://hr.dop.wa.gov/hrreform/rules.htm) into plain language. Initial usability testing finds that customers have difficulty understanding rules written in the traditional format. The agency creates short, straightforward questions and answers that help users find the information they need to know.
+- 2004: Washington Department of Personnel begins project to write its brand new civil service rules into plain language. Initial usability testing finds that customers have difficulty understanding rules written in the traditional format. The agency creates short, straightforward questions and answers that help users find the information they need to know.
 
 - 2004: Clear rule-writing and Writing for the Web classes offered by the Washington Department of Personnel. They are in demand, along with many other plain language courses for state employees.
 

@@ -175,7 +175,7 @@ Information designers take very seriously our obligations to users. While some c
 
 - Charrow, V., and R. Charrow. 1978\. _The comprehension of standard jury instructions: A psycholinguistic approach._ Arlington, VA: Center for Applied Linguistics.
 
-- Clinton, W. 1998\. "Memorandum for the heads of executive departments and agencies." <http://www.plainlanguage.gov/cites/memo.htm> _(now found at <http://www.plainlanguage.gov/whatisPL/govmandates/memo.cfm>)_
+- Clinton, W. 1998\. "Memorandum for the heads of executive departments and agencies." <{{ '/law/memo-guidelines/' | absolute_url }}>
 
 - Cutts, M. 1993\. "Unspeakable acts." _Information design journal_ 7, no. 2:115-120.
 
@@ -195,9 +195,9 @@ Information designers take very seriously our obligations to users. While some c
 
 - Jereb, B. 1991\. "Plain English on the plant floor." In _Plain language: Principles and practice._ edited by Steinberg, E., pp. 83-92.Detroit, MI: Wayne State University Press.
 
-- Kimble, J. 1994, 1995\. "Answering the critics of plain language." <http://www.plainlanguage.gov/whatisPL/definitions/Kimble.cfm>
+- Kimble, J. 1994, 1995\. "Answering the critics of plain language." <{{ '/resources/articles/elements-of-plain-language/' | absolute_url }}>
 
-- Kimble, J. 1996, 1997\. "Writing for dollars, writing to please." <http://www.plainlanguage.gov/library/kimble.htm> _(now at <http://www.plainlanguagenetwork.org/kimble/dollars.htm>)_
+- Kimble, J. 1996, 1997\. "Writing for dollars, writing to please."
 
 - Mellinkoff, D. 1982\. _Legal writing: Sense and nonsense._ New York, NY: Scribner.
 
@@ -205,9 +205,9 @@ Information designers take very seriously our obligations to users. While some c
 
 - Plain English Campaign. 1996\. _Language on trial: The plain English guide to legal writing._ London, UK: Robson Books.
 
-- Plain Language Action Network. "Writing user-friendly documents." <http://www.plainlanguage.gov/handbook/> (_now at <http://www.plainlanguage.gov/howto/guidelines/reader-friendly.cfm>_
+- Plain Language Action Network. "Writing user-friendly documents." <{{ '/guidelines/' | absolute_url }}>
 
-- "Plain Language Online." <http://www.web.net/raporter/English/Introduction/intro.html>
+- "Plain Language Online." http://www.web.net/raporter/English/Introduction/intro.html
 - Redish, J. C. 1985\. "The plain English movement." In _The English language today._ edited by Greenbaum, S., pp. 125-138.New York, NY: Pergamon Press.
 
 - Redish, J. C., and C. Rosen. 1991\. "Can guidelines help writers?." In _Plain language: Principles and practice._ edited by Steinberg, E., pp. 83-92.Detroit, MI: Wayne State University Press.
@@ -216,7 +216,7 @@ Information designers take very seriously our obligations to users. While some c
 
 - Steinberg, E., ed. 1991\. _Plain language: Principles and practice._ Detroit, MI: Wayne State University Press.
 
-- U.S. Securities and Exchange Commission. 1998\. _A plain English handbook: How to create clear SEC disclosure documents._ <http://www.sec.gov/news/handbook.htm>
+- U.S. Securities and Exchange Commission. 1998\. _A plain English handbook: How to create clear SEC disclosure documents._ <https://www.sec.gov/pdf/handbook.pdf>
 - van der Waarde, K. 1999\. "Typographic dimensions and conventional wisdom: A discrepancy?." _Technical communication_ 46, no. 1:67-74.
 
 - Williams, D. 1999\. "A review of plain English writing tips for U.S. government documents." MA thesis, George Mason University.
