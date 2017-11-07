@@ -66,7 +66,7 @@
         {% if _secondary.search %}
           <form action="{{ _secondary.search.action | relative_url }}" class="usa-search usa-search-small">
           <div role="search">
-            <label class="usa-sr-only" for="search-field-small">Search</label>
+            <label class="usa-sr-only" for="search-input">Search</label>
             <input id="search-input" placeholder="Search..." type="search" name="{{ _secondary.search.query | default: 'search' }}">
             <button type="submit">
               <span class="usa-sr-only">Search</span>
