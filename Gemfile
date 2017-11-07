@@ -7,5 +7,5 @@ group :jekyll_plugins do
   gem 'jekyll_pages_api_search'
   gem 'jekyll-redirect-from'
   gem 'mdl'
-  gem 'uswds-jekyll'
+  gem 'uswds-jekyll', '1.4.1'
 end
