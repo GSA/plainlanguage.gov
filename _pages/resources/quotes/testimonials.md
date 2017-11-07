@@ -12,7 +12,7 @@ Plain language is gaining in popularity as we come to realize how powerful it ca
 
 ## Leaders in government and business
 
-- [Marion Blakey]({{ site.baseurl }}{% link media/blakey.pdf %}), former Administrator of the Federal Aviation Administration, asked federal employees to write more plainly because it will pay huge dividends in improved customer service, safer skills, and reduced costs. [Access a 4-minute video file](http://www.faa.gov/library/media_library/plain_language/')) from Marion Blakey on why plain language matters.
+- [Marion Blakey]({{ site.baseurl }}{% link media/blakey.pdf %}), former Administrator of the Federal Aviation Administration, asked federal employees to write more plainly because it will pay huge dividends in improved customer service, safer skills, and reduced costs.
 
 - [Warren Buffett]({{ site.baseurl }}{% link _pages/resources/guides/security-and-exchange-commission-a-plain-english-handbook.md %}) has been called the greatest stock-market investor of modern times. See what he says about plain language in this preface to the Security and Exchange Commission's _Plain English Handbook_.
 

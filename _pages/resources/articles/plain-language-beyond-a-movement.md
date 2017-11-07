@@ -554,7 +554,7 @@ All of that should help deliver the economic and social benefits of clear commun
 
 19. Legislate Less to Act Better: The Facts Brussels 27 May 1998, COM (1998) 354 final p3.
 
-20. See the Official Journal of the European Union 1999/C 73/01 at <http://europa.eu.int/eur-lex/en/index.html>.
+20. See the Official Journal of the European Union 1999/C 73/01 at <https://europa.eu/european-union/index_en>.
 
 21. www.clearest.co.uk.
 
@@ -578,7 +578,7 @@ All of that should help deliver the economic and social benefits of clear commun
 
 31. Personal email to the author after PLAIN's "At the Heart of Communication" Conference in Toronto, September 2002.
 
-32. Section 1013C (3) Corporations Act 2001, inserted in that Act by the Financial Services Reform Act 2001 No. 122, 2001\. See <http://www.cpd.com.au/asic/ps/ps168.pdf>
+32. Section 1013C (3) Corporations Act 2001, inserted in that Act by the Financial Services Reform Act 2001 No. 122, 2001\. See http://www.cpd.com.au/asic/ps/ps168.pdf
 
 33. AUSTRALIAN SECURITIES & INVESTMENTS COMMISSION, [PS 168] (Policy Statement), DISCLOSURE: PRODUCT DISCLOSURE STATEMENTS (AND OTHER DISCLOSURE OBLIGATIONS), see www.asic.gov.au/index.cfm-acrobat=-asic-pdf-PS168.pdf.htm, especially paragraphs [PS 168.69] to [PS 168.72].
 

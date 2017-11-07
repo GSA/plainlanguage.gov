@@ -22,7 +22,7 @@ The United States is fast becoming a leader in the world-wide plain language mov
 
 ### Journals
 
-- The "Plain Language" column in the [Michigan Bar Journal](http://www.michbar.org/generalinfo/plainenglish/columns.cfm) has been publishing articles on plain legal language for more than 20 years. It is the longest-running column on legal writing. The site includes a list of columns and links to many of the more recent ones.
+- The "Plain Language" column in the [Michigan Bar Journal](http://www.michbar.org/generalinfo/plainenglish/home) has been publishing articles on plain legal language for more than 20 years. It is the longest-running column on legal writing. The site includes a list of columns and links to many of the more recent ones.
 
 - Over the years, The [Scribes Journal of Legal Writing](http://www.scribes.org) has published many influential and widely circulated articles on plain language.
 
@@ -36,17 +36,13 @@ The United States is fast becoming a leader in the world-wide plain language mov
 
 ### State and local governments
 
-- [Washington State](http://www.governor.wa.gov/priorities/plaintalk/default.asp) has been involved in the plain language movement since the mid–1990s.
+- [Washington State](http://www.governor.wa.gov/issues/issues/efficient-government/plain-talk) has been involved in the plain language movement since the mid–1990s.
 
-- Texas has a [plain language contracts project](http://www.occc.state.tx.us/pages/Legal/plain_lang/).
+- Texas has a [plain language contracts project](http://occc.texas.gov/industry/plain-language-initiative).
 
 - Oregon also has a [plain language program](http://plainlanguage.oregon.gov/).
 
-- When Charlie Crist of Florida took office as governor in January 2007, one of his first acts was to issue a [plain language executive order](http://www.flgov.com/pl_home). Florida now has an [entire site](http://www.flgov.com/pl_home) devoted to plain language.
-
 - The [Quality and Productivity Commission](http://qpc.co.la.ca.us/pl.asp), established by the Board of Supervisors of the County of Los Angeles, also has its own site.
-
-- Here's a great resource to help you build a business case for using plain language within your organization: [Easy to Read NYC: Guidelines for Clear and Effective Communication](http://home2.nyc.gov/html/oath/pdf/Easy-to-Read%20NYC.pdf).
 
 ## Around the world
 
@@ -56,18 +52,16 @@ Governments and private organizations around the world support plain language. M
 
 - [Clarity](http://www.clarity-international.net/) is a worldwide group of lawyers and interested lay people. Its aim is the use of good, clear language by the legal profession.
 
-- Sweden has one of the oldest programs. It's managed by the [Ministry of Justice](http://www.regeringen.se/sb/d/4409). Even bills headed to the legislature go through plain language editing. In fall 2004, a representative of the Ministry of Justice spoke at the kickoff of Mexico's new plain language program: [Plain language in Sweden, the results after 30 years]({{ site.baseurl }}{% link _pages/resources/articles/plain-language-in-sweden-the-results-after-30-years.md %}).
+- Sweden has one of the oldest programs. It's managed by the Ministry of Justice. Even bills headed to the legislature go through plain language editing. In fall 2004, a representative of the Ministry of Justice spoke at the kickoff of Mexico's new plain language program: [Plain language in Sweden, the results after 30 years]({{ site.baseurl }}{% link _pages/resources/articles/plain-language-in-sweden-the-results-after-30-years.md %}).
 
 - The United Kingdom has two different private sector groups supporting plain language:
 
   - [The Plain Language Commission](http://www.clearest.co.uk/) accredits public documents and websites with the Clear English Standard logo and provides training in plain language.
 
-  - [The Plain English Campaign](http://www.plainenglish.co.uk/) is an independent pressure group fighting for public information to be written in plain English.
+  - [The Plain English Campaign](http://www.plainenglish.co.uk/) is an independent pressure group fighting for public information to be written in plain English
 
-- The government of [Mexico](http://www.lenguajeciudadano.gob.mx) kicked off a program in 2004 fostering plain language in government writing
+- In Australia, plain language has become a commercial success. Demand for clear language has increased, and law firms that provide plain language legal products are finding success. Two leading sources of plain language legal expertise are [Cleardocs](http://www.cleardocs.com/) and [Plainlanguage.org](http://www.plainlanguage.org/).
 
-- In Australia, plain language has become a commercial success. Demand for clear language has increased, and law firms that provide plain language legal products are finding success. Two leading sources of plain language legal expertise are [Cleardocs](http://www.cleardocs.com/wordsbeyond-contact.html) and [Plainlanguage.org](http://www.plainlanguage.org/).
-
-- The European Commission has created a [guide](http://ec.europa.eu/translation/writing/clear_writing/how_to_write_clearly_en.pdf) for writing clearly in several languages.
+- The European Commission has created a [guide](https://publications.europa.eu/en/publication-detail/-/publication/725b7eb0-d92e-11e5-8fea-01aa75ed71a1/language-en) for writing clearly in several languages.
 
 - Portugal's government has announced a new program, [SIMPLEGIS](http://www.portugal.gov.pt/pt/GC18/Governo/Ministerios/PCM/MP/ProgramaseDossiers/Pages/20100510_MP_Prog_Simplegis.aspx), with the goal of simplifying its legal system and make it clearer, allowing people and businesses have more certainty, security, and clarity in the rules that apply to them.
