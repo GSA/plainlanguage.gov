@@ -7,7 +7,7 @@ redirect_from:
   - http://www.plainlanguage.gov/whyPL/benefits/index.cfm
 ---
 
-We're all busy people. We don't want to waste a lot of time "translating" difficult, wordy documents. Plain-language writing saves time. If we save time, we save money. Plain language is good customer service and makes life easier for the public.
+We're all busy people. We don't want to waste a lot of time "translating" difficult, wordy documents. Plain language writing saves time. If we save time, we save money. Plain language is good customer service and makes life easier for the public.
 
 Plain language means readers understand your documents more quickly. Readers call less often for explanations. They make fewer errors filling out forms. They comply more accurately and quickly with requirements. If your customers don't understand your documents, you may have to:
 

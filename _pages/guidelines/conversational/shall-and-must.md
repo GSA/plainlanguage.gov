@@ -12,7 +12,7 @@ Use "must" not "shall" to impose requirements. "Shall" is ambiguous, and rarely 
 
 First, lawyers regularly misuse it to mean something other than "has a duty to." It has become so corrupted by misuse that it has no firm meaning.
 
-Second--and related to the first--it breeds litigation. There are 76 pages in "Words and Phrases" (a legal reference) that summarize hundreds of cases interpreting "shall."
+Second—and related to the first—it breeds litigation. There are 76 pages in "Words and Phrases" (a legal reference) that summarize hundreds of cases interpreting "shall."
 
 Third, nobody uses "shall" in common speech. It's one more example of unnecessary lawyer talk. Nobody says, "You shall finish the project in a week."
 
@@ -36,7 +36,7 @@ _Justice Canada's Legislative Services Branch_
 
 "Shall" isn't plain English. . . But legal drafters use "shall" incessantly. They learn it by osmosis in law school, and the lesson is fortified in law practice.
 
-Ask a drafter what "shall" means, and you'll hear that it's a mandatory word--opposed to the permissive "may". Although this isn't a lie, it's a gross inaccuracy. . . Often, it's true, "shall" is mandatory. . . Yet the word frequently bears other meanings--sometimes even masquerading as a synonym of "may". . . In just about every jurisdiction, courts have held that "shall" can mean not just "must" and "may", but also "will" and "is". Increasingly, official drafting bodies are recognizing the problem. . .Many . . drafters have adopted the "shall-less" style. . . You should do the same.
+Ask a drafter what "shall" means, and you'll hear that it's a mandatory word—opposed to the permissive "may". Although this isn't a lie, it's a gross inaccuracy. . . Often, it's true, "shall" is mandatory. . . Yet the word frequently bears other meanings—sometimes even masquerading as a synonym of "may". . . In just about every jurisdiction, courts have held that "shall" can mean not just "must" and "may", but also "will" and "is". Increasingly, official drafting bodies are recognizing the problem. . .Many . . drafters have adopted the "shall-less" style. . . You should do the same.
 
 _Bryan Garner, Legal Writing in Plain English, 2001, pp 105-06._
 

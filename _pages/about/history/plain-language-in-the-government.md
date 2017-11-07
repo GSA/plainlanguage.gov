@@ -18,11 +18,11 @@ Warren Buffet, a friend of Levitt's, summed up plain language marvelously in thi
 
 ## 2000s:
 
-The current administration does not have a formal plain language initiative, however a mandate for communicating clearly with the public is part of the Strategic Plan in a number of federal departments and agencies. Many agencies have strong, active plain-language programs in place.
+The current administration does not have a formal plain language initiative, however a mandate for communicating clearly with the public is part of the Strategic Plan in a number of federal departments and agencies. Many agencies have strong, active plain language programs in place.
 
 ### Federal Aviation Administration (FAA)
 
-FAA is home to the leader of the U.S. Government's plain-language movement, Annetta Cheek. Dr. Cheek hosts the monthly meeting of the Plain Language Action and Information Network (PLAIN). Every member of PLAIN is working to ensure that the information written by federal employees is in plain language. Some members of PLAIN volunteer to train staff in other agencies on how to use plain language in their agency's specific documents. FAA has a strong [plain-language program](http://www.faa.gov/regulations_policies/orders_notices/) of its own.
+FAA is home to the leader of the U.S. Government's plain language movement, Annetta Cheek. Dr. Cheek hosts the monthly meeting of the Plain Language Action and Information Network (PLAIN). Every member of PLAIN is working to ensure that the information written by federal employees is in plain language. Some members of PLAIN volunteer to train staff in other agencies on how to use plain language in their agency's specific documents. FAA has a strong [plain language program](http://www.faa.gov/regulations_policies/orders_notices/) of its own.
 
 ### Federal Register
 

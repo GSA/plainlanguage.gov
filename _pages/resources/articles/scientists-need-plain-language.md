@@ -14,7 +14,7 @@ Despite widespread scientific illiteracy, the public is currently confronting ma
 - Juries are evaluating more and more technical evidence, such as DNA-based evidence, medical evidence and fiber evidence.
 - More and more patients are making important medical decisions for themselves instead of deferring to physicians, as they have traditionally done.
 
-For the public to make smart decisions on science-based issues, they must understand them. As Isaac Asimov said, "The whole premise of democracy is that it is safe to leave important questions to the court of public opinion--but is it safe to leave them to the court of public ignorance?" Plain language is one of our best tools for improving scientific literacy and encouraging wise decision-making by the public on science-based issues.
+For the public to make smart decisions on science-based issues, they must understand them. As Isaac Asimov said, "The whole premise of democracy is that it is safe to leave important questions to the court of public opinion—but is it safe to leave them to the court of public ignorance?" Plain language is one of our best tools for improving scientific literacy and encouraging wise decision-making by the public on science-based issues.
 
 It is important for scientists to use plain language not only to reach the public; but also to reach one another. Indeed, scientific information conveyed in plain language invariable reaches bigger scientific audiences than information conveyed in technical language. Evidence of this includes the following:
 

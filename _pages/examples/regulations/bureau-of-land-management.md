@@ -190,8 +190,9 @@ _- The title of the collection of information;
 - An estimate of the total annual reporting and recordkeeping burden that will result from the collection of information. State the burden in terms of the average burden hours per response. Use decimals for fractions of hours; and
 - If we have requested OMB to conduct its review on an emergency basis, the time period within which we are requesting OMB to approve or disapprove the collection of information.]_
 
-__ Organizations and individuals desiring to submit comments on the information collection requirements should direct them to the Office of Information and Regulatory Affairs, Office of Management and Budget, New Executive Office Building, Washington, DC 20503; Attention: Desk Officer for_ [Insert agency name.]_.<br><br>
-We consider comments by the public on this proposed collection of information in--
+__ Organizations and individuals desiring to submit comments on the information collection requirements should direct them to the Office of Information and Regulatory Affairs, Office of Management and Budget, New Executive Office Building, Washington, DC 20503; Attention: Desk Officer for_ [Insert agency name.].
+
+We consider comments by the public on this proposed collection of information in—
 
 - Evaluating whether the proposed collection of information is necessary for the proper performance of our functions, including whether the information will have practical use;
 - Evaluating the accuracy of our estimate of the burden of the proposed collection of information, including the validity of the methodology and assumptions used;

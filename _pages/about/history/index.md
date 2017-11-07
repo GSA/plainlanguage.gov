@@ -22,7 +22,7 @@ Dockets](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inf
 
 ## 2000s
 
-* The Bush administration did not have a formal plain language initiative, however a mandate for communicating clearly with the public was part of the Strategic Plan in a number of federal departments and agencies. Many agencies had strong, active plain-language programs in place.
+* The Bush administration did not have a formal plain language initiative, however a mandate for communicating clearly with the public was part of the Strategic Plan in a number of federal departments and agencies. Many agencies had strong, active plain language programs in place.
 
 * Arthur Levitt, Chairman of the Securities and Exchange Commission at the time, was a champion of plain language and realized how critical it is for financial documents. The SEC's [Plain English Handbook](https://www.sec.gov/reportspubs/investor-publications/newsextrahandbookhtm.html) remains an excellent resource on plain language writing.
 
@@ -50,7 +50,7 @@ Lawyers started to become interested. Since most government agencies are well st
 
 ## 1970s
 
-For many of us in the government today, the current plain-language movement had its start in the 1970s when the federal government encouraged regulation writers to be less bureaucratic.
+For many of us in the government today, the current plain language movement had its start in the 1970s when the federal government encouraged regulation writers to be less bureaucratic.
 
 President Nixon created some early momentum when he decreed that the Federal Register be written in "layman's terms." In 1977, the Federal Communications Commission issued rules for Citizens Band Radios that were written as a series of short questions and answers, with personal pronouns, sentences in the active voice, and clear instructions. These regulations were probably the first to appear entirely in plain English. The current [Citizens Band Radio Rules](https://www.ecfr.gov/cgi-bin/text-idx?SID=d54cf0f302e80f1c74909460331add63&mc=true&tpl=/ecfrbrowse/Title47/47cfr95_main_02.tpl), issued in 1983, continued the plain language style of the 1977 rules.
 

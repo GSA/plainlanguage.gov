@@ -6,7 +6,7 @@ redirect_from:
   - http://www.plainlanguage.gov/resources/take_training/bootcamp.cfm
 ---
 
-At our bootcamps, we train federal employees how to conduct plain-language classes for government agencies. Please sign up if you:
+At our bootcamps, we train federal employees how to conduct plain language classes for government agencies. Please sign up if you:
 
 - want to become a volunteer trainer
 - are a federal employee

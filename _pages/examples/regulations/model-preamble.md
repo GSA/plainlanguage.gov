@@ -88,7 +88,7 @@ No. BLM completed and made publicly available an Environmental Impact Statement/
 
 #### How Would This Rule Change BLM's Oil and Gas Regulations?
 
-The proposed rule applies to operations under Federal oil and gas leases in NPRA and would add a new subpart allowing the formation of oil and gas units in the NPRA. The rule would also--
+The proposed rule applies to operations under Federal oil and gas leases in NPRA and would add a new subpart allowing the formation of oil and gas units in the NPRA. The rule would also:
 
 1. Allow for waiver, suspension or reduction of rental or royalty for NPRA leases;
 2. Allow for suspension of operations and production for NPRA leases;

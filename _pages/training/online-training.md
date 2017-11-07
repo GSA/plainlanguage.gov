@@ -6,7 +6,7 @@ redirect_from:
   - http://www.plainlanguage.gov/resources/take_training/actionoff.pdf
 ---
 
-Plain-language training is available in many forms. This page provides links to some of the plain language training resources we have found. If you know of any training resources that we've overlooked, please [contact us](mailto:{{ site.email }}).
+Plain language training is available in many forms. This page provides links to some of the plain language training resources we have found. If you know of any training resources that we've overlooked, please [contact us](mailto:{{ site.email }}).
 
 - The Federal Aviation Administration has made its [basic course](https://www.faa.gov/about/initiatives/plain_language/basic_course/) and [plain language toolkit](https://www.faa.gov/about/initiatives/plain_language/media/toolkit.pdf) available online.
 

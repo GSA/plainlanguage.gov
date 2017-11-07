@@ -16,7 +16,7 @@ November 24, 1998
 
 ### Clearer Language Means Safer Thanksgiving Meals for Americans
 
-Washington, DC -- Vice President Gore gave an Agriculture Department (USDA) employee his monthly "Plain Language" award today for rewriting a consumer information article on how to safely prepare a turkey.
+Washington, DC — Vice President Gore gave an Agriculture Department (USDA) employee his monthly "Plain Language" award today for rewriting a consumer information article on how to safely prepare a turkey.
 
 "With Americans nationwide preparing to consume 45 million turkeys this Thanksgiving, today's recognition of clear, simple food safety instruction is particularly important," the Vice President said.
 
@@ -38,5 +38,5 @@ With regard to today's announcement, the following is an excerpt of the article 
 
   Make sure you cook both your turkey and your stuffing completely. If you don't, bacteria that can make you sick may still be alive. Here are the most important things to remember about stuffing:
 
-  **Cook the stuffing separately** -- it's MUCH safer! If you absolutely have to cook the stuffing in the turkey, use a thermometer to make sure the stuffing reaches a temperature of 165 F and the turkey reaches a temperature of 180 F in the innermost part of the thigh. Measure the temperature of both the turkey and stuffing! Don't just trust a pop-up indicator!
+  **Cook the stuffing separately** — it's MUCH safer! If you absolutely have to cook the stuffing in the turkey, use a thermometer to make sure the stuffing reaches a temperature of 165 F and the turkey reaches a temperature of 180 F in the innermost part of the thigh. Measure the temperature of both the turkey and stuffing! Don't just trust a pop-up indicator!
 {: .example-side-by-side}

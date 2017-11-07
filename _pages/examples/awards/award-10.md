@@ -13,11 +13,11 @@ June 4, 1999
 
 ## Vice President Gore Praises FDA Employee for Publishing Plain Language Information on Women's Health
 
-Washington, DC -- Vice President Gore today awarded Laurel Eu, a Public Affairs Specialist in the Food and Drug Administration's (FDA) Los Angeles District, his monthly "Plain Language" award for her efforts to increase the number of Asian-Pacific women who receive cancer screenings.
+Washington, DC — Vice President Gore today awarded Laurel Eu, a Public Affairs Specialist in the Food and Drug Administration's (FDA) Los Angeles District, his monthly "Plain Language" award for her efforts to increase the number of Asian-Pacific women who receive cancer screenings.
 
-In response to the low rate of women who receive cancer screenings in Asian-Pacific communities in California, Eu -- with the help from representatives of local ethnic groups, nurses, doctors, and other health care specialists -- developed a simple, easy-to-read version of an existing, wordy pamphlet on mammograms and pap smears. The pamphlet includes pre-punched cards suitable for use in a rotary index card file, providing room for health caregiver's names and numbers and suggested schedules of health exams.
+In response to the low rate of women who receive cancer screenings in Asian-Pacific communities in California, Eu—with the help from representatives of local ethnic groups, nurses, doctors, and other health care specialists—developed a simple, easy-to-read version of an existing, wordy pamphlet on mammograms and pap smears. The pamphlet includes pre-punched cards suitable for use in a rotary index card file, providing room for health caregiver's names and numbers and suggested schedules of health exams.
 
-Eu then worked with local communities to translate the pamphlet into seven Asian-Pacific languages -- Cambodian, Thai, Samoan, Vietnamese, Laotian, Korean, and Chinese.
+Eu then worked with local communities to translate the pamphlet into seven Asian-Pacific languages: Cambodian, Thai, Samoan, Vietnamese, Laotian, Korean, and Chinese.
 
 "This is a great way to provide service to minority populations on a serious women's health issue," Vice President Gore said. "We need to ensure that important health and safety information is available to everyone and in plain language."
 

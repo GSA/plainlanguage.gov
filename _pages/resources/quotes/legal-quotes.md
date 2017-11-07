@@ -27,7 +27,7 @@ _Reed Dickerson, Professor of Law, Indiana University_
 The common language of the law is not the product of necessity, precedent, convention, or economy, but it is the product of sloth, confusion, hurry, cowardice, ignorance, neglect, and cultural poverty.<br>
 _Judge Lynn N. Hughes, U.S. District Court, Houston, Texas_
 
-[Plain language] is, or should be, every bit as accurate and precise as traditional legal writing. It is clearer -- considerably clearer. It is usually shorter and faster. It is strongly preferred by readers. It would greatly improve the image of lawyers.<br>
+[Plain language] is, or should be, every bit as accurate and precise as traditional legal writing. It is considerably clearer. It is usually shorter and faster. It is strongly preferred by readers. It would greatly improve the image of lawyers.<br>
 _Professor Joseph Kimble, Answering the Critics of Plain Language_
 
 The language of law must not be foreign to the ears of those who are to obey it.<br>

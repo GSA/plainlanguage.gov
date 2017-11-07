@@ -8,7 +8,7 @@ redirect_from:
   - http://www.plainlanguage.gov/whyPL/testimonials/thompson.pdf
 ---
 
-Plain language is gaining in popularity as we come to realize how powerful it can be in saving us time and money. Here are just a few of the statements leaders--and front-line employees--have made about why plain language is important.
+Plain language is gaining in popularity as we come to realize how powerful it can be in saving us time and money. Here are just a few of the statements leaders—and front-line employees—have made about why plain language is important.
 
 ## Leaders in government and business
 

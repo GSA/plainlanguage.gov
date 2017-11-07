@@ -26,7 +26,7 @@ sources:
 
 Wordy, dense construction is one of the biggest problems in government writing. Nothing is more confusing to the user than long, complex sentences containing multiple phrases and clauses. Unnecessary words come in all shapes and sizes, and it's difficult to put them into distinct categories. To address the problem, become more critical of your own writing, and consider whether you need every word. Challenge every word—do you need it?
 
-Pronouns, active voice, and base verbs help eliminate excess words. So does eliminating unnecessary modifiers--in "HUD and FAA issued a joint report" you don't need "joint." In "this information is really critical" you don't need "really."
+Pronouns, active voice, and base verbs help eliminate excess words. So does eliminating unnecessary modifiers—in "HUD and FAA issued a joint report" you don't need "joint." In "this information is really critical" you don't need "really."
 
 Unnecessary words waste your audience's time. Great writing is like a conversation. Omit information that the audience doesn't need to know. This can be difficult as a subject matter expert so it's important to have someone look at the information from the audience's perspective.
 

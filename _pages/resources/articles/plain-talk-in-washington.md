@@ -1,5 +1,5 @@
 ---
-title: '“Plain Talk” in Washington'
+title: Plain Talk in Washington
 permalink: /resources/articles/plain-talk-in-washington/
 sidenav: resources
 redirect_from:
@@ -16,9 +16,9 @@ Shortly after taking office as Washington state's new governor in January 2005, 
 
 "Washington is at the forefront among state governments in delivering plain language to its citizens and to state employees, " says Dr. Janice (Ginny) Redish, a Harvard-trained linguist and leading usability professional, owner of Redish & Associates, Inc. of Bethesda, Maryland. "The pioneering efforts of many people in Washington state government have brought plain language to many types of documents.
 
-The plain-language movement in Washington's state government began in the mid–1990s, influenced by consultants from the University of Washington's strong technical communications program. It picked up speed in 1997 when newly–elected Governor Gary Locke issued an executive order requiring rules developed for the Washington Administrative Code to be written and organized so they may be easily understood and used by people who are affected by them."
+The plain language movement in Washington's state government began in the mid–1990s, influenced by consultants from the University of Washington's strong technical communications program. It picked up speed in 1997 when newly–elected Governor Gary Locke issued an executive order requiring rules developed for the Washington Administrative Code to be written and organized so they may be easily understood and used by people who are affected by them."
 
-So far, at least five state agencies have taken up the cause in varying degrees--some targeting troublesome form letters, some focusing on training, and others on revamping their websites so they are easier for customers to use.
+So far, at least five state agencies have taken up the cause in varying degrees—some targeting troublesome form letters, some focusing on training, and others on revamping their websites so they are easier for customers to use.
 
 State officials report that short, simple customer messages tend to result in fewer mistakes, fewer hotline calls and customers who are less frustrated with their government.
 

@@ -10,7 +10,7 @@ redirect_from:
 
 ## In the U.S.
 
-The United States is fast becoming a leader in the world-wide plain-language movement. In addition to government efforts, several important non-profit organizations and groups of professionals support the movement.
+The United States is fast becoming a leader in the world-wide plain language movement. In addition to government efforts, several important non-profit organizations and groups of professionals support the movement.
 
 ### Non-profit organizations
 
@@ -66,7 +66,7 @@ Governments and private organizations around the world support plain language. M
 
 - The government of [Mexico](http://www.lenguajeciudadano.gob.mx) kicked off a program in 2004 fostering plain language in government writing
 
-- In Australia, plain language has become a commercial success. Demand for clear language has increased, and law firms that provide plain-language legal products are finding success. Two leading sources of plain language legal expertise are [Cleardocs](http://www.cleardocs.com/wordsbeyond-contact.html) and [Plainlanguage.org](http://www.plainlanguage.org/).
+- In Australia, plain language has become a commercial success. Demand for clear language has increased, and law firms that provide plain language legal products are finding success. Two leading sources of plain language legal expertise are [Cleardocs](http://www.cleardocs.com/wordsbeyond-contact.html) and [Plainlanguage.org](http://www.plainlanguage.org/).
 
 - The European Commission has created a [guide](http://ec.europa.eu/translation/writing/clear_writing/how_to_write_clearly_en.pdf) for writing clearly in several languages.
 

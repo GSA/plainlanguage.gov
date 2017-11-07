@@ -10,7 +10,7 @@ PLAIN offers a variety of introductory classes on plain language. You may use th
 
 ## Half-day presentations
 
-- [Principles of Plain Language]({{ 'media/training/PLAIN_Principles.pptx' | relative_url }}) (PPTX), our original plain-language class
+- [Principles of Plain Language]({{ 'media/training/PLAIN_Principles.pptx' | relative_url }}) (PPTX), our original plain language class
 - [Plain Language and Writing for the Web]({{ 'media/training/plainlanguage_and_webwriting.pptx' | relative_url }}) (PPTX), based on Principles, but with a web focus
 - [Incorporating Plain Language into Websites]({{ 'media/training/plainlanguage_and_websites.ppt' | relative_url }}) (PPT), a more theoretical class looking at principles of good web design (which includes plain language, of course)
 
@@ -29,7 +29,7 @@ Here's a generic [class evaluation form]({{ 'media/training/class_evaluation_for
 
 These presentations last between 30 and 60 minutes. They are brief overviews about plain language but don't offer any in-depth instruction on how to communicate plainly. The first 2 are targeted toward managers. The third is targeted toward anyone creating or redesigning a website.
 
-- [The Plain Writing Act of 2010]({{ 'media/training/forManagers_theAct_training.pptx' | relative_url }}) (PPTX) and the importance of creating a plain-language training program
+- [The Plain Writing Act of 2010]({{ 'media/training/forManagers_theAct_training.pptx' | relative_url }}) (PPTX) and the importance of creating a plain language training program
 
 - [Why Plain Language is Important]({{ 'media/training/forManagers_whyPL_benefits.ppt' | relative_url }}) (PPT) and the benefits of communicating in plain language
 

@@ -10,7 +10,7 @@ Why should we use plain language? It saves us time and money. It saves our custo
 
 ## Plain language means fewer calls from customers
 
-Calls | Old letter | Plain-language letter
+Calls | Old letter | Plain language letter
 ---- | ----| ----
 To each counselor per month | 94 | 16
 Total per year | 1128 | 192
@@ -21,7 +21,7 @@ Source: Veterans Benefits form letter, Jackson MS office.
 
 In this study, users were asked several questions about FCC pleasure-boat radio requirements. The answers to the questions were in a regulation. Times are the average in minutes that it took to answer each question.
 
-Type of user  | Old regulation | Plain-language regulation
+Type of user  | Old regulation | Plain language regulation
 ------------- | -------------- | -------------------------
 Experienced   | 2.43           | 1.50
 Inexperienced | 3.51           | 1.73
