@@ -60,11 +60,7 @@ Governments and private organizations around the world support plain language. M
 
   - [The Plain English Campaign](http://www.plainenglish.co.uk/) is an independent pressure group fighting for public information to be written in plain English
 
-<<<<<<< HEAD
-- In Australia, plain language has become a commercial success. Demand for clear language has increased, and law firms that provide plain language legal products are finding success. Two leading sources of plain language legal expertise are [Cleardocs](http://www.cleardocs.com/wordsbeyond-contact.html) and [Plainlanguage.org](http://www.plainlanguage.org/).
-=======
-- In Australia, plain language has become a commercial success. Demand for clear language has increased, and law firms that provide plain-language legal products are finding success. Two leading sources of plain language legal expertise are [Cleardocs](http://www.cleardocs.com/) and [Plainlanguage.org](http://www.plainlanguage.org/).
->>>>>>> Updating links
+- In Australia, plain language has become a commercial success. Demand for clear language has increased, and law firms that provide plain language legal products are finding success. Two leading sources of plain language legal expertise are [Cleardocs](http://www.cleardocs.com/) and [Plainlanguage.org](http://www.plainlanguage.org/).
 
 - The European Commission has created a [guide](https://publications.europa.eu/en/publication-detail/-/publication/725b7eb0-d92e-11e5-8fea-01aa75ed71a1/language-en) for writing clearly in several languages.
 

@@ -197,7 +197,7 @@ Information designers take very seriously our obligations to users. While some c
 
 - Kimble, J. 1994, 1995\. "Answering the critics of plain language." <{{ '/resources/articles/elements-of-plain-language/' | absolute_url }}>
 
-- Kimble, J. 1996, 1997\. "Writing for dollars, writing to please."
+- Kimble, J. 1996, 1997\. "Writing for dollars, writing to please." http://www.plainlanguagenetwork.org/kimble/dollars.htm
 
 - Mellinkoff, D. 1982\. _Legal writing: Sense and nonsense._ New York, NY: Scribner.
 
