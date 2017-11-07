@@ -10,7 +10,7 @@ Joe Kimble, a law professor and a major force in plain language in the United St
 
 I originally published these guidelines in 1992, in the _Thomas M. Cooley Law Review._([1](#Footnotes)) Although I think they hold up pretty well after ten years, I have tinkered with them recently. So here is the 2002 edition:
 
-## A. In General
+## A. In general
 
 1. As the starting point and at every point, design and write the document in a way that best serves the reader. Your main goal is to convey your ideas with the greatest possible clarity.
 
