@@ -8,7 +8,7 @@ redirect_from:
 
 Use this checklist to see if your document meets plain language standards. (If you're writing for the web, here's the [web checklist]({{ site.baseurl }}{% link _pages/resources/checklists/web-checklist.md %}).)
 
-- written for the average reader
+- [written for the average reader]({{ site.baseurl }}/guidelines/audience)
 - [organized to serve the reader's needs]({{ site.baseurl }}/guidelines/organize)
 - [has useful headings]({{ site.baseurl }}/guidelines/organize/add-useful-headings/)
 - [uses "you" and other pronouns to speak to the reader]({{ site.baseurl }}/guidelines/audience/address-the-user/)
