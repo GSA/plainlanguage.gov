@@ -1,6 +1,10 @@
 ---
 title: Address the user
 sidenav: guidelines
+redirect_from:
+  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/orgOnePerson.cfm
+  - http://www.plainlanguage.gov/howto/quickreference/pops/pronouns.cfm
+  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeYou.cfm
 sources:
   - author: 'Garner, Bryan A.'
     title: 'A Dictionary of Modern Legal Usage, 2nd edition'

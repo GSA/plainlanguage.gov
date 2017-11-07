@@ -5,6 +5,7 @@ permalink: /guidelines/concise/
 redirect_from:
   - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeOmitUnnecc.cfm
   - http://www.plainlanguage.gov/howto/quickreference/pops/excess.cfm
+  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/otherWords.cfm
 sources:
   - author: 'Garner, Bryan A.'
     title: Legal Writing in Plain English
