@@ -13,11 +13,11 @@ sidenav: guidelines
 - What(Company) will do and for how long
 - What you must do
 - How to get warranty service
-- (Today, I would in fact redo these as all questions for the sake of parallelism--see #6.)
+- (Today, I would in fact redo these as all questions for the sake of parallelism—see #6.)
 
-People read one or the other version of each warranty and then answered 12 questions using the warranty. We found that people were able to find the right answer even in the warranties with no headings--but they didn't like those. 90% of the 48 people who participated in the test chose the warranties with the headings as "easiest to read and understand" and as the one that they would be "more motivated to use and pay attention to."
+People read one or the other version of each warranty and then answered 12 questions using the warranty. We found that people were able to find the right answer even in the warranties with no headings—but they didn't like those. 90% of the 48 people who participated in the test chose the warranties with the headings as "easiest to read and understand" and as the one that they would be "more motivated to use and pay attention to."
 
-That study says that even in a very short document like a half-page warranty, people find headings useful. Note that some of these headings are questions, some are phrases --but they are not just nouns, they have personal pronouns and verbs in them.
+That study says that even in a very short document like a half-page warranty, people find headings useful. Note that some of these headings are questions, some are phrases —but they are not just nouns, they have personal pronouns and verbs in them.
 
 3\. Questions are better as headings than are nouns or noun phrases. People come to documents with questions so raising the question creates that link that helps users say "yes, this is where I want to be; this is what I need to read." Often, writers don't get the noun headings in a logical order. Thinking of questions as headings helps writers put the information into a logical order. Noun headings are also often misleading: Would a heading like "Eligible Loan Participants" refer to borrowers or to banks? "Who is eligible to apply" is much clearer.
 
@@ -30,7 +30,7 @@ That study says that even in a very short document like a half-page warranty, pe
 - and even phrases that have pronouns and verbs
 - What You Must Do First
 
-All of these help users connect to the text and cue the user better than nouns do. In a user's manual, people are trying to do tasks--actions. Actions are verbs. Verb phrases are the best headings for sections that relate to procedures. Sometimes verb phrases would make good headings for procedural sections of rules.
+All of these help users connect to the text and cue the user better than nouns do. In a user's manual, people are trying to do tasks—actions. Actions are verbs. Verb phrases are the best headings for sections that relate to procedures. Sometimes verb phrases would make good headings for procedural sections of rules.
 
 5\. Writing a good verb heading
 
@@ -48,7 +48,7 @@ In our study, we found that when the headings all started with "how to," users c
 
 users could see the different actions right away.
 
-6\. One issue that writers need to consider is that we also want to strive for parallelism in the way we write the headings in a particular section of the rules at a particular level of heading. It takes more mental energy to switch back and forth in understanding when the structure of the headings keeps changing. If the structure changes with the level that's okay because it in fact helps users understand the document--the change from one structure to another signals a change from top level to subtopic. So, one of the reasons to use questions in regulations is parallelism. Once we start with a question, it is easier for users if we keep going with questions, like this:
+6\. One issue that writers need to consider is that we also want to strive for parallelism in the way we write the headings in a particular section of the rules at a particular level of heading. It takes more mental energy to switch back and forth in understanding when the structure of the headings keeps changing. If the structure changes with the level that's okay because it in fact helps users understand the document—the change from one structure to another signals a change from top level to subtopic. So, one of the reasons to use questions in regulations is parallelism. Once we start with a question, it is easier for users if we keep going with questions, like this:
 
 - Do I need a permit?
 - How do I get a permit?

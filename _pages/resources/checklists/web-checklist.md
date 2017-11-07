@@ -21,5 +21,5 @@ On the web, people are in a hurry. They skim and scan, looking for quick answers
 - Make liberal use of white space so pages are easy to scan.
 - Write (especially page titles) using the same words your readers would use when doing a web search for the info.
 - Don't assume your readers have knowledge of the subject or have read related pages on your site. Clearly explain things so each page can stand on its own.
-- Never use "click here" as a link -- link language should describe what your reader will get if they click the link.
+- Never use "click here" as a link. Link language should describe what your reader will get if they click the link.
 - Eliminate unnecessary words.

@@ -62,7 +62,7 @@ The finest words in the world are only vain sounds if you can't understand them.
 The best sentence? The shortest.<br>
 _Anatole France_
 
-Words--so innocent and powerless as they are, as standing in a dictionary, how potent for good and evil they become, in the hands of one who knows how to combine them.<br>
+Words—so innocent and powerless as they are, as standing in a dictionary, how potent for good and evil they become, in the hands of one who knows how to combine them.<br>
 _Nathaniel Hawthorne_
 
 The most important lesson in the writing trade is that any manuscript is improved if you cut away the fat.<br>
@@ -85,7 +85,7 @@ Words, like glasses, obscure everything they do not make clear.<br>
 Before using a fine word, make a place for it.<br>
 _Joseph Joubert_
 
-Use familiar words--words that your readers will understand, and not words they will have to look up. No advice is more elementary, and no advice is more difficult to accept. When we feel an impulse to use a marvelously exotic word, let us lie down until the impulse goes away.<br>
+Use familiar words—words that your readers will understand, and not words they will have to look up. No advice is more elementary, and no advice is more difficult to accept. When we feel an impulse to use a marvelously exotic word, let us lie down until the impulse goes away.<br>
 _James J. Kilpatrick_
 
 Don't use words too big for the subject. Don't say 'infinitely' when you mean 'very'; otherwise you'll have no word left when you want to talk about something really infinite.<br>
@@ -100,7 +100,7 @@ _W. Somerset Maugham_
 Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that's creativity.<br>
 _Charles Mingus_
 
-Good Prose should be transparent--like a window pane.<br>
+Good Prose should be transparent—like a window pane.<br>
 The great enemy of clear language is insincerity. When there is a gap between one's real and one's declared aims, one turns instinctively to long words and exhausted idioms, like a cuttlefish squirting out ink.<br>
 _George Orwell_
 
@@ -131,7 +131,7 @@ _William Shakespeare_
 The biggest problem with communication is the illusion that it has been accomplished.<br>
 _George Bernard Shaw_
 
-If you would be pungent, be brief; for it is with words as with sunbeams--the more they are condensed, the deeper they burn.<br>
+If you would be pungent, be brief; for it is with words as with sunbeams—the more they are condensed, the deeper they burn.<br>
 _Robert Southey_
 
 Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary parts. This requires not that the writer make all his sentences short, or that he avoid all detail and treat his subject only in outline, but that every word tell.<br>
@@ -140,7 +140,7 @@ _William Strunk and E. B. White_
 The trouble with so many of us is that we underestimate the power of simplicity.<br>
 _Robert Stuberg_
 
-Anybody can have ideas--the difficulty is to express them without squandering a quire of paper on an idea that ought to be reduced to one glittering paragraph.<br>
+Anybody can have ideas—the difficulty is to express them without squandering a quire of paper on an idea that ought to be reduced to one glittering paragraph.<br>
 I never write "metropolis" for seven cents when I can write "city" and get paid the same.<br>
 As to the adjective, when in doubt, strike it out.<br>
 _Mark Twain_
@@ -159,4 +159,4 @@ Writing improves in direct ratio to the things we can keep out of it that should
 _William Zinsser_
 
 He that uses many words for explaining any subject, doth, like the cuttlefish, hide himself for the most part in his own ink.<br>
-_John Ray, naturalist_ <!-- (1627-1705) -->
+_John Ray, naturalist_

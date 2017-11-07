@@ -20,7 +20,7 @@ I originally published these guidelines in 1992, in the _Thomas M. Cooley Law Re
 
 4. Use examples as needed to help explain the text.
 
-5. Whenever possible, test consumer documents on a small group of typical users--and improve the documents as need be.
+5. Whenever possible, test consumer documents on a small group of typical users—and improve the documents as need be.
 
 ## B. Design
 
@@ -74,7 +74,7 @@ I originally published these guidelines in 1992, in the _Thomas M. Cooley Law Re
 
 5. Try to put the main subject and verb toward the beginning; don't pile up conditions or qualifiers before the main clause.
 
-6. Put the strongest point, your most important information, at the end--where the emphasis falls.
+6. Put the strongest point, your most important information, at the end—where the emphasis falls.
 
 7. Prefer the active voice. Use the passive voice if the agent is unknown or unimportant. Or use it if, for continuity, you want to focus attention on the object of the action instead of the agent. ("No more legalese. It has been ridiculed long enough.")
 
@@ -84,7 +84,7 @@ I originally published these guidelines in 1992, in the _Thomas M. Cooley Law Re
 
 ## E. Words
 
-1. Prefer familiar words--usually the shorter ones--that are simple and direct and human. ([3](#Footnotes))
+1. Prefer familiar words—usually the shorter ones—that are simple and direct and human. ([3](#Footnotes))
 
 2. Avoid legal jargon: stuffy old formalisms (_Now comes; In witness whereof)_; _here-, there-, and where-_ words _(hereby, therein, wherefore_); unnecessary Latin (_arguendo, inter alia_); and all the rest (_and/or, provided that, pursuant to, the instant case_). ([4](#Footnotes))
 

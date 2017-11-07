@@ -19,7 +19,7 @@ Best selling novelist James Michener used basic language. In his marvelous book 
 
 A superlative scholar throughout his life, Michener acquired a large vocabulary; "but I never had a desire to display it," he observed. He continued, "Good writing consists of trying to use ordinary words to achieve extraordinary results."
 
-On this point, Michener tells about Somerset Maugham, a revered novelist whose career ended as Michener's began. Maugham said he started a notebook when he decided to become a writer. He jotted down words with nice sounds--big, impressive words. Years later, he reviewed his list, and realized he had never used a single word from his collection.
+On this point, Michener tells about Somerset Maugham, a revered novelist whose career ended as Michener's began. Maugham said he started a notebook when he decided to become a writer. He jotted down words with nice sounds—big, impressive words. Years later, he reviewed his list, and realized he had never used a single word from his collection.
 
 To quote Michener again: "No writer has to use all the words he does know."
 

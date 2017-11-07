@@ -199,9 +199,9 @@ Weak: The General Accounting Office made a recommendation that we take the progr
 
 Stronger: The General Accounting Office recommended that we review the program.
 
-Weak: Ms. Doe made a suggestion that we require her employer to provide for catch--up contributions in its 401(k) plan.
+Weak: Ms. Doe made a suggestion that we require her employer to provide for catch-up contributions in its 401(k) plan.
 
-Stronger: Ms. Doe suggested that we require her employer to provide for catch--up contributions in its 401(k) plan.
+Stronger: Ms. Doe suggested that we require her employer to provide for catch-up contributions in its 401(k) plan.
 
 Avoiding false subjects. False subjects are words like it is, it was, there is, there are, and there was. They usually occur at the beginning of a sentence and often displace the real subject
 
@@ -209,7 +209,7 @@ False subject: It is possible that the taxpayer may not qualify for the earned i
 
 Real subject: The taxpayer may not qualify for the earned income tax credit.
 
-False subject: There is a door leading out to the public reception area directly behind the place the interviewee sits. Real subject--A door leads out to the public reception area directly behind the place the interviewee sits.
+False subject: There is a door leading out to the public reception area directly behind the place the interviewee sits. Real subject: A door leads out to the public reception area directly behind the place the interviewee sits.
 
 Eliminating or shortening wordy phrases. Wordy phrases use too many words to express an idea. Make your sentences short, direct, and clear.
 
@@ -226,9 +226,9 @@ Wordy: As a matter of fact, any change to the law requires legislative action.
 
 Shorter: In fact, any change to the law requires legislative action.
 
-Wordy: Based on the fact that Mr. Doe is no longer a plan participant, he cannot make catch--up contributions.
+Wordy: Based on the fact that Mr. Doe is no longer a plan participant, he cannot make catch-up contributions.
 
-Shorter: Because Mr. Doe is no longer a plan participant, he cannot make catch--up contributions.
+Shorter: Because Mr. Doe is no longer a plan participant, he cannot make catch-up contributions.
 
 Avoiding redundancies. Redundant expressions needlessly repeat ideas when fewer words clearly communicate the meaning. They add no value to your documents. For example, in the expression final outcome, the word final is redundant because outcome implies finality. Here are a few more examples:
 
@@ -248,7 +248,7 @@ Better: We completed the review of your program and will give you our conclusion
 Redundant: A balance of $200.00 still remains on your credit card.
 Better: A balance of $200.00 remains on your credit card.
 
-Eliminating legal or technical terms. Studies have shown that not only non--technical readers, but also professionals in the technical field you are writing about appreciate plain language documents that are free from technical terms. People are busy and documents written in a plain language style help them understand the information more quickly. We don't need to impress our readers with big words.
+Eliminating legal or technical terms. Studies have shown that not only non-technical readers, but also professionals in the technical field you are writing about appreciate plain language documents that are free from technical terms. People are busy and documents written in a plain language style help them understand the information more quickly. We don't need to impress our readers with big words.
 
 Good organization, a logical flow of information, and clear, understandable language are much more like to impress. If we need to cite legal code or court cases, we should put that information in parenthesis at the end of the sentence or paragraph it applies to or in footnotes at the bottom of the page. That way, the information is available if readers need it but does not distract from the information you are trying to communicate.
 
@@ -256,15 +256,15 @@ Technical: Organizations can save shipping costs by sending their brochures via 
 
 Plain: Organizations can save shipping costs by sending their brochures by bulk mail.
 
-Legal: Pursuant to Internal Revenue Code Section 86(a)(1)(A), gross income must include no more than one--half of the social security benefits received during the tax year.
+Legal: Pursuant to Internal Revenue Code Section 86(a)(1)(A), gross income must include no more than one—half of the social security benefits received during the tax year.
 
 Plain: Gross income must include no more than one-half of the social security benefits received during the tax year [Section 86(a)(1)(A)of the Internal Revenue Code].
 
 ## Problem words
 
-Problem Words challenge most of us, which/that is hard to accept/except. These words don't affect/effect all of your work. You may think it's all right/alright to use the wrong word, but just among us writers, it's a problem. Even if we appraise/apprise you of the right word choice, as we're doing here, to ensure/assure/insure you have the right choices, you should check this list bimonthly/twice a month/every two months as a refresher. For example, take "capital" and "capitol". If you cite/site the "capital" of our nation, or the "capitol" building, what's the difference? They both comprise/compose part of the English language and seem to refer to the same thing--right?
+Problem Words challenge most of us, which/that is hard to accept/except. These words don't affect/effect all of your work. You may think it's all right/alright to use the wrong word, but just among us writers, it's a problem. Even if we appraise/apprise you of the right word choice, as we're doing here, to ensure/assure/insure you have the right choices, you should check this list bimonthly/twice a month/every two months as a refresher. For example, take "capital" and "capitol". If you cite/site the "capital" of our nation, or the "capitol" building, what's the difference? They both comprise/compose part of the English language and seem to refer to the same thing—right?
 
-Do you think it doesn't make a difference? Nothing could be farther/further from the truth. Choosing the correct word says something about us, our organization, and our professionalism. If you just rely on good word references (e.g.,--or is it i.e.?--this one and others), the principals/principles of good writing begin to fall into place. Effective business writing which/that includes helping you select the right words, helps all of us communicate more effectively, and more efficiently. Besides, we want our readers to focus on the purpose and message of our document, not play guessing games with poor word choices. Some of the most frequently misused words are:
+Do you think it doesn't make a difference? Nothing could be farther/further from the truth. Choosing the correct word says something about us, our organization, and our professionalism. If you just rely on good word references (e.g.,—or is it i.e.?—this one and others), the principals/principles of good writing begin to fall into place. Effective business writing which/that includes helping you select the right words, helps all of us communicate more effectively, and more efficiently. Besides, we want our readers to focus on the purpose and message of our document, not play guessing games with poor word choices. Some of the most frequently misused words are:
 
 **Accept**: Use accept as a verb meaning, "to receive."<br>
 I accept this award on behalf of all the members of the team.

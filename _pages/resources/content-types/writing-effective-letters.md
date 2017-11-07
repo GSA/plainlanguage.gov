@@ -103,7 +103,7 @@ While in general you should write using present tense, letters may require you t
 
 ## Expressing requirements
 
-While in general we prefer **must** as the clearest way to express an obligation, in letter we must consider tone. You can use one of the following to convey your message clearly, depending on the attitude you want to convey to your readers. For instance--
+While in general we prefer **must** as the clearest way to express an obligation, in letter we must consider tone. You can use one of the following to convey your message clearly, depending on the attitude you want to convey to your readers. For instance:
 
 - You **_need to_** complete this form to apply for benefits.
 - You **_have to_** send us this information within 30 days.

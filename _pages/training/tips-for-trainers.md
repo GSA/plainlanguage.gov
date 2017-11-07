@@ -26,7 +26,7 @@ SMART goals are specific, measurable, achievable, realistic, and have a timefram
 
 - Start with a clearly defined goal, and communicate your expectations to everyone involved in the effort.
 - Implement a training program so that the entire organization is on the same page.
-- Look for small successes and aim for continuous improvement -- not rapid change.
+- Look for small successes and aim for continuous improvement—not rapid change.
 - Revise first those documents that have the biggest circulation and are the hardest to understand.
 - Post examples of clearly written documents on a website or home directory as a reference tool.
 - Evaluate your progress frequently and seek feedback. Adjust your course if necessary.

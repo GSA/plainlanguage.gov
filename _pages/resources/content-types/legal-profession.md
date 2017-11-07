@@ -31,7 +31,7 @@ Judge Mark P. Painter of the Ohio First District Court Of Appeals wrote two exce
 
 * [Legal Writing 201: 30 Suggestions To Improve Readability, or How To Write For Judges, Not Like Judges](http://www.plainlanguagenetwork.org/Legal/legalwriting.pdf)
 
-* [Appellate Practice--Including Legal Writing From A Judge's Perspective](http://www.plainlanguagenetwork.org/Resources/appellate.pdf)
+* [Appellate Practice - Including Legal Writing From A Judge's Perspective](http://www.plainlanguagenetwork.org/Resources/appellate.pdf)
 
 Martin Cutts of England's Plain Language Commission published his classic [_Lucid Law_](http://www.clearest.co.uk/files/LucidLawA-T.pdf) originally in 1994, with an updated version in 2000.
 
@@ -43,7 +43,7 @@ Sandeep Dave provides advice to legal writers in [Plain Language in Law](http://
 
 [The Scribes Journal of Legal Writing](http://scribes.org) has published many important articles on plain language. You can find the table of contents for each volume at the Scribes website.
 
-[Law and Justice Foundation](http://www.lawfoundation.net.au/information) of New South Wales, Australia, "seeks to advance the fairness and equity of the justice system, and to improve access to justice, especially for socially and economically disadvantaged people." The Foundation sees plain legal writing as an essential element of this goal. Its website includes information on guides to plain-language writing and access to its free bi-monthly plain language law newsletter.
+[Law and Justice Foundation](http://www.lawfoundation.net.au/information) of New South Wales, Australia, "seeks to advance the fairness and equity of the justice system, and to improve access to justice, especially for socially and economically disadvantaged people." The Foundation sees plain legal writing as an essential element of this goal. Its website includes information on guides to plain language writing and access to its free bi-monthly plain language law newsletter.
 
 ## Further reading
 

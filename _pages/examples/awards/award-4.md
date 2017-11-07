@@ -16,7 +16,7 @@ October 28, 1998
 
 ### Clearer Regulation Will Make it Easier for Americans to Fight Housing Discrimination
 
-Washington, DC -- Vice President Gore gave two Housing and Urban Development Department (HUD) employees his monthly "Plain Language" award today for rewriting a housing discrimination regulation, making it easier for average Americans to file housing discrimination complaints.
+Washington, DC — Vice President Gore gave two Housing and Urban Development Department (HUD) employees his monthly "Plain Language" award today for rewriting a housing discrimination regulation, making it easier for average Americans to file housing discrimination complaints.
 
 "There are few things more damaging than housing discrimination because when you deny people a home, you deny them the school they want, the neighborhood they want, and often the job they need," Vice President Gore said. "But, before today, it you looked at what it took to file a complaint, you found a 600-word form that raised more questions than it answered."
 

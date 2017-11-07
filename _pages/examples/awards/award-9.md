@@ -14,7 +14,7 @@ April 26, 1999
 
 ## Veterans Benefits Administration Employees Get Vice President Gore's Plain Language Award
 
-Washington, DC--This month Vice President Gore used his plain language award to recognize the work of more than 800 front line employees in the Veteran's Benefits Administration of the Department of Veterans Affairs. Today, three VBA employees accepted the No Gobbledygook Award in the Roosevelt Room on behalf of VBA's national "reader-focused writing" team. The three employees are Melodee Mercer, Insurance Service, Philadelphia; Chuck Graffam, Vocational Rehab, Washington, DC; and Wayne Taylor, Compensation and Pensions, Washington, DC.
+Washington, DC—This month Vice President Gore used his plain language award to recognize the work of more than 800 front line employees in the Veteran's Benefits Administration of the Department of Veterans Affairs. Today, three VBA employees accepted the No Gobbledygook Award in the Roosevelt Room on behalf of VBA's national "reader-focused writing" team. The three employees are Melodee Mercer, Insurance Service, Philadelphia; Chuck Graffam, Vocational Rehab, Washington, DC; and Wayne Taylor, Compensation and Pensions, Washington, DC.
 
 ## VBA's Accomplishments
 

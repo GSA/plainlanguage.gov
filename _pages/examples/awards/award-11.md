@@ -14,7 +14,7 @@ July 20, 1999
 
 ## Vice President Gore Praises NASA Employee for Plain Language Rewrite of Safety and Health Handbook
 
-Washington, DC -- Vice President Gore awarded Den Clem, a NASA employee, his monthly "Plain Language" award today for leading the rewrite effort of a NASA safety manual.
+Washington, DC — Vice President Gore awarded Den Clem, a NASA employee, his monthly "Plain Language" award today for leading the rewrite effort of a NASA safety manual.
 
 In 1996, Clem, of NASA's Johnson Space Center in Houston, TX, became the principal force behind an effort to rewrite a 600 plus page Safety and Health Handbook into plain language. The handbook covers safety and health requirements for civil servants and contractors at the center, as well as other related sites in New Mexico and California.
 

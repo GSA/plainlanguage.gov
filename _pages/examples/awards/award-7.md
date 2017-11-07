@@ -11,7 +11,7 @@ Office of the Vice President
 
 ## Vice President Gore Lauds U.S. Securities and Exchange Commission Rewrite of Financial Disclosure Forms
 
-Washington, DC -- Vice President Gore presented two Securities and Exchange Commission (SEC) employees a Plain Language Award today for their work with financial disclosure forms -- a step that will help millions of Americans who depend on SEC regulated documents to determine where to invest their money.
+Washington, DC — Vice President Gore presented two Securities and Exchange Commission (SEC) employees a Plain Language Award today for their work with financial disclosure forms—a step that will help millions of Americans who depend on SEC regulated documents to determine where to invest their money.
 
 The Vice President presented the awards to Nancy Smith of the SEC's Office of Investor Education and Assistance, and Brian Lane, Director of the Division of Corporation Finance for their work on the SEC's initiative to get companies to write financial disclosure documents in plain language.
 
