@@ -4,6 +4,13 @@ permalink: /resources/articles/dash-writing-tips/
 sidenav: resources
 redirect_from:
   - http://www.plainlanguage.gov/howto/quickreference/dash.cfm
+  - http://www.plainlanguage.gov/howto/quickreference/dash/dashfederal.cfm
+  - http://www.plainlanguage.gov/howto/quickreference/dash/dashprepositions.cfm
+  - http://www.plainlanguage.gov/howto/quickreference/dash/dashcompound.cfm
+  - http://www.plainlanguage.gov/howto/quickreference/dash/dashproblem.cfm
+  - http://www.plainlanguage.gov/howto/quickreference/dash/dashpronouns.cfm
+  - http://www.plainlanguage.gov/howto/quickreference/dash/dashactive.cfm
+  - http://www.plainlanguage.gov/howto/quickreference/dash/dashgobbledygook.cfm
 ---
 
 _Mary Dash, Chief of the Congressional Correspondence and Quality Review Branch of the Internal Revenue Service, wrote these excellent writing tips._

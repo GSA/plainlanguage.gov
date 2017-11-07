@@ -3,6 +3,7 @@ title: Design for reading
 sidenav: guidelines
 permalink: /guidelines/design/
 redirect_from:
+  - http://www.plainlanguage.gov/usingPL/government/guidelines.cfm
   - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/otherAids.cfm
   - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeDesign.cfm
 sources:
@@ -29,6 +30,42 @@ Designing for reading is an important part of developing effective communication
 
 ## Use simple typography
 
-- Use ragged right margins where possible, rather than centering or justifying your text
-- Don't use more than one or two typefaces
-- [Highlight important concepts]({{ site.baseurl }}{% link _pages/guidelines/design/highlight-important-concepts.md %}) with simple text formatting
+- Use ragged right margins where possible, rather than centering or justifying your text.
+- Set the leading (space between lines) to be 2 points larger than the type size. For example, 12 over 14.
+
+### Fonts
+
+- Select a serif font for the body text (like Times Roman).
+- Don't mix fonts within the body.
+- Don't use more than one or two typefaces.
+- Select a sans serif font for the headings (like Arial).
+
+### Shading and borders
+
+Use shading and borders only to accent graphs, charts, etc.
+
+### Headings
+
+- Use uppercase and lowercase (not all caps).
+- Set headings in bold.
+- Justify to the left margin.
+- Triple-space before headings and double-space after (for example, 19.2 points before, 8.4 points after).
+
+### Bullets
+
+- Use standard bullets (if you choose others, like diamonds or arrows, be consistent).
+- Generally, don't use more than two types of bullets.
+- Use numbers only if there is a sequence to identify.
+
+### Emphasis and styling
+
+- [Highlight important concepts]({{ site.baseurl }}{% link _pages/guidelines/design/highlight-important-concepts.md %}) with simple text formatting.
+- Use bold for emphasis (not underlining).
+- Use italics for parenthetical information, like citations of laws.
+
+## Before you finish
+
+- Take a long look at the appearance of the letter for eye-appeal
+- Be sure the letter does not look visually confusing
+- Don't overuse layout and typographical devices
+- Check for odd shapes (the "hourglass effect") that may have unintentionally been created as you composed the letter
