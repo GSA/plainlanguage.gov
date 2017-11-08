@@ -4,9 +4,9 @@ permalink: /examples/notices/
 sidenav: examples
 layout: list
 redirect_from:
-  - /examples/before_after/overctrdrug.pdf
-  - /examples/before_after/CP2000_before.pdf
-  - /examples/before_after/CP2000_after.pdf
+  - /examples/before_after/overctrdrug.pdf.html
+  - /examples/before_after/CP2000_before.pdf.html
+  - /examples/before_after/CP2000_after.pdf.html
 ---
 
 - [Model Notices of Privacy Practices](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/model-notices-privacy-practices/index.html), Department of Heath and Human Services
