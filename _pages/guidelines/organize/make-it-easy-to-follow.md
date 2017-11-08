@@ -2,7 +2,7 @@
 title: Make it easy to follow
 sidenav: guidelines
 redirect_from:
-  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/orgAud.cfm
+  - /howto/guidelines/FederalPLGuidelines/orgAud.cfm
 sources:
   - author: 'Kimble, Joseph'
     title: Lifting the Fog of Legalese

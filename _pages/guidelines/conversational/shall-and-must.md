@@ -2,8 +2,8 @@
 title: Shall and must
 sidenav: guidelines
 redirect_from:
-  - http://www.plainlanguage.gov/howto/wordsuggestions/shallmust.cfm
-  - http://www.plainlanguage.gov/howto/quickreference/pops/must.cfm
+  - /howto/wordsuggestions/shallmust.cfm
+  - /howto/quickreference/pops/must.cfm
 ---
 
 Use "must" not "shall" to impose requirements. "Shall" is ambiguous, and rarely occurs in everyday conversation. The legal community is moving to a strong preference for "must" as the clearest way to express a requirement or obligation.

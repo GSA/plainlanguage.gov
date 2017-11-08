@@ -3,7 +3,7 @@ title: Minerals Management Service
 permalink: /examples/regulations/minerals-management-service/
 sidenav: examples
 redirect_from:
-  - http://www.plainlanguage.gov/examples/government/MMS-CFR.cfm
+  - /examples/government/MMS-CFR.cfm
 ---
 
 <div class="example-container">

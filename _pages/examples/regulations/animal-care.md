@@ -4,7 +4,7 @@ author: Animal and Plant Health Information Service
 permalink: /examples/regulations/animal-care/
 sidenav: examples
 redirect_from:
-  - http://www.plainlanguage.gov/examples/before_after/airworthydirective.cfm
+  - /examples/before_after/airworthydirective.cfm
 ---
 
 _This example was created for training and is not official agency text._

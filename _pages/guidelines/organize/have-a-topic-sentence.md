@@ -2,7 +2,7 @@
 title: Have a topic sentence
 sidenav: guidelines
 redirect_from:
-  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeTopic.cfm
+  - /howto/guidelines/FederalPLGuidelines/writeTopic.cfm
 sources:
   - author: 'Garner, Bryan A.'
     title: Legal Writing in Plain English

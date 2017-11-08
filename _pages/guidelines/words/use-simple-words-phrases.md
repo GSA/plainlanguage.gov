@@ -2,7 +2,7 @@
 title: 'Use simple words and phrases'
 sidenav: guidelines
 redirect_from:
-  - http://www.plainlanguage.gov/howto/wordsuggestions/simplewords.cfm
+  - /howto/wordsuggestions/simplewords.cfm
 ---
 
 When you're making word choices, pick the familiar or commonly used word over the unusual or obscure. There are many lists of complex words and suggested substitutes, like the one below. See also the lists in Kimble (2006).

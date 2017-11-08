@@ -2,8 +2,8 @@
 title: Do your research
 sidenav: guidelines
 redirect_from:
-  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/IDtasks.cfm
-  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeUsers.cfm
+  - /howto/guidelines/FederalPLGuidelines/IDtasks.cfm
+  - /howto/guidelines/FederalPLGuidelines/writeUsers.cfm
 ---
 
 In order to write for your users, you need to know who they are! Here are some general tips to help you identify your users.

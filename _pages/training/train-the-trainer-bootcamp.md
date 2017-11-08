@@ -3,7 +3,7 @@ title: Train-the-trainer bootcamp
 permalink: /training/train-the-trainer-bootcamp/
 sidenav: training
 redirect_from:
-  - http://www.plainlanguage.gov/resources/take_training/bootcamp.cfm
+  - /resources/take_training/bootcamp.cfm
 ---
 
 At our bootcamps, we train federal employees how to conduct plain language classes for government agencies. Please sign up if you:

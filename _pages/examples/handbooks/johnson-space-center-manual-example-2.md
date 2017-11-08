@@ -4,8 +4,8 @@ permalink: /examples/handbooks/johnson-space-center-manual-example-2/
 sidenav: examples
 archived: true
 redirect_from:
-  - http://www.plainlanguage.gov/examples/before_after/johnsonmanualBEFORE2.cfm
-  - http://www.plainlanguage.gov/examples/before_after/johnsonmanualAFTER2.cfm
+  - /examples/before_after/johnsonmanualBEFORE2.cfm
+  - /examples/before_after/johnsonmanualAFTER2.cfm
 ---
 
 ## Johnson Space Center Handbook Chapter

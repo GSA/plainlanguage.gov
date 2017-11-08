@@ -3,7 +3,7 @@ title: Simple Words Work Best
 permalink: /resources/articles/simple-words-work-best/
 sidenav: resources
 redirect_from:
-  - http://www.plainlanguage.gov/howto/wordsuggestions/simpleworksbest.cfm
+  - /howto/wordsuggestions/simpleworksbest.cfm
 ---
 
 by Bill Lampton, Ph.D.

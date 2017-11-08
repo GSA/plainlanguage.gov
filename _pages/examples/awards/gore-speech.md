@@ -3,7 +3,7 @@ title: Plain Language Initiative Announcement
 permalink: /examples/awards/gore-speech/
 sidenav: examples
 redirect_from:
-  - http://www.plainlanguage.gov/examples/award_winning/nogobbledygookannounce.cfm
+  - /examples/award_winning/nogobbledygookannounce.cfm
 ---
 
 _Vice President Al Gore gave this speech on June 1, 1998 at the National Small Business Week Awards._

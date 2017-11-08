@@ -2,8 +2,8 @@
 title: Paraphrase testing
 sidenav: guidelines
 redirect_from:
-  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/paraphrase.cfm
-  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/VBAtest.cfm
+  - /howto/guidelines/FederalPLGuidelines/paraphrase.cfm
+  - /howto/guidelines/FederalPLGuidelines/VBAtest.cfm
 ---
 
 One-on-one paraphrase testing sessions work best for short documents, web pages, and survey questions.

@@ -2,7 +2,7 @@
 title: Use examples
 sidenav: guidelines
 redirect_from:
-  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeExamples.cfm
+  - /howto/guidelines/FederalPLGuidelines/writeExamples.cfm
 sources:
   - author: 'Murawski, Thomas A.'
     title: Writing Readable Regulations

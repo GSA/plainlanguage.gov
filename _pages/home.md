@@ -3,11 +3,11 @@ title: Home
 layout: base
 permalink: /
 redirect_from:
-  - http://www.plainlanguage.gov/news/meetingrsvp.cfm
-  - http://www.plainlanguage.gov/news/index.cfm
-  - http://www.plainlanguage.gov/news/currentEvents.cfm
-  - http://www.plainlanguage.gov/index.cfm
-  - http://www.plainlanguage.gov/site/contactus.cfm
+  - /news/meetingrsvp.cfm
+  - /news/index.cfm
+  - /news/currentEvents.cfm
+  - /index.cfm
+  - /site/contactus.cfm
 ---
 
 <section class="usa-section home-hero bg-tan" markdown="0">

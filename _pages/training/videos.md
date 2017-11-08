@@ -3,7 +3,7 @@ title: Videos
 permalink: /training/videos/
 sidenav: training
 redirect_from:
-  - http://www.plainlanguage.gov/media/download_files.cfm
+  - /media/download_files.cfm
 ---
 
 ## Featured video

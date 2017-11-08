@@ -4,7 +4,7 @@ permalink: /examples/regulations/plain-language-regulations/
 sidenav: examples
 archived: true
 redirect_from:
-  - http://www.plainlanguage.gov/usingPL/government/regstable.cfm
+  - /usingPL/government/regstable.cfm
 ---
 
 We asked the top government plain language regulatory experts to analyze some existing plain language regulations. We hope this will help you develop even better plain language documents.

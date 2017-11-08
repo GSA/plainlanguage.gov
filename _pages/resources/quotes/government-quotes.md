@@ -3,7 +3,7 @@ title: Government Quotes
 permalink: /resources/quotes/government-quotes/
 sidenav: resources
 redirect_from:
-  - http://www.plainlanguage.gov/resources/quotes/govtquotes.cfm
+  - /resources/quotes/govtquotes.cfm
 ---
 
 Muddy language is not confined to policies alone. Each of you has seen replies to simple questions in which the meaning was lost through hopelessly obscure wording. When a person writes to the Veterans Administration, he is entitled to an easily understood, frank, and courteous reply. If our replies cannot be understood, they are not only not worth writing, but they simply create additional work.

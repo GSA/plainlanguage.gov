@@ -3,8 +3,8 @@ title: Groups and organizations
 permalink: /resources/groups/
 sidenav: resources
 redirect_from:
-  - http://www.plainlanguage.gov/usingPL/US/index.cfm
-  - http://www.plainlanguage.gov/usingPL/world/index.cfm
+  - /usingPL/US/index.cfm
+  - /usingPL/world/index.cfm
 
 ---
 

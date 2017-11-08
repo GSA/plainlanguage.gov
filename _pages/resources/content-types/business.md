@@ -3,7 +3,7 @@ title: Plain Language in Business
 permalink: /resources/content-types/business/
 sidenav: resources
 redirect_from:
-  - http://www.plainlanguage.gov/usingPL/privsector/index.cfm
+  - /usingPL/privsector/index.cfm
 ---
 
 The National Writing Project, dedicated to improving writing and learning in the nation's schools, issued a report on the [need for a writing revolution](http://www.writingcommission.org/prod_downloads/writingcom/neglectedr.pdf).

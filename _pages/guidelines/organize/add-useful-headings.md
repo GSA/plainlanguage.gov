@@ -2,9 +2,9 @@
 title: Add useful headings
 sidenav: guidelines
 redirect_from:
-  - http://www.plainlanguage.gov/howto/guidelines/headings.cfm
-  - http://www.plainlanguage.gov/howto/quickreference/pops/headers.cfm
-  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/orgHeadings.cfm
+  - /howto/guidelines/headings.cfm
+  - /howto/quickreference/pops/headers.cfm
+  - /howto/guidelines/FederalPLGuidelines/orgHeadings.cfm
 sources:
   - author: 'Garner, Bryan A.'
     title: Legal Writing in Plain English

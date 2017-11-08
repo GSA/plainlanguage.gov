@@ -3,7 +3,7 @@ title: No Gobbledygook Award 3
 permalink: /examples/awards/award-3/
 sidenav: examples
 redirect_from:
-  - http://www.plainlanguage.gov/examples/award_winning/award3.cfm
+  - /examples/award_winning/award3.cfm
 ---
 
 The White House  

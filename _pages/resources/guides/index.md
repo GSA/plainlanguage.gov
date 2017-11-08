@@ -3,7 +3,7 @@ title: Style guides
 permalink: /resources/guides/
 sidenav: resources
 redirect_from:
-  - http://www.plainlanguage.gov/howto/guidelines/index.cfm
+  - /howto/guidelines/index.cfm
 ---
 
 ## Federal government

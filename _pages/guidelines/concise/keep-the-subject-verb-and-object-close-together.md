@@ -1,7 +1,7 @@
 ---
 title: 'Keep the subject, verb, and object close together'
 redirect_from:
-  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeProximity.cfm
+  - /howto/guidelines/FederalPLGuidelines/writeProximity.cfm
 sidenav: guidelines
 sources:
   - author: 'Garner, Bryan A.'
