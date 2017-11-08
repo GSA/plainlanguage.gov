@@ -3,7 +3,7 @@ title: 'Plain English: At a Glance'
 permalink: /resources/articles/at-a-glance/
 sidenav: resources
 redirect_from:
-  - http://www.plainlanguage.gov/howto/quickreference/glance.cfm
+  - /howto/quickreference/glance.cfm
 ---
 
 _By Nancy M. Smith, former Director, SEC’s Office of Investor Education and Assistance, and Ann D. Wallace, former Senior Counsel to the Director, Division of Corporation Finance_

@@ -3,8 +3,8 @@ title: Plain Language in the Legal Profession
 permalink: /resources/content-types/legal-profession/
 sidenav: resources
 redirect_from:
-  - http://www.plainlanguage.gov/usingPL/legal/index.cfm
-  - http://www.plainlanguage.gov/examples/legal/index.cfm
+  - /usingPL/legal/index.cfm
+  - /examples/legal/index.cfm
 ---
 
 Support for plain-writing is growing in the legal professions, which bring us some of our best and most varied examples of plain-writing.

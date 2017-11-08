@@ -2,9 +2,9 @@
 title: Avoid hidden verbs
 sidenav: guidelines
 redirect_from:
-  - http://www.plainlanguage.gov/howto/guidelines/bigdoc/writenoverbnouns.cfm
-  - http://www.plainlanguage.gov/howto/wordsuggestions/hiddenverbs.cfm
-  - http://www.plainlanguage.gov/howto/quickreference/pops/base.cfm
+  - /howto/guidelines/bigdoc/writenoverbnouns.cfm
+  - /howto/wordsuggestions/hiddenverbs.cfm
+  - /howto/quickreference/pops/base.cfm
 sources:
   - author: 'Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.'
     title: 'Clear & Effective Legal Writing, 4th edition'

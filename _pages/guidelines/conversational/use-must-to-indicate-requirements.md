@@ -2,7 +2,7 @@
 title: Use “must” to indicate requirements
 sidenav: guidelines
 redirect_from:
-  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeMust.cfm
+  - /howto/guidelines/FederalPLGuidelines/writeMust.cfm
 sources:
   - author: 'Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.'
     title: 'Clear & Effective Legal Writing, 4th edition'

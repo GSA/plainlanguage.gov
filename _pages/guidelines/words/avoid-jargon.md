@@ -2,8 +2,8 @@
 title: Avoid jargon
 sidenav: guidelines
 redirect_from:
-  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/avoidFormal.cfm
-  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeNoJargon.cfm
+  - /howto/guidelines/FederalPLGuidelines/avoidFormal.cfm
+  - /howto/guidelines/FederalPLGuidelines/writeNoJargon.cfm
 sources:
   - author: 'Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.'
     title: 'Clear & Effective Legal Writing_, 4th edition'

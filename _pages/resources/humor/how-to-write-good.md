@@ -3,7 +3,7 @@ title: How to Write Good
 permalink: /resources/humor/how-to-write-good/
 sidenav: resources
 redirect_from:
-  - http://www.plainlanguage.gov/examples/humor/writegood.cfm
+  - /examples/humor/writegood.cfm
 ---
 
 The first set of rules was written by Frank L. Visco and originally published in the June 1986 issue of Writers' digest. The second set of rules is derived from William Safire's Rules for Writers.

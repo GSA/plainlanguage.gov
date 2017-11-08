@@ -4,7 +4,7 @@ author: American Bar Association
 permalink: /examples/regulations/american-bar-association/
 sidenav: examples
 redirect_from:
-  - http://www.plainlanguage.gov/populartopics/regulations/aba.cfm
+  - /populartopics/regulations/aba.cfm
 ---
 
 August 9-10, 1999

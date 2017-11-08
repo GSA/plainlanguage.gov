@@ -3,7 +3,7 @@ title: The Arguments Against Plain Language Have Been Refuted
 permalink: /resources/articles/arguments-against-plain-language-have-been-refuted/
 sidenav: resources
 redirect_from:
-  - http://www.plainlanguage.gov/whyPL/arguments_in_favor/criticisms.cfm
+  - /whyPL/arguments_in_favor/criticisms.cfm
 ---
 
 by Professor Joe Kimble, Thomas Cooley Law School

@@ -3,7 +3,7 @@ title: Plain Language in Healthcare
 permalink: /resources/content-types/healthcare/
 sidenav: resources
 redirect_from:
-  - http://www.plainlanguage.gov/populartopics/health_literacy/index.cfm
+  - /populartopics/health_literacy/index.cfm
 ---
 
 - What is health literacy?

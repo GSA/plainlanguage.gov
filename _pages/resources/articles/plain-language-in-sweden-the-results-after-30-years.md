@@ -3,7 +3,7 @@ title: 'Plain Language in Sweden, the Results After 30 Years'
 permalink: /resources/articles/plain-language-in-sweden/
 sidenav: resources
 redirect_from:
-  - http://www.plainlanguage.gov/usingPL/world/world-sweden.cfm
+  - /usingPL/world/world-sweden.cfm
 ---
 
 by Barbro Ehrenberg-Sundin, Senior Adviser, Ministry of Justice, Sweden

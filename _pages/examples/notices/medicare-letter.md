@@ -3,7 +3,7 @@ title: 'Medicare Fraud Letter'
 permalink: /examples/notices/medicare-fraud/
 sidenav: examples
 redirect_from:
-  - http://www.plainlanguage.gov/examples/before_after/medicarefraudltr.cfm
+  - /examples/before_after/medicarefraudltr.cfm
 ---
 
 The Medicare Beneficiary Services receives a lot of Medicare fraud correspondence every year. To reach their customers more effectively, they took an already short letter and made it even shorter and to the point.

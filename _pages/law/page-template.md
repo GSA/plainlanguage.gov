@@ -3,7 +3,7 @@ title: Plain writing page template
 permalink: /law/page-template/
 sidenav: law
 redirect_from:
-  - http://www.plainlanguage.gov/plLaw/law/agency_pl_page.cfm
+  - /plLaw/law/agency_pl_page.cfm
 ---
 
 _You can use the following template to develop your agency's own plain language page._

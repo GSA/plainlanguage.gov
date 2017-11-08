@@ -3,7 +3,7 @@ title: Clear Writing and Plain Language
 permalink: /about/definitions/clear-writing-and-plain-language/
 sidenav: about
 redirect_from:
-  - http://www.plainlanguage.gov/whatisPL/definitions/wright.cfm
+  - /whatisPL/definitions/wright.cfm
 ---
 
 _An excerpt from the EPA writing course, by Nick Wright._

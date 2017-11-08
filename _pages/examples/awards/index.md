@@ -3,10 +3,10 @@ title: Award winners
 permalink: /examples/awards/
 sidenav: examples
 redirect_from:
-  - http://www.plainlanguage.gov/examples/award_winning/
-  - http://www.plainlanguage.gov/examples/award_winning/index.cfm
-  - http://www.plainlanguage.gov/examples/award_winning/nogobbledygook.cfm
-  - http://www.plainlanguage.gov/examples/award_winning/nogobbledygookarchives.cfm
+  - /examples/award_winning/
+  - /examples/award_winning/index.cfm
+  - /examples/award_winning/nogobbledygook.cfm
+  - /examples/award_winning/nogobbledygookarchives.cfm
 ---
 
 Many organizations give awards for their writing. We've chosen a few examples from the public and private sectors to show you a variety. If you know of another important award we should have on the list, [write to us](mailto:{{ site.email }}).

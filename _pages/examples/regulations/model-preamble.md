@@ -5,7 +5,7 @@ permalink: /examples/regulations/model-preamble/
 sidenav: examples
 archived: true
 redirect_from:
-  - http://www.plainlanguage.gov/examples/government/BLM-PR.cfm
+  - /examples/government/BLM-PR.cfm
 ---
 
 _This model preamble was last reviewed in May, 1998. You should check with your own legal staff to make sure there are no more recent requirements._

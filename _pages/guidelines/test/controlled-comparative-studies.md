@@ -2,7 +2,7 @@
 title: Controlled comparative studies
 sidenav: guidelines
 redirect_from:
-  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/control.cfm
+  - /howto/guidelines/FederalPLGuidelines/control.cfm
 ---
 
 Controlled comparative studies (often called A/B testing or split testing) can be done in several different ways, but they all have similar characteristics. These tests will give you quantitative data on how well the public uses your content.

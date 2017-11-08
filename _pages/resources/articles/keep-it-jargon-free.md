@@ -3,7 +3,7 @@ title: 'Keep It Jargon-free'
 permalink: /resources/articles/keep-it-jargon-free/
 sidenav: resources
 redirect_from:
-  - http://www.plainlanguage.gov/howto/wordsuggestions/jargonfree.cfm
+  - /howto/wordsuggestions/jargonfree.cfm
 ---
 
 By Nick Wright

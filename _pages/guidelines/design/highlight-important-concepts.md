@@ -2,7 +2,7 @@
 title: Highlight important concepts
 sidenav: guidelines
 redirect_from:
-  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeEmph.cfm
+  - /howto/guidelines/FederalPLGuidelines/writeEmph.cfm
 ---
 
 Adding [lists]({{ site.baseurl }}{% link _pages/guidelines/organize/use-lists.md %}) and [useful headings]({{ site.baseurl }}{% link _pages/guidelines/organize/add-useful-headings.md %}) is a great way to emphasize important information in your writing.

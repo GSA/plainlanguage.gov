@@ -2,7 +2,7 @@
 title: Address separate audiences separately
 sidenav: guidelines
 redirect_from:
-  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/audSeparate.cfm
+  - /howto/guidelines/FederalPLGuidelines/audSeparate.cfm
 sources:
   - author: 'Murawski, Thomas A.'
     title: Writing Readable Regulations

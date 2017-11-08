@@ -2,7 +2,7 @@
 title: Minimize abbreviations
 sidenav: guidelines
 redirect_form:
-  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeNoAbbrev.cfm
+  - /howto/guidelines/FederalPLGuidelines/writeNoAbbrev.cfm
 sources:
   - author: 'Garner, Bryan A.'
     title: 'A Dictionary of Modern Legal Usage, 2nd edition'

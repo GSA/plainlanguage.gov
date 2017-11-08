@@ -3,7 +3,7 @@ title: 'Made-up Words'
 permalink: /resources/articles/made-up-words/
 sidenav: resources
 redirect_from:
-  - http://www.plainlanguage.gov/howto/wordsuggestions/madeup.cfm
+  - /howto/wordsuggestions/madeup.cfm
 ---
 
 By Nick Wright

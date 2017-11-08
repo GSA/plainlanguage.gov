@@ -3,7 +3,7 @@ title: Online training
 permalink: /training/online-training/
 sidenav: training
 redirect_from:
-  - http://www.plainlanguage.gov/resources/take_training/actionoff.pdf
+  - /resources/take_training/actionoff.pdf
 ---
 
 Plain language training is available in many forms. This page provides links to some of the plain language training resources we have found. If you know of any training resources that we've overlooked, please [contact us](mailto:{{ site.email }}).

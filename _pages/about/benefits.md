@@ -3,8 +3,8 @@ title: Why use plain language?
 permalink: /about/benefits/
 sidenav: about
 redirect_from:
-  - http://www.plainlanguage.gov/whyPL/index.cfm
-  - http://www.plainlanguage.gov/whyPL/benefits/index.cfm
+  - /whyPL/index.cfm
+  - /whyPL/benefits/index.cfm
 ---
 
 We're all busy people. We don't want to waste a lot of time "translating" difficult, wordy documents. Plain language writing saves time. If we save time, we save money. Plain language is good customer service and makes life easier for the public.

@@ -3,8 +3,8 @@ title: 'Guidelines for President Clinton’s memo'
 permalink: /law/memo-guidelines/
 sidenav: about
 redirect_from:
-  - http://www.plainlanguage.gov/howto/guidelines/PresMemoGuidelines.cfm
-  - http://www.plainlanguage.gov/whatisPL/govmandates/memo.cfm
+  - /howto/guidelines/PresMemoGuidelines.cfm
+  - /whatisPL/govmandates/memo.cfm
 ---
 
 _This guidance was issued in July 1998 to accompany [President Clinton's Memorandum on Plain Language in Government Writing](http://www.presidency.ucsb.edu/ws/?pid=56067)._

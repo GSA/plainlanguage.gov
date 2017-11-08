@@ -4,7 +4,7 @@ permalink: >-
   /resources/humor/spelling-in-the-english-language/
 sidenav: resources
 redirect_from:
-  - http://www.plainlanguage.gov/examples/humor/marktwain.cfm
+  - /examples/humor/marktwain.cfm
 ---
 
 By Mark Twain

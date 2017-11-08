@@ -3,7 +3,7 @@ title: Arguments in Favor of Plain Language
 permalink: /resources/articles/arguments-in-favor-of-plain-language/
 sidenav: resources
 redirect_from:
-  - http://www.plainlanguage.gov/whyPL/arguments_in_favor/index.cfm
+  - /whyPL/arguments_in_favor/index.cfm
 ---
 
 There have been several traditional arguments against plain language — plain language is dumbing down, plain language can't be used with technical subjects, plain language oversimplifies, plain language is not precise. By now, however, the arguments against plain language have been refuted.

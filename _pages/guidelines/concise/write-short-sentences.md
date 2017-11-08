@@ -2,9 +2,9 @@
 title: Write short sentences
 sidenav: guidelines
 redirect_from:
-  - http://www.plainlanguage.gov/howto/quickreference/pops/short.cfm
-  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeShortSent.cfm
-  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/sentences.cfm
+  - /howto/quickreference/pops/short.cfm
+  - /howto/guidelines/FederalPLGuidelines/writeShortSent.cfm
+  - /howto/guidelines/FederalPLGuidelines/sentences.cfm
 sources:
   - author: 'Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.'
     title: 'Clear & Effective Legal Writing, 4th edition'

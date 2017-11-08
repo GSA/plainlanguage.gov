@@ -3,7 +3,7 @@ title: 'Complex and Abstract Words'
 permalink: /resources/articles/complex-abstract-words/
 sidenav: resources
 redirect_from:
-  - http://www.plainlanguage.gov/howto/wordsuggestions/complexabstract.cfm
+  - /howto/wordsuggestions/complexabstract.cfm
 ---
 
 By Nick Wright

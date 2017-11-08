@@ -3,10 +3,10 @@ title: Choose your words carefully
 sidenav: guidelines
 permalink: /guidelines/words/
 redirect_from:
-  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/words.cfm
-  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/write.cfm
-  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeShort.cfm
-  - http://www.plainlanguage.gov/howto/quickreference/pops/familiar.cfm
+  - /howto/guidelines/FederalPLGuidelines/words.cfm
+  - /howto/guidelines/FederalPLGuidelines/write.cfm
+  - /howto/guidelines/FederalPLGuidelines/writeShort.cfm
+  - /howto/quickreference/pops/familiar.cfm
 sources:
   - author: 'Kimble, Joseph'
     title: Lifting the Fog of Legalese

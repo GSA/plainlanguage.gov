@@ -2,7 +2,7 @@
 title: Repurpose print material for the web
 sidenav: guidelines
 redirect_from:
-  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/repurpose.cfm
+  - /howto/guidelines/FederalPLGuidelines/repurpose.cfm
 sources:
   - title: Writing Style for Print vs. Web
     link: 'https://www.nngroup.com/articles/writing-style-for-print-vs-web/'

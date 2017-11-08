@@ -2,8 +2,8 @@
 title: Privacy policy
 permalink: /privacy/
 redirect_from:
-  - http://www.plainlanguage.gov/site/privacy.cfm
-  - http://www.plainlanguage.gov/site/exit.cfm
+  - /site/privacy.cfm
+  - /site/exit.cfm
 ---
 
 Thank you for visiting plainlanguage.gov. We are committed to respecting your right to privacy and will protect it when you visit our website.

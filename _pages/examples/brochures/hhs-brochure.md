@@ -4,7 +4,7 @@ author: Department of Health and Human Services
 permalink: /examples/brochures/hhs-brochure/
 sidenav: examples
 redirect_from:
-  - http://www.plainlanguage.gov/examples/before_after/pub_hhs_losewgt.cfm
+  - /examples/before_after/pub_hhs_losewgt.cfm
 ---
 
 _The Department of Health and Human Services took a six-page article and replaced it with a single, fold-out brochure, conveying the same information. Here is an excerpt._

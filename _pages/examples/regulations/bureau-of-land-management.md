@@ -4,7 +4,7 @@ permalink: /examples/regulations/bureau-of-land-management/
 sidenav: examples
 archived: true
 redirect_from:
-  - http://www.plainlanguage.gov/examples/government/BLM-model.cfm
+  - /examples/government/BLM-model.cfm
 ---
 
 Here's a [practical example]({{ site.baseurl }}/examples/regulations/model-preamble/) from this model.

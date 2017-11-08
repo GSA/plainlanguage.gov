@@ -3,10 +3,10 @@ title: Training
 permalink: /training/
 sidenav: training
 redirect_from:
-  - http://www.plainlanguage.gov/resources/take_training/PLAIN/index.cfm
-  - http://www.plainlanguage.gov/resources/index.cfm
-  - http://www.plainlanguage.gov/resources/take_training/index.cfm
-  - http://www.plainlanguage.gov/resources/take_training/plaintraining.cfm
+  - /resources/take_training/PLAIN/index.cfm
+  - /resources/index.cfm
+  - /resources/take_training/index.cfm
+  - /resources/take_training/plaintraining.cfm
 ---
 
 We offer two kinds of plain language training:

@@ -3,7 +3,7 @@ title: Ambiguous Wording Rewritten
 permalink: /examples/before-and-after/ambiguity/
 sidenav: examples
 redirect_from:
-  - http://www.plainlanguage.gov/examples/before_after/ambigwd.cfm
+  - /examples/before_after/ambigwd.cfm
 ---
 
 Here are some examples of how using plain language can help clear up clarity problems caused by ambiguous wording.

@@ -3,7 +3,7 @@ title: Contemporary Quotes
 permalink: /resources/quotes/contemporary-quotes/
 sidenav: resources
 redirect_from:
-  - http://www.plainlanguage.gov/resources/quotes/otherquotes.cfm
+  - /resources/quotes/otherquotes.cfm
 ---
 
 ### Michael Dirda, Washington Post Book Section, at the NIH Plain Language Award Ceremony:

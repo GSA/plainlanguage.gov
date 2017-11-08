@@ -4,13 +4,13 @@ permalink: /guidelines/
 sidenav: guidelines
 pagination: false
 redirect_from:
-  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/index.cfm
-  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/FederalPLGuidelines.pdf
-  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/revs.cfm
-  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/TOC.cfm
-  - http://www.plainlanguage.gov/usingPL/government/index.cfm
-  - http://www.plainlanguage.gov/howto/quickreference/quicktips.cfm
-  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/nouns.cfm
+  - /howto/guidelines/FederalPLGuidelines/index.cfm
+  - /howto/guidelines/FederalPLGuidelines/FederalPLGuidelines.pdf
+  - /howto/guidelines/FederalPLGuidelines/revs.cfm
+  - /howto/guidelines/FederalPLGuidelines/TOC.cfm
+  - /usingPL/government/index.cfm
+  - /howto/quickreference/quicktips.cfm
+  - /howto/guidelines/FederalPLGuidelines/nouns.cfm
 ---
 
 These are the official guidelines for the [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/content-detail.html). We developed these guidelines to help you and your agency write clearly, so your users can:

@@ -2,8 +2,8 @@
 title: Minimize cross-references
 sidenav: guidelines
 redirect_from:
-  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeNoXRefs.cfm
-  - http://www.plainlanguage.gov/howto/quickreference/pops/complex.cfm
+  - /howto/guidelines/FederalPLGuidelines/writeNoXRefs.cfm
+  - /howto/quickreference/pops/complex.cfm
 sources:
   - author: 'Flesch, Rudolf'
     title: 'How to Write in Plain English, A Book for Lawyers and Consumers'

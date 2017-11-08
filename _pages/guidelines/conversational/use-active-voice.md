@@ -2,8 +2,8 @@
 title: Use active voice
 sidenav: guidelines
 redirect_from:
-  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeActive.cfm
-  - http://www.plainlanguage.gov/howto/quickreference/pops/active.cfm
+  - /howto/guidelines/FederalPLGuidelines/writeActive.cfm
+  - /howto/quickreference/pops/active.cfm
 sources:
   - author: 'Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.'
     title: 'Clear & Effective Legal Writing, 4th edition'

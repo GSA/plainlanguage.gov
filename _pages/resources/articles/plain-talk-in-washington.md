@@ -3,7 +3,7 @@ title: Plain Talk in Washington
 permalink: /resources/articles/plain-talk-in-washington/
 sidenav: resources
 redirect_from:
-  - http://www.plainlanguage.gov/examples/government/WArules.cfm
+  - /examples/government/WArules.cfm
 ---
 
 By Dana Howard Botka

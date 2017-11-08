@@ -2,8 +2,8 @@
 title: Use lists
 sidenav: guidelines
 redirect_from:
-  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeLists.cfm
-  - http://www.plainlanguage.gov/howto/quickreference/pops/levels.cfm
+  - /howto/guidelines/FederalPLGuidelines/writeLists.cfm
+  - /howto/quickreference/pops/levels.cfm
 sources:
   - author: 'Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.'
     title: 'Clear & Effective Legal Writing, 4th edition'

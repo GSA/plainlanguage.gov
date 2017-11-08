@@ -3,7 +3,7 @@ title: 'Plain Language: Its Effect on Organizational Performance'
 permalink: /resources/articles/its-effect-on-organizational-performance/
 sidenav: resources
 redirect_from:
-  - http://www.plainlanguage.gov/whyPL/benefits/grotsky.cfm
+  - /whyPL/benefits/grotsky.cfm
 ---
 
 #### Excerpt from _Clarity: Journal of the International Movement to Simplify Legal Language_ Number 51, May 2004

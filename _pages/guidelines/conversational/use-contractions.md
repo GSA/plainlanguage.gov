@@ -2,7 +2,7 @@
 title: Use contractions
 sidenav: guidelines
 redirect_from:
-  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeContract.cfm
+  - /howto/guidelines/FederalPLGuidelines/writeContract.cfm
 sources:
   - author: 'Danielson, Wayne A. and Dominic L. Larosa'
     title: 'A New Readability Formula Based on the Stylistic Age of Novels, 33'

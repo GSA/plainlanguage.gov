@@ -2,7 +2,7 @@
 title: Don’t use slashes
 sidenav: guidelines
 redirect_from:
-  - http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeNoSlash.cfm
+  - /howto/guidelines/FederalPLGuidelines/writeNoSlash.cfm
 sources:
   - author: 'Garner, Bryan A.'
     title: Legal Writing in Plain English
