@@ -113,10 +113,6 @@ Lead-in sentences help explain your lists.
 
 Make sure each of the bullets in a list can make a complete sentence if combined with the lead-in sentence. The following example is a list that is not parallel.
 
-"Mail it express mail" does not work with the rest of the list. The other items are nouns, but this is a verb. It isn't something to submit. It's a separate part of the instructions.
-
-### Example
-
 <div class="example-container">
 
 #### You must submit:
@@ -126,3 +122,5 @@ Make sure each of the bullets in a list can make a complete sentence if combined
 - Mail it express mail
 
 </div>
+
+"Mail it express mail" does not work with the rest of the list. The other items are nouns, but this is a verb. It isn't something to submit. It's a separate part of the instructions.
