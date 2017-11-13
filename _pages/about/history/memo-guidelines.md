@@ -54,13 +54,14 @@ In general:
 
 Common, everyday words are words and phrases your average reader is familiar with and likely to prefer over legalistic or bureaucratic terms. For example:
 
-#### Compare this
+* #### Before
 
-> When the process of freeing a vehicle that has been stuck results in ruts or holes, the operator will fill the rut or hole created by such activity before removing the vehicle from the immediate area.
+  When the process of freeing a vehicle that has been stuck results in ruts or holes, the operator will fill the rut or hole created by such activity before removing the vehicle from the immediate area.
 
-#### To this
+* #### After
 
-> If you make a hole while freeing a stuck vehicle, you must fill the hole before you drive away.
+  If you make a hole while freeing a stuck vehicle, you must fill the hole before you drive away.
+{: .example-side-by-side}
 
 There is a [specific list of everyday words]({{ site.baseurl }}{% link _pages/guidelines/words/use-simple-words-phrases.md %})) that you should substitute for legalistic or bureaucratic terms on the plainlanguage.gov web page in the reference library.
 
@@ -88,13 +89,14 @@ No, but the question-and-answer format is extremely useful for organizing your m
 
 Your sentences should average 15–20 words, and never be longer than 40 words. Cut out unnecessary words. For example:
 
-#### Compare this:
+* #### Before
 
-> The Secretary of the Interior may, in specific cases or in specific geographic areas, adopt or make applicable to off-reservation Indian lands all or any part of such laws, ordinances, codes, resolutions, rules or other regulations of the State and political subdivisions in which the land is located as the Secretary shall determine to be in the best interest of the Indian owner or owners in achieving the highest and best use of such property.
+  The Secretary of the Interior may, in specific cases or in specific geographic areas, adopt or make applicable to off-reservation Indian lands all or any part of such laws, ordinances, codes, resolutions, rules or other regulations of the State and political subdivisions in which the land is located as the Secretary shall determine to be in the best interest of the Indian owner or owners in achieving the highest and best use of such property.
 
-#### To this:
+* #### After
 
-> We may apply State or local laws to off-reservation lands. We will do this only if it will help the Indian owners make the best use of their lands.
+  We may apply State or local laws to off-reservation lands. We will do this only if it will help the Indian owners make the best use of their lands.
+{: .example-side-by-side}
 
 ### My agency puts out thousands of documents each year. Where do we start?
 
@@ -146,16 +148,16 @@ Write in plain language all forms, letters, instructions, and other documents th
 
 #### General examples
 
-- An acceptance or rejection letter.
-- A request for information you need to process an application or request.
-- A violation or enforcement notice.
-- A publication that tells how to meet a requirement or obtain a benefit.
+- An acceptance or rejection letter
+- A request for information you need to process an application or request
+- A violation or enforcement notice
+- A publication that tells how to meet a requirement or obtain a benefit
 
 #### Specific examples
 
-- An OSHA publication explaining safety requirements for factories.
-- A Bureau of Land Management publication explaining how to adopt wild horses.
-- A Social Security Administration pamphlet explaining how to apply for survivor's benefits.
+- An OSHA publication explaining safety requirements for factories
+- A Bureau of Land Management publication explaining how to adopt wild horses
+- A Social Security Administration pamphlet explaining how to apply for survivor's benefits
 
 ### Must I rewrite old documents in plain language?
 
@@ -165,12 +167,16 @@ Yes, rewrite documents created before October 1, 1998\. Your agency may need to 
 
 Ask your customers. Do reader testing through surveys, focus groups, or protocol testing. You might also include a statement at the end of your document like this:
 
-> #### Plain language instructions
+<div class="example-container">
 
-> We try to write clearly. If you can suggest how to improve the clarity of these instructions, call or write (appropriate contact).
+#### Plain language instructions
+
+We try to write clearly. If you can suggest how to improve the clarity of these instructions, call or write (appropriate contact).
 
 You could also post notices in offices where you distribute forms or instructions. For example:
 
-> #### Our commitment to plain language
+#### Our commitment to plain language
 
-> We've tried to make all of our forms, notices, letters, and pamphlets easy to understand. If you can suggest how to write our documents more clearly, call or write (appropriate contact).The American people expect clear information from their government, and the President and the Vice President take this expectation very seriously. Plain language in all of our communication is the very foundation of good service to our customers.
+We've tried to make all of our forms, notices, letters, and pamphlets easy to understand. If you can suggest how to write our documents more clearly, call or write (appropriate contact).The American people expect clear information from their government, and the President and the Vice President take this expectation very seriously. Plain language in all of our communication is the very foundation of good service to our customers.
+
+</div>
