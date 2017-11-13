@@ -16,7 +16,7 @@ Warren Buffet, a friend of Levitt's, summed up plain language marvelously in thi
 
 > Write with a specific person in mind. When writing the Berkshire Hathaway annual report, I picture my sisters, highly intelligent, but not experts in accounting or finance. They will understand plain English, but jargon may puzzle them. My goal is to give the information I would wish to receive if our positions were reversed.
 
-## 2000s:
+## 2000s
 
 The current administration does not have a formal plain language initiative, however a mandate for communicating clearly with the public is part of the Strategic Plan in a number of federal departments and agencies. Many agencies have strong, active plain language programs in place.
 

@@ -28,4 +28,4 @@ The benefits of plain language are both tangible and intangible. The American pu
 
 Many studies have shown that plain language affects your bottom line—you can save time, personnel resources, and money. And you will give better service to your readers.
 
-See [Arguments in favor of plain language]({{ site.baseurl }}/resources/articles/arguments-in-favor-of-plain-language/) for further reading.
+For more details, see [Arguments in Favor of Plain Language]({{ site.baseurl }}/resources/articles/arguments-in-favor-of-plain-language/), or check out these [award-winning examples]({{ site.baseurl }}/examples/awards/) of plain language in action.
