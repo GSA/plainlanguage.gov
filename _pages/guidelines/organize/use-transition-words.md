@@ -39,30 +39,34 @@ Explicit connectives between sentences and paragraphs can be overdone, but more 
 
 Here are some examples from Bryan Garner.
 
+<div class="example-container">
+
 #### When adding a point
 
-_also, and, in addition, besides, what is more, similarly, further_
+also, and, in addition, besides, what is more, similarly, further
 
 #### When giving an example
 
-_for instance, for example, for one thing, for another thing_
+for instance, for example, for one thing, for another thing
 
 #### When restating
 
-_in other words, that is, in short, put differently, again_
+in other words, that is, in short, put differently, again
 
 #### When introducing a result
 
-_so, as a result, thus, therefore, accordingly, then_
+so, as a result, thus, therefore, accordingly, then
 
 #### When contrasting
 
-_but, however, on the other hand, still, nevertheless, conversely_
+but, however, on the other hand, still, nevertheless, conversely
 
 #### When summing up
 
-_to summarize, to sum up, to conclude, in conclusion, in short_
+to summarize, to sum up, to conclude, in conclusion, in short
 
 #### When sequencing ideas
 
-_first, second, third, fourth, then, next, finally_
+first, second, third, fourth, then, next, finally
+
+</div>
