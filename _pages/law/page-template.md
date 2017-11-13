@@ -6,9 +6,9 @@ redirect_from:
   - /plLaw/law/agency_pl_page.cfm
 ---
 
-_You can use the following template to develop your agency's own plain language page._
+You can use the following template to develop your agency's own plain language page.
 
----
+<div class="example-container">
 
 ## Plain Writing Act of 2010
 
@@ -37,3 +37,5 @@ We need your help to comply with this Act! Let us know if you see something on o
 
 - Email: <example@name.gov>
 - Fax: [555-555-5555]
+
+</div>
