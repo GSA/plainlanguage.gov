@@ -2,7 +2,7 @@
 {% assign url_parts_size = url_parts | size %}
 
 {% if url_parts_size >= 3 %}
-  <p class="breadcrumbs usa-text-small caps sans-serif {% if url_parts_size == 3 %}lg-hide{% endif %}">
+  <div class="breadcrumbs usa-text-small caps sans-serif {% if url_parts_size == 3 %}lg-hide{% endif %}">
   {% capture parent_path %}{{ url_parts[1] | prepend:'/' | append:'/' }}{% endcapture %}
   <a href="{{ parent_path | relative_url }}" class="text-decoration-none">{{ page.sidenav | capitalize }}</a>
   {% if url_parts_size == 4 %}
@@ -10,5 +10,5 @@
     {% assign parent_parent = site.data.navigation[page.sidenav] | where: "href", parent_parent_path | first %}
     > <a href="{{ parent_parent.href | relative_url }}" class="text-decoration-none">{{ parent_parent.text }}</a>
   {% endif %}
-  </p>
+</div>
 {% endif %}
