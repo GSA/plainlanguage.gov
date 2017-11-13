@@ -54,6 +54,8 @@ Legal language is a major source of annoying jargon. Readers can do without arch
 
 Professor Joseph Kimble (2006), a noted scholar on legal writing, warns that we should avoid words and formalisms that give legal writing its musty smell. He includes the following words in his list of examples:
 
+<div class="example-container">
+
 - above-mentioned
 - aforementioned
 - foregoing
@@ -70,11 +72,15 @@ Professor Joseph Kimble (2006), a noted scholar on legal writing, warns that we 
 - wherein
 - whereof
 
+</div>
+
 "Shall" is also losing its popularity in legal circles. Obviously, it's especially important in regulations to use words of authority clearly, and many legal writing experts recommend avoiding the archaic and ambiguous "shall" in favor of another word, depending on your meaning. Read more about "shall" in [Use "must" to convey requirements]({{ site.baseurl }}{% link _pages/guidelines/conversational/use-must-to-indicate-requirements.md %}).
 
 ## Business jargon
 
 Here is a brief list of meaningless filler phrases:
+
+<div class="example-container">
 
 - Thinking outside the box
 - Value added
@@ -84,3 +90,5 @@ Here is a brief list of meaningless filler phrases:
 - Integrating quality solutions
 - Promoting an informed and inclusive multicultural society
 - Strategically engaging schools, community organizations, and so on...
+
+</div>
