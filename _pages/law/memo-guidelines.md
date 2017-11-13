@@ -1,6 +1,6 @@
 ---
 title: 'Guidelines for President Clinton’s memo'
-permalink: /law/memo-guidelines/
+permalink: /about/memo-guidelines/
 sidenav: about
 redirect_from:
   - /howto/guidelines/PresMemoGuidelines.cfm
