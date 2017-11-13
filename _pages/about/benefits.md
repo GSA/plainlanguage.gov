@@ -20,7 +20,7 @@ Though no one knows the total cost of poor communication, the information we do 
 
 ## Benefits
 
-The benefits of plain language are both tangible and intangible. The American public deserves plain language communication from its government.
+The American public deserves plain language communication from its government. The benefits of plain language are both tangible and intangible:
 
 - Plain language gets your message across in the shortest time possible.
 - More people are able to understand your message.
