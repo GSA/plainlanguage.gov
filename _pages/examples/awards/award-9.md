@@ -41,7 +41,7 @@ The rewritten letter significantly simplifies the message in language and format
 - Make it easier for the recipient to understand
 - Tell how addressees can get help if they need it
 
-### VBA Is Tracking Savings
+### Tracking Savings
 
 Claims adjusters spend at least 30 minutes a claim trying to locate beneficiaries to pay claims. The average cost of locating these beneficiaries and paying their claims is $10.25 per claim. If beneficiaries respond to this letter, it will take only 9 minutes to pay the claim, at an average cost of $1.57 per claim. If policyholders respond to the letter as they did in the test mailing, the savings will be approximately $1.5 million for just those policyholders with beneficiary forms over 40 years.
 

@@ -22,4 +22,8 @@ Marlene and Maruita were the principal authors of the new form, developed with i
 
 "Knowing what Social Security can provide should be the first step any family takes in their long-range financial planning," said Social Security Commissioner Kenneth Apfel. "That job has now been made much easier through the simplified, understandable information found in the Social Security Statement. The two SSA employees being honored today by Vice President Gore have performed a great service for the average American family."
 
-Today's award builds on an Executive Memorandum the Vice President announced on June 1, 1998. The memorandum directed all executive departments and agencies to: (1) write any new document that tells the public how to get a benefit or comply with a requirement in plain language by October 1, 1998; (2) write all new government regulations in plain language by January 1, 1999; and (3) revise all existing letters and notices into plain language by 2002.
+Today's award builds on an Executive Memorandum the Vice President announced on June 1, 1998. The memorandum directed all executive departments and agencies to:
+
+1. Write any new document that tells the public how to get a benefit or comply with a requirement in plain language by October 1, 1998;
+2. Write all new government regulations in plain language by January 1, 1999; and
+3. Revise all existing letters and notices into plain language by 2002.
