@@ -28,9 +28,9 @@ The Director will regulate all operations under a lease, right-of-use and easeme
 
 (a) You must protect health, safety, property, and the environment by:
 
-(1) Performing all operations in a safe and workmanlike manner; and
+  (1) Performing all operations in a safe and workmanlike manner; and
 
-(2) Maintaining all equipment in a safe condition.
+  (2) Maintaining all equipment in a safe condition.
 
 (b) You must immediately control, remove, or otherwise correct any hazardous oil and gas accumulation or other health, safety, or fire hazard.
 
@@ -38,11 +38,11 @@ The Director will regulate all operations under a lease, right-of-use and easeme
 
 (d) The Director may require additional measures to ensure the use of BAST:
 
-(1) To avoid the failure of equipment that would have a significant effect on safety, health, or the environment;
+  (1) To avoid the failure of equipment that would have a significant effect on safety, health, or the environment;
 
-(2) If it is economically feasible; and
+  (2) If it is economically feasible; and
 
-(3) If the benefits outweigh the costs.
+  (3) If the benefits outweigh the costs.
 
 ### Sec. 250.108 What requirements must I follow for cranes and other material-handling equipment?
 
@@ -56,11 +56,11 @@ The Director will regulate all operations under a lease, right-of-use and easeme
 
 (e) You must maintain records specific to a crane or the operation of a crane installed on an OCS fixed platform, as follows:
 
-(1) Retain all design and construction records, including installation records for any anti-two block safety devices, for the life of the crane. The records must be kept at the OCS fixed platform.
+  (1) Retain all design and construction records, including installation records for any anti-two block safety devices, for the life of the crane. The records must be kept at the OCS fixed platform.
 
-(2) Retain all inspection, testing, and maintenance records of cranes for at least 4 years. The records must be kept at the OCS fixed platform.
+  (2) Retain all inspection, testing, and maintenance records of cranes for at least 4 years. The records must be kept at the OCS fixed platform.
 
-(3) Retain the qualification records of the crane operator and all rigger personnel for at least 4 years. The records must be kept at the OCS fixed platform.
+  (3) Retain the qualification records of the crane operator and all rigger personnel for at least 4 years. The records must be kept at the OCS fixed platform.
 
 (f) You must operate and maintain all other material-handling equipment in a manner that ensures safe operations and prevents pollution.
 
