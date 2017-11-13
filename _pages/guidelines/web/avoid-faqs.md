@@ -30,7 +30,6 @@ If your agency is using FAQs, the order, length, and content is critical in prov
 2. Develop headings for each section and organize the content in a way that would make sense to the reader.
 
 3. Read through each section and edit the content.
-
   - Focus on steps in a process. Think about what the reader is trying to accomplish.
   - Eliminate redundancies. This often helps with organization.
 
