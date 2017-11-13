@@ -69,7 +69,7 @@ $example-good-color: #0d8259;
   thead td {
     background-color: $color-tan;
     font-size: $example-heading-size;
-    font-weight: $font-normal;
+    font-weight: $font-bold;
 
     &:first-of-type {
       border-bottom: 4px solid $example-bad-color;
@@ -135,7 +135,7 @@ $example-good-color: #0d8259;
 
     > h4:first-of-type {
       font-size: $example-heading-size;
-      font-weight: $font-normal;
+      font-weight: $font-bold;
       margin-top: 0;
       padding-bottom: $spacing-x-small;
     }
