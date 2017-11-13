@@ -2,7 +2,7 @@
 title: 'Adoption by the House of Delegates'
 author: American Bar Association
 permalink: /about/history/american-bar-association/
-sidenav: examples
+sidenav: about
 redirect_from:
   - /populartopics/regulations/aba.cfm
 ---
