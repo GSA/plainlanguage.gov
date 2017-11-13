@@ -20,18 +20,32 @@
   }
 }
 
-.usa-layout-docs-main_content a[href*="//"]:not([href*="plainlangugage.gov"])::after { // scss-lint:disable SelectorFormat, QualifyingElement
-  background-image: url('../img/icons/primary/external-link.svg');
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: auto $spacing-md-small;
-  content: ' ';
-  display: inline-block;
-  height: $spacing-md-small;
-  margin-left: $spacing-x-small;
-  padding-right: $spacing-md-small;
-  vertical-align: middle;
-  width: $spacing-md-small;
+.usa-layout-docs-main_content {
+  a[href*="//"]:not([href*="plainlangugage.gov"])::after { // scss-lint:disable SelectorFormat, QualifyingElement
+    background-image: url('../img/icons/primary/external-link.svg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto $spacing-md-small;
+    content: ' ';
+    display: inline-block;
+    height: $spacing-md-small;
+    margin-left: $spacing-x-small;
+    padding-right: $spacing-md-small;
+    vertical-align: middle;
+    width: $spacing-md-small;
+  }
+
+  table {
+    th,
+    td {
+      border-color: $color-tan-dark;
+    }
+
+    thead th,
+    thead td {
+      background-color: $color-tan;
+    }
+  }
 }
 
 @media (max-width: #{$large-screen}) {
