@@ -43,10 +43,12 @@ For regulations and other complex documents, create a comprehensive table of con
 
 Regulations frequently address processes. Chronological order is best for process information:
 
+<div class="example-container">
 1. You fill out an application to get a benefit.
 2. You submit the application.
 3. The agency reviews the application.
 4. The agency makes a decision on the application.
+</div>
 
 Present the steps chronologically, in the order your user and your agency will follow them. The table of contents below is organized in a logical sequence for a grant program.
 
