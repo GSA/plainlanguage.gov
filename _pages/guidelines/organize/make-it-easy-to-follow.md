@@ -37,9 +37,7 @@ Think through the questions your users likely have and then organize the materia
 
 For regulations and other complex documents, create a comprehensive table of contents. Your table of contents should be a reliable roadmap that users can follow to quickly find what they need.
 
-## Organizing principles
-
-### Chronological order
+## Chronological order
 
 Regulations frequently address processes. Chronological order is best for process information:
 
@@ -52,19 +50,7 @@ Regulations frequently address processes. Chronological order is best for proces
 
 Present the steps chronologically, in the order your user and your agency will follow them. The table of contents below is organized in a logical sequence for a grant program.
 
-### General first, exceptions, conditions, and specialized information later
-
-Another useful organizing principle is to put general information first, and specialized information or exceptions later. That way, the material that addresses most readers in most situations comes first. For some documents this will work well along with a chronological organization. In others, it may be the primary organizing principle.
-
-### Limit levels to three or fewer
-
-Crafting documents with four, five, or even more levels makes it difficult for your audience to keep track of where they are in the process. You should address this problem in your initial structuring of the document.
-
-Dividing your document into more pieces at the top levels should allow you to limit subdivisions below the major level to two. The Office of the Federal Register recommends that regulations contain no more than three levels, noting that more than three levels make regulations hard to read and use.
-
-## Examples
-
-### Chronological order
+### Example
 
 <div class="example-container">
 
@@ -95,7 +81,11 @@ Dividing your document into more pieces at the top levels should allow you to li
 
 </div>
 
-### Chronological order with general information first
+### General first, exceptions, conditions, and specialized information later
+
+Another useful organizing principle is to put general information first, and specialized information or exceptions later. That way, the material that addresses most readers in most situations comes first. For some documents this will work well along with a chronological organization. In others, it may be the primary organizing principle.
+
+### Example
 
 <div class="example-container">
 
@@ -130,3 +120,9 @@ Dividing your document into more pieces at the top levels should allow you to li
 725.405 What happens if I won't get a medical examination?
 
 </div>
+
+### Limit levels to three or fewer
+
+Crafting documents with four, five, or even more levels makes it difficult for your audience to keep track of where they are in the process. You should address this problem in your initial structuring of the document.
+
+Dividing your document into more pieces at the top levels should allow you to limit subdivisions below the major level to two. The Office of the Federal Register recommends that regulations contain no more than three levels, noting that more than three levels make regulations hard to read and use.
