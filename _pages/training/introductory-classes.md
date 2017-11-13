@@ -15,14 +15,8 @@ We offer free, half-day training classes for federal agencies. All of our classe
 ### Plain language principles
 
 - Learn how to identify and write for your audience
-- Use plain language techniques in any type of document
+- Use plain language techniques to create clear and effective writing
 - Learn how using plain language can save your agency time and resources
-
-### Plain language and writing for the web
-
-- Understand the difference between print and web writing
-- Use plain language techniques to create clear and effective web messages
-- Write web content that meets the top tasks of your users
 
 ### Manager briefings
 
@@ -40,7 +34,7 @@ Let us know:
 - Which federal agency you work for
 - Where your office is located
 - Which class you're interested in
-- Which month or specific date you'd like the classes (we schedule about 3 months in advance)
+- Which month or specific date you'd like the classes (we schedule about 6 months in advance)
 - How many federal employees will attend (20–35 people per session is a good number)
 
 After reviewing your request, a trainer will email you to set up the details. Please keep in mind that all of our trainers are volunteers. For training outside the DC area, you must pay the trainer's expenses.
