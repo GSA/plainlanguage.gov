@@ -11,6 +11,8 @@ redirect_from:
 
 Many organizations give awards for their writing. We've chosen a few examples from the public and private sectors to show you a variety. If you know of another important award we should have on the list, [write to us](mailto:{{ site.email }}).
 
+* [ClearMark Awards](http://centerforplainlanguage.org/awards/clearmark/): The Center for Plain Language sets a high standard for clarity and simplicity in the documents created by North American companies, governments, and organizations.
+
 * [Legal Writing Institute Awards](https://www.lwionline.org/awards): Joe Kimble is chair of the Outreach Committee for the Legal Writing Institute's Golden Pen Award. This award recognizes people who significantly advance the cause of better legal writing.
 
 * [Burton Awards](https://www.burtonawards.com/awards/): The Burton Awards are also for legal writing. They go to partners in law firms and to law-school students who use plain language and avoid archaic, stilted legalese. This foundation works in association with the Library of Congress. Past speakers have included Tim Russert, Tom Brokaw, and Paula Zahn.

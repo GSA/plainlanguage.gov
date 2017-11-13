@@ -1,13 +1,13 @@
 ---
 title: 'Adoption by the House of Delegates'
 author: American Bar Association
-permalink: /examples/regulations/american-bar-association/
+permalink: /about/history/american-bar-association/
 sidenav: examples
 redirect_from:
   - /populartopics/regulations/aba.cfm
 ---
 
-August 9-10, 1999
+August 9–10, 1999
 
 ### RESOLVED, That the American Bar Association urges agencies to use plain language in writing regulations, as a means of promoting the understanding of legal obligations, using such techniques as:
 
