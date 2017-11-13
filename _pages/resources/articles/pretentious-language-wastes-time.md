@@ -34,4 +34,4 @@ Members of The Association of Professional Communication Consultants recommend t
 
 - Lauchman, Richard. _Plain Style: Techniques for Simple, Concise, Emphatic Business Writing_. (AMACOM, a Division of American Management Association, 1993).
 
-- U.S. Securities and Exchange Commission. [A Plain English Handbook: How to Create Clear SEC Disclosure Documents](http://www.sec.gov/pdf/handbook.pdf) . Washington D.C.,1998.
+- U.S. Securities and Exchange Commission. [A Plain English Handbook: How to Create Clear SEC Disclosure Documents](http://www.sec.gov/pdf/handbook.pdf) . Washington D.C., 1998.
