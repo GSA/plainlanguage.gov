@@ -25,11 +25,10 @@ You need to do two things now:
 1. By August 15, 1998, each agency head must designate a senior official responsible for implementing the President's memo. This person will represent you on the Plain Language Action Network (PLAN). PLAN will be an interagency committee charged with making plain language standard in all government communication. Morley Winograd, Senior Policy Advisor to the Vice President and Director of the National Partnership for Reinventing Government (NPR), will chair PLAN.
 
 2. By September 4, 1998, each agency must design its own plain language action plan, which sets out strategies for:
-
-- communicating the President's expectations to employees,
-- equipping staff with needed tools,
-- meeting the deadlines in the memo, and
-- sustaining change over the long term.
+  - communicating the President's expectations to employees,
+  - equipping staff with needed tools,
+  - meeting the deadlines in the memo, and
+  - sustaining change over the long term.
 
 Remember the principles of plain language when you develop this plan. Keep it short and clear. Don't spend more time on the plan than you do writing your documents in plain language! Send names and action plans to [contact information removed].
 
