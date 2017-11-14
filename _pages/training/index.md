@@ -21,7 +21,7 @@ We provide a free half-day introduction to plain language to federal agencies. Y
 
 We need trainers to help us provide plain language training to government agencies. Our trainers are federal employees from across the government who volunteer 1–2 classes a year (outside of their own agencies). We offer these quarterly.
 
-## Training for the public
+## Public resources
 
 * [Online training]({{ site.baseurl }}/training/online-training/)
 * [Videos]({{ site.baseurl }}/training/videos/)
