@@ -28,6 +28,8 @@ Dockets](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inf
 
 * OMB issued a policy directive about a [standard format for grant announcements](https://www.federalregister.gov/documents/2003/06/23/03-15798/office-of-federal-financial-management-policy-directive-on-financial-assistance-program) in 2003.
 
+* The Federal Emergency Management Agency (FEMA) issued [an alert](https://www.fema.gov/pdf/emergency/nims/plain_lang.pdf) stating that plain language is a public safety matter.
+
 ## 1990s
 
 * [Walters v. Reno](http://www.ca9.uscourts.gov/ca9/newopinions.nsf/04485f8dcbd4e1ea882569520074e698/6e9ec23768fd7e8888256e5a00718998?OpenDocument), 145 F.3d 1032 (9th Cir. 1998). Court decision that forms issued by the Immigration and Naturalization Service were so confusing and misleading that they violated a person's due-process rights.
