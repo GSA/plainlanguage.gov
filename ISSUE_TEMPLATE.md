@@ -6,4 +6,4 @@
 
 * Related links
 * Operating system and version (example: Windows 10 or Mac OS X 10.12.6)
-* Browser and version (example: Chrome 62 or Safari 11)
+* Browser and version (example: Chrome, Internet Explorer, or Safari)
