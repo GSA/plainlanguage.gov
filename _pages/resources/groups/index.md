@@ -54,7 +54,9 @@ Governments and private organizations around the world support plain language. M
 
 - Sweden has one of the oldest programs. It's managed by the Ministry of Justice. Even bills headed to the legislature go through plain language editing. In fall 2004, a representative of the Ministry of Justice spoke at the kickoff of Mexico's new plain language program: [Plain language in Sweden, the results after 30 years]({{ site.baseurl }}{% link _pages/resources/articles/plain-language-in-sweden-the-results-after-30-years.md %}).
 
-- The United Kingdom has two different private sector groups supporting plain language:
+- The United Kingdom has government and private sector support for plain language:
+
+  - Plain English is mandatory for all of the writing on [GOV.UK](https://www.gov.uk/guidance/content-design/writing-for-gov-uk#plain-english).
 
   - [The Plain Language Commission](http://www.clearest.co.uk/) accredits public documents and websites with the Clear English Standard logo and provides training in plain language.
 
