@@ -9,7 +9,7 @@ redirect_from:
   - /resources/take_training/plaintraining.cfm
 ---
 
-## Training for federal agencies
+## Classes for federal agencies
 
 We offer two kinds of plain language training:
 

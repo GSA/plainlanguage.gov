@@ -25,7 +25,7 @@ We offer free, half-day training classes for federal agencies. All of our classe
 
 ## Request training
 
-We schedule classes on a first-come, first-served basis, depending on trainer availability. Please request training **at least 3–6 months** in advance.
+We schedule classes on a first-come, first-serve basis, depending on trainer availability. We believe that in-person training is the best method and do not offer webinars or virtual classes. Please request training **at least 3-6 months in advance**.
 
 You must have a .gov or .mil email address to register. [Complete this form](https://goo.gl/forms/fRsKV5i9bwvOTeE73), or [email us](mailto:{{ site.email }}) if you can’t access Google Apps.
 
@@ -41,4 +41,4 @@ After reviewing your request, a training coordinator will email you to set up th
 
 ### Please note
 
-All of our trainers are volunteers, and we only offer training for federal agencies. Requesting agencies must pay all trainer expenses, including parking within the DC metro area (if needed) and lodging, travel, and per diem outside the metro area. We can’t always fulfill requests for classes outside the area because only one volunteer trainer is authorized by their home agency to travel. We do not, as a rule, teach by webinar or other virtual means unless a trainer is willing.
+All of our trainers are volunteers, and we only offer training for federal agencies. Requesting agencies must pay all trainer expenses, including parking within the DC metro area (if needed) and lodging, travel, and per diem outside the metro area. We can’t always fulfill requests for classes outside the area because only one volunteer trainer is authorized by their home agency to travel.
