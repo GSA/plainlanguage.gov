@@ -1,8 +1,6 @@
 # plainlanguage.gov
 
-This is the public repo for [plainlanguage.gov](http://www.plainlanguage.gov), which is an online resource to help federal employees understand and comply with the Plain Writing Act of 2010. It represents a joint effort by the Plain Language Action and Information Network (Plain) and the General Services Administration.
-
-- This site is a work in progress.
+This is the public repo for [plainlanguage.gov](http://www.plainlanguage.gov), which is an online resource to help federal employees understand and comply with the Plain Writing Act of 2010. It represents a joint effort by the Plain Language Action and Information Network (PLAIN) and the General Services Administration.
 
 - [Preview link](https://federalist-proxy.app.cloud.gov/site/gsa/plainlanguage.gov/)
 
@@ -10,9 +8,9 @@ This is the public repo for [plainlanguage.gov](http://www.plainlanguage.gov), w
 
 * This site uses [Jekyll](https://jekyllrb.com), a Ruby-based static site generator. For more information about using Jekyll, refer to the [Jekyll documentation](http://jekyllrb.com/docs/home/).
 
-* The site is built with the [U.S. Web Design Standards](https://standards.usa.gov), a set of reusable, high quality components for modern websites. We're using the Web Design Standards [Jekyll theme](https://github.com/18F/uswds-jekyll) with some customized styles.
+* The site is built with the [U.S. Web Design Standards](https://standards.usa.gov), a set of reusable, high-quality components for modern websites. We're using the Web Design Standards [Jekyll theme](https://github.com/18F/uswds-jekyll) with some customized styles and [Font Awesome](http://fontawesome.io/license/) icons.
 
-* The site is optimized for deployment on 18F's [Federalist](https://federalist.18f.gov) web publishing service.
+* The site is optimized for deployment on 18F's [Federalist](https://federalist.18f.gov) publishing service.
 
 ## Running the site locally
 
@@ -35,8 +33,6 @@ bundle exec jekyll serve
 If all goes well, visit the site at `http://localhost:4000`.
 
 ## Contributing
-
-This site is currently in development and is being built in stages in response to user feedback.
 
 To provide feedback on plainlanguage.gov, follow this repository and [open an issue in the repo](https://github.com/GSA/plainlanguage.gov/issues/new).
 

@@ -34,23 +34,31 @@ Here is a general guide to plain language: short is better than long; active is 
 
 How many of you have ever gotten a letter like this? And I quote:
 
-> "If we do not receive this information within 60 days from the date of this letter, your claim will be denied. Evidence must be received in the Department of Veterans Affairs within one year from the date of this letter; otherwise, benefits, if entitlement is established, may not be paid prior to the date of its receipt. SHOW VETERAN'S FULL NAME AND VA FILE NUMBER ON ALL EVIDENCE SUBMITTED.
+<div class="example-container">
 
-> Privacy Act Information: The information requested by this letter is authorized by existing law (38 U.S.C. 210 (c)(1)) and is considered necessary and relevant to determine entitlement to maximum benefits applied for under the law. The information submitted may be disclosed outside the Department of Veterans Affairs only as permitted by law."
+If we do not receive this information within 60 days from the date of this letter, your claim will be denied. Evidence must be received in the Department of Veterans Affairs within one year from the date of this letter; otherwise, benefits, if entitlement is established, may not be paid prior to the date of its receipt. SHOW VETERAN'S FULL NAME AND VA FILE NUMBER ON ALL EVIDENCE SUBMITTED.
+
+Privacy Act Information: The information requested by this letter is authorized by existing law (38 U.S.C. 210 (c)(1)) and is considered necessary and relevant to determine entitlement to maximum benefits applied for under the law. The information submitted may be disclosed outside the Department of Veterans Affairs only as permitted by law.
+
+</div>
 
 Well, the Veterans Benefit Administration is now working directly with their customers to translate their letters into plain language. One of those customers, veteran Jock Lindsey, told them that some of their letters were, and I quote: "confusing and insulting." Now that's plain language! VBA kept writing and rewriting until Jock said: "This is how the government should write to its customers. I feel I'm talking to a real person."
 
 Because of VBA's leadership in reaching out to customers like Jock—letters that used to read like what you just heard, now read like this:
 
-> "We have your claim for a pension. Our laws require us to ask you for more information. The information you give us will help us decide whether we can pay you a pension.
+<div class="example-container">
 
-> What We Need: Send us a medical report from a doctor or clinic that you visited in the past six months. The report should show why you can't work. Please take this letter and the enclosed Doctor's Guide to your doctor.
+We have your claim for a pension. Our laws require us to ask you for more information. The information you give us will help us decide whether we can pay you a pension.
 
-> When We Need: It We need your doctor's report by June 28, 1998. We'll have to turn down your claim if we don't get your report by that date.
+**What We Need:** Send us a medical report from a doctor or clinic that you visited in the past six months. The report should show why you can't work. Please take this letter and the enclosed Doctor's Guide to your doctor.
 
-> Your Right to Privacy: The information you give us is private. We might have to give out this information in a few special cases. But we will not give it out to the general public without your permission. We've attached a form which explains your privacy rights.
+**When We Need:** It We need your doctor's report by June 28, 1998. We'll have to turn down your claim if we don't get your report by that date.
 
-> If you have any questions, call us toll-free by dialing 1-800-827-1000. If you call, please have this letter with you."
+**Your Right to Privacy:** The information you give us is private. We might have to give out this information in a few special cases. But we will not give it out to the general public without your permission. We've attached a form which explains your privacy rights.
+
+If you have any questions, call us toll-free by dialing 1-800-827-1000. If you call, please have this letter with you.
+
+</div>
 
 Here's another example from the VBA:
 
@@ -91,9 +99,13 @@ Here's another example—an old regulation from OSHA:
 
 The title of the old regulation is "Means of Egress." Egress, by the way, means exit. The word is so little known, practical joker P.T. Barnum used to put up a sign at the circus that said: "To the Egress." People followed the sign, thinking they were about to see some exotic animal, and suddenly found themselves in the street!!
 
-So ... back to our regulation: "Means of Egress: Ways of exit access and the doors to exit to which they lead shall be so designed and arranged as to be clearly recognizable as such. Hangings or draperies shall not be placed over exit doors or otherwise so located as to obscure any exit. Mirrors shall not be placed on exit doors. Mirrors shall not be placed in or adjacent to any exit in such a manner as to confuse the direction of the exit."
+So...back to our regulation:
 
-That was the old regulation. Here is a proposal for the new regulation, whose new title is "Exit routes" "An exit door must be free of signs or decorations that obscure its visibility."
+> **Means of Egress:** Ways of exit access and the doors to exit to which they lead shall be so designed and arranged as to be clearly recognizable as such. Hangings or draperies shall not be placed over exit doors or otherwise so located as to obscure any exit. Mirrors shall not be placed on exit doors. Mirrors shall not be placed in or adjacent to any exit in such a manner as to confuse the direction of the exit.
+
+That was the old regulation. Here is a proposal for the new regulation:
+
+> **Exit routes:** An exit door must be free of signs or decorations that obscure its visibility.
 
 That's it. From 76 words to 14. But we still might be able to make it a bit better. The words "obscure its visibility" are a little like the old gobbledygook." How about: "Don't put up anything that makes it harder to see the exit door."
 

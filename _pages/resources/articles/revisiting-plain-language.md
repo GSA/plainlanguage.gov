@@ -175,7 +175,7 @@ Information designers take very seriously our obligations to users. While some c
 
 - Charrow, V., and R. Charrow. 1978\. _The comprehension of standard jury instructions: A psycholinguistic approach._ Arlington, VA: Center for Applied Linguistics.
 
-- Clinton, W. 1998\. "Memorandum for the heads of executive departments and agencies." <{{ '/law/memo-guidelines/' | absolute_url }}>
+- Clinton, W. 1998\. "Memorandum for the heads of executive departments and agencies." <{{ '/about/history/memo-guidelines/' | absolute_url }}>
 
 - Cutts, M. 1993\. "Unspeakable acts." _Information design journal_ 7, no. 2:115-120.
 

@@ -20,6 +20,10 @@ In response to requests for easy-to-read information to encourage clerks not to 
 
 ## Billboards
 
+<div class="example-container center">
+
 ![Billbord of child smoking and the text: If someone else's kid can buy cigarettes, so can yours. Do something.]({{ '/media/smoker-1.jpg' | relative_url }})
 
 ![Billbord of child smoking and the text: Why do 4.5 million kids smoke? Because they can. Do something.]({{ '/media/smoker-2.jpg' | relative_url }})
+
+</div>
