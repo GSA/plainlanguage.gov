@@ -23,24 +23,26 @@ To get the best health outcomes, health-related decisions should be based on cle
 
 ## Further reading
 
-The Office of Disease Prevention and Health Promotion hosts the [Health Literacy Improvement page](http://www.health.gov/communication/literacy/default.htm), which links to many useful health literacy tools and reports and other Department of Health and Human Service agency health literacy resources.
+- The Office of Disease Prevention and Health Promotion hosts the [Health Literacy Improvement page](http://www.health.gov/communication/literacy/default.htm), which links to many useful health literacy tools and reports and other Department of Health and Human Service agency health literacy resources.
 
-The Agency for Healthcare Research and Quality prepared this [summary of Literacy and Health Outcomes](http://www.ahrq.gov/clinic/epcsums/litsum.htm)). You can get a printed copy of the full report free from the AHRQ Publications Clearinghouse. Call 800-358-9295 and ask for _Evidence Report/Technology Assessment No. 87, Literacy and Health Outcomes_.
+- MedlinePlus offers [guidelines and resources](https://medlineplus.gov/etr.html) to help you create easy-to-read health materials.
 
-[The Health Literacy Site for the Federal Health Resources and Services Administration](https://www.hrsa.gov/about/organization/bureaus/ohe/health-literacy/index.html) (HRSA) includes health and literacy resources and HRSA's health literacy activities. HRSA directs programs that improve the Nation's health by expanding access to comprehensive, quality health care for all Americans.
+- The Agency for Healthcare Research and Quality prepared this [summary of Literacy and Health Outcomes](https://www.ahrq.gov/professionals/clinicians-providers/guidelines-recommendations/index.html). You can get a printed copy of the full report free from the AHRQ Publications Clearinghouse. Call 800-358-9295 and ask for _Evidence Report/Technology Assessment No. 87, Literacy and Health Outcomes_.
 
-[Medicines in My Home](http://www.fda.gov/medsinmyhome/) is an interactive and educational program about the safe and effective use of over-the-counter medicines. This easy-to-read program was developed by the Food and Drug Administration with Maryland's Montgomery County Public School system and in cooperation with the National Council On Patient Information and Education.<br>
+- [The Health Literacy Site for the Federal Health Resources and Services Administration](https://www.hrsa.gov/about/organization/bureaus/ohe/health-literacy/index.html) (HRSA) includes health and literacy resources and HRSA's health literacy activities. HRSA directs programs that improve the Nation's health by expanding access to comprehensive, quality health care for all Americans.
 
-Here is a [Plain Language Thesaurus]({{ site.baseurl }}{% link /media/Thesaurus_V-10.doc %}) from the Centers for Disease Control and Prevention which offers plain language equivalents to medical terms and phrases.
+- [Medicines in My Home](https://www.fda.gov/Drugs/ResourcesForYou/Consumers/BuyingUsingMedicineSafely/UnderstandingOver-the-CounterMedicines/ucm092139.htm) is an interactive and educational program about the safe and effective use of over-the-counter medicines. This easy-to-read program was developed by the Food and Drug Administration with Maryland's Montgomery County Public School system and in cooperation with the National Council On Patient Information and Education.<br>
+
+- The [Plain Language Thesaurus]({{ site.baseurl }}{% link /media/Thesaurus_V-10.doc %}) from the Centers for Disease Control and Prevention offers plain language equivalents to medical terms and phrases.
 
 ### Bibliographic resources about health literacy
 
-The National Library of Medicine provides [bibliographies](http://www.nlm.nih.gov/services/queries/health_literacy.html), sorted by year, citing many documents about health literacy.
+- The National Library of Medicine provides [bibliographies](http://www.nlm.nih.gov/services/queries/health_literacy.html), sorted by year, citing many documents about health literacy.
 
-The Harvard School of Public Health assembled this [bibliography of Health Literacy Studies](https://www.hsph.harvard.edu/healthliteracy/).
+- The Harvard School of Public Health assembled this [bibliography of Health Literacy Studies](https://www.hsph.harvard.edu/healthliteracy/).
 
 ### Private sector support for health literacy
 
-Here is the [Health Literacy Special Collection](http://www.healthliteracy.worlded.org/) from World Education with resources for people doing any kind of health literacy work. This revised collection has more curricula, easy-to-read and multilingual health information, along with links to research and plain language sources.<br>
+- The [Health Literacy Special Collection](http://www.healthliteracy.worlded.org/) from World Education has resources for people doing any kind of health literacy work. This revised collection has more curricula, easy-to-read and multilingual health information, along with links to research and plain language sources.<br>
 
-Here is a list of [plain language alternatives for commonly used medical terms](http://healthcare.partners.org/phsirb/consfrm_files/Plain_Language_Alternatives_for_Patient_Information_and_Consent_Materials.pdf).
+- Here is a list of [plain language alternatives for commonly used medical terms](http://healthcare.partners.org/phsirb/consfrm_files/Plain_Language_Alternatives_for_Patient_Information_and_Consent_Materials.pdf).
