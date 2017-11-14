@@ -1,5 +1,17 @@
-.usa-section {
-  &.home-grid a {
+.home .usa-navbar {
+  border: 0;
+}
+
+.home-grid {
+  > :last-child > :last-child {
+    margin-bottom: 0;
+  }
+
+  .usa-grid a {
+    border: 1px solid $border-color;
+    border-radius: 8px;
+    display: block;
+    margin-bottom: $spacing-medium;
     text-decoration: none;
 
     h3 {
@@ -17,37 +29,33 @@
     }
 
     &:hover {
+      background-color: $color-blue-light;
+
       h3 {
         color: $color-primary-darker;
-        text-decoration: underline;
-      }
-
-      .icon-large .fa {
-        color: $color-primary-darker;
-      }
-    }
-  }
-
-  &.home-hero h1 {
-    max-width: 80rem;
-  }
-
-  &.home-law p {
-    max-width: $lead-max-width;
-  }
-}
-
-@media #{$breakpoint-md} {
-  .usa-section {
-    &.home-grid a {
-      h3 {
-        margin-top: $spacing-md-small;
       }
 
       .icon-large {
-        float: none;
-        margin-right: 0;
+        background-color: $border-color;
       }
     }
+  }
+}
+
+.home-hero h1 {
+  max-width: 80rem;
+}
+
+.home-events p {
+  max-width: $lead-max-width;
+}
+
+@media #{$breakpoint-md} {
+  .home-grid > :last-child > a {
+    margin-bottom: 0;
+  }
+
+  .home-grid .usa-grid  a:first-child {
+    margin-right: $spacing-medium;
   }
 }

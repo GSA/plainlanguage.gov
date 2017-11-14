@@ -1,7 +1,9 @@
 ---
-title: Nine easy steps to longer sentences
+title: Nine Easy Steps to Longer Sentences
 permalink: /resources/humor/nine-easy-steps-to-longer-sentences/
 sidenav: resources
+redirect_from:
+  - /examples/humor/9easysteps.cfm
 ---
 
 Are you tired of short, direct, and simple sentences that seem to take forever to fill up a page? Are you paid by the word? In either case you can benefit by increasing the number of words in your sentences and the bulk of your writing. And it's easy if you just follow nine simple steps, many of which you may already know and practice.

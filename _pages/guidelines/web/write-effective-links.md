@@ -1,6 +1,8 @@
 ---
 title: Write effective links
 sidenav: guidelines
+redirect_from:
+  - /howto/guidelines/FederalPLGuidelines/links.cfm
 sources:
   - author: 'McGovern, Gerry'
     title: 'Killer Web Content: Make the Sale, Deliver the Service, Build the Brand (and other works)'
@@ -20,7 +22,7 @@ sources:
     link: 'https://content-guide.18f.gov/urls-and-filenames/#link-text'
 ---
 
-Links are about both content and navigation. Effective link names are key to satisfying your customers. Eyetracking studies show that links written in plain language are the most effective. Plain-language links are written clearly so that the user understands exactly where the link will take them.
+Links are about both content and navigation. Effective link names are key to satisfying your customers. Eyetracking studies show that links written in plain language are the most effective. Plain language links are written clearly so that the user understands exactly where the link will take them.
 
 - Link names should be the same as the page name linked to.
 - Don't use the full name of a document or program as a link name.

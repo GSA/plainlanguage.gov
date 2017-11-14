@@ -1,6 +1,9 @@
 ---
 title: Usability testing
 sidenav: guidelines
+redirect_from:
+  - /howto/guidelines/FederalPLGuidelines/usability.cfm
+  - /howto/guidelines/FederalPLGuidelines/NCItest.cfm
 ---
 
 One-on-one usability testing sessions work best when the participant uses your website or document to find and understand information.

@@ -1,0 +1,47 @@
+{% assign _count = 0 %}
+{% assign _pages = '' | split: '' %}
+
+{% for _page in site.data.navigation[page.sidenav] %}
+  {% assign _page_meta = '' | split: '' %}
+  {% if page.url == _page.href or page.permalink == _page.href %}
+    {% assign _current = _count %}
+  {% endif %}
+  {% assign _count = _count | plus: 1 %}
+  {% assign _page_meta = _page_meta
+    | push: _page.href
+    | push: _page.text %}
+  {% assign _pages = _pages
+    | push: _page_meta %}
+  {% if _page.subnav %}
+    {% for _subpage in _page.subnav %}
+      {% assign _subpage_meta = '' | split: '' %}
+      {% if page.url == _subpage.href or page.permalink == _subpage.href %}
+        {% assign _current = _count %}
+      {% endif %}
+      {% assign _count = _count | plus: 1 %}
+      {% assign _subpage_meta = _subpage_meta
+        | push: _subpage.href
+        | push: _subpage.text %}
+      {% assign _pages = _pages
+        | push: _subpage_meta %}
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+
+<div class="usa-grid-full pagination">
+  {% assign _prev = _current | minus: 1 %}
+  {% if _current > 0 %}
+  <div class="usa-width-one-half">
+    <h5 class="caps mt0">Previous</h5>
+    <a href="{{ _pages[_prev][0] | relative_url }}">{{ _pages[_prev][1] }}</a>
+  </div>
+  {% endif %}
+  {% assign _next = _current | plus: 1 %}
+  {% assign subpages_total = _pages.size | minus: 1 %}
+  {% if _current < subpages_total %}
+  <div class="{% if _current != 0 %}usa-width-one-half {% endif %}right-align">
+    <h5 class="caps mt0">Next</h5>
+    <a href="{{ _pages[_next][0] | relative_url }}">{{ _pages[_next][1] }}</a>
+  </div>
+  {% endif %}
+</div>

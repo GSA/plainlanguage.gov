@@ -2,6 +2,14 @@
   "name": "plainlanguage.gov",
   "version": "1.0.0",
   "description": "Website for plainlanguage.gov",
+  "scripts": {
+    "build-js": "webpack --config --progress --colors",
+    "guidelines": "npm run guidelines-mkdir && npm run guidelines-copy",
+    "guidelines-copy": "cp media/FederalPLGuidelines.* howto/guidelines/FederalPLGuidelines/",
+    "guidelines-mkdir": "mkdir -p howto/guidelines/FederalPLGuidelines/",
+    "federalist": "npm run build-js && npm run guidelines",
+    "watch-js": "webpack -w --config --progress --colors"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/GSA/plainlanguage.gov.git"
@@ -13,6 +21,12 @@
   },
   "homepage": "https://github.com/GSA/plainlanguage.gov#readme",
   "dependencies": {
-    "basscss-sass": "^4.0.0"
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.24.1",
+    "babel-preset-es2015": "^6.14.0",
+    "basscss-sass": "^4.0.0",
+    "stickyfilljs": "^2.0.2",
+    "webpack": "^1.13.2"
   }
 }

@@ -5,10 +5,12 @@ layout: docs
 {{ content }}
 
 <ul>
-{% for p in site.pages %}
-  {% if p.url contains page.url or p.url contains page.permalink %}
-    {% if p.url != page.url %}
-      <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+{% for _page in site.pages %}
+  {% if _page.url contains page.url or _page.url contains page.permalink %}
+    {% if _page.url != page.url and _page.archived != true %}
+      <li>
+        <a href="{{ _page.url | relative_url }}">{{ _page.title }}</a>{% if _page.author %}, {{ _page.author }}{% endif %}
+      </li>
     {% endif %}
   {% endif %}
 {% endfor %}

@@ -32,12 +32,8 @@ h1 {
   font-feature-settings: 'ss01' 1, 'kern' 1;
 }
 
-.home .usa-font-lead {
-  border-left: .7rem solid $color-primary;
-  padding-left: $spacing-medium;
-}
-
-.usa-nav-link {
+.usa-nav-link,
+.usa-nav-primary button {
   -webkit-font-smoothing: auto;
 }
 

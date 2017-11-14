@@ -1,6 +1,6 @@
 {% if site.sitewide_notification.display %}
 <div class="usa-grid usa-alert usa-alert-info" >
-  <div class="usa-alert-body">{% if site.sitewide_notification.display != blank %}<h3 class="usa-alert-heading">{{ site.sitewide_notification.heading }}</h3>{% endif %}{% if site.sitewide_notification.text != blank %}<p class="usa-alert-text">{{ site.sitewide_notification.text }}</p>{% endif %}
+  <div class="usa-alert-body">{% if site.sitewide_notification.heading != blank %}<h3 class="usa-alert-heading">{{ site.sitewide_notification.heading }}</h3>{% endif %}{% if site.sitewide_notification.text != blank %}<p class="usa-alert-text">{{ site.sitewide_notification.text }}</p>{% endif %}
   </div>
 </div>
 {% endif %}

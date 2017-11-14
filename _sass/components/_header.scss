@@ -6,7 +6,6 @@
   font-family: $font-sans;
   font-feature-settings: 'ss01' 1, 'kern' 1;
   font-weight: 300;
-  font-size: $h4-font-size;
 
   a:hover {
     text-decoration: none;
@@ -20,27 +19,21 @@
 .usa-nav-primary {
   margin-top: 60px;
 
-  a.current-parent {
-    font-weight: 700;
-  }
-
-  a.usa-current {
-    border-left: 0;
-    font-weight: 700;
-    padding-left: $spacing-x-small;
-  }
-
-  & > li {
+  > li {
     font-size: $h3-font-size;
+
+    button,
+    .usa-nav-link {
+      padding-left: $spacing-x-small;
+    }
+
+    ul + a {
+      display: none;
+    }
   }
 
-  & > li ul + a {
-    display: none;
-  }
-
-  button,
-  .usa-nav-link {
-    padding-left: $spacing-x-small;
+  a.usa-current { // scss-lint:disable QualifyingElement
+    border-left: 0;
   }
 }
 
@@ -51,13 +44,17 @@
   padding: 0;
 
   a,
-  a.usa-current {
+  .usa-current {
     padding-left: $spacing-md-small;
   }
 
-  a.current-parent {
+  .current-parent {
     color: $color-primary;
-    font-weight: 700;
+    font-weight: $font-bold;
+  }
+
+  .usa-nav-submenu a {
+    padding-left: $spacing-medium;
   }
 }
 
@@ -73,10 +70,7 @@
 
 @media #{$breakpoint-lg} {
   .usa-header-extended {
-    em {
-      font-size: 2.5rem;
-      font-weight: 300;
-    }
+
 
     .usa-nav {
       border-color: $border-color;
@@ -85,9 +79,12 @@
 
   .usa-logo {
     margin-left: 0;
-  }
 
-  .usa-logo-text {
+    em {
+      font-size: $h2-font-size;
+      font-weight: 300;
+    }
+
     img {
       width: 36px;
     }
@@ -96,17 +93,21 @@
   .usa-nav-primary {
     margin-top: 0;
 
-    & > li ul + a {
+    > li ul + a {
       display: block;
     }
 
-    & > li > a,
-    .usa-nav-link {
+    > li > .usa-nav-link {
       color: $color-base;
       font-family: $font-serif;
       font-size: $h4-font-size;
       font-weight: $font-normal;
       padding-left: $spacing-md-small;
+
+      &.current-parent,
+      &.usa-current {
+        font-weight: $font-bold;
+      }
 
       &:hover,
       &.current-parent,

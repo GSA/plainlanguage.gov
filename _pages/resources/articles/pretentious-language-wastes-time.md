@@ -1,8 +1,9 @@
 ---
-title: Pretentious language wastes time
+title: Pretentious Language Wastes Time
 permalink: /resources/articles/pretentious-language-wastes-time/
 sidenav: resources
-
+redirect_from:
+  - /usingPL/privsector/wastetime.cfm
 ---
 
 _Carol Briam, a management communication specialist in France, offers an illustration of how unclear and pretentious language wastes management's time, even in minor ways._
@@ -33,4 +34,4 @@ Members of The Association of Professional Communication Consultants recommend t
 
 - Lauchman, Richard. _Plain Style: Techniques for Simple, Concise, Emphatic Business Writing_. (AMACOM, a Division of American Management Association, 1993).
 
-- U.S. Securities and Exchange Commission. [A Plain English Handbook: How to Create Clear SEC Disclosure Documents](http://www.sec.gov/pdf/handbook.pdf) . Washington D.C.,1998.
+- U.S. Securities and Exchange Commission. [A Plain English Handbook: How to Create Clear SEC Disclosure Documents](http://www.sec.gov/pdf/handbook.pdf) . Washington D.C., 1998.

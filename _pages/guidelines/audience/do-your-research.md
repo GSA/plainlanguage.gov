@@ -1,6 +1,9 @@
 ---
 title: Do your research
 sidenav: guidelines
+redirect_from:
+  - /howto/guidelines/FederalPLGuidelines/IDtasks.cfm
+  - /howto/guidelines/FederalPLGuidelines/writeUsers.cfm
 ---
 
 In order to write for your users, you need to know who they are! Here are some general tips to help you identify your users.

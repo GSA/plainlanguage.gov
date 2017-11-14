@@ -1,28 +1,31 @@
 @media print {
   @page {
-     margin: 2cm;
+    margin: 2cm;
   }
 
   *,
-  *:before,
-  *:after,
-  *:first-letter,
-  p:first-line,
-  div:first-line,
-  blockquote:first-line,
-  li:first-line {
-      background: transparent !important;
-      color: #000 !important;
-      box-shadow: none !important;
-      text-shadow: none !important;
+  *::before,
+  *::after,
+  *::first-letter,
+  p::first-line,
+  div::first-line,
+  blockquote::first-line,
+  li::first-line {
+    background: transparent !important;
+    box-shadow: none !important;
+    color: $color-black !important;
+    text-shadow: none !important;
   }
 
   .icon-large {
-    border: 1px solid #000;
+    border: 1px solid $color-black;
   }
 
+  .icon-large,
   .no-print,
+  .pagination,
   .usa-banner,
+  .usa-button,
   .usa-nav,
   .usa-menu-btn,
   .usa-skipnav,
@@ -37,7 +40,7 @@
     max-width: none !important;
   }
 
-  .usa-layout-docs-main_content {
+  .usa-layout-docs-main_content { // scss-lint:disable SelectorFormat
     float: none;
     margin: 0;
     padding: 0;
@@ -48,14 +51,14 @@
     border: 0;
   }
 
-  #main-content {
+  .usa-layout-docs {
     a {
       text-decoration: underline;
       word-wrap: break-word;
     }
 
-    a[href^=http]:after {
-      content:" <" attr(href) "> ";
+    a[href^=http]::after { // scss-lint:disable QualifyingElement
+      content: ' <" attr(href) "> ';
     }
   }
 }

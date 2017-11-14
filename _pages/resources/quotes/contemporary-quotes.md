@@ -1,7 +1,9 @@
 ---
-title: Contemporary quotes
+title: Contemporary Quotes
 permalink: /resources/quotes/contemporary-quotes/
 sidenav: resources
+redirect_from:
+  - /resources/quotes/otherquotes.cfm
 ---
 
 ### Michael Dirda, Washington Post Book Section, at the NIH Plain Language Award Ceremony:

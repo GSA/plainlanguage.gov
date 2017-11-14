@@ -1,0 +1,29 @@
+.about-grid {
+  h4 {
+    margin-bottom: 0;
+  }
+
+  h5 {
+    font-weight: $font-normal;
+    margin-top: 0;
+  }
+
+  p {
+    font-size: $h5-font-size;
+  }
+
+
+  .usa-width-one-half {
+    margin-bottom: $spacing-medium;
+  }
+}
+
+@media #{$breakpoint-md} {
+  .about-grid > :last-child > .usa-width-one-half {
+    margin-bottom: 0;
+  }
+
+  .about-grid  > :first-child > .usa-width-one-half {
+    padding-right: $spacing-medium;
+  }
+}

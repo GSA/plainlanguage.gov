@@ -2,15 +2,22 @@
 title: Federal plain language guidelines
 permalink: /guidelines/
 sidenav: guidelines
+pagination: false
+redirect_from:
+  - /howto/guidelines/FederalPLGuidelines/index.cfm
+  - /howto/guidelines/FederalPLGuidelines/FederalPLGuidelines.pdf
+  - /howto/guidelines/FederalPLGuidelines/revs.cfm
+  - /howto/guidelines/FederalPLGuidelines/TOC.cfm
+  - /usingPL/government/index.cfm
+  - /howto/quickreference/quicktips.cfm
+  - /howto/guidelines/FederalPLGuidelines/nouns.cfm
 ---
 
-These are the official guidelines for the [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/content-detail.html) and explain the basics for improving your communications.
+These are the official guidelines for the [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/content-detail.html). We developed these guidelines to help you and your agency write clearly, so your users can:
 
-We developed these guidelines to help you and your agency write clearly, so your users can:
-
-- find what they need
-- understand what they find
-- use what they find to meet their needs
+- Find what they need
+- Understand what they find
+- Use what they find to meet their needs
 
 ## Contents
 

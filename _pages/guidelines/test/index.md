@@ -2,6 +2,9 @@
 title: Test your assumptions
 sidenav: guidelines
 permalink: /guidelines/test/
+redirect_from:
+  - /howto/guidelines/FederalPLGuidelines/testing.cfm
+  - /howto/guidelines/FederalPLGuidelines/testsuccess.cfm
 ---
 
 Testing your content should be an integral part of your writing and planning process—not just something you just do after the fact. It's especially important to test our assumptions in government, because we're often writing for thousands or even millions of people.
@@ -21,7 +24,7 @@ Test as early as you can in the project, whether you're creating something new o
 You can use several techniques to help you improve your document so that the final version will be successful:
 
 - [Paraphrase testing]({{ site.baseurl }}{% link _pages/guidelines/test/paraphrase-testing.md %}): individual interviews, best for short documents, short web pages, and to test the questions on a survey
-- [Usability testing]({{ site.baseurl }}{% link _pages/guidelines/test/usability-testing.md %}): individual interviews, best for longer documents and web sites where finding the right information is important; also best for forms -- see [usability.gov](http://www.usability.gov).
+- [Usability testing]({{ site.baseurl }}{% link _pages/guidelines/test/usability-testing.md %}): individual interviews, best for longer documents and web sites where finding the right information is important; also best for forms. See [usability.gov](http://www.usability.gov).
 - [Controlled comparative studies]({{ site.baseurl }}{% link _pages/guidelines/test/controlled-comparative-studies.md %}): large scale studies where you don't meet the people but you collect statistics on responses; use paraphrase testing and usability testing on a smaller scale first.
 
 Focus groups are discussions in which you learn about users' attitudes and expectations more than about whether they can find and understand information. Therefore, they are more relevant to understanding your audience before you write than to testing. For more on focus groups, see [usability.gov](https://www.usability.gov/how-to-and-tools/methods/focus-groups.html).

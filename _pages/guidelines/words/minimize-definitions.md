@@ -1,6 +1,8 @@
 ---
 title: Minimize definitions
 sidenav: guidelines
+redirect_from:
+  - /howto/guidelines/FederalPLGuidelines/writeDefs.cfm
 sources:
   - author: 'Cohen, Morris'
     title: Reason and Law
@@ -67,11 +69,17 @@ Here are some unnecessary definitions:
 
 And here are some examples of definitions that conflict with customary usage – you should avoid these at all costs.
 
-Common words with uncommon meanings | How uncommon meanings might confuse readers
---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------
-_Pages_ means paper copies of standard office size or the dollar value equivalent in other media | Ten pages into the document, how do you think the average reader would respond if asked to define "page"?
-_Coal deposits_ mean all Federally owned coal deposits, except those held in trust for a Native American tribe. | So if coal is held in trust for a Native American tribe, it isn't coal?
-_Dead livestock._ The body (cadaver) of livestock which has died otherwise than by slaughter. | So if you slaughter it, it isn't really dead?
+> _Pages_ means paper copies of standard office size or the dollar value equivalent in other media
+
+Ten pages into the document, how do you think the average reader would respond if asked to define "page"?
+
+> _Coal deposits_ mean all Federally owned coal deposits, except those held in trust for a Native American tribe.
+
+So if coal is held in trust for a Native American tribe, it isn't coal?
+
+> _Dead livestock._ The body (cadaver) of livestock which has died otherwise than by slaughter.
+
+So if you slaughter it, it isn't really dead?
 
 ## When possible, define a word where you use it
 

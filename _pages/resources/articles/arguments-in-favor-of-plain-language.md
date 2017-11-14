@@ -1,17 +1,12 @@
 ---
-title: Arguments in favor of plain language
+title: Arguments in Favor of Plain Language
 permalink: /resources/articles/arguments-in-favor-of-plain-language/
 sidenav: resources
+redirect_from:
+  - /whyPL/arguments_in_favor/index.cfm
 ---
 
 There have been several traditional arguments against plain language — plain language is dumbing down, plain language can't be used with technical subjects, plain language oversimplifies, plain language is not precise. By now, however, the arguments against plain language have been refuted.
-
-The benefits of plain language are both tangible and intangible:
-
-- Plain language gets your message across in the shortest time possible.
-- More people are able to understand your message.
-- There is less chance that your document will be misunderstood, so you spend less time explaining it to people. And if your document gives instructions, your readers are more likely to understand them and follow them correctly.
-- Many studies have shown that plain language affects your bottom line. You can save time, personnel resources, and money. And you will give better service to your readers.
 
 This page includes some of the key articles that support using plain language.
 
@@ -27,7 +22,7 @@ This page includes some of the key articles that support using plain language.
 
 - In her second article on this subject, also from 2000, [Wanted: Articulate Scientists](http://www.sciencemag.org/careers/2000/11/wanted-articulate-scientists), Lily Whiteman describes how more and more scientists are learning how to reach wider audiences. The article outlines the benefits you will get if you use a plain style.
 
-- Rose Grotsky reported on a recent study of the benefits of plain language and [its effect on organizational performance]({{ site.baseurl }}/resources/articles/plain-language-its-effect-on-organizational-performance/) in a financial-services company. The article appeared in _Clarity_, a periodical devoted to plain legal language.
+- Rose Grotsky reported on a recent study of the benefits of plain language and [its effect on organizational performance]({{ site.baseurl }}/resources/articles/its-effect-on-organizational-performance/) in a financial-services company. The article appeared in _Clarity_, a periodical devoted to plain legal language.
 
 - John Klotsche, an attorney who was a political appointee in IRS during the Bush administration, is a strong advocate for plain language, especially in tax matters. Read his blog, [Plain Tax Talk](http://www.plaintaxtalk.org/).
 

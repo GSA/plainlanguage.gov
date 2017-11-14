@@ -1,0 +1,71 @@
+# Sample entry:
+#  - title: Article title goes here
+#    href: /path/to/resource/ or http://external.link/to/resource
+#    external: true  #Optional
+#    author: Author's name goes here #Optional
+#    pub_date: 2010-10-31  #Optional, must follow specified date format
+#    description: >- #Optional
+#      Speech given to 600 high-level Mexican public servants at the launching
+#      plain language conference Lenguaje ciudadano on the 5th of October 2004.
+
+articles:
+  - title: Arguments in Favor of Plain Language
+    href: /resources/articles/arguments-in-favor-of-plain-language/
+  - title: Complex and Abstract Words
+    href: /resources/articles/complex-abstract-words/
+    author: Nick Wright
+  - title: Keep It Jargon Free
+    href: /resources/articles/keep-it-jargon-free/
+    author: Nick Wright
+  - title: "Made-up Words"
+    href: /resources/articles/made-up-words/
+    author: Nick Wright
+  - title: "Mary Dash’s Writing Tips"
+    href: /resources/articles/dash-writing-tips/
+    author: Mary Dash
+  - title: "Plain Language: Beyond a Movement"
+    href: /resources/articles/beyond-a-movement/
+    author: Christopher Balmford
+  - title: Plain Language in Spoken Communication
+    href: /resources/articles/plain-language-in-spoken-communication/
+    author: Londell Buckson
+  - title: Plain Language in Sweden, the Results After 30 Years
+    href: /resources/articles/plain-language-in-sweden/
+    author: Barbro Ehrenberg-Sundin
+    pub_date: 2004-10-05
+    description: >-
+      Speech given to 600 high-level Mexican public servants at the launching plain language conference Lenguaje ciudadano on the 5th of October 2004.
+  - title: "Plain Language: Its Effect on Organizational Performance"
+    href: /resources/articles/its-effect-on-organizational-performance/
+    author: Rose Grotsky
+  - title: "Plain Language: The Bottom Line"
+    href: /resources/articles/the-bottom-line/
+    author: Professor Joe Kimble
+  - title: The Arguments Against Plain Language Have Been Refuted
+    href: /resources/articles/arguments-against-plain-language-have-been-refuted/
+    author: Professor Joe Kimble
+  - title: The Elements of Plain Language
+    href: /resources/articles/elements-of-plain-language/
+    author: Professor Joe Kimble
+  - title: Plain Talk in Washington
+    href: /resources/articles/plain-talk-in-washington/
+    author: Dana Howard Botka
+  - title: Politics and the English Language
+    href: /resources/articles/politics-and-the-english-language/
+    author: George Orwell
+  - title: Pretentious Language Wastes Time
+    href: /resources/articles/pretentious-language-wastes-time/
+    author: Carol Briam
+  - title: Revisiting Plain Language
+    href: /resources/articles/revisiting-plain-language/
+  - title: Scientists Need Plain Language
+    href: /resources/articles/scientists-need-plain-language/
+    author: Lily Whiteman
+  - title: Simple Words Work Best
+    href: /resources/articles/simple-words-work-best/
+    author: Bill Lampton, Ph.D.
+  - title: The Hidden Costs of Complex Language
+    href: /resources/articles/hidden-costs-of-complex-language/
+  - title: "Plain English: At a Glance"
+    href: /resources/articles/at-a-glance/
+    author: Nancy M. Smith

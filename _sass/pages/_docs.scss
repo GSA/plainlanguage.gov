@@ -1,23 +1,55 @@
 .usa-layout-docs {
-  padding: $spacing-md-small;
+  padding: $spacing-medium $spacing-md-small;
 
   h1 {
     margin-top: 0;
   }
 
-  &.usa-content p,
-  &.usa-content ul,
-  &.usa-content ol {
+  &.usa-content p:not(.usa-font-lead),
+  &.usa-content ul:not(.usa-accordion):not(.usa-accordion-bordered),
+  &.usa-content ol:not(.usa-accordion):not(.usa-accordion-bordered) {
     max-width: none;
+  }
+
+  .breadcrumbs {
+    margin-bottom: $spacing-x-small;
+
+    a {
+      color: $color-base;
+    }
   }
 }
 
 .usa-layout-docs-main_content {
-  padding-right: $spacing-large;
+  a[href*="//"]:not([href*="plainlangugage.gov"])::after { // scss-lint:disable SelectorFormat, QualifyingElement
+    background-image: url('../img/icons/primary/external-link.svg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto $spacing-md-small;
+    content: ' ';
+    display: inline-block;
+    height: $spacing-md-small;
+    margin-left: $spacing-x-small;
+    padding-right: $spacing-md-small;
+    vertical-align: middle;
+    width: $spacing-md-small;
+  }
+
+  table {
+    th,
+    td {
+      border-color: $color-tan-dark;
+    }
+
+    thead th,
+    thead td {
+      background-color: $color-tan;
+    }
+  }
 }
 
 @media (max-width: #{$large-screen}) {
-  .usa-layout-docs-main_content {
+  .usa-layout-docs-main_content { // scss-lint:disable SelectorFormat
     float: none;
     width: 100%;
   }
@@ -25,6 +57,6 @@
 
 @media #{$breakpoint-md} {
   .usa-layout-docs {
-    padding: $spacing-medium;
+    padding: $spacing-large $spacing-medium;
   }
 }

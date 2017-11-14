@@ -1,46 +1,36 @@
 .guidelines {
-  text-decoration: none;
-
   img {
     border: 3px solid $border-color;
-    width: 33%;
+    width: 90px;
   }
 
-  p {
-    color: $color-base;
-  }
+  a {
+    color: $color-white;
+    text-decoration: none;
 
-  &:hover {
-    h5 {
-      color: $color-primary-darker;
-      text-decoration: underline;
+    &.usa-label {
+      line-height: 1;
+      padding: .4rem .7rem .3rem;
+    }
+
+    &:hover {
+      background-color: $color-primary-darker;
+      color: $color-white;
+      text-decoration: none;
     }
   }
 }
 
-.usa-layout-docs-sidenav {
-  float: right;
-  margin-right: 0;
-  padding-right: 0;
-  padding-left: $spacing-large;
-  padding-top: 0;
-
-  h3 {
-    border-bottom: $border-width solid $border-color;
-    margin-bottom: 0;
-    padding-bottom: $spacing-small;
-  }
-}
-
 .usa-sidenav-list a {
+  display: block;
   font-family: $font-serif;
   padding: $spacing-small 0;
 
   &.current-parent {
-      border-left: 0;
-      color: $color-base;
-      font-weight: 700;
-      padding-left: 0;
+    border-left: 0;
+    color: $color-base;
+    font-weight: $font-bold;
+    padding-left: 0;
   }
 
   &:hover {
@@ -52,6 +42,8 @@
 .usa-sidenav-list > li {
   border-color: $border-color;
 }
+
+ // scss-lint:disable SelectorFormat, QualifyingElement
 .usa-sidenav-sub_list a,
 .usa-sidenav-sub_list a:hover,
 .usa-sidenav-sub_list a.usa-current {
@@ -64,5 +56,6 @@
 }
 
 .usa-sidenav-sub_list a.usa-current {
-  font-weight: 700;
+  font-weight: $font-bold;
 }
+ // scss-lint:enable SelectorFormat

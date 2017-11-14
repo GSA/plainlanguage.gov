@@ -1,6 +1,8 @@
 ---
 title: Minimize abbreviations
 sidenav: guidelines
+redirect_form:
+  - /howto/guidelines/FederalPLGuidelines/writeNoAbbrev.cfm
 sources:
   - author: 'Garner, Bryan A.'
     title: 'A Dictionary of Modern Legal Usage, 2nd edition'
@@ -27,11 +29,11 @@ The best solution is to find a simplified name for the entity you want to abbrev
 
 In most cases, you don't need to define this nickname the first time you use it, unless you're using lots of different nicknames. When you're using a nickname for the main topic you're writing about, don't insult your users and waste their time. For example, in a paper about Resource Advisory Councils, don't tell them that when you say "Council" you mean the "Resource Advisory Council."
 
-For                                         | Instead of | Consider
-------------------------------------------- | ---------- | --------------
-Engineering Safety Advisory Committee       | ESAC       | the committee
-Small-quantity handlers of universal wastes | SQHUW      | waste handlers
-Fire and Police Employee Relations Act      | FPERA      | the Act
+For | Instead of | Consider
+------- | ------ | ------
+Engineering Safety Advisory Committee | ESAC | the committee
+Small-quantity handlers of universal wastes | SQHUW | waste handlers
+Fire and Police Employee Relations Act | FPERA | the Act
 
 ## If everyone knows an abbreviation, use it without explanation
 

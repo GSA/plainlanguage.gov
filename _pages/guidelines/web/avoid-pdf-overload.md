@@ -1,6 +1,8 @@
 ---
 title: Avoid PDF overload
 sidenav: guidelines
+redirect_from:
+  - /howto/guidelines/FederalPLGuidelines/avoidPDF.cfm
 ---
 
 Posting PDF versions (PDFs) of original documents on your site would seem to be an obvious alternative to rewriting your content in web format. Unfortunately, posting too many PDFs can work against your goal of retaining users. The Nielsen Norman Group has done [multiple studies on PDFs](https://www.nngroup.com/articles/pdf-unfit-for-human-consumption/) and has consistently found that users hate them and avoid reading them at all costs.

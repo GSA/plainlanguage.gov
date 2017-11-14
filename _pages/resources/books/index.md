@@ -2,7 +2,8 @@
 title: Books
 permalink: /resources/books/
 sidenav: resources
-
+redirect_from:
+  - /resources/journals/books.cfm
 ---
 
 There are many important books about plain language. Most of them are not available online, but they are well-worth acquiring. Here's a list of our favorites:

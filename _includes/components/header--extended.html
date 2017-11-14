@@ -34,11 +34,20 @@
           </button>
           <ul id="{{ _section_id }}" class="usa-nav-submenu">
             <li>
-              <a href="{% if _section.external == true %}{{ _section.href }}{% else %}{{ _section.href | relative_url }}{% endif %}" class="{% if _section.href == page.permalink %} usa-current{% endif %}">{{ _section.text }}</a>
+              <a href="{% if _section.external == true %}{{ _section.href }}{% else %}{{ _section.href | relative_url }}{% endif %}" class="{% if _section.href == page.permalink %} usa-current{% endif %}">Overview</a>
             </li>
             {% for _link in section_links %}
             <li>
               <a href="{% if _link.external == true %}{{ _link.href }}{% else %}{{ _link.href | relative_url }}{% endif %}" class="{% if _link.href == page.permalink %} usa-current{% endif %}{% if _link.href != '/' %}{% if page.url contains _link.href or page.permalink contains _link.href %} current-parent{% endif %}{% endif %}">{{ _link.text }}</a>
+              {% if (page.url contains _link.href or page.permalink contains _link.href) and _link.subnav %}
+              <ul class="usa-nav-submenu">
+                {% for sub_link in _link.subnav %}
+                <li>
+                  <a href="{% if sub_link.external == true %}{{ sub_link.href }}{% else %}{{ sub_link.href | relative_url }}{% endif %}" class="{% if sub_link.href == page.permalink %} usa-current{% endif %}{% if sub_link.href != '/' %}{% if page.url contains sub_link.href or page.permalink contains sub_link.href %} current-parent{% endif %}{% endif %}">{{ sub_link.text }}</a>
+                </li>
+                {% endfor %}
+              </ul>
+              {% endif %}
             </li>
             {% endfor %}
           </ul>
@@ -57,7 +66,7 @@
         {% if _secondary.search %}
           <form action="{{ _secondary.search.action | relative_url }}" class="usa-search usa-search-small">
           <div role="search">
-            <label class="usa-sr-only" for="search-field-small">Search</label>
+            <label class="usa-sr-only" for="search-input">Search</label>
             <input id="search-input" placeholder="Search..." type="search" name="{{ _secondary.search.query | default: 'search' }}">
             <button type="submit">
               <span class="usa-sr-only">Search</span>
@@ -65,14 +74,16 @@
           </div>
         </form>
         {% endif %}
+        {% assign secondary_links = site.data.navigation[_secondary.links] | default: _secondary.links %}
+        {% if secondary_links %}
         <ul class="usa-unstyled-list usa-nav-secondary-links">
-          {% assign secondary_links = site.data.navigation[_secondary.links] | default: _secondary.links %}
           {% for _link in secondary_links %}
           <li>
             <a href="{% if _link.external == true %}{{ _link.href }}{% else %}{{ _link.href | relative_url }}{% endif %}">{% if _link.icon %}<img src="{{ "/assets/img/twitter.svg" | relative_url }}" alt="" class="icon">{% endif %}{{ _link.text }}</a>
           </li>
           {% endfor %}
         </ul>
+        {% endif %}
       </div>
       {% endif %}
 

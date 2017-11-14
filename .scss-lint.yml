@@ -1,0 +1,1 @@
+preprocess_command: "sed '1{/^---$/{:a N;/---$/!ba;d}}'"

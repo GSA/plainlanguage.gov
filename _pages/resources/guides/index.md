@@ -2,6 +2,8 @@
 title: Style guides
 permalink: /resources/guides/
 sidenav: resources
+redirect_from:
+  - /howto/guidelines/index.cfm
 ---
 
 ## Federal government
@@ -21,11 +23,15 @@ sidenav: resources
 - [Nuclear Regulatory Commission](https://www.nrc.gov/public-involve/open/plain-writing.html)
 - [Office of the Federal Register](http://www.archives.gov/federal-register/write/plain-language/)
 - [Securities and Exchange Commission](https://www.sec.gov/plainwriting.shtml)
-  - [A Plain English Handbook: How to create clear SEC disclosure documents](https://www.sec.gov/pdf/handbook.pdf)
+  - [A Plain English Handbook](https://www.sec.gov/pdf/handbook.pdf)
 - [USAGov Bilingual Style Guide](https://www.usa.gov/style-guide/table-of-contents)
 - [18F Content Guide](https://content-guide.18f.gov/)
 
 ## State government
 
-- [Plain language: It's the law, and a good idea](http://www.oregon.gov/DAS/Pages/writingplainlanguage.aspx), Oregon
+- [Plain Language: It's the Law, and a Good Idea](http://www.oregon.gov/DAS/Pages/writingplainlanguage.aspx), Oregon
 - [Plain Talk](http://www.governor.wa.gov/issues/issues/efficient-government/plain-talk), Washington
+
+## International community
+
+- [Putting Plain Language Into Practice](http://en.copian.ca/library/learning/nwt/practice/contents.htm), Aggie Brockman for Canada's Literacy Council

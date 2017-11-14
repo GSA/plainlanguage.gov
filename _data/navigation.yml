@@ -1,3 +1,23 @@
+law:
+  - text: Agency programs and contacts
+    href: /law/agency-programs/
+  - text: Plain writing page template
+    href: /law/page-template/
+
+training:
+  - text: Introductory classes
+    href: /training/introductory-classes/
+  - text: Videos
+    href: /training/videos/
+  - text: Online training
+    href: /training/online-training/
+  - text: Train-the-trainer bootcamp
+    href: /training/train-the-trainer-bootcamp/
+  - text: Create your own class
+    href: /training/create-your-own-class/
+  - text: Tips for starting a plain language program
+    href: /training/tips-for-trainers/
+
 guidelines:
   - text: Write for your audience
     href: /guidelines/audience/
@@ -26,6 +46,8 @@ guidelines:
   - text: Choose your words carefully
     href: '/guidelines/words/'
     subnav:
+      - text: 'Use simple words and phrases'
+        href: '/guidelines/words/use-simple-words-phrases/'
       - text: Avoid hidden verbs
         href: '/guidelines/words/avoid-hidden-verbs/'
       - text: Avoid noun strings
@@ -43,8 +65,6 @@ guidelines:
   - text: Be concise
     href: '/guidelines/concise/'
     subnav:
-      - text: 'Use short, simple words'
-        href: '/guidelines/concise/use-short-simple-words/'
       - text: Write short sentences
         href: '/guidelines/concise/write-short-sentences/'
       - text: Keep the subject, verb, and object close together
@@ -53,8 +73,6 @@ guidelines:
         href: '/guidelines/concise/use-positive-language/'
       - text: Write short paragraphs
         href: '/guidelines/concise/write-short-paragraphs/'
-      - text: Cover one topic in each paragraph
-        href: '/guidelines/concise/cover-one-topic-in-each-paragraph/'
       - text: Write short sections
         href: '/guidelines/concise/write-short-sections/'
   - text: Keep it conversational
@@ -68,9 +86,9 @@ guidelines:
         href: '/guidelines/conversational/use-contractions/'
       - text: Use examples
         href: '/guidelines/conversational/use-examples/'
-      - text: Use "must" to indicate requirements
+      - text: Use “must” to indicate requirements
         href: '/guidelines/conversational/use-must-to-indicate-requirements/'
-      - text: Don't use slashes
+      - text: Don’t use slashes
         href: '/guidelines/conversational/dont-use-slashes/'
   - text: Design for reading
     href: '/guidelines/design/'
@@ -86,6 +104,8 @@ guidelines:
   - text: Follow web standards
     href: /guidelines/web/
     subnav:
+      - text: Avoid FAQs
+        href: '/guidelines/web/avoid-faqs/'
       - text: Write effective links
         href: '/guidelines/web/write-effective-links/'
       - text: Repurpose print material for the web
@@ -102,65 +122,55 @@ guidelines:
       - text: Controlled comparative studies
         href: '/guidelines/test/controlled-comparative-studies/'
 
-law:
-  - text: Background
-    href: /law/background/
-    subnav:
-      - text: Timeline
-        href: /law/background/timeline/
-      - text: A history of plain language in the U.S. government
-        href: /law/background/plain-language-in-the-government/
-      - text: Regulations
-        href: /law/background/regulations/
-      - text: 'Walters v. Reno'
-        href: /law/background/walters-v-reno/
-      - text: 'Guidelines for President Clinton''s memo'
-        href: /law/background/memo-guidelines/
-  - text: Requirements
-    href: /law/requirements/
-    subnav:
-      - text: Plain writing page template
-        href: /law/requirements/page-template/
-  - text: Examples
-    href: /law/examples/
-  - text: Agency contacts
-    href: /law/agency-contacts/
+examples:
+  - text: Before and after
+    href: /examples/before-and-after/
+  - text: Award winners
+    href: /examples/awards/
+  - text: Reports and brochures
+    href: /examples/brochures/
+  - text: Handbooks and manuals
+    href: /examples/handbooks/
+  - text: Letters and notices
+    href: /examples/notices/
+  - text: Regulations
+    href: /examples/regulations/
 
 resources:
   - text: Groups and organizations
     href: /resources/groups/
+  - text: Checklists and handouts
+    href: /resources/checklists/
   - text: Style guides
     href: /resources/guides/
   - text: Books
     href: /resources/books/
   - text: Articles
     href: /resources/articles/
-  - text: Videos
-    href: /resources/videos/
-  - text: Checklists
-    href: /resources/checklists/
-  - text: Reference sites
+  - text: Reference tools
     href: /resources/reference/
   - text: Content types
     href: /resources/content-types/
-  - text: Definitions
-    href: /resources/definitions/
   - text: Humor
     href: /resources/humor/
   - text: Quotes
     href: /resources/quotes/
 
-training:
-  - text: Introductory classes
-    href: /training/introductory-classes/
-  - text: Train-the-trainer bootcamp
-    href: /training/train-the-trainer-bootcamp/
-  - text: Online training
-    href: /training/online-training/
-  - text: For trainers
-    href: /training/for-trainers/
+about:
+  - text: What is plain language?
+    href: /about/definitions/
+  - text: Why use plain language?
+    href: /about/benefits/
+  - text: History and timeline
+    href: /about/history/
     subnav:
-      - text: Tips for starting a plain language program
-        href: /training/for-trainers/tips-for-starting-plain-language-program/
-      - text: Create your own class
-        href: /training/for-trainers/create-your-own-class/
+      - text: Regulations
+        href: /about/history/regulations/
+      - text: 'Guidelines for President Clinton’s memo'
+        href: /about/history/memo-guidelines/
+      - text: Adoption by the House of Delegates
+        href: /about/history/american-bar-association/
+      - text: 'Walters v. Reno'
+        href: /about/history/walters-v-reno/
+  - text: Get involved
+    href: /about/get-involved/

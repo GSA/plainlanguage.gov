@@ -1,6 +1,8 @@
 ---
 title: Make it easy to follow
 sidenav: guidelines
+redirect_from:
+  - /howto/guidelines/FederalPLGuidelines/orgAud.cfm
 sources:
   - author: 'Kimble, Joseph'
     title: Lifting the Fog of Legalese
@@ -35,32 +37,22 @@ Think through the questions your users likely have and then organize the materia
 
 For regulations and other complex documents, create a comprehensive table of contents. Your table of contents should be a reliable roadmap that users can follow to quickly find what they need.
 
-## Organizing principles
-
-### Chronological order
+## Chronological order
 
 Regulations frequently address processes. Chronological order is best for process information:
 
+<div class="example-container">
 1. You fill out an application to get a benefit.
 2. You submit the application.
 3. The agency reviews the application.
 4. The agency makes a decision on the application.
+</div>
 
 Present the steps chronologically, in the order your user and your agency will follow them. The table of contents below is organized in a logical sequence for a grant program.
 
-### General first, exceptions, conditions, and specialized information later
+### Example
 
-Another useful organizing principle is to put general information first, and specialized information or exceptions later. That way, the material that addresses most readers in most situations comes first. For some documents this will work well along with a chronological organization. In others, it may be the primary organizing principle.
-
-### Limit levels to three or fewer
-
-Crafting documents with four, five, or even more levels makes it difficult for your audience to keep track of where they are in the process. You should address this problem in your initial structuring of the document.
-
-Dividing your document into more pieces at the top levels should allow you to limit subdivisions below the major level to two. The Office of the Federal Register recommends that regulations contain no more than three levels, noting that more than three levels make regulations hard to read and use.
-
-## Examples
-
-### Chronological order
+<div class="example-container">
 
 #### Part 791: Gifted and Talented Students
 
@@ -87,7 +79,15 @@ Dividing your document into more pieces at the top levels should allow you to li
 791.30 Under what conditions may I use my grant award?<br>
 791.31 What are my responsibilities for serving students and teachers in private schools?
 
-### Chronological order with general information first
+</div>
+
+### General first, exceptions, conditions, and specialized information later
+
+Another useful organizing principle is to put general information first, and specialized information or exceptions later. That way, the material that addresses most readers in most situations comes first. For some documents this will work well along with a chronological organization. In others, it may be the primary organizing principle.
+
+### Example
+
+<div class="example-container">
 
 #### Part 725: Claims For Benefits Under The Federal Mine Safety And Health Act
 
@@ -118,3 +118,11 @@ Dividing your document into more pieces at the top levels should allow you to li
 725.403 How long do I have to file an appeal?<br>
 725.404 What types of evidence must I submit?<br>
 725.405 What happens if I won't get a medical examination?
+
+</div>
+
+### Limit levels to three or fewer
+
+Crafting documents with four, five, or even more levels makes it difficult for your audience to keep track of where they are in the process. You should address this problem in your initial structuring of the document.
+
+Dividing your document into more pieces at the top levels should allow you to limit subdivisions below the major level to two. The Office of the Federal Register recommends that regulations contain no more than three levels, noting that more than three levels make regulations hard to read and use.

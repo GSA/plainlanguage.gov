@@ -1,9 +1,23 @@
-.shadow {
-  box-shadow: 0 1px 1px rgba(0,0,0,.1);
+.arrow::after {
+  content: '\00a0\00BB';
+  display: inline;
+}
+
+.sticky {
+  position: sticky;
+  top: 0;
 }
 
 .lg-show {
   display: none !important;
+}
+
+.base {
+  color: $color-base;
+}
+
+.white {
+  color: $color-white;
 }
 
 @media #{$breakpoint-lg} {

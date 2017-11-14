@@ -1,6 +1,8 @@
 ---
 title: Use positive language
 sidenav: guidelines
+redirect_from:
+  - /howto/guidelines/FederalPLGuidelines/writeNo2Negs.cfm
 sources:
   - author: 'Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.'
     title: 'Clear & Effective Legal Writing_, 4th edition'
@@ -33,26 +35,30 @@ When you write a sentence containing two negatives, they cancel each other out. 
 Don't say | Say
 --- | ---
 **No** approval of any noise compatibility program, or any portion of a program, may be implied **in the absence of** the agency's express approval. | You must get the agency's express approval for any noise compatibility program or any portion of a program.
+{:.example-table}
 
 Here are some expressions that signal double negatives.
 
-Change the double negative | To a positive
+Don't say | Say
 -------------------------- | -----------------
 no fewer than ...          | at least
 has not yet attained       | is under
 may not ... until          | may only ... when
 is not ... unless          | is ... only if
+{:.example-table}
 
 Many ordinary words have a negative meaning, such as _unless, fail to, notwithstanding, except, other than, unlawful, disallowed, terminate, void, insufficient_, and so on. Watch out for them when they appear after _not_. Find a positive word to express your meaning.
 
 Don't say | Say
 --- | ---
 An application for a grant does not become void unless the applicant's failure to provide requested information is unreasonable under the circumstances. | An application for a grant remains active if the applicant provides the information we request within a reasonable time.
+{:.example-table}
 
 ## Avoid exceptions to exceptions
 
 An exception that contains an exception is just another form of a double negative. That makes it even harder for the user to puzzle out. Rewrite the sentence to emphasize the positive.
 
 Don't say | Say
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----- | -----
 Applicants may be granted a permit to prospect for geothermal resources on any federal lands except lands in the National Park System, unless the applicant holds valid existing rights to the geothermal resources on the National Park System lands listed in the application. | You may be granted a permit to prospect for geothermal resources on any federal lands. This includes lands in the National Park System only if you hold valid existing rights to the park lands listed in your application.
+{:.example-table}

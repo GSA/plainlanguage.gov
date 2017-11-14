@@ -1,6 +1,9 @@
 ---
 title: Minimize cross-references
 sidenav: guidelines
+redirect_from:
+  - /howto/guidelines/FederalPLGuidelines/writeNoXRefs.cfm
+  - /howto/quickreference/pops/complex.cfm
 sources:
   - author: 'Flesch, Rudolf'
     title: 'How to Write in Plain English, A Book for Lawyers and Consumers'
@@ -37,17 +40,27 @@ Let's look at an example from the National Park Service.
 
 In this excerpt, the first cross-reference is to brief material, so you can just repeat it here. The second cross-reference is to a long list of information; it's probably clearest to keep the cross-reference. The third cross-reference probably isn't necessary-the camper needs to know whether there is an animal emergency plan, but not the details of the plan contained in Section 52.
 
-Before | After
---- | ---
-If you hold one of the vehicle entry passes listed in Section 18 for entry into a national park, you may camp in that park. But you may not sleep in a tent if the park has declared one of the animal danger levels described in paragraphs (c) through (h) of Section 51, and the campsite is not covered by an animal emergency plan as described in Section 52. | If you hold a daily, weekly, or annual vehicle entry pass for a national park, you may camp in that park. But you may not sleep in a tent if the park has declared one of the animal danger levels described in paragraphs (c) through (h) of Section 51, and the campsite is not covered by an animal emergency plan.
+* #### Before
+
+  If you hold one of the vehicle entry passes listed in Section 18 for entry into a national park, you may camp in that park. But you may not sleep in a tent if the park has declared one of the animal danger levels described in paragraphs (c) through (h) of Section 51, and the campsite is not covered by an animal emergency plan as described in Section 52.
+
+* #### After
+
+  If you hold a daily, weekly, or annual vehicle entry pass for a national park, you may camp in that park. But you may not sleep in a tent if the park has declared one of the animal danger levels described in paragraphs (c) through (h) of Section 51, and the campsite is not covered by an animal emergency plan.
+{: .example-side-by-side}
 
 ### Move cross-references to the end of a passage
 
 If you must include cross-references, consider putting them at the end of the text, like a reference, rather than in the middle. This is less disruptive to the user, and less annoying. It gives users a chance to absorb your main message before your references elaborate on it. As an example, if you need to keep the second and third references in the national park example above, you might write it this way:
 
-Before | After
---- | ---
-If you hold one of the vehicle entry passes listed in Section 18 for entry into a national park, you may camp in that park. But you may not sleep in a tent if the park has declared one of the animal danger levels described in paragraphs (c) through (h) of Section 51, and the campsite is not covered by an animal emergency plan as described in Section 52. | If you hold a daily, weekly, or annual vehicle entry pass for a national park, you may camp in that park. But you may not sleep in a tent if the park has declared an animal danger level and the campsite is not covered by an animal emergency plan. See paragraphs (c) through (h) of Section 51 for animal danger levels, and Section 52 for animal emergency plans.
+* #### Before
+
+  If you hold one of the vehicle entry passes listed in Section 18 for entry into a national park, you may camp in that park. But you may not sleep in a tent if the park has declared one of the animal danger levels described in paragraphs (c) through (h) of Section 51, and the campsite is not covered by an animal emergency plan as described in Section 52.
+
+* #### After
+
+  If you hold a daily, weekly, or annual vehicle entry pass for a national park, you may camp in that park. But you may not sleep in a tent if the park has declared an animal danger level and the campsite is not covered by an animal emergency plan. See paragraphs (c) through (h) of Section 51 for animal danger levels, and Section 52 for animal emergency plans.
+{: .example-side-by-side}
 
 ## Referring to another agency's regulations
 

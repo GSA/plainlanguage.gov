@@ -1,23 +1,23 @@
 <footer class="usa-footer" role="contentinfo">
   {% if page.url != '/' or page.permalink != '/' %}
-  <div class="usa-footer-primary-section bg-tan">
+  <div class="usa-footer-primary-section usa-section bg-tan">
     <div class="usa-grid">
       <h2>Subscribe to our mailing list</h2>
       <div class="usa-width-one-whole lg-flex items-center">
         <p class="mb2 lg-mb0 lg-mr2">Learn about upcoming events and get the latest news from the federal plain language community.</p>
-        <a class="usa-button usa-button-primary m0 nowrap" href="https://www.digitalgov.gov/communities/plain-language-community-of-practice/">Subscribe</a>
+        <a class="usa-button usa-button-primary m0 nowrap" href="https://www.digitalgov.gov/communities/plain-language/">Subscribe</a>
       </div>
     </div>
   </div>
   {% endif %}
-  <div class="usa-footer-secondary_section bg-tan-dark">
+  <div class="usa-footer-secondary_section usa-section bg-tan-dark">
     <div class="usa-grid">
       <div class="usa-width-one-half h4">
         <p>
           The <a href="{{ "/about/" | relative_url }}">Plain Language Action and Information Network</a> develops and maintains the content of this site with support from the <a href="https://www.gsa.gov/node/87579">General Services Administration</a>.
         </p>
         <p>
-          Help us improve this site on <a href="{{ site.repo }}"><i class="fa fa-github mr1" aria-hidden="true"></i>GitHub</a>.
+          Help us improve this site on <a href="{{ site.repo }}"><i class="icon icon-github" aria-hidden="true"></i>GitHub</a>.
         </p>
       </div>
       <div class="usa-width-one-fourth md-mb3">
@@ -31,9 +31,9 @@
       <div class="usa-width-one-fourth">
         <h4>Contact us</h4>
         <ul class="usa-unstyled-list h5">
-          <li><a href="mailto:{{ site.email }}"><i class="fa fa-envelope-o fa-fw mr1" aria-hidden="true"></i>Email us</a></li>
-          <li><a href="{{ site.facebook }}"><i class="fa fa-facebook-f fa-fw mr1" aria-hidden="true"></i>Facebook</a></li>
-          <li><a href="{{ site.twiter }}"><i class="fa fa-twitter fa-fw mr1" aria-hidden="true"></i>Twitter</a></li>
+          <li><a href="mailto:{{ site.email }}"><i class="icon icon-envelope mr1" aria-hidden="true"></i>Email us</a></li>
+          <li><a href="{{ site.facebook }}"><i class="icon icon-facebook mr1" aria-hidden="true"></i>Facebook</a></li>
+          <li><a href="{{ site.twiter }}"><i class="icon icon-twitter mr1" aria-hidden="true"></i>Twitter</a></li>
         </ul>
       </div>
     </div>

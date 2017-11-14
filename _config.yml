@@ -9,7 +9,7 @@ repo: https://github.com/GSA/plainlanguage.gov
 sitewide_notification:
   display: false
   heading: Information Status
-  text: >
+  text: >-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.
 
 theme: uswds-jekyll
@@ -28,6 +28,14 @@ exclude:
   - package-lock.json
   - README.md
   - vendor
+  - webpack.config.js
+
+keep_files:
+  - /assets/js/build/bundle.js
+
+scripts:
+  - /assets/js/build/bundle.js
+  - /assets/uswds/js/uswds.min.js
 
 styles:
   - href: /assets/css/main.css
@@ -37,6 +45,7 @@ sass:
   load_paths:
     - _sass
     - node_modules
+  style: compressed
 
 defaults:
   - scope:
@@ -48,6 +57,10 @@ defaults:
       type: "pages"
     values:
       layout: "docs"
+  - scope:
+      path: "_pages/guidelines"
+    values:
+      pagination: true
 
 collections:
   pages:
@@ -67,3 +80,4 @@ jekyll_pages_api_search:
     url:
       boost: 5
     body:
+  results_page_title: Search results

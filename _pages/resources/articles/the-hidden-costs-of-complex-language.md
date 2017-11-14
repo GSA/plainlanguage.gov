@@ -1,7 +1,9 @@
 ---
-title: The hidden costs of complex language
-permalink: /resources/articles/the-hidden-costs-of-complex-language/
+title: The Hidden Costs of Complex Language
+permalink: /resources/articles/hidden-costs-of-complex-language/
 sidenav: resources
+redirect_from:
+  - /usingPL/privsector/hidcost.cfm
 ---
 
 A workers' compensation claims-administration firm recently required all its claims administrators to attend seminars to help them write clearly. The reason? According to the director of claims, "People don't understand what we're trying to say."

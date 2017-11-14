@@ -3,7 +3,7 @@
 $bold-font-weight: $font-bold;
 $caps-letter-spacing: .1em;
 
-$border-color: #D5E5ED;
+$border-color: #d5e5ed;
 $border-radius: 3px;
 $border-width: 1px;
 
@@ -15,9 +15,9 @@ $breakpoint-xs: '(max-width: #{$small-screen})';
 $breakpoint-sm-md: '(min-width: #{$small-screen}) and (max-width: #{$medium-screen})';
 $breakpoint-md-lg: '(min-width: #{$medium-screen}) and (max-width: #{$large-screen})';
 
-$color-blue-light: #EBF3F7;
-$color-tan: #FDFBF5;
-$color-tan-dark: #F8F7F0;
+$color-blue-light: #ebf3f7;
+$color-tan: #faf8f2;
+$color-tan-dark: #f0eee8;
 
 $h1: $h1-font-size;
 $h2: $h2-font-size;
@@ -31,7 +31,3 @@ $space-2: $spacing-small;
 $space-3: $spacing-md-small;
 $space-4: $spacing-medium;
 $space-5: $spacing-large;
-
-// Font Awesome
-
-$fa-font-path: "../fonts";

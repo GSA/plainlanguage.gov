@@ -1,10 +1,12 @@
 ---
-title: High tech humor
+title: High Tech Humor
 permalink: /resources/humor/high-tech-humor/
 sidenav: resources
+redirect_from:
+  - /examples/humor/technologywriters.cfm
 ---
 
-The remarkable growth of the information technology industry has created a tremendous opportunity for people with skill putting words on paper. Technical writers, once a rare and highly skilled position, are now as common as fruit flies--though they take up a lot more space. Yet the pay is pretty good considering how little work they actually do, so young English-major weenies desperate for employment continue to swarm around IT companies, hoping for a bit of rotting fru--er, looking for a plum position.
+The remarkable growth of the information technology industry has created a tremendous opportunity for people with skill putting words on paper. Technical writers, once a rare and highly skilled position, are now as common as fruit flies—though they take up a lot more space. Yet the pay is pretty good considering how little work they actually do, so young English-major weenies desperate for employment continue to swarm around IT companies, hoping for a bit of rotting fru—er, looking for a plum position.
 
 But it's not quite as easy as pulling up a keyboard and translating an engineer's notes into common English. Because, you see, technical documents aren't written for people who use common English (no matter who the end user may be). No, they're written for your boss, who invariably is an engineer. And engineers like their documents to sound intelligent, and their idea of intelligent is to use big words.
 
@@ -14,7 +16,7 @@ You're guaranteed success in the field if you can make running Scandisk sound li
 
 ### Acronyms
 
-All abbreviations are called acronyms. Don't let anyone tell you differently. Anyone who tries to argue this point is just being pedantic. Blow them off. Any term with at least two words must be assigned an acronym, and it must be defined in parenthesis, even if you'll never use the term again. Don't worry if you've already used an acronym for something else--the readers will know what you mean. Remind your readers what an acronym stands for at random intervals. If you're not sure how often you should insert these reminders, just define the acronym every time you use it. Here is the correct way to take advantage of acronyms:
+All abbreviations are called acronyms. Don't let anyone tell you differently. Anyone who tries to argue this point is just being pedantic. Blow them off. Any term with at least two words must be assigned an acronym, and it must be defined in parenthesis, even if you'll never use the term again. Don't worry if you've already used an acronym for something else—the readers will know what you mean. Remind your readers what an acronym stands for at random intervals. If you're not sure how often you should insert these reminders, just define the acronym every time you use it. Here is the correct way to take advantage of acronyms:
 
 > It is in the best interests of the United States (U.S.) of America (USA) to develop a Tax Plan (TP) that punishes neither America's Disadvantaged Working Class (ADWC) nor the Independently Wealthy (IW). It should come as no surprise that both the ADWC and IW would like to see a Tax Plan (TP) that includes Lower Tax Rates (LTR), but the demand for LTR must be balanced against the needs of the Taxpaying Public (TP). As a result, the current TP should be eliminated.
 
@@ -50,7 +52,7 @@ Commas are a sign of weakness. Good sentences are clear without the use of comma
 
 ### Hyphens
 
-There are three different types, but only an English-major weenie can tell them apart. The only one you need to know about is the simple - . In a pinch, you can use two of them run together, like this:--. Sometimes compound nouns need to be hyphenated and sometimes they don't, but nobody else knows when to do it either so just do it at random.
+There are three different types, but only an English-major weenie can tell them apart. The only one you need to know about is the simple `-` . In a pinch, you can use two of them run together, like this:`--`. Sometimes compound nouns need to be hyphenated and sometimes they don't, but nobody else knows when to do it either so just do it at random.
 
 ### Passive Voice
 

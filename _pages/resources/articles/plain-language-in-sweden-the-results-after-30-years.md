@@ -1,7 +1,9 @@
 ---
-title: 'Plain language in Sweden, the results after 30 years'
-permalink: /resources/articles/plain-language-in-sweden-the-results-after-30-years/
+title: 'Plain Language in Sweden, the Results After 30 Years'
+permalink: /resources/articles/plain-language-in-sweden/
 sidenav: resources
+redirect_from:
+  - /usingPL/world/world-sweden.cfm
 ---
 
 by Barbro Ehrenberg-Sundin, Senior Adviser, Ministry of Justice, Sweden
@@ -59,7 +61,7 @@ We
 
 When the task of a law commission is to redraft old and complicated legislation, one of the language experts may join the commission and work for it part-time. In the 90s, I was a member of the Income Tax Law Commission and this was of course a huge task redrafting very old income tax laws with thousand of amendments over the years into one new and more comprehensible Income Tax Act. Right now one of my colleagues is working with the social insurance legislation, which is extremely complicated and the rewrite looks very promising.
 
-Hoppa ev. över följande inom parentes: (At such an early stage of the legislative process, we have more influence on the drafting of the text. We can help to make the law well structured and easier to navigate so that people can easily find what they are looking for: through contents lists, informative headings, short summaries at the beginning of each chapter telling you what to find there, bullet lists where appropriate, and more information in references to say what the provision referred to is about, among other things. In short: We can use the whole range of plain-language principles in the redraft.)
+Hoppa ev. över följande inom parentes: (At such an early stage of the legislative process, we have more influence on the drafting of the text. We can help to make the law well structured and easier to navigate so that people can easily find what they are looking for: through contents lists, informative headings, short summaries at the beginning of each chapter telling you what to find there, bullet lists where appropriate, and more information in references to say what the provision referred to is about, among other things. In short: We can use the whole range of plain language principles in the redraft.)
 
 ## To change ineffective text models
 
