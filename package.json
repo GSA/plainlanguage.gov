@@ -4,7 +4,10 @@
   "description": "Website for plainlanguage.gov",
   "scripts": {
     "build-js": "webpack --config --progress --colors",
-    "federalist": "npm run build-js",
+    "guidelines": "npm run guidelines-mkdir && npm run guidelines-copy",
+    "guidelines-copy": "cp media/FederalPLGuidelines.* howto/guidelines/FederalPLGuidelines/",
+    "guidelines-mkdir": "mkdir -p howto/guidelines/FederalPLGuidelines/",
+    "federalist": "npm run build-js && npm run guidelines",
     "watch-js": "webpack -w --config --progress --colors"
   },
   "repository": {
