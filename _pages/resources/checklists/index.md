@@ -12,7 +12,6 @@ sidenav: resources
 * [Quick Checklist for Plain Language](https://www.slideshare.net/PlainTalkConf/jeanne-mcgee-and-the-center-for-health-literacy-quick-checklist-for-plain-language), Center for Health Literacy
 * [Five Steps to Plain Language](http://centerforplainlanguage.org/learning-training/five-steps-plain-language/), Center for Plain Language
 * [Plain Language Checklist for Documents](https://www.nala.ie/resources/plain-english-checklist-documents), National Adult Literacy Agency
-National Adult Literacy Agency
 * [Plain English Checklists](http://www.simplyput.ie/useful-downloads), Simply Put
 
 ## Handouts and posters
