@@ -5,9 +5,6 @@ sidenav: law
 redirect_from:
   - /plLaw/index.cfm
   - /plLaw/law/index.cfm
-  - /whatisPL/govmandates/grants.pdf
-  - /populartopics/regulations/eo12866.pdf
-  - /populartopics/regulations/eo12988.pdf
 ---
 
 The [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/content-detail.html) was signed on October 13, 2010. The law requires that federal agencies use clear government communication that the public can understand and use.

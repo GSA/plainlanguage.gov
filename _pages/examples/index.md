@@ -9,7 +9,6 @@ redirect_from:
   - /usingPL/privsector/smbus.cfm
   - /usingPL/privsector/smbusccr.cfm
   - /usingPL/privsector/smbussba.cfm
-  - /examples/government/sdba.pdf
   - /testexamples/index.cfm
 ---
 

@@ -5,7 +5,6 @@ sidenav: guidelines
 pagination: false
 redirect_from:
   - /howto/guidelines/FederalPLGuidelines/index.cfm
-  - /howto/guidelines/FederalPLGuidelines/FederalPLGuidelines.pdf
   - /howto/guidelines/FederalPLGuidelines/revs.cfm
   - /howto/guidelines/FederalPLGuidelines/TOC.cfm
   - /usingPL/government/index.cfm
