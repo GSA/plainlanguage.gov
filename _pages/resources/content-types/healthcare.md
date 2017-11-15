@@ -3,6 +3,7 @@ title: Plain Language in Healthcare
 permalink: /resources/content-types/healthcare/
 sidenav: resources
 redirect_from:
+  - /populartopics/health_literacy/
   - /populartopics/health_literacy/index.cfm
 ---
 

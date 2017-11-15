@@ -3,7 +3,9 @@ title: Law and requirements
 permalink: /law/
 sidenav: law
 redirect_from:
+  - /plLaw/
   - /plLaw/index.cfm
+  - /plLaw/law/
   - /plLaw/law/index.cfm
 ---
 

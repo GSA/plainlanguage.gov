@@ -4,6 +4,7 @@ permalink: /resources/humor/
 sidenav: resources
 layout: list
 redirect_from:
+  - /examples/humor/
   - /examples/humor/index.cfm
 ---
 

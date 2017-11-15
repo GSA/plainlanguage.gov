@@ -4,9 +4,11 @@ permalink: /guidelines/
 sidenav: guidelines
 pagination: false
 redirect_from:
+  - /howto/guidelines/FederalPLGuidelines/
   - /howto/guidelines/FederalPLGuidelines/index.cfm
   - /howto/guidelines/FederalPLGuidelines/revs.cfm
   - /howto/guidelines/FederalPLGuidelines/TOC.cfm
+  - /usingPL/government/
   - /usingPL/government/index.cfm
   - /howto/quickreference/quicktips.cfm
   - /howto/guidelines/FederalPLGuidelines/nouns.cfm

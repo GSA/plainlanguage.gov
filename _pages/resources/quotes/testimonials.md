@@ -3,6 +3,7 @@ title: Testimonials
 permalink: /resources/quotes/testimonials/
 sidenav: resources
 redirect_from:
+  - /whyPL/testimonials/
   - /whyPL/testimonials/index.cfm
 ---
 

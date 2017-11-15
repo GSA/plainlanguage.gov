@@ -3,8 +3,11 @@ title: Resources
 permalink: /resources/
 sidenav: resources
 redirect_from:
+  - /resources/journals/
   - /resources/journals/index.cfm
+  - /howto/
   - /howto/index.cfm
+  - /howto/quickreference/
   - /howto/quickreference/index.cfm
 ---
 

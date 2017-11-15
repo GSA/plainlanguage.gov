@@ -3,8 +3,10 @@ title: Tips for starting a plain language program
 permalink: /training/tips-for-trainers/
 sidenav: training
 redirect_from:
+  - /howto/tipsforstarting/
   - /howto/tipsforstarting/index.cfm
   - /resources/for_trainers/details.cfm
+  - /resources/for_trainers/
   - /resources/for_trainers/index.cfm
 ---
 

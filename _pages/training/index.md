@@ -3,8 +3,11 @@ title: Training
 permalink: /training/
 sidenav: training
 redirect_from:
+  - /resources/take_training/PLAIN/
   - /resources/take_training/PLAIN/index.cfm
+  - /resources/
   - /resources/index.cfm
+  - /resources/take_training/
   - /resources/take_training/index.cfm
   - /resources/take_training/plaintraining.cfm
 ---
