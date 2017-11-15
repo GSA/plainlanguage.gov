@@ -3,6 +3,9 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: 'en-US' }}">
   <head>
+    {% unless site.env == "production" %}
+      <meta name="robots" content="noindex, nofollow">
+    {% endunless %}
     {% include meta.html %}
     {% include styles.html %}
     <script>
