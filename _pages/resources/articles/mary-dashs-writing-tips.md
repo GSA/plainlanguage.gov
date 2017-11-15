@@ -42,7 +42,7 @@ New requirements (subject) were introduced (action) to strengthen the banking sy
 
 By eliminating the helping verb, the active voice sentence generally uses fewer words to communicate the same information.
 
-> **Passive:** Mr. Doe (subject) was told (action) by the bank official that he would need to provide additional information. (16 words)
+> **Passive:** Mr. Doe (subject) was told (action) by the bank official that he would need to provide additional information. (16 words)<br>
 > **Active:** The bank official (subject) told (action) Mr. Doe (object) he would need to provide additional information. (13 words)
 
 Active voice more closely resembles spoken language; hopefully ideal spoken language. When we speak, we generally use the active voice without thinking. Our writing should become that automatic.
@@ -107,7 +107,7 @@ However, more and more, we are seeing website spelled as one word. Sometimes, we
 
 Unfortunately, this progression doesn't follow a consistent, regular pattern. The word experts can't even agree on rules for compound words. To compound the problem, I couldn't even get the editor in my word processor to agree with me after I looked up words in the dictionary. The only way to be sure of the current spelling is to check a very recent dictionary and hope for the best. To illustrate, recognizing the risk of confusing you further, I'll offer a few rules that I found in _The Gregg Reference Manual, Ninth Edition_:
 
-Compound nouns ending in "up" are one word or hyphenated.
+### Compound nouns ending in "up" are one word or hyphenated.
 
 * Checkup
 * Close-up
@@ -118,7 +118,7 @@ Compound nouns ending in "up" are one word or hyphenated.
 
 But caution: If you use the same word as a verb phrase, each word stands alone. Example: I will follow up on your suggestion next week. Then, I will give you a detailed follow-up on my results.
 
-Most compound nouns ending in "down" are one word.
+### Most compound nouns ending in "down" are one word.
 
 * Showdown
 * Meltdown
@@ -129,7 +129,7 @@ Most compound nouns ending in "down" are one word.
 
 But caution: If you try to give someone a "put-down," you need a hyphen.
 
-Compound nouns ending in "in" usually take a hyphen, but compound nouns ending in "out" are usually one word.
+### Compound nouns ending in "in" usually take a hyphen, but compound nouns ending in "out" are usually one word.
 
 * Break-in
 * Dropout
@@ -142,7 +142,7 @@ Compound nouns ending in "in" usually take a hyphen, but compound nouns ending i
 
 Of course, I have another caution: You must give your children a "time-out," and when you eat dinner, it may become a "pig-out."
 
-Compound nouns ending in "on" usually get a hyphen, while compound nouns ending in "off" are either one word or hyphenated
+### Compound nouns ending in "on" usually get a hyphen, while compound nouns ending in "off" are either one word or hyphenated.
 
 * Add-on
 * Layoff
@@ -155,7 +155,9 @@ Compound nouns ending in "on" usually get a hyphen, while compound nouns ending 
 
 But, you have to "login" and "logoff" from your computer.
 
-Another rule tells us that compound nouns with a prepositional phrase get hyphens. That gives us an "attorney-at-law," a "brother-in-law," and a "right-of -way." But we still have a "power of attorney," a "line of credit," a "rule of thumb," and a "standard of living."
+### Another rule tells us that compound nouns with a prepositional phrase get hyphens.
+
+That gives us an "attorney-at-law," a "brother-in-law," and a "right-of -way." But we still have a "power of attorney," a "line of credit," a "rule of thumb," and a "standard of living."
 
 I suggest you get a good dictionary and keep it close at hand!
 
@@ -167,7 +169,7 @@ I suggest you get a good dictionary and keep it close at hand!
 
 Use "you" or "your" as often as possible to convey a conversational tone in your documents. This conversational tone can make your documents sound more like the tone you would probably take if you actually talked with the reader. This technique will make your documents sound more natural, open, and much less bureaucratic.
 
-### Refer to yourself or the person signing the letter as "I" instead of "We":
+### Refer to yourself or the person signing the letter as "I" instead of "we":
 
 The American Heritage Dictionary defines "we" as a pronoun "used by the speaker or writer to indicate the speaker or writer along with another or others as the subject." It also defines the term as a pronoun "used instead of I by a sovereign in formal address to refer to himself or herself." When we use "we" to refer to ourselves when speaking as one individual, we give people an opportunity to ridicule us as the following story shows:
 
@@ -179,9 +181,7 @@ Using "I" instead of "we" when the document is clear that only one person carrie
 
 Writers sometimes fill their sentences with words that are unfamiliar, unnecessary, or too large for the occasion-also known as gobbledygook. Our readers are busy people who don't have time for wordy, hard-to-read documents. Good writing should never include gobbledygook.
 
-Avoid gobbledygook by doing the following:
-
-Using specific, concrete words. We want our writing to be as clear as possible. Below are a few commonly used words we should replace with more concrete words.
+Avoid gobbledygook by doing the following: Using specific, concrete words. We want our writing to be as clear as possible. Below are a few commonly used words we should replace with more concrete words.
 
 Don't say | Say
 --------- | ---
@@ -209,14 +209,15 @@ Inform | Tell
 State | Say
 {:.example-table}
 
-Poor: During the telephone conversation, Mr. Doe identified himself and requested the realtor provide him information concerning the assets for sale.
+> **Poor:** During the telephone conversation, Mr. Doe identified himself and requested the realtor provide him information concerning the assets for sale.<br>
+> **Better:** During the call, Mr. Doe identified himself and asked the realtor to give him information on the assets for sale.
 
-Better: During the call, Mr. Doe identified himself and asked the realtor to give him information on the assets for sale.
+> **Poor:** I am responding to your correspondence of November 29, 2002.<br>
+> **Better:** I am responding to your letter of November 29, 2002.
 
-Poor: I am responding to your correspondence of November 29, 2002.
-Better: I am responding to your letter of November 29, 2002.
+### Using strong verbs.
 
-Using strong verbs. The more we use verbs in place of noun phrases, the clearer and less wordy our writing becomes.
+The more we use verbs in place of noun phrases, the clearer and less wordy our writing becomes.
 
 Don't say | Say
 --------- | ---
@@ -227,23 +228,23 @@ Come to an agreement | Agree
 Make an announcement | Announce
 {:.example-table}
 
-Weak: The General Accounting Office made a recommendation that we take the program under review.
+> **Week:** The General Accounting Office made a recommendation that we take the program under review.<br>
+> **Stronger:** The General Accounting Office recommended that we review the program.
 
-Stronger: The General Accounting Office recommended that we review the program.
-
-Weak: Ms. Doe made a suggestion that we require her employer to provide for catch-up contributions in its 401(k) plan.
-
-Stronger: Ms. Doe suggested that we require her employer to provide for catch-up contributions in its 401(k) plan.
+> **Weak:** Ms. Doe made a suggestion that we require her employer to provide for catch-up contributions in its 401(k) plan.<br>
+> **Stronger:** Ms. Doe suggested that we require her employer to provide for catch-up contributions in its 401(k) plan.
 
 Avoiding false subjects. False subjects are words like it is, it was, there is, there are, and there was. They usually occur at the beginning of a sentence and often displace the real subject
 
-False subject: It is possible that the taxpayer may not qualify for the earned income tax credit.
+> **False subject:** It is possible that the taxpayer may not qualify for the earned income tax credit.<br>
+> **Real subject:** The taxpayer may not qualify for the earned income tax credit.
 
-Real subject: The taxpayer may not qualify for the earned income tax credit.
+> **False subject:** There is a door leading out to the public reception area directly behind the place the interviewee sits.<br>
+> **Real subject:** A door leads out to the public reception area directly behind the place the interviewee sits.
 
-False subject: There is a door leading out to the public reception area directly behind the place the interviewee sits. Real subject: A door leads out to the public reception area directly behind the place the interviewee sits.
+### Eliminating or shortening wordy phrases.
 
-Eliminating or shortening wordy phrases. Wordy phrases use too many words to express an idea. Make your sentences short, direct, and clear.
+Wordy phrases use too many words to express an idea. Make your sentences short, direct, and clear.
 
 Don't say | Say
 --------- | ---
@@ -255,15 +256,15 @@ In a number of cases | Many/some
 It is obvious that | Obviously
 {:.example-table}
 
-Wordy: As a matter of fact, any change to the law requires legislative action.
+> **Wordy:** As a matter of fact, any change to the law requires legislative action.<br>
+> **Shorter:** In fact, any change to the law requires legislative action.
 
-Shorter: In fact, any change to the law requires legislative action.
+> **Wordy:** Based on the fact that Mr. Doe is no longer a plan participant, he cannot make catch-up contributions.<br>
+> **Shorter:** Because Mr. Doe is no longer a plan participant, he cannot make catch-up contributions.
 
-Wordy: Based on the fact that Mr. Doe is no longer a plan participant, he cannot make catch-up contributions.
+### Avoiding redundancies.
 
-Shorter: Because Mr. Doe is no longer a plan participant, he cannot make catch-up contributions.
-
-Avoiding redundancies. Redundant expressions needlessly repeat ideas when fewer words clearly communicate the meaning. They add no value to your documents. For example, in the expression final outcome, the word final is redundant because outcome implies finality. Here are a few more examples:
+Redundant expressions needlessly repeat ideas when fewer words clearly communicate the meaning. They add no value to your documents. For example, in the expression final outcome, the word final is redundant because outcome implies finality. Here are a few more examples:
 
 Don't say | Say
 --------- | ---
@@ -275,24 +276,21 @@ Are now currently | Are
 Advance plan/Preplan | Plan
 {:.example-table}
 
-Redundant: We completed the review of your program and will give you our final conclusion within two weeks.
+> **Redundant:** We completed the review of your program and will give you our final conclusion within two weeks.<br>
+> **Better:** We completed the review of your program and will give you our conclusion within two weeks.
 
-Better: We completed the review of your program and will give you our conclusion within two weeks.
-
-Redundant: A balance of $200.00 still remains on your credit card.
-Better: A balance of $200.00 remains on your credit card.
+> **Redundant:** A balance of $200.00 still remains on your credit card.<br>
+> **Better:** A balance of $200.00 remains on your credit card.
 
 Eliminating legal or technical terms. Studies have shown that not only non-technical readers, but also professionals in the technical field you are writing about appreciate plain language documents that are free from technical terms. People are busy and documents written in a plain language style help them understand the information more quickly. We don't need to impress our readers with big words.
 
 Good organization, a logical flow of information, and clear, understandable language are much more like to impress. If we need to cite legal code or court cases, we should put that information in parenthesis at the end of the sentence or paragraph it applies to or in footnotes at the bottom of the page. That way, the information is available if readers need it but does not distract from the information you are trying to communicate.
 
-Technical: Organizations can save shipping costs by sending their brochures via Standard A mail.
-
-Plain: Organizations can save shipping costs by sending their brochures by bulk mail.
-
-Legal: Pursuant to Internal Revenue Code Section 86(a)(1)(A), gross income must include no more than one—half of the social security benefits received during the tax year.
-
-Plain: Gross income must include no more than one-half of the social security benefits received during the tax year [Section 86(a)(1)(A)of the Internal Revenue Code].
+Don't say | Say
+--------- | ---
+Organizations can save shipping costs by sending their brochures via Standard A mail. | Organizations can save shipping costs by sending their brochures by bulk mail.
+Pursuant to Internal Revenue Code Section 86(a)(1)(A), gross income must include no more than one—half of the social security benefits received during the tax year. | Gross income must include no more than one-half of the social security benefits received during the tax year [Section 86(a)(1)(A)of the Internal Revenue Code].
+{:.example-table}
 
 ## Problem words
 
@@ -454,7 +452,7 @@ Listen for the sound and pay attention to the effect you want to achieve when de
 **Try another form, such as**:<br>
 Listen for the sound and pay attention to the effect you want to achieve when deciding whether or not to end a sentence with a preposition.
 
-**Bottom line**: Use the form that sounds human and is easy to read. A preposition is a perfectly good word to end a sentence with.<br>
+**Bottom line**: Use the form that sounds human and is easy to read. A preposition is a perfectly good word to end a sentence with.
 
 ## Federal or federal?
 
