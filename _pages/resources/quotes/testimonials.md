@@ -4,8 +4,6 @@ permalink: /resources/quotes/testimonials/
 sidenav: resources
 redirect_from:
   - /whyPL/testimonials/index.cfm
-  - /whyPL/testimonials/blakey.pdf
-  - /whyPL/testimonials/thompson.pdf
 ---
 
 Plain language is gaining in popularity as we come to realize how powerful it can be in saving us time and money. Here are just a few of the statements leaders—and front-line employees—have made about why plain language is important.
