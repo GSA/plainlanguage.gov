@@ -76,21 +76,21 @@ However, one caution: If adding the name of the person or organization performin
 
 Here are a few tips:
 
-1. Turn the clause or sentence around, putting the subject first:
+Turn the clause or sentence around, putting the subject first:
 
 Passive | Active
 --------- | ---
 This proposed rule was published by General Counsel in the Federal Register. | General Counsel published this proposed rule in the Federal Register.
 {:.example-table}
 
-2. Change the verb to eliminate the helping verb "to be":
+Change the verb to eliminate the helping verb "to be":
 
 Passive | Active
 --------- | ---
 We must consider how our resources will be used to deliver quality services. | We must consider how to useour resources to deliver quality services.
 {:.example-table}
 
-3. Rethink the sentence:
+Rethink the sentence:
 
 Passive | Active
 --------- | ---
