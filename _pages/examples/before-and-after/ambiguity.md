@@ -10,17 +10,25 @@ Here are some examples of how using plain language can help clear up clarity pro
 
 ## Example 1
 
-Before | After
---- | ---
-Right of use means any authorization issued under this part that allows use of Outer Continental Shelf lands. | Right of use means any authorization under this part to use Outer Continental Shelf lands.
-{:.example-table}
+* #### Before
+
+  Right of use means any authorization issued under this part that allows use of Outer Continental Shelf lands.
+
+* #### After
+
+  Right of use means any authorization under this part to use Outer Continental Shelf lands.
+{: .example-side-by-side}
 
 ## Example 2
 
-Before | After
---- | ---
-This rule proposes the Spring/Summer subsistence harvest regulations in Alaska for migratory birds that expire on August 31, 2003. | This rule proposes the Spring/Summer subsistence harvest regulations for migratory birds in Alaska. The regulations will expire on August 31, 2003.
-{:.example-table}
+* #### Before
+
+  This rule proposes the Spring/Summer subsistence harvest regulations in Alaska for migratory birds that expire on August 31, 2003.
+
+* #### After
+
+  This rule proposes the Spring/Summer subsistence harvest regulations for migratory birds in Alaska. The regulations will expire on August 31, 2003.
+{: .example-side-by-side}
 
 ## Example 3
 
