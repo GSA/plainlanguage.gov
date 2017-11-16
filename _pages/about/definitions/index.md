@@ -3,6 +3,7 @@ title: What is plain language?
 permalink: /about/definitions/
 sidenav: about
 redirect_from:
+  - /whatisPL/
   - /whatisPL/index.cfm
 ---
 

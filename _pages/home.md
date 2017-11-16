@@ -4,6 +4,7 @@ layout: base
 permalink: /
 redirect_from:
   - /news/meetingrsvp.cfm
+  - /news/
   - /news/index.cfm
   - /news/currentEvents.cfm
   - /index.cfm

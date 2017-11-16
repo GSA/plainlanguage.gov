@@ -3,12 +3,16 @@ title: Examples
 permalink: /examples/
 sidenav: examples
 redirect_from:
+  - /examples/
   - /examples/index.cfm
+  - /examples/government/
   - /examples/government/index.cfm
+  - /populartopics/
   - /populartopics/index.cfm
   - /usingPL/privsector/smbus.cfm
   - /usingPL/privsector/smbusccr.cfm
   - /usingPL/privsector/smbussba.cfm
+  - /testexamples/
   - /testexamples/index.cfm
 ---
 

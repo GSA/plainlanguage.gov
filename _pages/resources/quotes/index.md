@@ -4,6 +4,7 @@ permalink: /resources/quotes/
 sidenav: resources
 layout: list
 redirect_from:
+  - /resources/quotes/
   - /resources/quotes/index.cfm
 ---
 

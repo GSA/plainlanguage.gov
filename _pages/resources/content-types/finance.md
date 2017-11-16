@@ -3,6 +3,7 @@ title: Plain Language in Finance
 permalink: /resources/content-types/finance/
 sidenav: resources
 redirect_from:
+  - /populartopics/financial/
   - /populartopics/financial/index.cfm
 ---
 
