@@ -24,7 +24,7 @@ redirect_from:
       <i class="icon-large icon-gavel" aria-hidden="true"></i>
       <div class="overflow-hidden">
         <h3 class="arrow">Law and requirements</h3>
-        <p class="my0">Learn about the Plain Writing Act, related memoranda, and executive orders that require agencies to use plain language.</p>
+        <p class="my0">Learn about the Plain Writing Act, policy memos, and executive orders that require agencies to use plain language.</p>
       </div>
     </a>
     <a href="{{ '/guidelines/' | relative_url }}" class="usa-width-one-half p3 lg-p4 clearfix">
