@@ -3,7 +3,9 @@ title: Plain Language in the Legal Profession
 permalink: /resources/content-types/legal-profession/
 sidenav: resources
 redirect_from:
+  - /usingPL/legal/
   - /usingPL/legal/index.cfm
+  - /examples/legal/
   - /examples/legal/index.cfm
 ---
 

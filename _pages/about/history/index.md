@@ -3,7 +3,9 @@ title: History and timeline
 permalink: /about/history/
 sidenav: about
 redirect_from:
+  - /whatisPL/govmandates/
   - /whatisPL/govmandates/index.cfm
+  - /whatisPL/history/
   - /whatisPL/history/index.cfm
 ---
 

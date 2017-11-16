@@ -3,6 +3,7 @@ title: Plain Language in Business
 permalink: /resources/content-types/business/
 sidenav: resources
 redirect_from:
+  - /usingPL/privsector/
   - /usingPL/privsector/index.cfm
 ---
 

@@ -3,6 +3,7 @@ title: About
 permalink: /about/
 sidenav: about
 redirect_from:
+  - /historical/
   - /historical/index.cfm
   - /site/aboutArticle.cfm
   - /site/about.cfm

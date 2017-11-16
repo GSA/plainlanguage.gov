@@ -3,6 +3,7 @@ title: Reference tools
 permalink: /resources/reference/
 sidenav: resources
 redirect_from:
+  - /howto/dictionaries/
   - /howto/dictionaries/index.cfm
 ---
 

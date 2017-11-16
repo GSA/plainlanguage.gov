@@ -3,7 +3,9 @@ title: Why use plain language?
 permalink: /about/benefits/
 sidenav: about
 redirect_from:
+  - /whyPL/
   - /whyPL/index.cfm
+  - /whyPL/benefits/
   - /whyPL/benefits/index.cfm
 ---
 
