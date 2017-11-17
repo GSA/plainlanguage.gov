@@ -1,5 +1,9 @@
-.usa-header {
+.sticky-nav .usa-header {
   border-color: $border-color;
+  position: -webkit-sticky; // scss-lint:disable VendorPrefix
+  position: sticky;
+  top: 0;
+  z-index: 9000;
 }
 
 .usa-logo-text {
@@ -59,6 +63,7 @@
 }
 
 .usa-navbar {
+  background-color: $color-white;
   border-color: $border-color;
 }
 
@@ -69,9 +74,11 @@
 }
 
 @media #{$breakpoint-lg} {
+  .usa-header {
+    position: static;
+  }
+
   .usa-header-extended {
-
-
     .usa-nav {
       border-color: $border-color;
     }
