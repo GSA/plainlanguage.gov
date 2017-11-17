@@ -6,6 +6,38 @@
     {% unless site.env == "production" %}
       <meta name="robots" content="noindex, nofollow">
     {% endunless %}
+    {% if page.twitter_card == "large" %}
+      <meta name="twitter:card" content="summary_large_image">
+    {% else %}
+      <meta name="twitter:card" content="summary">
+    {% endif %}
+    {% if page.title %}
+      <meta property="og:title" content="{{ site.title | xml_escape }} | {{ page.title | xml_escape }}" />
+      <meta name="twitter:title" content="{{ site.title | xml_escape }} | {{ page.title | xml_escape }}">
+    {% else %}
+      <meta property="og:title" content="{{ site.title | xml_escape }}" />
+      <meta property="twitter:title" content="{{ site.title | xml_escape }}" />
+    {% endif %}
+    {% if page.description %}
+      <meta name="description" content="{{ page.description | xml_escape }}">
+      <meta property="og:description" content="{{ page.description | xml_escape }}" />
+      <meta property="twitter:description" content="{{ page.description | xml_escape }}" />
+    {% else %}
+      <meta name="description" content="{{ site.description | xml_escape }}">
+      <meta property="og:description" content="{{ site.description | xml_escape }}" />
+      <meta property="twitter:description" content="{{ site.description | xml_escape }}" />
+    {% endif %}
+    {% if page.image %}
+      <link rel="image_src" href="{{ page.image | absolute_url }}">
+      <meta name="image" content="{{ page.image | absolute_url }}">
+      <meta property="og:image" content="{{ page.image | absolute_url }}" />
+      <meta name="twitter:image" content="{{ page.image | absolute_url }}">
+    {% else %}
+      <link rel="image_src" href="{{ site.image | absolute_url }}">
+      <meta name="image" content="{{ site.image | absolute_url }}">
+      <meta property="og:image" content="{{ site.image | absolute_url }}" />
+      <meta name="twitter:image" content="{{ site.image | absolute_url }}">
+    {% endif %}
     {% include meta.html %}
     {% include styles.html %}
     <script>
