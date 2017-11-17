@@ -177,6 +177,22 @@ $example-good-color: #0d8259;
     }
   }
 
+  table {
+    margin: 0;
+
+    thead th {
+      background-color: transparent;
+      border-top: 0;
+    }
+
+    th,
+    td {
+      background-color: transparent;
+      border-left: 0;
+      border-right: 0;
+    }
+  }
+
   &::before,
   &::after {
     content: ' ';

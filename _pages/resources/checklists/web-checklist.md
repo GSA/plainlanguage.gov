@@ -3,7 +3,6 @@ title: Checklist for Plain Language on the Web
 permalink: /resources/checklists/web-checklist/
 sidenav: resources
 redirect_from:
-  - /resources/for_trainers/plainFiles/addendum_web_classes.pdf
   - /howto/quickreference/weblist.cfm
 ---
 

@@ -20,7 +20,7 @@
   }
 }
 
-.usa-layout-docs-main_content {
+.usa-layout-docs-main_content { // scss-lint:disable SelectorFormat
   a[href*="//"]:not([href*="plainlangugage.gov"])::after { // scss-lint:disable SelectorFormat, QualifyingElement
     background-image: url('../img/icons/primary/external-link.svg');
     background-position: center;
@@ -35,7 +35,7 @@
     width: $spacing-md-small;
   }
 
-  table {
+  > table {
     th,
     td {
       border-color: $color-tan-dark;

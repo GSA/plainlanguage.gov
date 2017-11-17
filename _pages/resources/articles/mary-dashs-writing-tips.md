@@ -23,49 +23,45 @@ Readers prefer active voice sentences, and we should try to use the active voice
 
 To know whether you are writing in the active or passive voice, identify the subject of the sentence and decide whether the subject is doing the action or being acted upon.
 
-- Passive Voice: the subject is the receiver of the action.<br>
-  The tax return (subject) was completed (action) before the April 15 deadline by Mr. Doe.
-
-- Active Voice: the subject does an action to an object.<br>
-  Mr. Doe (subject) completed (action) the tax return (object) before the April 15 deadline.
+Passive | Active
+--------- | ---
+The tax return (subject) was completed (action) before the April 15 deadline by Mr. Doe. | Mr. Doe (subject) completed (action) the tax return (object) before the April 15 deadline.
+Additional information (subject) can be obtained (action) by employees from our website. | Employees (subject) can obtain (action) additional information (object) from our website.
+{:.example-table}
 
 When we write in the passive voice, we add some form of the helping verb "to be" (am, is, are, was, were, being, or been) to an otherwise strong verb that really did not need help.
-
-- Passive: Additional information (subject) can be obtained (action) by employees from our website.
-
-- Active: Employees (subject) can obtain (action) additional information (object) from our website.
 
 ### Why should we use active voice?
 
 Active voice makes documents stronger by showing responsibility or giving credit for an action. When we avoid showing responsibility, we often don't give enough information to explain the problem and how to fix it. Often, we use a form of the passive called the "cut passive" and never identify the doer of the action. This form sounds vague and abstract.
 
-- Cut Passive: New requirements (subject) were introduced (action) to strengthen the banking system.
-
-- Active: The Banks Act of 1985 (subject) introduced (action) new requirements (object) to strengthen the banking system.
+Passive | Active
+--------- | ---
+New requirements (subject) were introduced (action) to strengthen the banking system. | The Banks Act of 1985 (subject) introduced (action) new requirements (object) to strengthen the banking system.
+{:.example-table}
 
 By eliminating the helping verb, the active voice sentence generally uses fewer words to communicate the same information.
 
-- Passive: Mr. Doe (subject) was told (action) by the bank official that he would need to provide additional information. (16 words)
-
-- Active: The bank official (subject) told (action) Mr. Doe (object) he would need to provide additional information. (13 words)
+> **Passive:** Mr. Doe (subject) was told (action) by the bank official that he would need to provide additional information. (16 words)<br>
+> **Active:** The bank official (subject) told (action) Mr. Doe (object) he would need to provide additional information. (13 words)
 
 Active voice more closely resembles spoken language; hopefully ideal spoken language. When we speak, we generally use the active voice without thinking. Our writing should become that automatic.
 
 You would never say:
 
-- Passive: My car (subject) was driven (action) to work by me.<br>
+> **Passive:** My car (subject) was driven (action) to work by me.<br>
 
 Or:
 
-- Passive: Breakfast (subject) was eaten (action) by me this morning.
+> **Passive:** Breakfast (subject) was eaten (action) by me this morning.
 
 Instead, you would say:
 
-- Active: I (subject) drove (action) my car (object) to work.<br>
+> **Active:** I (subject) drove (action) my car (object) to work.<br>
 
 And:
 
-- Active: I (subject) ate (action) breakfast (object) this morning.
+> **Active:** I (subject) ate (action) breakfast (object) this morning.
 
 ### Is using the passive voice appropriate in some situations?
 
@@ -82,21 +78,24 @@ Here are a few tips:
 
 Turn the clause or sentence around, putting the subject first:
 
-- Passive: This proposed rule (subject) was published (action) by General Counsel in the Federal Register.
-
-- Active: General Counsel (subject) published (action) this proposed rule (object) in the Federal Register.
+Passive | Active
+--------- | ---
+This proposed rule was published by General Counsel in the Federal Register. | General Counsel published this proposed rule in the Federal Register.
+{:.example-table}
 
 Change the verb to eliminate the helping verb "to be":
 
-- Passive: We must consider how our resources (subject) will be used (action) to deliver quality services.
-
-- Active: We (subject) must consider how to use (action) our resources (object) to deliver quality services.
+Passive | Active
+--------- | ---
+We must consider how our resources will be used to deliver quality services. | We must consider how to useour resources to deliver quality services.
+{:.example-table}
 
 Rethink the sentence:
 
-- Passive: Although Mr. Doe (subject) was found (action) to be eligible for this position; all of the positions (subject) in Boston had already been filled (action) by our personnel office prior to receiving his application.
-
-- Active: Though we (subject) found (action) Mr. Doe (object) eligible for the position, our personnel office (subject) had filled (action) all positions (object) in Boston before we (subject) received (action) his application (object).
+Passive | Active
+--------- | ---
+Although Mr. Doe was found to be eligible for this position; all of the positions in Boston had already been filled by our personnel office prior to receiving his application. | Though we found Mr. Doe eligible for the position, our personnel office had filled all positions in Boston before we received his application.
+{:.example-table}
 
 Writing in the active voice isn't difficult if you follow who-does-what sequence. Your readers can visualize the action and follow the action to the conclusion.
 
@@ -106,35 +105,57 @@ Compound words generally develop over time through use. As people continue to us
 
 However, more and more, we are seeing website spelled as one word. Sometimes, we can spell a word as one word or two words depending on how we use it in the sentence, such as "anyone" and "any one," or "everyone" and "every one." Usually, they are spelled as one word unless they are followed by "of" and mean "a particular one among a number of things."
 
-Unfortunately, this progression doesn't follow a consistent, regular pattern. The word experts can't even agree on rules for compound words. To compound the problem, I couldn't even get the editor in my word processor to agree with me after I looked up words in the dictionary. The only way to be sure of the current spelling is to check a very recent dictionary and hope for the best. To illustrate, recognizing the risk of confusing you further, I'll offer a few rules that I found in The Gregg Reference Manual, Ninth Edition:<br>
+Unfortunately, this progression doesn't follow a consistent, regular pattern. The word experts can't even agree on rules for compound words. To compound the problem, I couldn't even get the editor in my word processor to agree with me after I looked up words in the dictionary. The only way to be sure of the current spelling is to check a very recent dictionary and hope for the best. To illustrate, recognizing the risk of confusing you further, I'll offer a few rules that I found in _The Gregg Reference Manual, Ninth Edition_:
 
-- Compound nouns ending in "up" are one word or hyphenated.
+### Compound nouns ending in "up" are one word or hyphenated.
 
-  | Checkup | Close-up | ------- | --------- | Roundup | Sign-up | Pileup | Follow-up
+* Checkup
+* Close-up
+* Roundup
+* Sign-up
+* Pileup
+* Follow-up
 
 But caution: If you use the same word as a verb phrase, each word stands alone. Example: I will follow up on your suggestion next week. Then, I will give you a detailed follow-up on my results.
 
-- Most compound nouns ending in "down" are one word.
+### Most compound nouns ending in "down" are one word.
 
-  | Showdown | Meltdown | --------- | --------- | Breakdown | Slowdown | Sundown | Countdown
+* Showdown
+* Meltdown
+* Breakdown
+* Slowdown
+* Sundown
+* Countdown
 
 But caution: If you try to give someone a "put-down," you need a hyphen.
 
-- Compound nouns ending in "in" usually take a hyphen, but compound nouns ending in "out" are usually one word.
+### Compound nouns ending in "in" usually take a hyphen, but compound nouns ending in "out" are usually one word.
 
-  | Break-in | Dropout | -------- | -------- | Trade-in | Standout | Sit-in | Sellout | Drive-in | Buyout
+* Break-in
+* Dropout
+* Trade-in
+* Standout
+* Sit-in
+* Sellout
+* Drive-in
+* Buyout
 
 Of course, I have another caution: You must give your children a "time-out," and when you eat dinner, it may become a "pig-out."
 
-- Compound nouns ending in "on" usually get a hyphen, while compound nouns ending in "off" are either one word or hyphenated
+### Compound nouns ending in "on" usually get a hyphen, while compound nouns ending in "off" are either one word or hyphenated.
 
-  | Add-on | Layoff | --------- | -------- | Carry-on | Takeoff | Run-on | Show-off | Follow-on | Send-off
+* Add-on
+* Layoff
+* Carry-on
+* Takeoff
+* Run-on
+* Show-off
+* Follow-on
+* Send-off
 
 But, you have to "login" and "logoff" from your computer.
 
-Another rule tells us that
-
-- compound nouns with a prepositional phrase get hyphens.
+### Another rule tells us that compound nouns with a prepositional phrase get hyphens.
 
 That gives us an "attorney-at-law," a "brother-in-law," and a "right-of -way." But we still have a "power of attorney," a "line of credit," a "rule of thumb," and a "standard of living."
 
@@ -148,7 +169,7 @@ I suggest you get a good dictionary and keep it close at hand!
 
 Use "you" or "your" as often as possible to convey a conversational tone in your documents. This conversational tone can make your documents sound more like the tone you would probably take if you actually talked with the reader. This technique will make your documents sound more natural, open, and much less bureaucratic.
 
-### Refer to yourself or the person signing the letter as "I" instead of "We":
+### Refer to yourself or the person signing the letter as "I" instead of "we":
 
 The American Heritage Dictionary defines "we" as a pronoun "used by the speaker or writer to indicate the speaker or writer along with another or others as the subject." It also defines the term as a pronoun "used instead of I by a sovereign in formal address to refer to himself or herself." When we use "we" to refer to ourselves when speaking as one individual, we give people an opportunity to ridicule us as the following story shows:
 
@@ -160,105 +181,116 @@ Using "I" instead of "we" when the document is clear that only one person carrie
 
 Writers sometimes fill their sentences with words that are unfamiliar, unnecessary, or too large for the occasion-also known as gobbledygook. Our readers are busy people who don't have time for wordy, hard-to-read documents. Good writing should never include gobbledygook.
 
-Avoid gobbledygook by doing the following:
+Avoid gobbledygook by doing the following: Using specific, concrete words. We want our writing to be as clear as possible. Below are a few commonly used words we should replace with more concrete words.
 
-Using specific, concrete words. We want our writing to be as clear as possible. Below are a few commonly used words we should replace with more concrete words.
+Don't say | Say
+--------- | ---
+Assistance | Help
+Modification | Change
+Advised | Told
+Necessity | Need
+Additional | More
+Perspective | View
+Correspondence | Letter, inquiry
+Prior | Before
+Concur | Agree
+Proceed | Go
+Determine | Decide
+Purchase | Buy
+Demonstrate | Show
+Pursuant | According
+Encounter | Meet
+Ramification | Result
+Feasible | Likely, possible
+Render | Give
+Indicated | Said
+Request | Ask
+Inform | Tell
+State | Say
+{:.example-table}
 
-**Common Word** | **Concrete Word** | **Common Word** | **Concrete Word**
---------------- | ----------------- | --------------- | -----------------
-Assistance      | Help              | Modification    | Change
-Advised         | Told              | Necessity       | Need
-Additional      | More              | Perspective     | View
-Correspondence  | Letter, inquiry   | Prior           | Before
-Concur          | Agree             | Proceed         | Go
-Determine       | Decide            | Purchase        | Buy
-Demonstrate     | Show              | Pursuant        | According
-Encounter       | Meet              | Ramification    | Result
-Feasible        | Likely, possible  | Render          | Give
-Indicated       | Said              | Request         | Ask
-Inform          | Tell              | State           | Say
+> **Poor:** During the telephone conversation, Mr. Doe identified himself and requested the realtor provide him information concerning the assets for sale.<br>
+> **Better:** During the call, Mr. Doe identified himself and asked the realtor to give him information on the assets for sale.
 
-Poor: During the telephone conversation, Mr. Doe identified himself and requested the realtor provide him information concerning the assets for sale.
+> **Poor:** I am responding to your correspondence of November 29, 2002.<br>
+> **Better:** I am responding to your letter of November 29, 2002.
 
-Better: During the call, Mr. Doe identified himself and asked the realtor to give him information on the assets for sale.
+### Using strong verbs.
 
-Poor: I am responding to your correspondence of November 29, 2002.
-Better: I am responding to your letter of November 29, 2002.
+The more we use verbs in place of noun phrases, the clearer and less wordy our writing becomes.
 
-Using strong verbs. The more we use verbs in place of noun phrases, the clearer and less wordy our writing becomes.
-
-Not this        | This
--------------------- | ---------
-Make an assessment   | Assess
-Have a meeting with  | Meet with
-Make a decision      | Decide
+Don't say | Say
+--------- | ---
+Make an assessment | Assess
+Have a meeting with | Meet with
+Make a decision | Decide
 Come to an agreement | Agree
 Make an announcement | Announce
+{:.example-table}
 
-Weak: The General Accounting Office made a recommendation that we take the program under review.
+> **Week:** The General Accounting Office made a recommendation that we take the program under review.<br>
+> **Stronger:** The General Accounting Office recommended that we review the program.
 
-Stronger: The General Accounting Office recommended that we review the program.
-
-Weak: Ms. Doe made a suggestion that we require her employer to provide for catch-up contributions in its 401(k) plan.
-
-Stronger: Ms. Doe suggested that we require her employer to provide for catch-up contributions in its 401(k) plan.
+> **Weak:** Ms. Doe made a suggestion that we require her employer to provide for catch-up contributions in its 401(k) plan.<br>
+> **Stronger:** Ms. Doe suggested that we require her employer to provide for catch-up contributions in its 401(k) plan.
 
 Avoiding false subjects. False subjects are words like it is, it was, there is, there are, and there was. They usually occur at the beginning of a sentence and often displace the real subject
 
-False subject: It is possible that the taxpayer may not qualify for the earned income tax credit.
+> **False subject:** It is possible that the taxpayer may not qualify for the earned income tax credit.<br>
+> **Real subject:** The taxpayer may not qualify for the earned income tax credit.
 
-Real subject: The taxpayer may not qualify for the earned income tax credit.
+> **False subject:** There is a door leading out to the public reception area directly behind the place the interviewee sits.<br>
+> **Real subject:** A door leads out to the public reception area directly behind the place the interviewee sits.
 
-False subject: There is a door leading out to the public reception area directly behind the place the interviewee sits. Real subject: A door leads out to the public reception area directly behind the place the interviewee sits.
+### Eliminating or shortening wordy phrases.
 
-Eliminating or shortening wordy phrases. Wordy phrases use too many words to express an idea. Make your sentences short, direct, and clear.
+Wordy phrases use too many words to express an idea. Make your sentences short, direct, and clear.
 
-Don't use        | Use
----------------------- | --------------
-At this time           | Now
-At which time          | Then
+Don't say | Say
+--------- | ---
+At this time | Now
+At which time | Then
 Based on the fact that | Due to/because
-If at all possible     | If possible
-In a number of cases   | Many/some
-It is obvious that     | Obviously
+If at all possible | If possible
+In a number of cases | Many/some
+It is obvious that | Obviously
+{:.example-table}
 
-Wordy: As a matter of fact, any change to the law requires legislative action.
+> **Wordy:** As a matter of fact, any change to the law requires legislative action.<br>
+> **Shorter:** In fact, any change to the law requires legislative action.
 
-Shorter: In fact, any change to the law requires legislative action.
+> **Wordy:** Based on the fact that Mr. Doe is no longer a plan participant, he cannot make catch-up contributions.<br>
+> **Shorter:** Because Mr. Doe is no longer a plan participant, he cannot make catch-up contributions.
 
-Wordy: Based on the fact that Mr. Doe is no longer a plan participant, he cannot make catch-up contributions.
+### Avoiding redundancies.
 
-Shorter: Because Mr. Doe is no longer a plan participant, he cannot make catch-up contributions.
+Redundant expressions needlessly repeat ideas when fewer words clearly communicate the meaning. They add no value to your documents. For example, in the expression final outcome, the word final is redundant because outcome implies finality. Here are a few more examples:
 
-Avoiding redundancies. Redundant expressions needlessly repeat ideas when fewer words clearly communicate the meaning. They add no value to your documents. For example, in the expression final outcome, the word final is redundant because outcome implies finality. Here are a few more examples:
+Don't say | Say
+--------- | ---
+Absolutely essential | Essential
+Reason why | Reason
+Specific example | Example
+True facts | Facts
+Are now currently | Are
+Advance plan/Preplan | Plan
+{:.example-table}
 
-Redundant expression | Possible substitute
------------------------- | -----------------------
-Absolutely essential     | Essential
-Reason why               | Reason
-Specific example         | Example
-True facts               | Facts
-Are now currently        | Are
-Advance plan/Preplan     | Plan
+> **Redundant:** We completed the review of your program and will give you our final conclusion within two weeks.<br>
+> **Better:** We completed the review of your program and will give you our conclusion within two weeks.
 
-Redundant: We completed the review of your program and will give you our final conclusion within two weeks.
-
-Better: We completed the review of your program and will give you our conclusion within two weeks.
-
-Redundant: A balance of $200.00 still remains on your credit card.
-Better: A balance of $200.00 remains on your credit card.
+> **Redundant:** A balance of $200.00 still remains on your credit card.<br>
+> **Better:** A balance of $200.00 remains on your credit card.
 
 Eliminating legal or technical terms. Studies have shown that not only non-technical readers, but also professionals in the technical field you are writing about appreciate plain language documents that are free from technical terms. People are busy and documents written in a plain language style help them understand the information more quickly. We don't need to impress our readers with big words.
 
 Good organization, a logical flow of information, and clear, understandable language are much more like to impress. If we need to cite legal code or court cases, we should put that information in parenthesis at the end of the sentence or paragraph it applies to or in footnotes at the bottom of the page. That way, the information is available if readers need it but does not distract from the information you are trying to communicate.
 
-Technical: Organizations can save shipping costs by sending their brochures via Standard A mail.
-
-Plain: Organizations can save shipping costs by sending their brochures by bulk mail.
-
-Legal: Pursuant to Internal Revenue Code Section 86(a)(1)(A), gross income must include no more than one—half of the social security benefits received during the tax year.
-
-Plain: Gross income must include no more than one-half of the social security benefits received during the tax year [Section 86(a)(1)(A)of the Internal Revenue Code].
+Don't say | Say
+--------- | ---
+Organizations can save shipping costs by sending their brochures via Standard A mail. | Organizations can save shipping costs by sending their brochures by bulk mail.
+Pursuant to Internal Revenue Code Section 86(a)(1)(A), gross income must include no more than one—half of the social security benefits received during the tax year. | Gross income must include no more than one-half of the social security benefits received during the tax year [Section 86(a)(1)(A)of the Internal Revenue Code].
+{:.example-table}
 
 ## Problem words
 
@@ -420,24 +452,18 @@ Listen for the sound and pay attention to the effect you want to achieve when de
 **Try another form, such as**:<br>
 Listen for the sound and pay attention to the effect you want to achieve when deciding whether or not to end a sentence with a preposition.
 
-**Bottom line**: Use the form that sounds human and is easy to read. A preposition is a perfectly good word to end a sentence with.<br>
+**Bottom line**: Use the form that sounds human and is easy to read. A preposition is a perfectly good word to end a sentence with.
 
 ## Federal or federal?
 
 This question comes up rather frequently. For some reason, many people think the word federal always warrants a capital F. Actually, you should capitalize federal only when it is part of a proper noun, that is, the official name of a particular or unique person, place, or thing. So you would only capitalize federal when you use it in the name of a federal agency, an act, or some other proper noun.
 
-Federal Bureau of Investigation<br>
-Federal Insurance Contributions Act<br>
-Federal Trade Commission<br>
-Federal Water Pollution Control Act<br>
-Federal Reserve Board
+* Federal Bureau of Investigation
+* Federal Insurance Contributions Act
+* Federal Trade Commission
+* Federal Water Pollution Control Act
+* Federal Reserve Board
 
-When writing about the Federal Government in its official capacity using the term as an official title, you should capitalize both Federal and Government.
+When writing about the Federal Government in its official capacity using the term as an official title, you should capitalize both Federal and Government. Most of the time, we use "federal" simply as a form of general classification, which would not require us to capitalize it.
 
-Most of the time, we use federal simply as a form of general classification, which would not require us to capitalize it.
-
-Once a year, federal employees have an opportunity to choose a different health care provider.
-
-Many issues we address each day are subject to federal, state, and local laws.
-
-So, the next time you are writing about federal programs or issues, think twice about capitalization. More often than not, the correct answer to this question is federal not Federal.
+Once a year, federal employees have an opportunity to choose a different health care provider. Many issues we address each day are subject to federal, state, and local laws. So, the next time you are writing about federal programs or issues, think twice about capitalization. More often than not, the correct answer to this question is federal not Federal.

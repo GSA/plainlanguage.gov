@@ -10,24 +10,36 @@ Here are some examples of how using plain language can help you say what you mea
 
 ## Example 1
 
-Before | After
---- | ---
-If the location of the land is in a state other than the state in which the tribe’s reservation is located, the tribe’s justification of anticipated benefits from the acquisition will be subject to greater scrutiny. | If the land is in a different State than the tribe's reservation, we will scrutinize the tribe's justification of anticipated benefits more thoroughly.
-{:.example-table}
+* #### Before
+
+  If the location of the land is in a state other than the state in which the tribe’s reservation is located, the tribe’s justification of anticipated benefits from the acquisition will be subject to greater scrutiny.
+
+* #### After
+
+  If the land is in a different State than the tribe's reservation, we will scrutinize the tribe's justification of anticipated benefits more thoroughly.
+{: .example-side-by-side}
 
 ## Example 2
 
-Before | After
---- | ---
-When the process of freeing a vehicle that has been stuck results in ruts or holes, the operator will fill the rut or hole created by such activity before removing the vehicle from the immediate area. | If you make a hole while freeing a stuck vehicle, you must fill the hole before you drive away.
-{:.example-table}
+* #### Before
+
+  When the process of freeing a vehicle that has been stuck results in ruts or holes, the operator will fill the rut or hole created by such activity before removing the vehicle from the immediate area.
+
+* #### After
+
+  If you make a hole while freeing a stuck vehicle, you must fill the hole before you drive away.
+{: .example-side-by-side}
 
 ## Example 3
 
-Before | After
---- | ---
-Under 25 CFR §1.4(b), the Secretary of the Interior may in specific cases or in specific geographic areas, adopt or make applicable to off-reservation Indian lands all or any part of such laws, ordinances, codes, resolutions, rules or other regulations of the State and political subdivisions in which the land is located as the Secretary shall determine to be in the best interest of the Indian owner or owners in achieving the highest and best use of such property. | Section 1.4(b) of 25 CFR allows us to make State or local laws or regulations apply to your off-reservation lands. We will do this only if we find that it will help you to achieve the highest and best use of your lands.
-{:.example-table}
+* #### Before
+
+  Under 25 CFR §1.4(b), the Secretary of the Interior may in specific cases or in specific geographic areas, adopt or make applicable to off-reservation Indian lands all or any part of such laws, ordinances, codes, resolutions, rules or other regulations of the State and political subdivisions in which the land is located as the Secretary shall determine to be in the best interest of the Indian owner or owners in achieving the highest and best use of such property.
+
+* #### After
+
+  Section 1.4(b) of 25 CFR allows us to make State or local laws or regulations apply to your off-reservation lands. We will do this only if we find that it will help you to achieve the highest and best use of your lands.
+{: .example-side-by-side}
 
 ## Example 4
 

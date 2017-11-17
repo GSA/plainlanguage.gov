@@ -2,8 +2,6 @@
 
 This is the public repo for [plainlanguage.gov](http://www.plainlanguage.gov), which is an online resource to help federal employees understand and comply with the Plain Writing Act of 2010. It represents a joint effort by the Plain Language Action and Information Network (PLAIN) and the General Services Administration.
 
-- [Preview link](https://federalist-proxy.app.cloud.gov/site/gsa/plainlanguage.gov/)
-
 ## About the site
 
 * This site uses [Jekyll](https://jekyllrb.com), a Ruby-based static site generator. For more information about using Jekyll, refer to the [Jekyll documentation](http://jekyllrb.com/docs/home/).

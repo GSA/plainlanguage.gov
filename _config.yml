@@ -1,7 +1,8 @@
 # Site settings
 title: plainlanguage.gov
 description: Plain language makes it easier for the public to read, understand, and use government communications.
-email: plainlanguage@gsa.gov
+email: plainlanguage.gov@gmail.com
+image: /assets/img/twitter_profile.png
 facebook: https://www.facebook.com/plainlanguagegov-174397429237337/
 twitter: https://twitter.com/govplainlang/
 repo: https://github.com/GSA/plainlanguage.gov
