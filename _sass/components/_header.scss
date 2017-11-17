@@ -1,6 +1,6 @@
 .sticky-nav .usa-header {
   border-color: $border-color;
-  position: -webkit-sticky;
+  position: -webkit-sticky; // scss-lint:disable VendorPrefix
   position: sticky;
   top: 0;
   z-index: 9000;
