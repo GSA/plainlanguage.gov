@@ -27,7 +27,7 @@ We offer free, half-day training classes for federal agencies. All of our classe
 
 We schedule classes on a first-come, first-serve basis, depending on trainer availability. We believe that in-person training is the best method and do not offer webinars or virtual classes. Please request training **at least 3-6 months in advance**.
 
-You must have a .gov or .mil email address to register. [Complete this form](https://goo.gl/forms/fRsKV5i9bwvOTeE73), or [email us](mailto:{{ site.email }}) if you can’t access Google Apps.
+You must have a .gov or .mil email address to register. [Complete this form](https://goo.gl/forms/fRsKV5i9bwvOTeE73), or [email us](mailto:training@plainlanguage.gov) if you can’t access Google Apps.
 
 Let us know:
 
