@@ -2,6 +2,13 @@
   border-color: $border-color;
 }
 
+.sticky-nav .usa-header {
+  position: -webkit-sticky; // scss-lint:disable VendorPrefix
+  position: sticky;
+  top: 0;
+  z-index: 9000;
+}
+
 .usa-logo-text {
   font-family: $font-sans;
   font-size: $h3-font-size;
@@ -59,6 +66,7 @@
 }
 
 .usa-navbar {
+  background-color: $color-white;
   border-color: $border-color;
 }
 
@@ -69,9 +77,11 @@
 }
 
 @media #{$breakpoint-lg} {
+  .sticky-nav .usa-header {
+    position: static;
+  }
+
   .usa-header-extended {
-
-
     .usa-nav {
       border-color: $border-color;
     }
