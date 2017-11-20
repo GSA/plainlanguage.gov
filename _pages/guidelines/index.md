@@ -3,6 +3,7 @@ title: Federal plain language guidelines
 permalink: /guidelines/
 sidenav: guidelines
 pagination: false
+description: The official writing guidelines for the Plain Writing Act of 2010.
 redirect_from:
   - /howto/guidelines/FederalPLGuidelines/
   - /howto/guidelines/FederalPLGuidelines/index.cfm
