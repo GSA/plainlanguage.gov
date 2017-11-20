@@ -5,7 +5,10 @@ email: info@plainlanguage.gov
 image: /assets/img/twitter_profile.png
 facebook: https://www.facebook.com/plainlanguagegov-174397429237337/
 twitter: https://twitter.com/govplainlang/
-repo: https://github.com/GSA/plainlanguage.gov
+github:
+  organization: GSA
+  repository: plainlanguage.gov
+  default_branch: master
 
 sitewide_notification:
   display: false
