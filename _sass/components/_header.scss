@@ -77,7 +77,7 @@
 }
 
 @media #{$breakpoint-lg} {
-  .usa-header {
+  .sticky-nav .usa-header {
     position: static;
   }
 
