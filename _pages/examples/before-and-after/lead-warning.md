@@ -14,7 +14,7 @@ _This example was created for training and is not official agency text._
 
 * #### After
 
-  Lead in drinking water can make you sick. Here are some possible health effects of high lead levels in your drinking water.
+  Lead in drinking water can make you sick. Here are some possible health effects of high lead levels in your drinking water:
 
   **Children:**
   - Delayed growth
