@@ -1,5 +1,5 @@
 ---
-title: Reference tools
+title: Writing and reference tools
 permalink: /resources/reference/
 sidenav: resources
 redirect_from:
@@ -17,7 +17,9 @@ Most of us in plain language aren't grammar experts, but we often get questions 
 
 * Try [Dictionary.com](http://dictionary.reference.com/) for quick word definitions.
 
-* [One Look](http://www.onelook.com/) , pulls up definitions from more than one source, giving you a multiple list of dictionaries with definitions you can compare.
+* [One Look](http://www.onelook.com/), pulls up definitions from more than one source, giving you a multiple list of dictionaries with definitions you can compare.
+
+* [Definr](http://definr.com/) is a fast, free dictionary based on Princeton's open WordNet 2.0.
 
 ## Thesauruses
 
