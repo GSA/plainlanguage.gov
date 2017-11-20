@@ -2,6 +2,8 @@
 title: Examples
 permalink: /examples/
 sidenav: examples
+description: >-
+  Plain language has been around in the government for over 40 years. Here are some examples, both historical and current.
 redirect_from:
   - /examples/
   - /examples/index.cfm

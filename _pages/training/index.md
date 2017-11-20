@@ -2,6 +2,8 @@
 title: Training
 permalink: /training/
 sidenav: training
+description: >-
+  We offer free, half-day training classes for federal agencies. All of our classes are based on the Federal Plain Language Guidelines and involve interactive writing exercises.
 redirect_from:
   - /resources/take_training/PLAIN/
   - /resources/take_training/PLAIN/index.cfm
