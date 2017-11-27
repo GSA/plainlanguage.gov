@@ -60,8 +60,8 @@ redirect_from:
     {% assign events_sorted = events | reverse %}
     {% for event in events_sorted %}
       <p class="m0 h5 caps sans-serif">{{ event.date | date: "%B %e, %Y" }}</p>
-      <h4 class="m0 h3"><a href="{{ event.link }}" class="text-decoration-none">{{ event.title }}</a></h4>
-      {% if event.description %}<p>{{ event.description }}</p>{% endif %}
+      <h4 class="m0 h3">{% if event.link %}<a href="{{ event.link }}" class="text-decoration-none">{% endif %}{{ event.title }}{% if event.link %}</a>{% endif %}</h4>
+      {% if event.description %}{{ event.description | markdownify }}{% endif %}
     {% endfor %}
   </div>
 </section>
