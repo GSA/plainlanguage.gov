@@ -2,6 +2,10 @@
   border-color: $border-color;
 }
 
+.usa-skipnav {
+  z-index: 10000;
+}
+
 .sticky-nav .usa-header {
   position: -webkit-sticky; // scss-lint:disable VendorPrefix
   position: sticky;
