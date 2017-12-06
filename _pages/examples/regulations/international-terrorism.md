@@ -1,7 +1,7 @@
 ---
 title: 'Claims for Damages Due to International Terrorism'
 author: Department of Justice
-permalink: /examples/regulations/animal-care/
+permalink: /examples/regulations/international-terrrorism/
 sidenav: examples
 ---
 

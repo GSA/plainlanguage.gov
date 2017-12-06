@@ -2,8 +2,8 @@
 title: 'Model Preamble for a Proposed Rule - Example'
 author: Bureau of Land Management
 permalink: /examples/regulations/model-preamble-example/
-sidenav: examples
 archived: true
+sidenav: examples
 redirect_from:
   - /examples/government/BLM-PR.cfm
 ---
