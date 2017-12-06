@@ -1,5 +1,6 @@
 ---
-title: 'Veterans Affairs: Change in Enrollment Status'
+title: 'Change in Enrollment Status'
+author: Veterans Affairs
 permalink: /examples/notices/change-in-enrollment-status/
 sidenav: examples
 redirect_from:

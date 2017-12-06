@@ -1,5 +1,6 @@
 ---
-title: 'Veterans Affairs: Failure to Provide Claim Information'
+title: 'Failure to Provide Claim Information'
+author: Veterans Affairs
 permalink: /examples/notices/failure-to-provide-claim-information/
 sidenav: examples
 redirect_from:

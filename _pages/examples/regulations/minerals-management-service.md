@@ -1,5 +1,6 @@
 ---
 title: Minerals Management Service
+author: Bureau of Safety and Environmental Enforcement
 permalink: /examples/regulations/minerals-management-service/
 sidenav: examples
 redirect_from:

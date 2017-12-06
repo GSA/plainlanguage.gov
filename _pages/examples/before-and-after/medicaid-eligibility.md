@@ -1,5 +1,6 @@
 ---
 title: Medicaid Eligibility
+author: Centers for Medicare & Medicaid Services
 permalink: /examples/before-and-after/medicaid-eligibility/
 sidenav: examples
 

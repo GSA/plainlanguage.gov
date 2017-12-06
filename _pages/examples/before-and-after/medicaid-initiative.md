@@ -1,5 +1,6 @@
 ---
 title: Medicaid Open Door Initiative
+author: Centers for Medicare & Medicaid Services
 permalink: /examples/before-and-after/medicaid-initiative/
 sidenav: examples
 
