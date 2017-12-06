@@ -468,4 +468,4 @@ This question comes up rather frequently. For some reason, many people think the
 
 When writing about the Federal Government in its official capacity using the term as an official title, you should capitalize both Federal and Government. Most of the time, we use "federal" simply as a form of general classification, which would not require us to capitalize it.
 
-Once a year, federal employees have an opportunity to choose a different health care provider. Many issues we address each day are subject to federal, state, and local laws. So, the next time you are writing about federal programs or issues, think twice about capitalization. More often than not, the correct answer to this question is federal not Federal.
+Once a year, federal employees have an opportunity to choose a different health care provider. Many issues we address each day are subject to federal, state, and local laws. So, the next time you are writing about federal programs or issues, think twice about capitalization. More often than not, the correct answer to this question is "federal" not "Federal."
