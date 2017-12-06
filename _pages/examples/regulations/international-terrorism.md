@@ -5,7 +5,7 @@ permalink: /examples/regulations/international-terrrorism/
 sidenav: examples
 ---
 
-_This document was created for training and is not official agency text._
+_This example was created for training and is not official agency text._
 
 * #### Before
 
