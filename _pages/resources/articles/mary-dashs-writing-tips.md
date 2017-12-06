@@ -42,8 +42,10 @@ New requirements (subject) were introduced (action) to strengthen the banking sy
 
 By eliminating the helping verb, the active voice sentence generally uses fewer words to communicate the same information.
 
-> **Passive:** Mr. Doe (subject) was told (action) by the bank official that he would need to provide additional information. (16 words)<br>
-> **Active:** The bank official (subject) told (action) Mr. Doe (object) he would need to provide additional information. (13 words)
+Passive | Active
+--------- | ---
+Mr. Doe (subject) was told (action) by the bank official that he would need to provide additional information. (16 words) | The bank official (subject) told (action) Mr. Doe (object) he would need to provide additional information. (13 words)
+{:.example-table}
 
 Active voice more closely resembles spoken language; hopefully ideal spoken language. When we speak, we generally use the active voice without thinking. Our writing should become that automatic.
 
@@ -67,8 +69,8 @@ And:
 
 Using the cut passive form is appropriate in two situations:
 
-- When we do not know who performed the action.
-- When the doer of the action is unimportant.
+- When we do not know who performed the action
+- When the doer of the action is unimportant
 
 However, one caution: If adding the name of the person or organization performing the action would make the document stronger and help our readers, we should try to identify the doer of the action.
 
@@ -116,7 +118,9 @@ Unfortunately, this progression doesn't follow a consistent, regular pattern. Th
 * Pileup
 * Follow-up
 
-But caution: If you use the same word as a verb phrase, each word stands alone. Example: I will follow up on your suggestion next week. Then, I will give you a detailed follow-up on my results.
+But caution: If you use the same word as a verb phrase, each word stands alone. Example:
+
+> I will follow up on your suggestion next week. Then, I will give you a detailed follow-up on my results.
 
 ### Most compound nouns ending in "down" are one word.
 
@@ -155,7 +159,7 @@ Of course, I have another caution: You must give your children a "time-out," and
 
 But, you have to "login" and "logoff" from your computer.
 
-### Another rule tells us that compound nouns with a prepositional phrase get hyphens.
+### Compound nouns with a prepositional phrase get hyphens.
 
 That gives us an "attorney-at-law," a "brother-in-law," and a "right-of -way." But we still have a "power of attorney," a "line of credit," a "rule of thumb," and a "standard of living."
 
@@ -165,11 +169,11 @@ I suggest you get a good dictionary and keep it close at hand!
 
 "Tone" in a document is the impression we leave with our readers about our professionalism, our attitudes toward the subject, and even our attitudes toward the reader. Your choice of personal pronouns is probably the single most important factor in giving your document a friendly, personal, human tone.
 
-### Address the reader by name or as "you:"
+### Address the reader by name or as "you"
 
 Use "you" or "your" as often as possible to convey a conversational tone in your documents. This conversational tone can make your documents sound more like the tone you would probably take if you actually talked with the reader. This technique will make your documents sound more natural, open, and much less bureaucratic.
 
-### Refer to yourself or the person signing the letter as "I" instead of "we":
+### Refer to yourself or the person signing the letter as "I" instead of "we"
 
 The American Heritage Dictionary defines "we" as a pronoun "used by the speaker or writer to indicate the speaker or writer along with another or others as the subject." It also defines the term as a pronoun "used instead of I by a sovereign in formal address to refer to himself or herself." When we use "we" to refer to ourselves when speaking as one individual, we give people an opportunity to ridicule us as the following story shows:
 
@@ -180,6 +184,12 @@ Using "I" instead of "we" when the document is clear that only one person carrie
 ## Gobbledygook
 
 Writers sometimes fill their sentences with words that are unfamiliar, unnecessary, or too large for the occasion-also known as gobbledygook. Our readers are busy people who don't have time for wordy, hard-to-read documents. Good writing should never include gobbledygook.
+
+Don't say | Say
+--------- | ---
+During the telephone conversation, Mr. Doe identified himself and requested the realtor provide him information concerning the assets for sale. | During the call, Mr. Doe identified himself and asked the realtor to give him information on the assets for sale.
+I am responding to your correspondence of November 29, 2002. | I am responding to your letter of November 29, 2002.
+{:.example-table}
 
 Avoid gobbledygook by doing the following: Using specific, concrete words. We want our writing to be as clear as possible. Below are a few commonly used words we should replace with more concrete words.
 
@@ -209,13 +219,7 @@ Inform | Tell
 State | Say
 {:.example-table}
 
-> **Poor:** During the telephone conversation, Mr. Doe identified himself and requested the realtor provide him information concerning the assets for sale.<br>
-> **Better:** During the call, Mr. Doe identified himself and asked the realtor to give him information on the assets for sale.
-
-> **Poor:** I am responding to your correspondence of November 29, 2002.<br>
-> **Better:** I am responding to your letter of November 29, 2002.
-
-### Using strong verbs.
+## Using strong verbs
 
 The more we use verbs in place of noun phrases, the clearer and less wordy our writing becomes.
 
@@ -234,17 +238,19 @@ Make an announcement | Announce
 > **Weak:** Ms. Doe made a suggestion that we require her employer to provide for catch-up contributions in its 401(k) plan.<br>
 > **Stronger:** Ms. Doe suggested that we require her employer to provide for catch-up contributions in its 401(k) plan.
 
-Avoiding false subjects. False subjects are words like it is, it was, there is, there are, and there was. They usually occur at the beginning of a sentence and often displace the real subject
+## Avoiding false subjects
 
-> **False subject:** It is possible that the taxpayer may not qualify for the earned income tax credit.<br>
-> **Real subject:** The taxpayer may not qualify for the earned income tax credit.
+False subjects are words like it is, it was, there is, there are, and there was. They usually occur at the beginning of a sentence and often displace the real subject.
 
-> **False subject:** There is a door leading out to the public reception area directly behind the place the interviewee sits.<br>
-> **Real subject:** A door leads out to the public reception area directly behind the place the interviewee sits.
+Don't say | Say
+--------- | ---
+It is possible that the taxpayer may not qualify for the earned income tax credit. | The taxpayer may not qualify for the earned income tax credit.
+There is a door leading out to the public reception area directly behind the place the interviewee sits. | A door leads out to the public reception area directly behind the place the interviewee sits.
+{:.example-table}
 
-### Eliminating or shortening wordy phrases.
+## Eliminating or shortening wordy phrases
 
-Wordy phrases use too many words to express an idea. Make your sentences short, direct, and clear.
+Wordy phrases use too many words to express an idea.
 
 Don't say | Say
 --------- | ---
@@ -256,15 +262,25 @@ In a number of cases | Many/some
 It is obvious that | Obviously
 {:.example-table}
 
-> **Wordy:** As a matter of fact, any change to the law requires legislative action.<br>
-> **Shorter:** In fact, any change to the law requires legislative action.
+Make your sentences short, direct, and clear.
 
-> **Wordy:** Based on the fact that Mr. Doe is no longer a plan participant, he cannot make catch-up contributions.<br>
-> **Shorter:** Because Mr. Doe is no longer a plan participant, he cannot make catch-up contributions.
+Don't say | Say
+--------- | ---
+As a matter of fact, any change to the law requires legislative action. | In fact, any change to the law requires legislative action.
+Based on the fact that Mr. Doe is no longer a plan participant, he cannot make catch-up contributions. | Because Mr. Doe is no longer a plan participant, he cannot make catch-up contributions.
+{:.example-table}
 
-### Avoiding redundancies.
+## Avoiding redundancies
 
-Redundant expressions needlessly repeat ideas when fewer words clearly communicate the meaning. They add no value to your documents. For example, in the expression final outcome, the word final is redundant because outcome implies finality. Here are a few more examples:
+Redundant expressions needlessly repeat ideas when fewer words clearly communicate the meaning. They add no value to your documents. For example, in the expression "final outcome," the word final is redundant because outcome implies finality.
+
+Don't say | Say
+--------- | ---
+We completed the review of your program and will give you our final conclusion within two weeks. | We completed the review of your program and will give you our conclusion within two weeks.
+A balance of $200.00 still remains on your credit card. | A balance of $200.00 remains on your credit card.
+{:.example-table}
+
+Here are a few more examples:
 
 Don't say | Say
 --------- | ---
@@ -275,12 +291,6 @@ True facts | Facts
 Are now currently | Are
 Advance plan/Preplan | Plan
 {:.example-table}
-
-> **Redundant:** We completed the review of your program and will give you our final conclusion within two weeks.<br>
-> **Better:** We completed the review of your program and will give you our conclusion within two weeks.
-
-> **Redundant:** A balance of $200.00 still remains on your credit card.<br>
-> **Better:** A balance of $200.00 remains on your credit card.
 
 Eliminating legal or technical terms. Studies have shown that not only non-technical readers, but also professionals in the technical field you are writing about appreciate plain language documents that are free from technical terms. People are busy and documents written in a plain language style help them understand the information more quickly. We don't need to impress our readers with big words.
 
@@ -294,7 +304,7 @@ Pursuant to Internal Revenue Code Section 86(a)(1)(A), gross income must include
 
 ## Problem words
 
-Problem Words challenge most of us, which/that is hard to accept/except. These words don't affect/effect all of your work. You may think it's all right/alright to use the wrong word, but just among us writers, it's a problem. Even if we appraise/apprise you of the right word choice, as we're doing here, to ensure/assure/insure you have the right choices, you should check this list bimonthly/twice a month/every two months as a refresher. For example, take "capital" and "capitol". If you cite/site the "capital" of our nation, or the "capitol" building, what's the difference? They both comprise/compose part of the English language and seem to refer to the same thing—right?
+Problem words challenge most of us, which/that is hard to accept/except. These words don't affect/effect all of your work. You may think it's all right/alright to use the wrong word, but just among us writers, it's a problem. Even if we appraise/apprise you of the right word choice, as we're doing here, to ensure/assure/insure you have the right choices, you should check this list bimonthly/twice a month/every two months as a refresher. For example, take "capital" and "capitol". If you cite/site the "capital" of our nation, or the "capitol" building, what's the difference? They both comprise/compose part of the English language and seem to refer to the same thing—right?
 
 Do you think it doesn't make a difference? Nothing could be farther/further from the truth. Choosing the correct word says something about us, our organization, and our professionalism. If you just rely on good word references (e.g.,—or is it i.e.?—this one and others), the principals/principles of good writing begin to fall into place. Effective business writing which/that includes helping you select the right words, helps all of us communicate more effectively, and more efficiently. Besides, we want our readers to focus on the purpose and message of our document, not play guessing games with poor word choices. Some of the most frequently misused words are:
 
@@ -378,11 +388,11 @@ As part of the continual effort to simplify the employment tax deposit system an
 **Continuous**: Continuous means "without interruption."<br>
 The 24-hour help desk received a continuous flow of requests for information after the press conference.
 
-e.g.: Short for exempli gratia (translated means "free examples"), we use e.g. to mean "for example."<br>
+**e.g.**: Short for exempli gratia (translated means "free examples"), we use e.g. to mean "for example."<br>
 FMS will take a number of steps to put into practice a process for preparing consolidated financial statements, e.g., accelerate the central reporting cycle, implement the new financial reports compilation process, and establish business rules.<br>
 In this sentence, "for example" works equally well.
 
-i.e.: Short for id est, i.e. means "that is."<br>
+**i.e.**: Short for id est, i.e. means "that is."<br>
 We will remove the barriers to successful implementation, i.e., give employees the training and tools needed to accomplish the task.<br>
 In today's business writing, we are better off using the English versions: "for example" and "that is."
 
@@ -438,21 +448,13 @@ Whether or not to end a sentence with a preposition is a literary battle that pe
 
 The best approach is to make your sentence as simple, straightforward, and clear as possible. Let the words flow smoothly to your reader, and, if a preposition falls naturally at the end, that's OK. Trust your ear to find the right sentence structure.
 
-**Instead of**:<br>
-I am interested in the topic about which you wrote.
+Don't say | Say
+--------- | ---
+I am interested in the topic about which you wrote. | I am interested in the topic you wrote about.
+Listen for the sound and pay attention to the effect you want to achieve when deciding whether or not to use a preposition to end a sentence with. | Listen for the sound and pay attention to the effect you want to achieve when deciding whether or not to end a sentence with a preposition.
+{:.example-table}
 
-**Try**:<br>
-I am interested in the topic you wrote about.
-
-Consider another form when a sentence like the following doesn't work.
-
-**Instead of**:<br>
-Listen for the sound and pay attention to the effect you want to achieve when deciding whether or not to use a preposition to end a sentence with.
-
-**Try another form, such as**:<br>
-Listen for the sound and pay attention to the effect you want to achieve when deciding whether or not to end a sentence with a preposition.
-
-**Bottom line**: Use the form that sounds human and is easy to read. A preposition is a perfectly good word to end a sentence with.
+Bottom line: Use the form that sounds human and is easy to read. A preposition is a perfectly good word to end a sentence with.
 
 ## Federal or federal?
 
@@ -466,4 +468,4 @@ This question comes up rather frequently. For some reason, many people think the
 
 When writing about the Federal Government in its official capacity using the term as an official title, you should capitalize both Federal and Government. Most of the time, we use "federal" simply as a form of general classification, which would not require us to capitalize it.
 
-Once a year, federal employees have an opportunity to choose a different health care provider. Many issues we address each day are subject to federal, state, and local laws. So, the next time you are writing about federal programs or issues, think twice about capitalization. More often than not, the correct answer to this question is federal not Federal.
+Once a year, federal employees have an opportunity to choose a different health care provider. Many issues we address each day are subject to federal, state, and local laws. So, the next time you are writing about federal programs or issues, think twice about capitalization. More often than not, the correct answer to this question is "federal" not "Federal."
