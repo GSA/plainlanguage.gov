@@ -3,8 +3,6 @@ title: 'Requirements for Dealing with Animal Care'
 author: Animal and Plant Health Information Service
 permalink: /examples/regulations/animal-care/
 sidenav: examples
-redirect_from:
-  - /examples/before_after/airworthydirective.cfm
 ---
 
 _This example was created for training and is not official agency text._

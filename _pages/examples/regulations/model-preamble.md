@@ -1,191 +1,218 @@
 ---
-title: Model Preamble for a Proposed Rule
+title: 'Model Preamble for a Proposed Rule'
 author: Bureau of Land Management
 permalink: /examples/regulations/model-preamble/
-sidenav: examples
 archived: true
+sidenav: examples
 redirect_from:
-  - /examples/government/BLM-PR.cfm
+  - /examples/government/BLM-model.cfm
 ---
 
-_This model preamble was last reviewed in May, 1998. You should check with your own legal staff to make sure there are no more recent requirements._
+Here's a [practical example]({{ site.baseurl }}/examples/regulations/model-preamble-example/) from this model.
 
-This is an abridged version of a proposed rule published in the Federal Register on April 26, 2000 (65 FR 24541).
+**MODEL PREAMBLE FOR A PROPOSED RULE** _[as of May 11, 1998]_
 
----
+_[Italicized items in brackets are for information purposes.]_
 
-Department of the Interior<br>
-Bureau of Land Management<br>
-43 CFR Parts 3130 and 3160<br>
-[WO-310-1310-00 24 1A]<br>
-RIN 1004-AD13
+_[Use of boldface is optional.]_
 
-National Petroleum Reserve, Alaska — Unitization<br>
-AGENCY: Bureau of Land Management, Interior.<br>
-ACTION: Proposed rule.
+**Billing Code**
 
----
+**Agency Name**
 
-## Summary
+**Subagency name (if any)**
 
-This proposed rule would add a new subpart to the Bureau of Land Management's oil and gas regulations implementing new statutory authority allowing operators to form units in the National Petroleum Reserve, Alaska (NPRA). Units allow for the sharing of costs and spreading of revenues among several leases, and allow for production from unit leases to occur without regard to lease or property boundaries. The rule would also allow for waiver, suspension, or reduction of rental or royalty for NPRA leases; allow for suspension of operations and production for NPRA leases; amend existing regulatory language to set the primary lease term for an NPRA lease at 10 years. Current regulations allow 10 years, or a shorter term if it is in the notice of sale; and add a new subpart to the NPRA regulations on subsurface storage agreements. Subsurface storage agreements allow operators to store gas in existing geologic structures on Federal lands.
+_[Insert Code of Federal Regulations citation.]_
 
-This proposal would also make it clear that existing suspension regulations would not apply to the NPRA.
+_[Insert billing code or docket number]_
 
-## Dates
+**RIN** _[Insert regulatory information number from regulatory agenda.]_
 
-You must submit your comments to BLM at the appropriate address below on or before June 26, 2000\. BLM will not necessarily consider any comments received after the above date in making its decisions on the final rule.
+_[Insert subject heading, for example: Permits and Leases, Coal Management, Private Maintenance, etc.]_
 
-## Addresses
+<strong<agency:< strong="">
+  <em>[Inset agency name].</em>
+</strong<agency:<>
 
-- Mail: Director (630), Bureau of Land Management, Administrative Record, Room 401 LS, 1849 C Street, NW, Washington, D.C. 20240.
-- Personal or messenger delivery: Room 401, 1620 L Street, NW, Washington, D.C. 20036.
-- Internet email: <WOComment@blm.gov>. (Include "Attn: AD13")
+**ACTION:** _Proposed rule._
 
-## For further information
+**SUMMARY:** The _[Insert agency name]_ proposes to amend its regulations to _[Insert a brief summary of what action is being taken.]_. We are amending _[or revising or adding]_ the regulations because _[Insert a brief summary of why we are taking this action. Do not include citations to statutes or the CFR. If a court action caused the revision, do not use legal citations. The regulations will [Describe the intended effect of the document, not how it affects the CFR. In this discussion, refer to an act of Congress by the popular name of the act. Do not use qualifications, exceptions, or specific details. Be brief.]_.
 
-Contact Erick Kaarlela at (202) 452-0340, or Ian Senio at (202) 452-5049, or write to Director (630), Bureau of Land Management, Room 401 LS, 1849 C Street, NW, Washington, D.C. 20240\. Persons who use a telecommunications device for the deaf may contact these persons through the Federal Information Relay Service at 1-800-877-8339, 24 hours a day, 7 days a week.
+**DATES:**
 
-## Supplementary information
+<u>Comments</u>
+
+<br>
+Send your comments to reach us on or before (Insert date _[Insert number of days]_ days after publication in the FEDERAL REGISTER.) _[We normally allow 60 days for comment.]_. We may not consider comments received after the above date in making our decision on the proposed rule.
+
+<u>Public hearings</u>
+
+_[In most cases, you will
+
+<u>not</u>
+
+include discussion of public hearings in preparing your preamble. Occasionally, in cases involving sensitive, complex, and/or controversial rules, the agency will announce in a proposed rule the schedule and location of public hearings. If so, insert one of the following:]_<br><br>_
+ [If you plan one to four public hearings, insert this:]_<br>
+We plan to hold public hearings on this proposed rule. The dates of the hearings are:_ [List the date, time, and place of each hearing on a separate line.]_<br>_
+ [If you plan to hold more than four public hearings, insert this:]_<br><br>
+We plan to hold public hearings on this proposed rule. The dates and times of the hearings are in the **"SUPPLEMENTARY INFORMATION""** section under "Public hearings."
+
+**ADDRESSES:**<br>
+
+<u>Comments</u>
+
+<br>
+You may mail comments to _[Insert mailing address.]_. You may also hand-deliver comments to us at _[Insert location.]_. For information about filing comments electronically, see the **"SUPPLEMENTARY INFORMATION"** section under "Electronic access and filing address."
+
+<u>Public Hearings</u>
+
+<br>
+_[If you plan to hold one to four public hearings, insert this:]_<br>
+We will hold public hearings at _[Insert location(s) of hearings, including street address. Actual hearing sites will vary from rule to rule, but you should plan to hold hearings close to those potentially affected by the rule.]_.<br><br>
+_[If you plan to hold more than four public hearings, insert this:]_<br>
+The locations of the public hearings that we are is holding on this proposed rule are in the **"SUPPLEMENTARY INFORMATION""** section under "Public hearings."
+
+**FOR FURTHER INFORMATION CONTACT:**<br>
+_[Insert name and telephone number of person(s) best able to answer questions about the proposed rule.]_ Individuals who use a telecommunications device for the deaf (TDD) may call the Federal Information Relay Service at 1-800-877-8339 between 8:00 a.m. and 4:00 p.m. Eastern time, Monday through Friday, excluding Federal holidays.
+
+**SUPPLEMENTARY INFORMATION:**
 
 1. Public Comment Procedures
 2. Background
-3. The Rule as Proposed
-4. Section-by-Section Analysis
-5. Procedural Matters
+3. Discussion of Proposed Rule
+4. Procedural Matters
 
-### 1. Public Comment Procedures
+**I. Public Comment Procedures**
 
-#### A. How Do I Comment on the Proposed Rule?
+<u>Electronic access and filing address</u>
 
-If you wish to comment, you may submit your comments by any one of several methods.
+<br>
+You may view an electronic version of this proposed rule at _[Insert address of Internet page.]_. You may also comment via the Internet to: _[Insert address if different]_. Please also include "Attention: _[Insert some code to identify the regulation, usually the OMB RIN]_" and your name and return address in your Internet message. If you do not receive a confirmation from the system that we have received your Internet message, _[make sure your system supports this feature]_ contact us directly at _[Insert phone number]_.
 
-- You may mail comments to Director (630), Bureau of Land Management, Room 401 LS, 1849 C Street, NW, Washington, D.C. 20240.
-- You may deliver comments to Room 401, 1620 L Street, NW, Washington, D.C. 20036.
-- You may also comment via the Internet to WOComment@blm.gov. Please submit Internet comments as an ASCII file avoiding the use of special characters and any form of encryption. Please also include "Attn:AD13" and your name and return address in your Internet message. If you do not receive a confirmation that we have received your Internet message, contact us directly at (202) 452-5030.
+<u>Written Comments</u>
 
-Please make your written comments on the proposed rule as specific as possible, confine them to issues pertinent to the proposed rule, and explain the reason for any changes you recommend. Where possible, your comments should reference the specific section or paragraph of the proposal that you are addressing.
+<br>
+Written comments on the proposed rule should be specific, should be confined to issues pertinent to the proposed rule, and should explain the reason for any change you recommend. Where possible, you should reference the specific section or paragraph of the proposal you are addressing. We may not consider or include in the Administrative Record for the final rule comments which we receive after the close of the comment period (See **"DATES"** or comments delivered to an address other than those listed above (See **"ADDRESSES"**).<br><br>
+Comments, including names, street addresses, and other contact information of respondents, will be available for public review at this address during regular business hours (7:45 a.m. to 4:15 p.m.), Monday through Friday, except Federal holidays. We will also post all comments on the regulation's Internet page at the end of the comment period. [Your agency may not post proposed rules.] Individual respondents may request confidentiality. If you wish to request that we consider withholding your name, street address, and other contact information (such as Internet address, FAX or phone number) from public review or from disclosure under the Freedom of Information Act, you must state this prominently at the beginning of your comment. We will honor requests for confidentiality on a case-by-case basis to the extent allowed by law. We will make available for public inspection in their entirety all submissions from organizations or businesses, and from individuals identifying themselves as representatives or officials of organizations or businesses.
 
-BLM may not necessarily consider or include in the Administrative Record for the final rule comments that BLM receives after the close of the comment period (see DATES) or comments delivered to an address other than those listed above (see ADDRESSES).
+<u>Public Hearings </u>
 
-#### B. May I Review Comments Submitted by Others?
+_[If you are planning to hold more than four public hearings, list the dates, times, and addresses of the hearings here:]_<br>
+We will hold public hearings at the following locations on the dates and times specified:<br>
+Any person who wants to participate in a particular hearing should notify the person identified under **"FOR FURTHER INFORMATION CONTACT"** at least one week prior to the hearing. If no one expresses an interest in participating in a hearing at a given location by that date, we will not hold that hearing. If only one person expresses an interest, we may hold a public meeting rather than a hearing, and we will include the results in the Administrative Record.<br><br>
+If we hold a hearing, we will continue the hearing until everyone who wants to testify has done so. In order to assist the transcriber and to ensure an accurate record, we request that you give the transcriber a copy of your testimony. In order to assist us in preparing appropriate questions, we also ask that if you plan to testify you submit to us at the address previously specified (See **"ADDRESSES"**) an advance copy of your testimony. This is not required.<br><br>
+The meeting sites are accessible to individuals with disabilities. An individual with a disability who will need an auxiliary aid or service to participate in the hearing, such as interpreting service, assistive listening device, or materials in an alternate format, must notify the person listed under **"FOR FURTHER INFORMATION CONTACT"** two weeks before the scheduled hearing date. Although we will attempt to meet a request receive after that date, the requested auxiliary aid or service may not be available because of insufficient time to arrange it.
 
-Comments, including names, street addresses, and other contact information of respondents, will be available for public review at 1620 L Street, NW, Room 401, Washington, D.C., during regular business hours (7:45 a.m. to 4:15 p.m.), Monday through Friday, except Federal holidays.
+**II. Background**<br>
+_[Use clear language to discuss the historical and present situation necessitating the proposed rule. Include a statement about the statutory authority supporting the rule, any court cases that apply, prior proposed rulemakings on the issue that are still outstanding and how they relate to this proposal.]_
 
-Individual respondents may request confidentiality. If you wish to request that BLM consider withholding your name, street address, and other contact information (such as: Internet address, FAX or phone number) from public review or from disclosure under the Freedom of Information Act, you must state this prominently at the beginning of your comment. BLM will honor requests for confidentiality on a case-by-case basis to the extent allowed by law. BLM will make available for public inspection in their entirety all submissions from organizations or businesses, and from individuals identifying themselves as representatives or officials of organizations or businesses.
+**III. Discussion of Proposed Rule**<br>
+_[State what the rule would do and why we are proposing the rule. Include a specific, s
 
-### 2. Background
+<u>ection-by-section</u>
 
-#### Why is BLM Proposing This Rule?
+analysis of how the proposed rule impacts our customers and how it changes existing regulatory provisions. For example, if a particular section is being deleted because it duplicates provisions from a statute or another regulation, you should cite the duplicated U.S. Code or Code of Federal Regulations section. You may also want to address the following: why this set of proposed regulations is the best way of addressing the issues; what policy alternatives were considered and why they were rejected; if this is a significant regulatory action to be reviewed by OMB under Executive Order 12866, the costs and benefits of each significant non-statutory requirement; any public participation in the development of the proposed regulations; and coordination that has taken place between our agency and other governmental entities, such as State, local, and tribal governments.]_
 
-Part 3130 of 43 Code of Federal Regulations (CFR) contains the regulations that apply to oil and gas leasing in the National Petroleum Reserve, Alaska (NPRA) authorized under the Naval Petroleum Reserves Production Act of 1976, as amended (the "Act"), (42 U.S.C. 6501 et seq.). Part 3130 does not contain regulations on unitization, suspensions, or waivers of royalty or rental, suspensions of operations and production or subsurface storage of oil and gas. This proposed rule would implement amendments to the Act (see Pub. L. 105-83) authorizing operational activities, including unitization of leases, suspensions or waivers of royalty or rental, the suspension of operation and production for leases in NPRA and subsurface storage agreements.
+**IV. Procedural Matters**
 
-#### Is this Rule Related to the Environmental Impact Statement or the Record of Decision to Lease Oil and Gas in the NPRA?
+<u>Executive Order 12866, Regulatory Planning and Review</u>
 
-No. BLM completed and made publicly available an Environmental Impact Statement/Integrated Activity Plan (EIS/IAP) regarding oil and gas leasing in the NPRA on August 7, 1998\. The Secretary issued a Record of Decision (ROD) for that action on October 7, 1998\. This proposal does not address the EIS/IAP or the ROD or any action involved with the actual leasing process, but would cover operational activities carried out under leases issued as a result of that process.
+<br>
+_[If the proposed regulations are a significant regulatory action, insert the following:]_<br>
+These proposed regulations are a significant regulatory action under section 3(f) of Executive Order 12866 and require an assessment of potential costs and benefits under section 6(a)(3) of that Executive Order. _[Insert a summary of the initial regulatory impact analysis.]_ We have placed the full analysis on file in the Administrative Record at the address specified in the **"ADDRESSES"** section.<br><br>
+_[If the proposed regulations are not a significant regulatory action, insert the following:]_<br>
+These proposed regulations are not a significant regulatory action and are not subject to review by Office of Management and Budget under Executive Order 12866\. These proposed regulations will not have an effect of $100 million or more on the economy. They will not adversely affect in a material way the economy, productivity, competition, jobs, the environment, public health or safety, or State, local, or tribal governments or communities. These proposed regulations will not create a serious inconsistency or otherwise interfere with an action taken or planned by another agency. These proposed regulations do not alter the budgetary effects of entitlements, grants, user fees, or loan programs or the right or obligations of their recipients; nor do they raise novel legal or policy issues.
 
-### 3. The Rule as Proposed
+<u>Clarity of the Regulations</u>
 
-#### How Would This Rule Change BLM's Oil and Gas Regulations?
+<br>
+Executive Order 12866 requires each agency to write regulations that are simple and easy to understand. President Clinton's Presidential memorandum of June 2, 1998, requires us to write new regulations in plain language. We invite your comments on how to make these proposed regulations easier to understand, including answers to questions such as the following: (1) Are the requirements in the proposed regulations clearly stated? (2) Do the proposed regulations contain technical language or jargon that interferes with their clarity? (3) Does the format of the proposed regulations (grouping and order of sections, use of headings, paragraphing, etc.) aid or reduce their clarity? (4) Would the regulations be easier to understand if they were divided into more (but shorter) sections? (A section appears in bold type and is preceded by the symbol and a numbered heading, for example [Insert a sample section number and heading from the proposed rule].) (5) Is the description of the proposed regulations in the **"SUPPLEMENTARY INFORMATION"** section of this preamble helpful in understanding the proposed regulations? How could this description be more helpful in making the proposed regulations easier to understand?<br><br>
+Please send any comments you have on the clarity of the regulations to the address specified in the **"ADDRESSES"** section.
 
-The proposed rule applies to operations under Federal oil and gas leases in NPRA and would add a new subpart allowing the formation of oil and gas units in the NPRA. The rule would also:
+<u>National Environmental Policy Act </u>
 
-1. Allow for waiver, suspension or reduction of rental or royalty for NPRA leases;
-2. Allow for suspension of operations and production for NPRA leases;
-3. Amend existing regulatory language to set the primary lease term for an NPRA lease at 10 years. Current regulations allow 10 years or a shorter term if it is in the notice of sale;
-4. Add a new subpart to the NPRA regulations on subsurface storage agreements. Subsurface storage agreements allow operators to store gas in existing geologic structures on Federal lands in return for fees; and
-5. Make it clear that existing suspension regulations that preceded the enactment of P.L. 105-83, would no longer apply to the NPRA.
+<br>
+_[The definitions of major federal action, significantly, human environment, and environmental impact statement are in the Council on Environmental Quality's (CEQ) regulations at 40 CFR part 1508\. CEQ's total body of regulations explaining the entire process of NEPA compliance begins at 40 CFR part 1500\. You must consult these regulations to determine whether or not to prepare an EIS. It is not appropriate simply to make a conclusory judgment that an action lacks the significance to merit preparation of a full EIS.]_<br>
+_[If the proposed regulations would have significant environmental impact, insert the following:]_<br>
+These proposed regulations constitute a major Federal action significantly affecting the quality of the human environment under section 102(2)(C) of the National Environmental Policy Act of 1969, 42 U.S.C. 4332(2)(C). We have prepared a draft environmental impact statement (DEIS) which is on file and available to the public in the Administrative Record at the address specified in the **"ADDRESSES"** section.<br><br>
+_[If the proposed regulations would not have significant environmental impact, insert the following:]_<br>
+We have prepared an environmental assessment (EA) and have found that the proposed rule would not constitute a major Federal action significantly affecting the quality of the human environment under section 102(2)(C) of the National Environmental Policy Act of 1969, 42 U.S.C. 4332(2)(C). We have placed the EA and the Finding of No Significant Impact (FONSI) on file in the Administrative Record at the address specified in the **"ADDRESSES"** section. We invite the public to review these documents and suggest that anyone wishing to submit comments in response to the EA and FONSI do so in accordance with the
 
-#### What is Unitization?
+<u>Written Comments</u>
 
-Unitization is a means for a group of oil and gas lessees in a given area to share in the risks and costs associated with oil and gas exploration and development and also to share in the possible benefits. Unitization of leases reduces the need for surface disturbing activities by enhancing the likelihood that fewer wells would need to be authorized in order to produce the oil or gas reservoir. The proposed regulations implement statutory changes and are intended to recognize the unique climatic conditions of NPRA, the needs and practices of the oil and gas industry in light of those conditions, and the need to protect natural resources in NPRA.
+section above.<br><br>
+_[If the proposed regulations are categorically excluded from environmental review, insert the following:]_<br>
+We have determined that this proposed rule _[Summarize the action, linking it to one of the categorical exclusions.]_. Therefore, it is categorically excluded from environmental review under section 102(2)(C) of the National Environmental Policy Act. Under Council on Environmental Quality regulations (40 CFR 1508.4) and the environmental policies and procedures of the Department of the _[insert your agency]_, the term "categorical exclusions" means a category of actions which do not individually or cumulatively have a significant effect on the human environment and that have been found to have no such effect in procedures adopted by a Federal agency and for which neither an environmental assessment nor an environmental impact statement is required.
 
-The Secretary is obligated to protect surface resources within NPRA (see 42 U.S.C. 6508). The protection of surface resources includes the protection of subsistence needs of rural residents. This proposal does not directly address subsistence because unitization will not change the obligation to comply with subsistence related stipulations in leases. Please comment on whether these proposed regulations will meet the needs of the public and the industry while protecting the NPRA environment and whether these regulations should specifically address subsistence.
+<u>Regulatory Flexibility Act</u>
 
-#### Why is BLM Proposing a Rule on Unitization of Oil and Gas Leases in NPRA?
+<br>
+_[See 13 CFR part 121 for the size standards for affected industries. Business concerns that do not exceed the size standard are considered small. Do not use a different size standard unless you follow the procedure in 13 CFR 121.902.]_<br>
+_[If the proposed regulations would have a significant impact on a substantial number of small entities, insert the following:]_<br>
+Under the Regulatory Flexibility Act of 1980, as amended, 5 U.S.C. 601-612, we have prepared an initial regulatory flexibility analysis on the expected impact of the proposed rule on small entities and has determined that the proposed regulations will have a significant economic effect on a substantial number of small entities. _[Insert a summary of the initial regulatory flexibility analysis.]_ We have placed the initial regulatory flexibility analysis on file in the Administrative Record at the address specified in the **"ADDRESSES"** section. We request written public comments on the initial regulatory flexibility analysis.<br><br>
+_[If the proposed regulations would not have a significant economic impact on a substantial number of small entities, insert the following certification]._<br>
+Congress enacted the Regulatory Flexibility Act of 1980, as amended, 5 U.S.C. 601-612, to ensure that Government regulations do not unnecessarily or disproportionately burden small entities. The RFA requires a regulatory flexibility analysis if a rule would have a significant economic impact, either detrimental or beneficial, on a substantial number of small entities. _[Insert a description of small entities to which the proposed regulations will apply. Where feasible, include an estimate of the number of entities affected. Provide the factual basis for the finding of no significant impact on a substantial number of small entities.]_ Therefore, we have determined under the RFA that this proposed rule would not have a significant economic impact on a substantial number of small entities.
 
-While there is already a detailed set of regulations governing oil and gas leasing in NPRA in Part 3130 of 43 CFR, there are no regulations allowing for unitization. The proposed rule implements paragraph (8) of section 6508 of the Act that authorizes unitization of NPRA leases.
+<u>Unfunded Mandates Reform Act</u>
 
-#### Is This Proposal Similar to That Proposed in BLM's Earlier Oil and Gas Rulemaking on Unitization?
+<br>
+_[If the proposed regulations are a significant regulatory action under UMRA, insert the following:]_<br>
+Under section 202 of the Unfunded Mandates Reform Act of 1995 (UMRA), 2 U.S.C. 1502 et seq., we must prepare a budgetary impact statement to accompany any proposed rule that includes a Federal mandate that may result in estimated costs to State, local, or tribal governments in the aggregate, or to the private sector, of $100 million or more. Under the requirements of section 205 of UMRA, we have selected the most cost-effective and least burdensome alternative that achieves the objectives of the rule. Under the requirements of section 203 of UMRA, we have established a plan for informing and advising any small governments that the rule may significantly or uniquely impact. _[Include a summary of the required budgetary impact statement.]_ We have placed the full statement on file in the Administrative Record at the address specified in the **"ADDRESSES"** section.<br><br>
+_[If the proposed regulations are not a significant regulatory action under UMRA, insert the following:]_<br>
+These proposed regulations do not impose an unfunded mandate on State, local, or tribal governments or the private sector of more than $100 million per year; nor do these proposed regulations have a significant or unique effect on State, local, or tribal governments or the private sector.
 
-This proposal closely follows the proposed unit regulations in BLM's proposed comprehensive oil and gas rule published on December 3, 1998, at 63 FR 66840\. Those unit regulations would apply on Federal lands in the lower 48 States and Alaska, but not in NPRA. This proposal differs from that proposal where the statute requires differences or where, because of environmental, climatic, or geologic concerns, we determined that rules in NPRA should differ from those applying to other Federal lands. This proposal is also different in that it applies only to exploratory units and would not apply to enhanced or secondary recovery units.
+<u>Executive Order 12630, Governmental Actions and Interference with Constitutionally Protected Property Rights (Takings)</u>
 
-#### What Are the Major Differences Between This Proposal and the Unit Regulations That Currently Apply to Federal Lands Outside of NPRA?
+<br>
+_[If the proposed regulations pose significant takings implications, insert the following:]_<br>
+The proposed rule represents a government action capable of interference with constitutionally protected property rights and which may cause us to take private property. Accordingly, we have prepared a takings implications assessment. _[Include a summary of the assessment.]_ We have placed the full assessment on file in the Administrative Record at the address specified in the **"ADDRESSES"** section. We request written comments on the takings implications assessment.<br><br>
+_[If the proposed regulations do not have takings implications, insert the following:]_<br>
+The proposed rule does not represent a government action capable of interfering with constitutionally protected property rights. Therefore, we have determined that the rule would not cause a taking of private property or require further discussion of takings implications under this Executive Order.
 
-##### Increased Flexibility
+<u>Executive Order 12612, Federalism</u>
 
-Like the unit regulations proposed earlier (63 FR 66911), these regulations would increase the flexibility of the unitization process by allowing operators and BLM to negotiate exploration and development terms before entering into a unit agreement. The focus of this process would be to protect the public interest rather than to rely on the model unit agreement contained in existing regulations at 43 CFR subpart 3186, which is currently applicable to Federal lands outside of NPRA.
+<br>
+_[If the proposed regulations relate to the structure and role of the States and will have direct, substantial, and significant effects, you must prepare a Federalism assessment. Insert the following:]_<br>
+The proposed rule would have sufficient federalism implications to warrant preparation of a Federalism assessment. _[Include a summary of the assessment.]_ We have placed the full assessment on file in the Administrative Record at the address specified in the **"ADDRESSES"** section. Send us your comments on the Federalism assessment.<br><br>
+_[If the proposed regulations will have no Federalism implications, insert the following:]_<br>
+The proposed rule will not have a substantial direct effect on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government. Therefore, in accordance with Executive Order 12612, we have determined that this proposed rule does not have sufficient Federalism implications to warrant preparation of a Federalism Assessment.
 
-##### Up-Front Negotiation and Limited Number of Unit Terms
+<u>Paperwork Reduction Act</u>
 
-The primary change to the unitization process that you may be familiar with would be an emphasis on up-front negotiation among the various interest owners and BLM. Operators would be able to use any agreement format in their unit agreement as long as it addressed the following four basic issues: (1) Unit area; (2) Initial and continuing development obligations; (3) Productivity criteria and participating areas; and (4) BLM's ability to set or modify the quantity, rate, and location of development and production.
-
-BLM would accept only a limited number of additional unit agreement terms beyond the mandatory terms. If the unit agreement does not specifically address modifications, they would not be permitted unless all of the parties to the agreement agree. The unit agreement would include all producing intervals unless the unit agreement specifies those producing interval(s) to which it applies.
-
-#### What Would be the Basis for the Negotiations?
-
-The unit operator and BLM would base the negotiation of unit agreement terms on many factors. These factors may include the history of the area, economics, the number and depth of wells previously drilled in the area, the size of the area, and the cost of the proposed operations and the unique environmental and climatic and geologic conditions in the NPRA.
-
-#### How Would the Unit Agreement Process Work?
-
-Under the proposed regulations, generally, if you own or lease tracts you could apply to BLM for review of your proposed unit agreement. You and BLM would negotiate the terms of the unit agreement. BLM would review the agreement and determine whether we should approve it. After BLM approves the unit agreement, tracts joining the unit would be committed tracts. BLM would designate a participating area if it found that a well meets the negotiated productivity criteria laid out in the unit agreement. To meet the productivity criteria, a well must have future production potential sufficient to pay for the costs of drilling, completing and operating a unit well. Each participating area would have at least one well meeting the productivity criteria. Participating areas are used to allocate production to committed tracts within the unit. A tract shares in production if there is anywhere within the tract a participating area containing a well that meets the productivity criteria.
-
-When a unit well in a participating area stops producing, the participating area terminates unless there is another unit well that is producing in that participating area. Normally, when the last unit well in the last participating area stops producing and there are no approved drilling or reworking operations on committed tracts, the unit terminates. After unit termination, all committed leases that were part of the unit would return to their individual lease status in effect at the time of termination and would not receive any further benefits of unitization. For example, if a committed Federal lease's primary term expires before unit termination, the Federal lease would terminate when the unit terminates, unless the lease qualifies for extension under current regulations at 43 CFR 3135.1-5\. There is no automatic extension of the lease term provided for Federal leases which have been previously committed to terminated units. Federal leases that have not completed their primary term would continue under their terms.
-
-#### What Are Participating Areas and How Does This Proposal Treat Them?
-
-Participating areas are used to allocate production from wells in a unit to the tracts committed to the unit and unleased Federal land. A participating area includes the land around a well that meets certain criteria negotiated for and laid out in the agreement. In general, these criteria must show that the production from the well can pay for its operation. You and BLM would negotiate the productivity criteria and the participating area and revision size, and would include these terms in the unit agreement. To establish a participating area, you must prove to BLM that the production from the area you propose to include in the participating area can cover the costs of operating the area.
-
-This proposal would change the current procedure involving the creation and size of initial participating areas and additions to existing participating areas. This rule would provide that the amount of land to be included in any participating area or revision be specified in the unit agreement. Under current procedures that apply to Federal lands outside of NPRA you are not required to specify the amount of land and BLM determines participating area size after a detailed review of production data. Under existing procedure, participating areas include only specific producing intervals. Under this proposal we presume that a participating area includes all producing intervals unless the agreement specifies that it doesn't. An addition to an existing participating area would occur when a new well that meets the productivity criteria defined in the unit agreement is drilled outside of that participating area.
-
-#### Does This Proposal Require a Plan of Operations?
-
-The obligation in the model unit agreement to drill an exploratory well and subsequent wells under a plan of operations would be replaced with initial and continuing development obligations. Under this proposal, you and BLM would negotiate the initial and continuing development obligations and would include those terms in the unit agreement. These terms would define the number and frequency of wells you plan to drill or operations that would establish new unitized production. You would be required to submit a plan of operations to BLM after you completed initial development obligations that would detail how you plan to develop the area. Under this proposal, the unit would automatically contract (decrease in size) to the existing participating area(s) when you do not meet a continuing development obligation.
-
-Existing regulations that apply to Federal lands outside of NPRA allow five years for drilling and development of the unitized area before automatic elimination would occur for lands not in a participating area. This proposal would not contain the 5-year initial drilling and development period of current regulations applying to Federal lands outside of NPRA. BLM believes this new requirement would increase the potential for oil and gas development by encouraging operators to follow a continuous development program on a schedule appropriate for the area, or risk contraction of the unit area to the participating area(s).
-
-[Abridged]
-
-## 4. Section-by-section analysis
-
-Subpart 3130--Oil and Gas Leasing, National Petroleum Reserve, Alaska:General
-
-Section 3130.4-2 would set NPRA lease terms at 10 years. Existing regulations allow lease terms to be less than 10 years if it is in thenotice of lease sale. This change was mandated by Congress.
-
-Subpart 3133--Rentals and Royalties
-
-Section 3133.3 would provide for waiver, suspension, or reduction of rental, royalty, or minimum royalty for NPRA leases if it encouraged the greatest ultimate recovery of oil and gas or it was in the interest of conservation. Applicants would be required to prove to BLM that they couldn't operate under their current lease terms without a waiver, suspension, or reduction of rental, royalty, or minimum royalty.
-
-Section 3133.4 would require you to submit to BLM an application and describe in it the relief you are requesting. BLM would also require you to submit the items listed in this section in your application so that BLM can determine if you meet the standards of the regulations.
-
-[Abridged]
-
-## 5. Procedural Matters
-
-### Regulatory Planning and Review
-
-In accordance with the criteria in Executive Order 12866, this rule is not a significant regulatory action and is not subject to review by the Office of Management and Budget (OMB).
-
-[Abridged]
-
-### Clarity of Regulations
-
-Executive Order 12866 requires each agency to write regulations that are simple and easy to understand. We invite your comments on how to make these proposed regulations easier to understand, including answers to questions such as the following: (1) Are the requirements in the proposed regulations clearly stated? (2) Do the proposed regulations contain technical language or jargon that interferes with their clarity? (3) Does the format of the proposed regulations (grouping and order of sections, use of headings, paragraphing, etc.) aid or reduce their clarity? (4) Would the regulations be easier to understand if they were divided into more (but shorter) sections? (5) Is the description of the proposed regulations in the SUPPLEMENTARY INFORMATION section of this preamble helpful in understanding the proposed regulations? How could this description be more helpful in making the proposed regulations easier to understand?
-
-Please send any comments you have on the clarity of the regulations to the address specified in the ADDRESSES section.
-
-[Abridged]
-
-### Authors
-
-The principal authors of this rule are Erick Kaarlela (Washington Office), Sherri Thompson (Colorado State Office), Rick Wymer (Tulsa Field Office), Duane Spencer (Colorado State Office), and Chris Gibson (Alaska State Office), assisted by Ian Senio of BLM's Regulatory Affairs Group (Washington Office) and Harvey Blank (Office of the Solicitor, Department of the Interior).
-
-### List of Subjects
-
-#### 43 CFR Part 3130
-
-Alaska, Government contracts, Mineral royalties, Oil and gas exploration, Oil and gas reserves, Public lands-mineral resources, Reporting and recordkeeping requirements, Surety bonds.
-
-#### 43 CFR Part 3160
-
-Administrative practice and procedure, Government contracts, Indians'lands, Mineral royalties, Oil and gas exploration, Penalties, Public lands-mineral resources, Reporting and recordkeeping requirements.
+<br>
+_[If the proposed regulations contain new information collection requirements, such as application, reporting, disclosure, or recordkeeping requirements, or information collection requirements for which OMB approval has expired, insert the following:]_<br>
+Section _[Insert section number(s).]_ contains information collection requirements. As required by the Paperwork Reduction Act of 1995 (44 U.S.C. 3507(d)), we have submitted a copy of the proposed regulations to the Office of Management and Budget (OMB) for review. We will not require collection of this information until OMB has given its approval. _[Insert the following, combined into two or three paragraphs:_
+
+_- The title of the collection of information;
+
+- A summary of the collection of information;
+- A description of the likely respondents, that is, those who would have to comply with the information collection requirements, such as individuals, businesses, corporations, and governmental entities;
+- The proposed frequency of response;
+- An estimate of the total annual reporting and recordkeeping burden that will result from the collection of information. State the burden in terms of the average burden hours per response. Use decimals for fractions of hours; and
+- If we have requested OMB to conduct its review on an emergency basis, the time period within which we are requesting OMB to approve or disapprove the collection of information.]_
+
+__ Organizations and individuals desiring to submit comments on the information collection requirements should direct them to the Office of Information and Regulatory Affairs, Office of Management and Budget, New Executive Office Building, Washington, DC 20503; Attention: Desk Officer for_ [Insert agency name.].
+
+We consider comments by the public on this proposed collection of information in—
+
+- Evaluating whether the proposed collection of information is necessary for the proper performance of our functions, including whether the information will have practical use;
+- Evaluating the accuracy of our estimate of the burden of the proposed collection of information, including the validity of the methodology and assumptions used;
+- Enhancing the quality, usefulness, and clarity of the information to be collected; and
+- Minimizing the burden of the collection of information on those who are to respond, including through the use of appropriate automated, electronic, mechanical, or other technological collection techniques or other forms of information technology; such as permitting electronic submittal of responses.
+
+OMB is required to make a decision concerning the collection of information contained in these proposed regulations between 30 and 60 days after publication of this document in the FEDERAL REGISTER. Therefore, a comment to OMB is best assured of having its full effect if OMB receives it within 30 days of publication. This does not affect the deadline for the public to comment on the proposed regulations.<br><br>
+_[If the proposed regulations contain information collection requirements that have already been approved by OMB (Check the expiration date of the approval.), insert the following:]_<br>
+The Office of Management and Budget has approved the information collection requirements in the proposed rule under the Paperwork Reduction Act of 1995, 44 U.S.C. 3501 et seq., and has assigned clearance number(s) _[Insert the clearance number.]_. Sections of this proposed rule with information collection requirements are _[Cite the specific sections.]_, and we estimate the public reporting burden of these sections to average, respectively, _[Cite the specific burden hours]_ hours per response. This estimate includes the time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection of information.<br><br>
+Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing the burden, to Information Collection Clearance Officer, _[Insert agency name and mailing address.]_, and Desk Officer for _[Insert agency name.]_, Office of Information and Regulatory Affairs, Office of Management and Budget, New Executive Office Building, Washington, DC 20503; Attention: _[Insert RIN number.]_<br><br>
+_[If the proposed regulations do not contain any information collection requirements, insert the following:]_<br>
+These regulations do not contain information collection requirements that the Office of Management and Budget must approve under the Paperwork Reduction Act of 1995, 44 U.S.C. 3501 et seq.<br><br>
+_[If the proposed regulations are statutorily exempt from the Paperwork Reduction Act, insert the following:]_<br>
+The information collection requirements contained in the proposed rule are exempt from the provisions of the Paperwork Reduction Act of 1995, 44 U.S.C. 3518(c)(1). _[Some possible exemptions include the collection of information: (1) during a Federal criminal investigation or prosecution; (2) during a civil action to which the United States, or an official or agency of the United States, is a party; (3) and during an agency administrative or investigative action against specific individuals or entities. Provide a specific description of the exemption that applies.]_
+
+<u>Author</u>
+
+<br>
+The principal author of this rule is _[Insert name and organizational affiliation of author. You may acknowledge assistance from other people, for example, the attorney assigned to the rule.]_.
+
+**List of Subjects in** _[Insert appropriate CFR part number.]_<br>
+_[Insert index terms for each part number cited in the heading of this proposed rule. You can get the index terms from the Office of the Federal Register.]_

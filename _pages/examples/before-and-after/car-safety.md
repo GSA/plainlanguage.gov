@@ -1,5 +1,6 @@
 ---
 title: Car Safety
+author: National Highway Traffic Safety Administration
 permalink: /examples/before-and-after/car-safety/
 sidenav: examples
 redirect_from:

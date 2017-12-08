@@ -1,5 +1,5 @@
 ---
-title: Lead Warning
+title: Lead in Water
 author: Environmental Protection Agency
 permalink: /examples/before-and-after/lead-warning/
 sidenav: examples

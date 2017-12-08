@@ -1,5 +1,6 @@
 ---
-title: 'Veterans Affairs: Pension Medical Evidence'
+title: 'Pension Medical Evidence'
+author: Veterans Affairs
 permalink: /examples/notices/pension-medical-evidence/
 sidenav: examples
 redirect_from:

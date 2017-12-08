@@ -8,7 +8,6 @@ redirect_from:
 
 Here are some examples of how using plain language can help you say what you mean without extra word clutter.
 
-
 Before | After
 --- | ---
 If the location of the land is in a state other than the state in which the tribe’s reservation is located, the tribe’s justification of anticipated benefits from the acquisition will be subject to greater scrutiny. | If the land is in a different State than the tribe's reservation, we will scrutinize the tribe's justification of anticipated benefits more thoroughly.
