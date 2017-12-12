@@ -46,6 +46,8 @@ The United States is fast becoming a leader in the world-wide plain language mov
 
 - The [Quality and Productivity Commission](http://qpc.co.la.ca.us/pl.asp), established by the Board of Supervisors of the County of Los Angeles, also has its own site.
 
+- Minnesota state agencies must comply with [Governor Dayton’s Executive Order on plain language] (https://mn.gov/governor/assets/EO-14-07.pdf_tcm1055-93446.pdf). Their plain language program started in the Minnesota Department of Revenue and has spread to many other state agencies.
+
 ## Around the world
 
 Governments and private organizations around the world support plain language. Many of these programs have been in place for much longer than our effort here in the United States.
