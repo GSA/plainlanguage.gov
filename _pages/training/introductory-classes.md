@@ -44,4 +44,4 @@ After reviewing your request, a training coordinator will email you to set up th
 
 All of our trainers are volunteers, and we only offer training for federal agencies. Requesting agencies must pay all trainer expenses, including parking within the DC metro area (if needed) and lodging, travel, and per diem outside the metro area. We can’t always fulfill requests for classes outside the area because only one volunteer trainer is authorized by their home agency to travel.
 
-If you are not a federal employee requesting training for your agency, you can find other training options under **Public Resources** on [our main training page] ({{ site.baseurl }}/training/).
+If you are not a federal employee requesting training for your agency, you can find other training options under **Public Resources** on [our main training page]({{ site.baseurl }}/training/).
