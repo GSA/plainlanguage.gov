@@ -89,7 +89,7 @@ Change the verb to eliminate the helping verb "to be":
 
 Passive | Active
 --------- | ---
-We must consider how our resources will be used to deliver quality services. | We must consider how to useour resources to deliver quality services.
+We must consider how our resources will be used to deliver quality services. | We must consider how to use our resources to deliver quality services.
 {:.example-table}
 
 Rethink the sentence:
