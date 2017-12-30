@@ -16,7 +16,8 @@ redirect_from:
 - Miners Refuse to Work after Death
 - Juvenile Court to Try Shooting Defendant
 - War Dims Hope for Peace
-- If Strike Isn't Settled Quickly, It May Last Awhile | - Cold Wave Linked to Temperatures
+- If Strike Isn't Settled Quickly, It May Last Awhile
+- Cold Wave Linked to Temperatures
 - Enfield (London) Couple Slain; Police Suspect Homicide
 - Red Tape Holds Up New Bridges
 - Man Struck By Lightning Faces Battery Charge
