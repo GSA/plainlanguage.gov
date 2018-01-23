@@ -32,13 +32,16 @@ You must have a .gov or .mil email address to register. [Complete this form](htt
 Let us know:
 
 - Which federal agency you work for
+- If this is an official request from your agency
 - Where your office is located
 - Which class you're interested in
 - Which month or specific date you'd like the classes (we schedule about 3–6 months in advance)
 - How many federal employees will attend (we train 20–35 people per session)
 
-After reviewing your request, a training coordinator will email you to set up the details.
+After reviewing your request, a training coordinator will email you to set up the details. **We will only contact you if you are a federal employee officially requesting training on behalf of your agency or if you have a question about officially requesting training.**
 
 ### Please note
 
 All of our trainers are volunteers, and we only offer training for federal agencies. Requesting agencies must pay all trainer expenses, including parking within the DC metro area (if needed) and lodging, travel, and per diem outside the metro area. We can’t always fulfill requests for classes outside the area because only one volunteer trainer is authorized by their home agency to travel.
+
+If you are not a federal employee requesting training for your agency, you can find other training options under **Public Resources** on [our main training page]({{ site.baseurl }}/training/).
