@@ -14,7 +14,7 @@ sitewide_notification:
   display: false
   heading: Information Status
   text: >-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.
+    If the federal government shuts down, we will not respond to email or to training requests.
 
 theme: uswds-jekyll
 
