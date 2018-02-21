@@ -11,7 +11,7 @@ Testing your content should be an integral part of your writing and planning pro
 
 Testing your writing to make sure it's clear to users can save you time in answering questions later.
 
-Whether you're writing for websites, brochures, videos, social media, pubic affairs, or print materials, we recommend these same techniques to test individual pages or complete chunks of content.
+Whether you're writing for websites, brochures, videos, social media, public affairs, or print materials, we recommend these same techniques to test individual pages or complete chunks of content.
 
 ## When to test
 
