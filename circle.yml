@@ -6,7 +6,10 @@ jobs:
     steps:
       - checkout
       - run:
-          name: Run Federalist script
+          name: Install npm
+          command: npm install
+      - run:
+          name: Run Federalist npm script
           command: npm run federalist
       - run:
           name: Install dependencies
