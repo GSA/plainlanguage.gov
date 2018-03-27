@@ -5,7 +5,7 @@ redirect_from:
   - /howto/guidelines/FederalPLGuidelines/writeNo2Negs.cfm
 sources:
   - author: 'Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.'
-    title: 'Clear & Effective Legal Writing_, 4th edition'
+    title: 'Clear & Effective Legal Writing, 4th edition'
     date: 2007
     publisher: 'Aspen Publishers, New York, NY'
     page: pp. 178-180
@@ -15,12 +15,12 @@ sources:
     publisher: 'Harper and Rowe, New York'
     page: p. 95
   - author: 'Garner, Bryan A.'
-    title: Guidelines for Drafting and Editing Court Rules
+    title: 'Guidelines for Drafting and Editing Court Rules'
     date: 1996
     publisher: 'Administrative Office of the US Courts, Washington, DC'
     page: pp. 30-31
   - author: 'Wydick, Richard'
-    title: 'Plain English for Lawyers_, 5th edition'
+    title: 'Plain English for Lawyers, 5th edition'
     date: 2005
     publisher: 'Carolina Academic Press, Durham, NC'
     page: pp. 75-76
