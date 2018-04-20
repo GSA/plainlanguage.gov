@@ -189,8 +189,11 @@
       title: Deputy General Counsel
 - department: General Services Administration
   website: http://www.gsa.gov/plainlanguage
+  officials:
+   - name: Donna Garland
+     title: Acting Associate Administrator for the Office of Strategic Communications
   contacts:
-    - name: Katherine Spivey
+    - name: Katherine Spivey 
       email: katherine.spivey@gsa.gov
 - department: Institute of Museum and Library Services
   website: http://www.imls.gov/about-us/open-government/plain-language
@@ -240,8 +243,8 @@
 - department: Occupational Safety and Health Review Commission
   website: https://www.oshrc.gov/plain-writing/
   officials:
-    - name: John X. Cerveny
-      title: Executive Secretary
+    - name: Donald G. Shalhoub
+      title: Chief Counsel to the Chairman
   contacts: plain@oshrc.gov
 - department: Office of Management and Budget
   officials:
