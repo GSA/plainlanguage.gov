@@ -56,7 +56,7 @@ Lawyers started to become interested. Since most government agencies are well st
 
 For many of us in the government today, the current plain language movement had its start in the 1970s when the federal government encouraged regulation writers to be less bureaucratic.
 
-President Nixon created some early momentum when he decreed that the Federal Register be written in "layman's terms." In 1977, the Federal Communications Commission issued rules for Citizens Band Radios that were written as a series of short questions and answers, with personal pronouns, sentences in the active voice, and clear instructions. These regulations were probably the first to appear entirely in plain English. The current [Citizens Band Radio Rules](https://www.ecfr.gov/cgi-bin/text-idx?SID=d54cf0f302e80f1c74909460331add63&mc=true&tpl=/ecfrbrowse/Title47/47cfr95_main_02.tpl), issued in 1983, continued the plain language style of the 1977 rules.
+President Nixon created some early momentum when he decreed that the Federal Register be written in "layman's terms." In 1977, the Federal Communications Commission issued rules for Citizens Band Radios that were written as a series of short questions and answers, with personal pronouns, sentences in the active voice, and clear instructions. These regulations were probably the first to appear entirely in plain English. 
 
 In 1978, President Carter issued Executive Orders intended to make government regulations "cost-effective and easy-to-understand by those who were required to comply with them." A few federal agencies responded by publishing regulations that were more clearly written, although the efforts were sporadic.
 
