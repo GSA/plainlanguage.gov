@@ -8,14 +8,22 @@ redirect_from:
 
 ## Featured video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZZdDJWl8bEc?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=W4gzfemW0Rc&t=159s" frameborder="0" allowfullscreen></iframe>
 
 ## YouTube playlists
 
 * [PLAIN](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nHMlmPFMw8cJxN_DW-odj0J)
 * [U.S. Citizenship and Immigration Services](https://www.youtube.com/playlist?list=PLADE80C67FDB39352)
 
+## PLAIN Meetings
+
+* [March 2018 Meeting: Infographics: Plain Language Considerations] (https://www.youtube.com/watch?v=49SJvZT3t2s)
+* [July 2017 Meeting: Plainspoken Science] (https://youtu.be/ZZdDJWl8bEc)
+* [June 2017 Meeting: Plain Language Spectrum: Every Step Counts] (https://www.youtube.com/watch?v=TGYhWjSmDvs)
+
 ## Other videos we like
+
+* [Descriptive Link Language] (https://www.youtube.com/watch?v=H_XLTAEp6lQ)
 
 * [Plain Language Training](https://www.dvidshub.net/video/540372/plain-language-training), Department of Defense
 
