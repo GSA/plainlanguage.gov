@@ -8,7 +8,8 @@ redirect_from:
 
 ## Featured video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W4gzfemW0Rc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+
+<iframe width="560" height="315" src="https://youtu.be/W4gzfemW0Rc" frameborder="0" allowfullscreen></iframe>
 
 ## YouTube playlists
 
