@@ -51,10 +51,10 @@ Staff Attorney, Office of the Federal Register
 [National Archives and Records Administration](https://www.archives.gov/)
 </div>
 <div class="usa-width-one-half">
-#### Wendy Wagner-Smith
+#### Jamie Stark
 ##### Training coordinator
-Senior Writer and Editor, Office of Financial Research  
-[Department of the Treasury](https://www.treasury.gov/)
+Writer-Editor, Office of Customer Engagement & Strategic  Communication
+[U.S. Citizenship and Immigration Services](https://www.uscis.gov)  
 </div>
 </div>
 </div>
