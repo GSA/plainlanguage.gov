@@ -11,7 +11,7 @@ github:
   default_branch: master
 
 sitewide_notification:
-  display: false
+  display: true
   heading: Information Status
   text: >-
     If the federal government shuts down, we will not respond to email or to training requests.
