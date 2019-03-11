@@ -33,7 +33,7 @@ Please [contact us](mailto:{{ site.email }}) if you have questions about how to 
 <div class="usa-width-one-half">
 #### Kathryn Catania
 ##### Co-chair
-Chief, Plain Language and Content Division, Office of Communications  
+Senior Advisor  
 [U.S. Citizenship and Immigration Services](https://www.uscis.gov/)
 </div>
 <div class="usa-width-one-half">
