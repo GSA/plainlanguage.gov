@@ -66,6 +66,18 @@ There are many important books about plain language. Most of them are not availa
 
 -**_If I Understood You, Would I Have This Look on My Face? Relating to and Communicating with Others, from the Boardroom to the Bedroom_, Alan Alda.**
 
+-**_Writing with Precision_, Jefferson Bates.**
+
+-**_Style: Writing with Clarity and Grace_, Joseph M. Williams.**
+
+-**_How to Write Short_, Roy Peter Clark.**
+
+-**_On Writing Well_, William Zinsser.**
+
+-**_Word Up!_, Marcia Riefer Johnston.**
+
+
+
 
 
 
