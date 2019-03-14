@@ -28,53 +28,51 @@ There are many important books about plain language. Most of them are not availa
 
 - **_Writing Readable Regulations_, Tom Murawski, 1999.** Currently out of print.
 
--**_Writing for Dollars, Writing to Please_, Joseph Kimble.** This book has great real-world examples proving how plain language can save your organization money and time.  Great if you need to explain the importance of plain language to your boss.  Also contains bibliography.
+- **_Writing for Dollars, Writing to Please_, Joseph Kimble.** This book has great real-world examples proving how plain language can save your organization money and time.  Great if you need to explain the importance of plain language to your boss.  Also contains bibliography.
 
--**_Writing Readable Regulations_, Tom Murawski.** A must read for regulatory writers! You can have clearly written regulations.
+- **_Writing Readable Regulations_, Tom Murawski.** A must read for regulatory writers! You can have clearly written regulations.
 
--**_Oxford Guide to Plain English_, Martin Cutts.** A classic on the art if writing clearly.
+- **_Letting Go of the Words, second edition: Writing Web Content That Works_, Ginny Redish.**
 
--**_Letting Go of the Words, second edition: Writing Web Content That Works_, Ginny Redish.**
+- **_Watch Your Language: a Lively, Informal Guide to Better Writing Emanating from the News Room of the New York Times _, Theodore M. Bernstein.**
 
--**_Watch Your Language: a Lively, Informal Guide to Better Writing Emanating from the News Room of the New York Times _, Theodore M. Bernstein.**
+- **_Web for Everyone: Designing Accessible User Experience_, Whitney Quesenbery.**
 
--**_Web for Everyone: Designing Accessible User Experience_, Whitney Quesenbery.**
+- **_Usability in Government Systems: User Experience Design for Citizens and Public Servants_, Elizabeth Buie.**
 
--**_Usability in Government Systems: User Experience Design for Citizens and Public Servants_, Elizabeth Buie.**
+- **_Several Short Sentences about Writing_, Verlyn Klinkenborg.**
 
--**_Several Short Sentences about Writing_, Verlyn Klinkenborg.**
+- **_Garner's Modern English Usage_, Bryan Garner.** More information than you will ever need to know about lexicography and the nuances of the English language.
 
--**_Garner's Modern English Usage_, Bryan Garner.** More information than you will ever need to know about lexicography and the nuances of the English language.
+- **_Legal Writing in Plain English_, Bryan Garner.** Perfect for your legal eagles. It even has writing exercises.
 
--**_Legal Writing in Plain English_, Bryan Garner.** Perfect for your legal eagles. It even has writing exercises.
+- **_A Plain English Handbook_, The Securities and Exchange Commission.** Wonder handbook on clear writing with a Warren Buffet preface.
 
--**_A Plain English Handbook_, The Securities and Exchange Commission.** Wonder handbook on clear writing with a Warren Buffet preface.
+- **_The Federal Plain Language Guidelines_, The Plain Language Action and Information Network (PLAIN).** A great resource and your official guide for the Plain Writing Act of 2010
 
--**_The Federal Plain Language Guidelines_, The Plain Language Action and Information Network (PLAIN).** A great resource and your official guide for the Plain Writing Act of 2010
+- **_Nicely Said: Writing for the Web with Style and Purpose_, Nicole Fenton and Kate Kierfer Lee.** Written by 18f employees.
 
--**_Nicely Said: Writing for the Web with Style and Purpose_, Nicole Fenton and Kate Kierfer Lee.** Written by 18f employees.
+- **_Word by Word: The Secret Life of Dictionaries_, Kory Stamper.** A fun read about lexicography by a super cool word nerd of Merriam Webster
 
--**_Word by Word: The Secret Life of Dictionaries_, Kory Stamper.** A fun read about lexicography by a super cool word nerd of Merriam Webster
+- **_Elements of Style_, William Strunk and E.B. White.**
 
--**_Elements of Style_, William Strunk and E.B. White.**
+- **_Fine Art of Copyediting_, Elsie Myers Stainton.**
 
--**_Fine Art of Copyediting_, Elsie Myers Stainton.**
+- **_On Writing_, Stephen King..**
 
--**_On Writing_, Stephen King..**
+- **_The Art of Readable Writing_, Rudolph Flesch.** Yes, the Flesch of Flesch-Kincaid index.
 
--**_The Art of Readable Writing_, Rudolph Flesch.** Yes, the Flesch of Flesch-Kincaid index.
+- **_If I Understood You, Would I Have This Look on My Face? Relating to and Communicating with Others, from the Boardroom to the Bedroom_, Alan Alda.**
 
--**_If I Understood You, Would I Have This Look on My Face? Relating to and Communicating with Others, from the Boardroom to the Bedroom_, Alan Alda.**
+- **_Writing with Precision_, Jefferson Bates.**
 
--**_Writing with Precision_, Jefferson Bates.**
+- **_Style: Writing with Clarity and Grace_, Joseph M. Williams.**
 
--**_Style: Writing with Clarity and Grace_, Joseph M. Williams.**
+- **_How to Write Short_, Roy Peter Clark.**
 
--**_How to Write Short_, Roy Peter Clark.**
+- **_On Writing Well_, William Zinsser.**
 
--**_On Writing Well_, William Zinsser.**
-
--**_Word Up!_, Marcia Riefer Johnston.**
+- **_Word Up!_, Marcia Riefer Johnston.**
 
 
 
