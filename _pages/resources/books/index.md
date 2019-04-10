@@ -12,7 +12,7 @@ There are many important books about plain language. Most of them are not availa
 
 - [Britain's Plain Language Commission](https://www.clearest.co.uk/books), a private-sector organization, has published a number of excellent books on plain language such as _Lucid Law_ and other publications.
 
-- _Doublespeak_ (1989), _The New Doublespeak_ (1996), and _Doublespeak Defined_, by William D. Lutz, who formerly taught English at Rutgers University. He was also an attorney. In addition to helping the [Security and Exchange Commission] (https://www.sec.gov/plainwriting.shtml) develop their plain English program, he  published a number of excellent books on doublespeak. 
+- _Doublespeak_ (1989), _The New Doublespeak_ (1996), and _Doublespeak Defined_, by William D. Lutz, who formerly taught English at Rutgers University. He was also an attorney. In addition to helping the Security and Exchange Commission develop their plain English program, he  published a number of excellent books on doublespeak. 
 
 - _Elements of Style_, William Strunk and E.B. White.
 
@@ -32,7 +32,7 @@ There are many important books about plain language. Most of them are not availa
 
 - _Lifting The Fog Of Legalese: Essays On Plain Language_, Joseph Kimble, 2006. Kimble combines strong evidence and myth-busting arguments for plain legal language with much practical advice and many useful examples. And no other book is more likely to open lawyers' eyes to the emptiness of legalese.
 
-- _[Nicely Said: Writing for the Web with Style and Purpose_](http://www.nicelysaid.co/), Nicole Fenton and Kate Kierfer Lee. Written by 18f employees.
+- _[Nicely Said: Writing for the Web with Style and Purpose]_(http://www.nicelysaid.co/), Nicole Fenton and Kate Kierfer Lee. Written by 18f employees.
 
 - _On Writing_, Stephen King.
 
