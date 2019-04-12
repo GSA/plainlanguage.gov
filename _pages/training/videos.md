@@ -17,6 +17,7 @@ redirect_from:
 
 ## PLAIN Meetings
 
+* [March 2019 Meeting: Managing Your Plain Language Career](https://www.youtube.com/watch?v=JIR489Oq7OY&list=PLd9b-GuOJ3nHMlmPFMw8cJxN_DW-odj0J&index=3&t=2s)
 * [March 2018 Meeting: Infographics: Plain Language Considerations](https://www.youtube.com/watch?v=49SJvZT3t2s)
 * [July 2017 Meeting: Plainspoken Science](https://youtu.be/ZZdDJWl8bEc)
 * [June 2017 Meeting: Plain Language Spectrum: Every Step Counts](https://www.youtube.com/watch?v=TGYhWjSmDvs)
