@@ -48,6 +48,8 @@ There are many important books about plain language. Most of them are not availa
 
 - _Plain Language for Lawyers_, Michele Asprey, 2010. Another excellent book targeted at legal writing. 
 
+-_Seeing Through Legalese: More Essays on Plain Language_, by Joseph Kimble.
+
 - _Several Short Sentences about Writing_, Verlyn Klinkenborg.
 
 - _Style: Writing with Clarity and Grace_, Joseph M. Williams.
