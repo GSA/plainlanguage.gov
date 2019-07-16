@@ -28,7 +28,7 @@ sources:
     publisher: 'Morgan Kaufmann Publishers, San Francisco'
 ---
 
-Jargon is unnecessarily complicated used to impress, rather than to inform, your audience.
+Jargon is unnecessarily complicated language used to impress, rather than to inform, your audience.
 
 ## Technical language
 
