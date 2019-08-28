@@ -8,7 +8,7 @@ redirect_from:
 
 Joe Kimble, a law professor and a major force in plain language in the United States, published this October 2002 article, _The Elements of Plain Language,_ in the _Michigan Bar Journal_.
 
-I originally published these guidelines in 1992, in the _Thomas M. Cooley Law Review._([1](#Footnotes)) Although I think they hold up pretty well after ten years, I have tinkered with them recently. So here is the 2002 edition:
+I originally published these guidelines in 1992, in the _Thomas M. Cooley Law Review._([1](#footnotes)) Although I think they hold up pretty well after ten years, I have tinkered with them recently. So here is the 2002 edition:
 
 ## A. In general
 
@@ -54,7 +54,7 @@ I originally published these guidelines in 1992, in the _Thomas M. Cooley Law Re
 
 > (The next four items apply to analytical documents, such as briefs and memos, and to most informational documents.)
 
-7. Try to begin the document and the main divisions with one or two paragraphs that introduce and summarize what follows, including your answer.([2](#Footnotes))
+7. Try to begin the document and the main divisions with one or two paragraphs that introduce and summarize what follows, including your answer.([2](#footnotes))
 
 8. Use a topic sentence to summarize the main idea of each paragraph or of a series of paragraphs on the same topic.
 
@@ -84,9 +84,9 @@ I originally published these guidelines in 1992, in the _Thomas M. Cooley Law Re
 
 ## E. Words
 
-1. Prefer familiar words—usually the shorter ones—that are simple and direct and human. ([3](#Footnotes))
+1. Prefer familiar words—usually the shorter ones—that are simple and direct and human. ([3](#footnotes))
 
-2. Avoid legal jargon: stuffy old formalisms (_Now comes; In witness whereof)_; _here-, there-, and where-_ words _(hereby, therein, wherefore_); unnecessary Latin (_arguendo, inter alia_); and all the rest (_and/or, provided that, pursuant to, the instant case_). ([4](#Footnotes))
+2. Avoid legal jargon: stuffy old formalisms (_Now comes; In witness whereof)_; _here-, there-, and where-_ words _(hereby, therein, wherefore_); unnecessary Latin (_arguendo, inter alia_); and all the rest (_and/or, provided that, pursuant to, the instant case_). ([4](#footnotes))
 
 3. Avoid doublets and triplets (_any and all; give, devise, and bequeath_).
 
@@ -94,7 +94,7 @@ I originally published these guidelines in 1992, in the _Thomas M. Cooley Law Re
 
 5. Omit unnecessary words.
 
-6. Replace wordy phrases (_prior to, with regard to, in the event that_). ([5](#Footnotes))
+6. Replace wordy phrases (_prior to, with regard to, in the event that_). ([5](#footnotes))
 
 7. Give _shall_ the boot; use _must_ instead.
 
