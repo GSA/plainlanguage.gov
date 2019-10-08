@@ -13,9 +13,7 @@ This page includes some of the key articles that support using plain language.
 
 - The American public deserves plain language communication from its government, and [it's the law]({{ site.baseurl }}/law/).
 
-- A landmark article from 1995 supporting plain language is Joe Kimble's [Answering the Critics of Plain Language]({{ site.baseurl }}/media/critics.pdf/) (PDF), from _The Scribes Journal of Legal Writing_.
-
-- [Writing for Dollars, Writing to Please](http://www.editorsoftware.com/Downloads/Kimble_Writing_for_Dollars_plain_English.pdf) is Kimble's compilation of bottom-line benefits of plain language, published in _The Scribes Journal of Legal Writing_.
+- Writing for Dollars, Writing to Please, Joseph Kimble, 2012. This book has great real-world examples proving how plain language can save your organization money and time. Great if you need to explain the importance of plain language to your boss. Also contains bibliography.
 
 - In his 2000 article [The Great Myth That Plain Language is Not Precise](https://apps.americanbar.org/buslaw/blt/blt7-kimble.html), Joe Kimble addresses the criticism that using plain language prevents you from being precise.
 
