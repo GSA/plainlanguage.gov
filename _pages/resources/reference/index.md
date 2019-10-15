@@ -19,8 +19,6 @@ Most of us in plain language aren't grammar experts, but we often get questions 
 
 * [One Look](http://www.onelook.com/), pulls up definitions from more than one source, giving you a multiple list of dictionaries with definitions you can compare.
 
-* [Definr](http://definr.com/) is a fast, free dictionary based on Princeton's open WordNet 2.0.
-
 ## Thesauruses
 
 * [Thesaurus.com](http://thesaurus.reference.com/)
@@ -28,7 +26,7 @@ Most of us in plain language aren't grammar experts, but we often get questions 
 
 ## Grammar sites
 
-* [Guide to Grammar and Style](http://www.andromeda.rutgers.edu/%7Ejlynch/Writing/), Jack Lynch
+* [Guide to Grammar and Style](http://jacklynch.net/Writing/), Jack Lynch
 * [Purdue Online Writing Lab: Grammar](https://owl.english.purdue.edu/owl/section/1/5/)
 * [Guide to Grammar and Writing](http://grammar.ccc.commnet.edu/grammar/)
 * [Common Errors in English Usage](https://brians.wsu.edu/common-errors-in-english-usage/), Washington State University
