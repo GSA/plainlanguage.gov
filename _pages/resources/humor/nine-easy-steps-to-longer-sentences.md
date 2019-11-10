@@ -27,19 +27,19 @@ Latin or Greek origin.
 
 Step 3:
 
-Use sophisticated verbs, the vaguer the better. The verb found is much too clear and simple, whereas indicate, develop, and identify _a_re excellent multi-purpose verbs with so many meanings that you can use them in almost any context to mean almost anything. What precisely does indicate mean, anyway? If you use identify or indicate, you can further lengthen your sentence by attaching the fact that to it_._
+Use sophisticated verbs, the vaguer the better. The verb found is much too clear and simple, whereas indicate, develop, and identify are excellent multi-purpose verbs with so many meanings that you can use them in almost any context to mean almost anything. What precisely does indicate mean, anyway? If you use identify or indicate, you can further lengthen your sentence by attaching the fact that to it.
 
 > Studies have identified the fact that additional nocturnal employment would keep adolescents off thoroughfares.
 
 Step 4:
 
-Rely on such adjectives as available, applicable, and appropriate _t_o lengthen sentences without changing or adding any meaning. If possible, use various, one of the most meaningless of all the meaningless modifiers.
+Rely on such adjectives as available, applicable, and appropriate to lengthen sentences without changing or adding any meaning. If possible, use various, one of the most meaningless of all the meaningless modifiers.
 
 > Various available applicable studies have identified the fact that additional appropriate nocturnal employment would keep adolescents off thoroughfares.
 
 Step 5:
 
-Use weasel words as often as possible. _A_ number _of i_s particularly useful because it can refer to any number at all: -9, 4.78, 0, 5 billion, you name it. (For more effective weaseling, replace wills and woulds with cans and coulds.)
+Use weasel words as often as possible. A number of is particularly useful because it can refer to any number at all: -9, 4.78, 0, 5 billion, you name it. (For more effective weaseling, replace wills and woulds with cans and coulds.)
 
 > A number of various available applicable studies have generally identified the fact that additional appropriate nocturnal employment could usually keep adolescents off thoroughfares. |
 
