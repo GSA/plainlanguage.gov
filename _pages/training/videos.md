@@ -18,6 +18,8 @@ redirect_from:
 
 ## PLAIN Meetings
 
+* [July 2019 Meeting:  Federal Plain Language Report Card Planning](https://www.youtube.com/watch?v=T_zTZGDE7Gg&list=PLd9b-GuOJ3nHMlmPFMw8cJxN_DW-odj0J&index=1)
+* [June 2019 Meeting: How to Develop an Agency Brand Voice that Connects With Customers Online](https://www.youtube.com/watch?v=Cmxv70Tn2hk&list=PLd9b-GuOJ3nHMlmPFMw8cJxN_DW-odj0J&index=3) 
 * [March 2019 Meeting: Managing Your Plain Language Career](https://www.youtube.com/watch?v=JIR489Oq7OY&list=PLd9b-GuOJ3nHMlmPFMw8cJxN_DW-odj0J&index=3&t=2s)
 * [March 2018 Meeting: Infographics: Plain Language Considerations](https://www.youtube.com/watch?v=49SJvZT3t2s)
 * [July 2017 Meeting: Plainspoken Science](https://youtu.be/ZZdDJWl8bEc)
