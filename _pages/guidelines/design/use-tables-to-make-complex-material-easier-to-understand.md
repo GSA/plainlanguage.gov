@@ -32,7 +32,7 @@ Tables help your audience see relationships that are often times hidden in dense
 
 Probably the most useful type of table is the "if-then table." An "if-then" table organizes the material by a situation (if something is the case) and the consequence (then something else happens). The rewritten regulation in the "if-then" table below is far clearer than the dense text it replaces. It also makes the information seem less dense and easier on the eye.
 
-If-then tables are powerful tools for simplifying complicated material. And tables generally use many fewer words that a straight textual explanation would use.
+If-then tables are powerful tools for simplifying complicated material. And tables generally use many fewer words than a straight textual explanation would use.
 
 ## Examples
 

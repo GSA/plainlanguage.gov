@@ -13,7 +13,7 @@ redirect_from:
 
 The [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/content-detail.html) was signed on October 13, 2010. The law requires that federal agencies use clear government communication that the public can understand and use.
 
-While the Act does not cover regulations, two separate Executive Orders emphasize the need for plain language: [E.O. 12866](https://www.archives.gov/files/federal-register/executive-orders/pdf/12866.pdf) and [E.O. 12988](https://www.gpo.gov/fdsys/pkg/FR-1996-02-07/pdf/96-2755.pdf).
+While the Act does not cover regulations, three separate Executive Orders emphasize the need for plain language: [E.O. 12866](https://www.archives.gov/files/federal-register/executive-orders/pdf/12866.pdf), [E.O. 12988](https://www.gpo.gov/fdsys/pkg/FR-1996-02-07/pdf/96-2755.pdf), and [E.O. 13563](https://www.govinfo.gov/content/pkg/FR-2011-01-21/pdf/2011-1385.pdf).
 
 ## Requirements
 
