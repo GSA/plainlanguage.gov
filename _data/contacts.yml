@@ -296,5 +296,6 @@
       email: chbrown@usaid.gov
 - department: U.S. Election Assistance Commission
   website: https://www.eac.gov/about/plain-language-initiative/
-  contact: Cliff Tatum
-  email: ctatum@eac.gov
+  contacts: 
+  - name: Cliff Tatum
+    email: ctatum@eac.gov
