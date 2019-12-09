@@ -17,7 +17,7 @@ Use this checklist to see if your document meets plain language standards. (If y
 - [uses the simplest tense possible]({{ site.baseurl }}/guidelines/conversational/use-the-present-tense/)—simple present is best
 - [uses base verbs, not hidden verbs]({{ site.baseurl }}/guidelines/words/avoid-hidden-verbs/)
 - [omits excess words]({{ site.baseurl }}/guidelines/concise/)
-- [uses concrete, familiar words]({{ site.baseurl }})
+- [uses concrete, familiar words]({{ site.baseurl }}/guidelines/words/use-simple-words-phrases/)
 - [uses "must" to express requirements; avoids the ambiguous word "shall"]({{ site.baseurl }}/guidelines/conversational/use-must-to-indicate-requirements/)
 - [places words carefully]({{ site.baseurl }}/guidelines/words/place-words-carefully/) (avoids large gaps between the subject, the verb and the object; puts exceptions last; places modifiers correctly)
 - uses [lists]({{ site.baseurl }}/guidelines/organize/use-lists/) and [tables]({{ site.baseurl }}/guidelines/design/use-tables-to-make-complex-material-easier-to-understand/) to simplify complex material
