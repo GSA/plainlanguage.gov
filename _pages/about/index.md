@@ -31,10 +31,10 @@ Please [contact us](mailto:{{ site.email }}) if you have questions about how to 
 <div class="about-grid">
 <div class="usa-grid-full">
 <div class="usa-width-one-half">
-#### Kathryn Catania
+#### Katina Rae Stapleton
 ##### Co-chair
-Senior Advisor, External Affairs Directorate  
-[U.S. Citizenship and Immigration Services](https://www.uscis.gov/)
+Education Research Analyst, Institute of Education Sciences  
+[U.S. Department of Education](https://www.ed.gov/)
 </div>
 <div class="usa-width-one-half">
 #### Katherine Spivey
