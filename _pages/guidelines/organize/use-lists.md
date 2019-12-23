@@ -50,7 +50,7 @@ Lists are useful because they:
 
   - Depth of the well
   - Casing and cementing program
-  - Circulation media (mud, air, form, etc)
+  - Circulation media (mud, air, form, etc.)
   - Expected depth and thickness of fresh water zones
   - Well site layout and design
 {: .example-side-by-side}
