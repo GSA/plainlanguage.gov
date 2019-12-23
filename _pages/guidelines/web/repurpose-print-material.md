@@ -9,7 +9,7 @@ sources:
     publisher: Nielsen Norman Group
 ---
 
-Don't cut and paste the text of print documents to create web content. People are more likely to leave you webpage, potentially costing you time and money, because they will not take the time to find what they are looking for.
+Don't cut and paste the text of print documents to create web content. People are more likely to leave your webpage, potentially costing you time and money, because they will not take the time to find what they are looking for.
 
 Print writing is different from web writing. Print is very linear and narrative driven. In print, you can go into great detail about mundane things like eating breakfast. If you are a great writer, that can be an interesting story. But those interesting stories don't work on the web. Instead they slow down web users who are trying to accomplish a task.
 
