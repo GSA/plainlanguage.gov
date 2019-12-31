@@ -13,20 +13,20 @@ The [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/co
 
 > Writing that is clear, concise, well-organized, and follows other best practices appropriate to the subject or field and intended audience.
 
-Language that is plain to one set of readers may not be plain to others. Written material is in plain language if your audience can:
+Language that is plain to one set of readers may not be plain to others. Material is in plain language if your audience can:
 
 - Find what they need
-- Understand what they find
+- Understand what they find the first time they read or hear it
 - Use what they find to meet their needs
 
 There are many techniques that can help you achieve this goal. Among the most common are:
 
-- Logical organization with the reader in mind
+- Reader-centered organization
 - "You" and other pronouns
-- Active voice
-- Short sentences
+- Active voice, not passive
+- Short sentences and paragraphs
 - Common, everyday words
-- Easy-to-read design features
+- Easy-to-follow design features (lists, headers, tables)
 
 We've developed [templates]({{ site.baseurl }}/law/page-template/), [checklists]({{ site.baseurl }}/resources/checklists/), and in-depth [writing guidelines]({{ site.baseurl }}/guidelines/) to help you develop communications in plain language.
 
