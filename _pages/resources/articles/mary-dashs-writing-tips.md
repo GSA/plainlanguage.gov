@@ -232,7 +232,7 @@ Come to an agreement | Agree
 Make an announcement | Announce
 {:.example-table}
 
-> **Week:** The General Accounting Office made a recommendation that we take the program under review.<br>
+> **Weak:** The General Accounting Office made a recommendation that we take the program under review.<br>
 > **Stronger:** The General Accounting Office recommended that we review the program.
 
 > **Weak:** Ms. Doe made a suggestion that we require her employer to provide for catch-up contributions in its 401(k) plan.<br>

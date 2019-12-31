@@ -28,7 +28,7 @@ sources:
     publisher: 'Morgan Kaufmann Publishers, San Francisco'
 ---
 
-Jargon is unnecessarily complicated used to impress, rather than to inform, your audience.
+Jargon is unnecessarily complicated language used to impress, rather than to inform, your audience.
 
 ## Technical language
 
@@ -88,7 +88,7 @@ Here is a brief list of meaningless filler phrases:
 - For all intents and purposes
 - Touch base
 - Integrating quality solutions
-- Promoting an informed and inclusive multicultural society
-- Strategically engaging schools, community organizations, and so on...
+- Promoting an informed and synergistic teams
+- Strategically engaging departments, and so on...
 
 </div>

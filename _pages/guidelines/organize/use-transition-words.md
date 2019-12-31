@@ -29,7 +29,7 @@ Pointing words – including _this_, _that_, _these_, _those_, and _the_ – ref
 
 Echo links are words or phrases that echo a previously mentioned idea. They often work together with pointing words.
 
-In the example above, you've just written a paragraph about how strip mining removes the top surface of the land to get at the coal under it. If you then begin the next paragraph with "this scaring of the earth," the words "scarring of the earth" are an echo of the mining process described in the previous paragraph.
+In the example above, you've just written a paragraph about how strip mining removes the top surface of the land to get at the coal under it. If you then begin the next paragraph with "this scarring of the earth," the words "scarring of the earth" are an echo of the mining process described in the previous paragraph.
 
 ### Explicit connectives
 
