@@ -40,7 +40,7 @@
     {% endif %}
 
     <!-- Sitemap-->
-    <link rel="sitemap" type="application/xml" title="{{ site.title }} Sitemap" href="/sitemap.xml" />
+    <link rel="sitemap" type="application/xml" title="{{ site.title }} Sitemap" href="{{ "/sitemap.xml" | absolute_url }}" />
 
     {% include meta.html %}
     {% include styles.html %}
