@@ -20,9 +20,10 @@ sitewide_notification:
     If the federal government shuts down, we will not respond to email or to training requests.
 
 theme: uswds-jekyll
-
+url: "https://plainlanguage.gov" # the base hostname & protocol for your site
 plugins:
   - jekyll-redirect-from
+  - jekyll-sitemap
 
 exclude:
   - CONTRIBUTING.md
