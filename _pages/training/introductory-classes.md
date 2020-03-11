@@ -25,22 +25,11 @@ In light of OPM guidance and increasing concerns about COVID-19 (coronavirus), w
 - 10–30 minute overview of the Plain Writing Act of 2010
 - Assessment of benefits of using plain language
 
-<! ––## Request training
+## Request training
 
-We schedule classes on a first-come, first-serve basis, depending on trainer availability. We believe that in-person training is the best method and do not offer webinars or virtual classes. Please request training **at least 3-6 months in advance**.
+**NOTE:** In light of OPM guidance and increasing concerns about COVID-19 (coronavirus), we are suspending accepting training requests.
 
-You must have a .gov or .mil email address to register. [Complete this form](https://goo.gl/forms/fRsKV5i9bwvOTeE73), or [email us](mailto:training@plainlanguage.gov) if you can’t access Google Apps.
 
-Let us know:
-
-- Which federal agency you work for
-- If this is an official request from your agency
-- Where your office is located
-- Which class you're interested in
-- Which month or specific date you'd like the classes (we schedule about 3–6 months in advance)
-- How many federal employees will attend (we train 20–35 people per session)
-
-After reviewing your request, a training coordinator will email you to set up the details. **We will only contact you if you are a federal employee officially requesting training on behalf of your agency or if you have a question about officially requesting training.**––>
 
 ### Please note
 
