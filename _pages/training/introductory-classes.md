@@ -10,6 +10,8 @@ PLAIN is dedicated to helping federal agencies train their staff to communicate 
 
 We offer free, half-day training classes for federal agencies. All of our classes are based on the [Federal Plain Language Guidelines]({{ site.baseurl }}/guidelines/) and involve interactive writing exercises.
 
+In light of OPM guidance and increasing concerns about COVID-19 (coronavirus), we are suspending accepting training requests.
+
 ## Class descriptions
 
 ### Principles of plain language
@@ -23,7 +25,7 @@ We offer free, half-day training classes for federal agencies. All of our classe
 - 10–30 minute overview of the Plain Writing Act of 2010
 - Assessment of benefits of using plain language
 
-## Request training
+<! ––## Request training
 
 We schedule classes on a first-come, first-serve basis, depending on trainer availability. We believe that in-person training is the best method and do not offer webinars or virtual classes. Please request training **at least 3-6 months in advance**.
 
@@ -38,7 +40,7 @@ Let us know:
 - Which month or specific date you'd like the classes (we schedule about 3–6 months in advance)
 - How many federal employees will attend (we train 20–35 people per session)
 
-After reviewing your request, a training coordinator will email you to set up the details. **We will only contact you if you are a federal employee officially requesting training on behalf of your agency or if you have a question about officially requesting training.**
+After reviewing your request, a training coordinator will email you to set up the details. **We will only contact you if you are a federal employee officially requesting training on behalf of your agency or if you have a question about officially requesting training.**––>
 
 ### Please note
 
