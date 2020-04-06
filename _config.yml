@@ -14,10 +14,11 @@ github:
   default_branch: master
 
 sitewide_notification:
-  display: false
+  display: true
   heading: Information Status
   text: >-
-    If the federal government shuts down, we will not respond to email or to training requests.
+    In light of OPM guidance and increasing concerns about COVID-19 (coronavirus), we are suspending accepting training requests.
+
 
 theme: uswds-jekyll
 url: "https://plainlanguage.gov" # the base hostname & protocol for your site
