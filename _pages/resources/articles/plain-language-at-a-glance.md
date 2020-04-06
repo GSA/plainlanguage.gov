@@ -44,7 +44,7 @@ Justifying the right hand margin decreases readability because it causes the eye
 
 ### Capitalizing sentences
 
-It‘s very difficult to read sentences in all capital letters because it’s unnatural and the normal visual cues are missing. A short header is readable in all caps, but anything more strains the reader. Consider these other methods to highlight important information: boxing the information, changing type size or font, using italics, or a light screen.
+It’s very difficult to read sentences in all capital letters because it’s unnatural and the normal visual cues are missing. A short header is readable in all caps, but anything more strains the reader. Consider these other methods to highlight important information: boxing the information, changing type size or font, using italics, or a light screen.
 
 ### Use descriptive headers
 
