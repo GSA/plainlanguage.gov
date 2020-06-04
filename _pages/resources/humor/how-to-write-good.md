@@ -6,7 +6,7 @@ redirect_from:
   - /examples/humor/writegood.cfm
 ---
 
-The first set of rules was written by Frank L. Visco and originally published in the June 1986 issue of Writers' digest. The second set of rules is derived from William Safire's Rules for Writers.
+The first set of rules (1-23) was written by Frank L. Visco and originally published in the June 1986 issue of *Writers' Digest*. The second set of rules (24-53) is derived from William Safire's *Rules for Writers*.
 
 My several years in the word game have learnt me several rules:
 
@@ -33,6 +33,8 @@ My several years in the word game have learnt me several rules:
 21. Go around the barn at high noon to avoid colloquialisms.
 22. Even if a mixed metaphor sings, it should be derailed.
 23. Who needs rhetorical questions?
+
+
 24. Parenthetical words however must be enclosed in commas.
 25. It behooves you to avoid archaic expressions.
 26. Avoid archaeic spellings too.
