@@ -35,6 +35,8 @@ My several years in the word game have learnt me several rules:
 23. Who needs rhetorical questions?
 
 
+
+
 24. Parenthetical words however must be enclosed in commas.
 25. It behooves you to avoid archaic expressions.
 26. Avoid archaeic spellings too.
