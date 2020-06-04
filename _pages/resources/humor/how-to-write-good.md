@@ -32,11 +32,7 @@ My several years in the word game have learnt me several rules:
 20. The passive voice is to be avoided.
 21. Go around the barn at high noon to avoid colloquialisms.
 22. Even if a mixed metaphor sings, it should be derailed.
-23. Who needs rhetorical questions?
-
-
-
-
+23. Who needs rhetorical questions? <br /><br /><br /><Br />
 24. Parenthetical words however must be enclosed in commas.
 25. It behooves you to avoid archaic expressions.
 26. Avoid archaeic spellings too.
