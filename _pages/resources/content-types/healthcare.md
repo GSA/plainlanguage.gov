@@ -24,7 +24,7 @@ To get the best health outcomes, health-related decisions should be based on cle
 
 ## Further reading
 
-- The Office of Disease Prevention and Health Promotion hosts the [Health Literacy Improvement page](http://www.health.gov/communication/literacy/default.htm), which links to many useful health literacy tools and reports and other Department of Health and Human Service agency health literacy resources.
+- The Office of Disease Prevention and Health Promotion hosts the [Health Literacy Improvement page](https://health.gov/our-work/health-literacy), which links to many useful health literacy tools and reports and other Department of Health and Human Service agency health literacy resources.
 
 - MedlinePlus offers [guidelines and resources](https://medlineplus.gov/etr.html) to help you create easy-to-read health materials.
 
