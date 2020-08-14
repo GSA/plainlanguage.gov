@@ -22,6 +22,8 @@ There are many important books about plain language. Most of them are not availa
 
 - _Garner's Modern English Usage_, Bryan Garner. More information than you will ever need to know about lexicography and the nuances of the English language.
 
+- [How to Write Clearly](https://op.europa.eu/s/n9L3), European Commision.  Guidelines to write clear documents.
+
 - _How to Write Short_, Roy Peter Clark.
 
 - _If I Understood You, Would I Have This Look on My Face? Relating to and Communicating with Others, from the Boardroom to the Bedroom_, Alan Alda.
