@@ -8,6 +8,7 @@
     "guidelines-copy": "cp media/FederalPLGuidelines.* howto/guidelines/FederalPLGuidelines/",
     "guidelines-mkdir": "mkdir -p howto/guidelines/FederalPLGuidelines/",
     "federalist": "npm run build-js && npm run guidelines",
+    "test:pa11y": "pa11y-ci --config .pa11yci --sitemap http://localhost:4000/sitemap.xml",
     "watch-js": "webpack -w --config --progress --colors"
   },
   "repository": {
@@ -27,6 +28,7 @@
     "babel-preset-es2015": "^6.14.0",
     "basscss-sass": "^4.0.0",
     "jquery": "^3.5.0",
+    "pa11y-ci": "^2.3.0",
     "stickyfilljs": "^2.0.2",
     "webpack": "^1.13.2"
   }
