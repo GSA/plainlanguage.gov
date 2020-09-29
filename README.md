@@ -30,6 +30,22 @@ bundle exec jekyll serve
 
 If all goes well, visit the site at `http://localhost:4000`.
 
+## Accessibility tests
+
+We follow the WCAG2AA standard, and one of the ways we check that we're following the right rules is through automated tools, like [**pa11y**](https://github.com/pa11y/pa11y/). For more info on the rules being tested checkout the [pa11y wiki](https://github.com/pa11y/pa11y/wiki/HTML-CodeSniffer-Rules).
+
+### Running tests
+
+To run a web accessibility test on digital.gov do the following:
+
+1. Install and run the site locally following the `Running the site locally` instructions above. *Site must be running locally to perform the scan.*
+
+- If this is your first time running pa11y, then you'll need to run `npm install` to make sure pa11ly is installed.
+
+2. In a separate terminal window, run `npm run test:pa11y` to initiate the accessibility checker.
+
+*Note:* Accessibility testing configuration is located in the .pa11yci file.
+
 ## Contributing
 
 To provide feedback on plainlanguage.gov, follow this repository and [open an issue in the repo](https://github.com/GSA/plainlanguage.gov/issues/new).
