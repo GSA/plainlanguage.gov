@@ -8,7 +8,7 @@
     "guidelines-copy": "cp media/FederalPLGuidelines.* howto/guidelines/FederalPLGuidelines/",
     "guidelines-mkdir": "mkdir -p howto/guidelines/FederalPLGuidelines/",
     "federalist": "npm run build-js && npm run guidelines",
-    "test:pa11y": "pa11y-ci --config .pa11yci --sitemap https://plainlanguage.gov/sitemap.xml ",
+    "test:pa11y": "pa11y-ci --config .pa11yci --sitemap http://localhost:4000/sitemap.xml",
     "watch-js": "webpack -w --config --progress --colors"
   },
   "repository": {
