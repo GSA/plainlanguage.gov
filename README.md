@@ -1,26 +1,30 @@
 # plainlanguage.gov
 
-This is the public repo for [plainlanguage.gov](http://www.plainlanguage.gov), which is an online resource to help federal employees understand and comply with the Plain Writing Act of 2010. It represents a joint effort by the Plain Language Action and Information Network (PLAIN) and the General Services Administration.
+This is the public repo for [plainlanguage.gov](http://www.plainlanguage.gov), which is an online resource to help federal employees understand and comply with the Plain Writing Act of 2010. It represents a joint effort by the Plain Language Action and Information Network (PLAIN) and the General Services Administration Technology Transformation Services.
 
 ## About the site
 
-* This site uses [Jekyll](https://jekyllrb.com), a Ruby-based static site generator. For more information about using Jekyll, refer to the [Jekyll documentation](http://jekyllrb.com/docs/home/).
+* This site uses [Jekyll](https://jekyllrb.com/docs/), a Ruby-based static site generator. For more information about using Jekyll and additional install instructions, refer to the [Jekyll documentation](http://jekyllrb.com/docs/home/).
 
 * The site is built with the [U.S. Web Design Standards](https://standards.usa.gov), a set of reusable, high-quality components for modern websites. We're using the Web Design Standards [Jekyll theme](https://github.com/18F/uswds-jekyll) with some customized styles and [Font Awesome](http://fontawesome.io/license/) icons.
 
 * The site is optimized for deployment on 18F's [Federalist](https://federalist.18f.gov) publishing service.
 
-## Running the site locally
+### Before you start
 
-After cloning the repo, install Jekyll and any necessary dependencies using:
+You will need to have the following installed on your machine before following the commands below:
 
-```
-npm install
-```
+* Ruby v2.7.1+, [Installation guides](https://www.ruby-lang.org/en/documentation/installation/)
+* Fork this repo
+* Clone the repo you just forked
 
-```
-bundle install
-```
+### Basic setup
+
+1. Install Jekyll and Bundler: `gem install bundler jekyll` 
+1. Install gem dependencies `bundle install`
+1. Install node dependencies `npm install`
+
+### Running the site locally
 
 To run the site locally, from the project folder, run:
 
@@ -29,6 +33,8 @@ bundle exec jekyll serve
 ```
 
 If all goes well, visit the site at `http://localhost:4000`.
+
+Note that this method will rebuild the entire site every time you make a change to any file. If you want faster builds, you can use `bundle exec jekyll incrementalserve`, which comes with [some caveats](https://jekyllrb.com/docs/configuration/incremental-regeneration/), notably only changed files will be rebuilt. This means if you change a data file, HTML pages that use that data file won't be updated.
 
 ## Accessibility tests
 
