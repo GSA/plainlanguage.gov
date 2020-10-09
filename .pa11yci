@@ -1,0 +1,8 @@
+{
+  "defaults": {
+  "timeout": 100000,
+  "wait": 1000,
+  "standard": "WCAG2AA",
+  "concurrency": 2
+  }
+}
