@@ -19,7 +19,7 @@ A recent National Science Foundation study shows that:
 
 - [Scientists Need Plain Language]({{ site.baseurl }}{% link _pages/resources/articles/scientists-need-plain-language.md %}), by Lily Whiteman.
 
-- [Worlds Apart: How the Distance Between Science and Journalism Threatens America's Future](http://www.firstamendmentcenter.org/publications/worldsapart).
+- [Worlds Apart: How the Distance Between Science and Journalism Threatens America's Future](http://www.freedomforuminstitute.org/wp-content/uploads/2016/10/worldsapart.pdf).
 
 ## Organizations
 
