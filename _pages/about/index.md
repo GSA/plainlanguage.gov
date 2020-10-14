@@ -11,7 +11,7 @@ redirect_from:
   - /site/about.cfm
 ---
 
-The Plain Language Action and Information Network (PLAIN) is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing. Originally called the Plain English Network, PLAIN has been meeting informally since the mid 1990s.
+The Plain Language Action and Information Network (PLAIN) is an unfunded working group of federal employees from different agencies and specialties who support the use of clear communication in government writing. Originally called the Plain English Network, PLAIN has been meeting informally since the mid 1990s.
 
 Our goal is to promote the use of plain language for all government communications. We believe that using plain language will save federal agencies time and money and provide better service to the American public.
 
