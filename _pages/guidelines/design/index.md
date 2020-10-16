@@ -15,13 +15,13 @@ sources:
 
 We want our writing to help people get information, comply with requirements, and apply for benefits with the least possible burden. Dense, cluttered writing deters people from taking the time to read.
 
-We've heard from many readers that when they get a dense, uninviting letters or notices from the government, they often put it in the "read later" pile, even though they know they should read it right away.
+We've heard from many readers that when they get dense, uninviting letters or notices from the government, they often put it in the "read later" pile, even though they know they should read it right away.
 
-Designing for reading is an important part of developing effective communications. Writing that legible and well-organized is far easier to understand than more traditional styles. Even with regulations and the limits of publishing in the Code of Federal Regulations, you can use design elements to help users read and understand the information.
+Designing for reading is an important part of developing effective communications. Writing that is legible and well-organized is far easier to understand than more traditional styles. Even with regulations and the limits of publishing in the Code of Federal Regulations, you can use design elements to help users read and understand the information.
 
 ## Organize the information
 
-- Limit the page to five or six sections (about two per printed page).
+- Limit the document to five or six sections (about two per printed page).
 - [Add useful headings]({{ site.baseurl }}{% link _pages/guidelines/organize/add-useful-headings.md %}) to help people skim and scan the page.
 - [Use lists]({{ site.baseurl }}{% link _pages/guidelines/organize/use-lists.md %}) to break up the text and outline steps in a process.
 - Avoid having lists within lists or several levels of information.
@@ -37,7 +37,7 @@ Designing for reading is an important part of developing effective communication
 
 - Select a serif font for the body text (like Times Roman).
 - Don't mix fonts within the body.
-- Don't use more than one or two typefaces.
+- Don't use more than two or three typefaces.
 - Select a sans serif font for the headings (like Arial).
 
 ### Shading and borders
@@ -65,7 +65,7 @@ Use shading and borders only to accent graphs, charts, etc.
 
 ## Before you finish
 
-- Take a long look at the appearance of the letter for eye-appeal
-- Be sure the letter does not look visually confusing
-- Don't overuse layout and typographical devices
-- Check for odd shapes (the "hourglass effect") that may have unintentionally been created as you composed the letter
+- Take a long look at the appearance of the item for eye-appeal.
+- Be sure it doesn't look visually confusing.
+- Don't overuse layout and typographical devices.
+- Check for odd shapes (the "hourglass effect") that may have unintentionally been created.
