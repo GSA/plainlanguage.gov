@@ -49,7 +49,7 @@ Good web content uses:
 
 - **Chunked content:** Don't try to pack everything into long paragraphs. Split topics up into logical sections separated by informative headings.
 
-- **Only necessary information:** Use only the information your users need to achieve their tops tasks. Omit unnecessary information.
+- **Only necessary information:** Use only the information your users need to achieve their top tasks. Omit unnecessary information.
 
 ### Remember
 
