@@ -38,7 +38,7 @@ Dockets](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inf
 
 * PLAIN issued [guidelines for implementing the presidential memos]({{ site.baseurl }}{% link _pages/about/history/memo-guidelines.md %}) in 1998.
 
-* President Clinton issued a [Memorandum on Plain Language in Government Writing](http://www.presidency.ucsb.edu/ws/?pid=56067) in 1998.
+* President Clinton issued a [Memorandum on Plain Language in Government Writing](https://www.govinfo.gov/content/pkg/WCPD-1998-06-08/pdf/WCPD-1998-06-08-Pg1010.pdf) in 1998.
 
 * President Clinton signed two executive orders: [E.O. 12866](https://www.archives.gov/files/federal-register/executive-orders/pdf/12866.pdf) in 1993 and [E.O. 12988](https://www.gpo.gov/fdsys/pkg/FR-1996-02-07/pdf/96-2755.pdf) in 1996.
 
