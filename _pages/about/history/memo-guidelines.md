@@ -7,7 +7,7 @@ redirect_from:
   - /whatisPL/govmandates/memo.cfm
 ---
 
-_This guidance was issued in July 1998 to accompany [President Clinton's Memorandum on Plain Language in Government Writing](http://www.presidency.ucsb.edu/ws/?pid=56067)._
+_This guidance was issued in July 1998 to accompany [President Clinton's Memorandum on Plain Language in Government Writing](https://www.govinfo.gov/content/pkg/WCPD-1998-06-08/pdf/WCPD-1998-06-08-Pg1010.pdf)._
 
 ## Introduction
 
