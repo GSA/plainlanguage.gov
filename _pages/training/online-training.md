@@ -6,6 +6,8 @@ sidenav: training
 
 Plain language training is available in many forms. This page provides links to some of the plain language training resources we have found. If you know of any training resources that we've overlooked, please [contact us](mailto:{{ site.email }}).
 
+- U.S. government agencies are required to communicate in plain language. The Plain Language Action and Information Network (PLAIN) through Digital.gov held two online workshops to explain how to write in plain language. The materials are similar in both: [8-11-2020 workshop](https://digital.gov/event/2020/08/11/plain-language-basics-online-class/) and [9-10-2020 workshop](https://digital.gov/event/2020/09/10/taking-plain-language-workshop-online/). 
+
 - The Federal Aviation Administration has made its [basic course](https://www.faa.gov/about/initiatives/plain_language/basic_course/) and [plain language toolkit](https://www.faa.gov/about/initiatives/plain_language/media/toolkit.pdf) available online.
 
 - The National Institutes of Health offers a free plain language [training course](https://plainlanguage.nih.gov) that introduces you to the basics of plain language. It's not just for medical folks. The goal of this training is to help you learn to organize your ideas, use a clear writing style, and become a more effective communicator.
