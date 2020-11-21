@@ -37,7 +37,7 @@ For longer documents where finding information is also important do [usability t
 
 ### Paraphrase testing from the Veterans Benefits Administration
 
-Be aware that Veterans Benefits Administration refers to paraphrase testing as protocol testing. 
+Veterans Benefits Administration refers to paraphrase testing as protocol testing. 
 
 #### The information was so general that it would have generated calls:
 
