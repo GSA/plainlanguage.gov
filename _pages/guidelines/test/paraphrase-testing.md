@@ -37,6 +37,8 @@ For longer documents where finding information is also important do [usability t
 
 ### Paraphrase testing from the Veterans Benefits Administration
 
+Veterans Benefits Administration refers to paraphrase testing as protocol testing. 
+
 #### The information was so general that it would have generated calls:
 
 Veterans Benefits Administration tested a letter in which users appeared to understand every word. However, when asked what they would do if they got this letter, most people said they would call VBA's toll-free number.
