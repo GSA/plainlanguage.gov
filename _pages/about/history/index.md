@@ -9,7 +9,7 @@ redirect_from:
   - /whatisPL/history/index.cfm
 ---
 
-This timeline is an abbreviated and updated version of [A History of Plain Language in the Government]({{ site.baseurl }}{% link _pages/about/history/plain-language-in-the-government.md %}) by Joanne Locke.
+This timeline is an abbreviated and updated version of [A History of Plain Language in the Government]({{ site.baseurl }}{% link _pages/about/history/plain-language-in-the-government.md %}) by Joanne Locke. Additional plain language history is covered in [Plain Language in the U.S. Gains Momentum](https://www.plainlanguage.gov/media/Schriver%20Plain%20Language%20in%20US%20Gains%20Momentum%201940_2015%20Draft.pdf) by Karen A. Schriver. 
 
 ## 2010s
 
