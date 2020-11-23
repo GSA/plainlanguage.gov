@@ -45,5 +45,3 @@ To get the best health outcomes, health-related decisions should be based on cle
 ### Private sector support for health literacy
 
 - The [Health Literacy Special Collection](http://www.healthliteracy.worlded.org/) from World Education has resources for people doing any kind of health literacy work. This revised collection has more curricula, easy-to-read and multilingual health information, along with links to research and plain language sources.<br>
-
-- Here is a list of [plain language alternatives for commonly used medical terms](http://healthcare.partners.org/phsirb/consfrm_files/Plain_Language_Alternatives_for_Patient_Information_and_Consent_Materials.pdf).
