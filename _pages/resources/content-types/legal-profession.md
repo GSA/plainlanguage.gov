@@ -17,11 +17,11 @@ Support for plain-writing is growing in the legal professions, which bring us so
 
 ## Statutes and other legal documents
 
-* The Federal Judicial Center developed plain–language versions of different types of [class action notices](http://classaction.findlaw.com/notice/fjcback.html).
+* The Federal Judicial Center developed plain–language versions of different types of [class action notices](https://www.fjc.gov/content/301350/illustrative-forms-class-action-notices-notice-checklist-and-plain-language-guide).
 
 * California's [Civil Jury Instructions](http://www.courtinfo.ca.gov/jury/civiljuryinstructions/juryinst.htm)
 
-* Pennsylvania's [Plain Language Consumer Contract Act](http://library.findlaw.com/1999/Dec/1/126611.html) requires contracts to be in written in plain language.
+* Pennsylvania's [Plain Language Consumer Contract Act](https://corporate.findlaw.com/business-operations/the-pennsylvania-plain-language-law-keeping-contracts-simple.html) requires contracts to be in written in plain language.
 
 * England's Parliament passed a [Clearer Timeshare Act](http://www.clearest.co.uk/) in 1993
 
