@@ -40,7 +40,7 @@ Clear measures aren't always possible, but the best example comes from the state
 
 - 2003: Washington Department of Revenue launches "Straight Talk," training many employees and rewriting 250 customer letters into plain language in one year. The rewrite of one tax collection letter has yielded the state an additional $5 million to date and won a Governor's Award for Quality Performance in 2004.
 
-- 2003: Washington Department of Ecology launches "Plain Talk," training a core of in-house plain language experts, who now regularly [help programs create clear technical documents.](http://www.ecy.wa.gov/quality/plaintalk/index.htm)
+- 2003: Washington Department of Ecology launches "Plain Talk," training a core of in-house plain language experts, who now regularly help programs create clear technical documents.
 
 - 2003: Washington Department of Licensing rewrites one letter and finds that its hotline calls are reduced by 95 percent. Winner of the 2004 Governor's Award for Quality Performance.
 
@@ -52,4 +52,4 @@ Clear measures aren't always possible, but the best example comes from the state
 
 - 2004: Department of Information Systems launches its [rebuilt "Access Washington,"](http://access.wa.gov/) the state's home page and gateway to hundreds of online government services. The agency takes a year to study customers and conduct usability tests on its navigation and plain language rewrites. The effort is followed by web redesigns and rewrites in several additional state agencies.
 
-- March 2005: Newly elected Governor Christine Gregoire issued an executive order requiring all state agencies to adopt principles of "plain talk" so all letters, applications and instructions are written in a language that is understandable to citizens, instead of bureaucratic jargon.
+- March 2005: Newly elected Governor Christine Gregoire issued [Executive Order 05-03](https://www.governor.wa.gov/sites/default/files/exe_order/eo_05-03.pdf) requiring all state agencies to adopt principles of ["Plain Talk"](https://www.governor.wa.gov/issues/issues/efficient-government/plain-talk) so all letters, applications and instructions are written in a language that is understandable to citizens, instead of bureaucratic jargon.
