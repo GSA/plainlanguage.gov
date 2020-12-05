@@ -26,7 +26,7 @@ To get the best health outcomes, health-related decisions should be based on cle
 
 - The Office of Disease Prevention and Health Promotion hosts the [Health Literacy Improvement page](https://health.gov/our-work/health-literacy), which links to many useful health literacy tools and reports and other Department of Health and Human Service agency health literacy resources.
 
-- MedlinePlus offers [guidelines and resources](https://medlineplus.gov/etr.html) to help you create easy-to-read health materials.
+- MedlinePlus offers [guidelines and resources](https://medlineplus.gov/healthliteracy.html) to help you create easy-to-read health materials.
 
 - The Agency for Healthcare Research and Quality prepared this [summary of Literacy and Health Outcomes](https://www.ahrq.gov/professionals/clinicians-providers/guidelines-recommendations/index.html). You can get a printed copy of the full report free from the AHRQ Publications Clearinghouse. Call 800-358-9295 and ask for _Evidence Report/Technology Assessment No. 87, Literacy and Health Outcomes_.
 
