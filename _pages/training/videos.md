@@ -8,7 +8,7 @@ redirect_from:
 
 ## Featured video
 
-<iframe title="Plain Language Summit 2020" width="560" height="315" src="https://www.youtube.com/watch?v=EsJh0GuGYDA&list=PLd9b-GuOJ3nETsYR0Q5QHxRFpyRvNhyms" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Plain Language Summit 2020" width="560" height="315" src="https://www.youtube.com/embed/EsJh0GuGYDA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## YouTube playlists
 
