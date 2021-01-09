@@ -1,3 +1,8 @@
+- department: U.S. Patent and Trademark Office
+  contacts:
+    - name: Eric Atkisson
+      email: eric.atkisson@uspto.gov
+      title: Director Of Communications
 - department: National Institute of Corrections
   website: http://www.nicic.gov/plainlanguage
   contacts:
@@ -284,7 +289,7 @@
     - name: Steven Patrick
       title: Associate Commissioner, Office of Public Inquiries
       email: steven.patrick@ssa.gov
-- department: United States Agency for International Development
+- department: U.S. Agency for International Development
   website: http://www.usaid.gov/open/
   officials:
     - name: Angelique Crumbly
