@@ -32,7 +32,7 @@ redirect_from:
 
 - [Descriptive Link Language](https://www.youtube.com/watch?v=H_XLTAEp6lQ)
 
-- [Plain Language Training](https://www.dvidshub.net/video/540372/plain-language-training), Department of Defense
+- [Plain Language Training](https://www.esd.whs.mil/Portals/54/Documents/DD/iss_training/PlainLanguageNONinteractive.mp4?ver=2020-02-03-145233-077), Department of Defense
 
 - [How to Use Plain Language on a Government Website](https://www.youtube.com/watch?v=QtXSCwphuzg), DigitalGov
 
