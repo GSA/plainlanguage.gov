@@ -12,7 +12,7 @@ Plain language training is available in many forms. This page provides links to 
 
 - The National Institutes of Health offers a free plain language [training course](https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/clear-communication/plain-language/plain-language-getting-started-or-brushing) that introduces you to the basics of plain language. It's not just for medical folks. The goal of this training is to help you learn to organize your ideas, use a clear writing style, and become a more effective communicator.
 
-- The Centers for Disease Control has an [online health literacy training](https://www.cdc.gov/healthliteracy/gettraining.html) for health professionals.
+- The Centers for Disease Control and Prevention has an [online health literacy training](https://www.cdc.gov/healthliteracy/gettraining.html) for health professionals.
 
 - The Centers for Medicare and Medicaid Services developed a [Toolkit for Making Written Material Clear and Effective](https://www.cms.gov/Outreach-and-Education/Outreach/WrittenMaterialsToolkit/index.html). It focuses on healthcare and health literacy, but its principles can be used for any discipline.
 
