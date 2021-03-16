@@ -13,3 +13,5 @@ We are currently seeking volunteers to help us:
 - manage the [plain language community of practice](https://www.digitalgov.gov/communities/plain-language/)
 
 Please [contact us](mailto:{{ site.email }}) if you’re interested in becoming a volunteer.
+
+We can only accept help from federal government employees.
