@@ -70,7 +70,7 @@ redirect_from:
   <div class="usa-grid">
     <h2 class="mt0">About us</h2>
     <div class="usa-width-two-thirds md-pr5">
-    <p class="usa-font-lead">The Plain Language Action and Information Network (PLAIN) is a community of federal employees dedicated to the idea that citizens deserve clear communications from government. We believe that using plain language saves federal agencies time and money and provides better service to the American public.</p>
+    <p class="usa-font-lead">The Plain Language Action and Information Network (PLAIN) is a community of federal employees dedicated to the idea that citizens deserve clear communication from government. We believe that using plain language saves federal agencies time and money and provides better service to the American public.</p>
     </div>
     <div class="usa-width-one-third">
       <h3>Subscribe to our mailing list</h3>
