@@ -41,7 +41,7 @@ Martin Cutts has battled gobbledygook in Great Britain for 25 years. Here's an [
 
 Sandeep Dave provides advice to legal writers in [Plain Language in Law](https://www.llrx.com/2002/11/features-plain-language-in-law/).
 
-[The Scribes Journal of Legal Writing](http://scribes.org) has published many important articles on plain language. You can find the table of contents for each volume at the Scribes website.
+[The Scribes Journal of Legal Writing](https://www.michbar.org/generalinfo/plainenglish/home) has published many important articles on plain language. You can find the table of contents for each volume at the Scribes website.
 
 [Law and Justice Foundation](http://www.lawfoundation.net.au/information) of New South Wales, Australia, "seeks to advance the fairness and equity of the justice system, and to improve access to justice, especially for socially and economically disadvantaged people." The Foundation sees plain legal writing as an essential element of this goal. Its website includes information on guides to plain language writing and access to its free bi-monthly plain language law newsletter.
 
