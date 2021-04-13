@@ -266,11 +266,9 @@
 - department: Office of Personnel Management
   website: http://www.opm.gov/plainlanguage/
   officials:
-    - name: Jozetta Robinson
-      title: Director of the Executive Secretariat
-    - name: Jackie Koszczuk
-      title: Director, Office of Communications
-  contacts: execsec@opm.gov
+    - name: Steve Hickman
+      title: Acting Executive Secretary
+  contacts: OPMExecSec@opm.gov
 - department: Pension Benefit Guaranty Corporation
   website: http://www.pbgc.gov/about/pbgc-in-plain-english.html
   officials:
