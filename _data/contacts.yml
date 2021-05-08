@@ -1,3 +1,12 @@
+- department: U.S. Federal Labor Relations Authority 
+  website: https://www.flra.gov/plain_language
+  contacts: 
+    - name: Aloysius Hogan, Esq. 
+      email: ahogan@flra.gov  
+- department: U.S. Agency for Global Media 
+  contacts:
+    - name: Pamela Prah
+      email: pprah@usagm.gov 
 - department: U.S. Patent and Trademark Office
   contacts:
     - name: Eric Atkisson
@@ -9,6 +18,11 @@
     - name: Donna Ledbetter
       email: dledbetter@bop.gov
       title: Writer/Editor, Director's Office
+- department: Agency for Healthcare Research and Quality
+  website: https://www.ahrq.gov/policy/electronic/plain-writing/index.html
+  contacts: 
+    - name: Bruce Seeman
+      title: Media Relations Director
 - department: Consumer Finance Protection Bureau
   website: http://www.consumerfinance.gov/plain-writing/
   officials:
@@ -47,9 +61,9 @@
 - department: Department of Defense
   website: http://www.esd.whs.mil/DD/plainlanguage/
   officials:
-    - name: Michael L. Rhodes
-      title: Director of Administration and Management
-  contacts: DoDPlainLanguage@whs.mil
+    - name: Thomas Muir
+      title: Acting Director of Administration and Management
+  contacts: whs.mc-alex.esd.mbx.dod-plain-language@mail.mil
 - department: Department of Education
   website: http://www.ed.gov/plain-language
   officials:
