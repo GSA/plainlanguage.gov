@@ -46,7 +46,7 @@ _John Locke, 1690_
 Write for a scientist in another field. Don't underestimate your readers' intelligence, but don't overestimate their knowledge of a particular field. When writing about science, don't simplify the science; simplify the writing.<br>
 _Julie Ann Miller, Editor of Science News_
 
-I have made this letter longer that usual because I lack the time to make it shorter.<br>
+I have made this letter longer than usual because I lack the time to make it shorter.<br>
 _Blaise Pascal_
 
 Without the crucial ability to write clearly and forcefully, you will find the process of getting support for your work more difficult. _David Porush, author of A Short Guide to Writing about Science, talking about applying for research funds._
