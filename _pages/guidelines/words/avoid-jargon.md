@@ -20,8 +20,6 @@ sources:
     date: 2006
     publisher: 'Carolina Academic Press, Durham, NC'
     page: pp.173-174
-  - title: 'Writing Better: Tips for Avoiding Cliches, Jargon and Other Filler'
-    link: 'http://www.contentini.com/writing-better-tips/'
   - author: 'Redish, Janice C.'
     title: Writing Web Content that Works
     date: 2007

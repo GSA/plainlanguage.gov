@@ -16,6 +16,6 @@ sidenav: resources
 
 ## Handouts and posters
 
-* [Plain Language Planner for Palliative Care](http://communicatecomfort.com/wp-content/uploads/2016/04/PLP-Card-DIGITAL.pdf) (PDF), City of Hope Cancer Center
+* [Plain Language Planner for Palliative Care](https://static1.squarespace.com/static/5fd3dd562e258725ddb590da/t/6010a031d0afaa19441a6830/1611702321823/PLP_DigitalCard.pdf) (PDF), The COMFORT Communication Project
 * [Make Your Words Count](http://govdesign.tumblr.com/post/158516979708/download-the-sticker-make-your-words-count), GOV.UK
 * [Content is the User Experience](http://govdesign.tumblr.com/post/142396578228/download-the-posters-content-design-posters), GOV.UK
