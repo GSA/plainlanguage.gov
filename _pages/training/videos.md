@@ -20,7 +20,9 @@ redirect_from:
 
 ## PLAIN Meetings
 
-- [April 2021 Meeting: How Testing Your Documents Can Improve Plain Language Compliance](https://digital.gov/event/2021/04/14/how-testing-your-documents-can-improve-plain-language-compliance/)
+-  [June 2021 Meeting: Using Words to Build Better Digital Experiences](https://digital.gov/event/2021/06/09/plain-language-webinar-using-words-to-build-better-digital-experiences/)
+-  [May 2021 Meeting: Positioning Yourself as a Plain Language Editor](https://digital.gov/event/2021/05/19/positioning-yourself-as-a-plain-language-editor/)
+-  [April 2021 Meeting: How Testing Your Documents Can Improve Plain Language Compliance](https://digital.gov/event/2021/04/14/how-testing-your-documents-can-improve-plain-language-compliance/)
 - [March 2021 Meeting: Plain Language: Accessibility for Content](https://www.youtube.com/watch?v=n_WYcQnVOf4&t=4s)
 - [February 2021 Meeting: Plain Language: Virtual Teaching](https://www.youtube.com/watch?v=NBCxGDtYaXw&t=3s)
 - [July 2020 Meeting: Federal Plain Language Report Card Update](https://digital.gov/event/2020/07/15/federal-report-card-update/)
