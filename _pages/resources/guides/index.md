@@ -15,6 +15,7 @@ redirect_from:
 - [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/plain-writing/)
 - [Department of Agriculture](https://www.usda.gov/plain-writing)
 - [Department of Defense](http://www.esd.whs.mil/DD/plainlanguage/)
+- [Department of Veterans Affairs](https://design.va.gov/content-style-guide/) (and related [Design System](https://design.va.gov/))
 - [Environmental Protection Agency](https://www.epa.gov/home/plain-writing)
 - [Federal Aviation Administration](https://www.faa.gov/about/initiatives/plain_language/)
   - [Federal Aviation Administration Writing Standards](https://www.faa.gov/documentlibrary/media/order/branding_writing/order1000_36.pdf)
