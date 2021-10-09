@@ -40,7 +40,7 @@ Executive departments and agencies must:
 
 1. Use plain language in any document that:
   - is necessary for obtaining any federal government benefit or service or filing taxes
-  - provides information about an federal government benefit or service, or
+  - provides information about a federal government benefit or service, or
   - explains to the public how to comply with a requirement that the federal government administers or enforces
 2. Write annual compliance reports and post these reports on its plain language web page.
 
