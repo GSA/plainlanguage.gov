@@ -41,7 +41,3 @@ To get the best health outcomes, health-related decisions should be based on cle
 - The National Library of Medicine provides [bibliographies](http://www.nlm.nih.gov/services/queries/health_literacy.html), sorted by year, citing many documents about health literacy.
 
 - The Harvard School of Public Health assembled this [bibliography of Health Literacy Studies](https://www.hsph.harvard.edu/healthliteracy/).
-
-### Private sector support for health literacy
-
-- The [Health Literacy Special Collection](http://www.healthliteracy.worlded.org/) from World Education has resources for people doing any kind of health literacy work. This revised collection has more curricula, easy-to-read and multilingual health information, along with links to research and plain language sources.<br>
