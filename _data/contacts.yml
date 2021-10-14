@@ -13,7 +13,7 @@
       email: eric.atkisson@uspto.gov
       title: Director Of Communications
 - department: National Institute of Corrections
-  website: http://www.nicic.gov/plainlanguage
+  website: https://nicic.gov/plainlanguage
   contacts:
     - name: Donna Ledbetter
       email: dledbetter@bop.gov
@@ -114,7 +114,7 @@
 - department: Department of Interior
   website: https://www.doi.gov/plainlanguage
   officials:
-    - name: Meghan Conklin
+    - name: Mark Patrick
       title: Associate Deputy Secretary
 - department: Department of Justice
   website: http://www.justice.gov/open/plainlanguage.html
@@ -154,7 +154,7 @@
 - department: Department of Veterans Affairs
   website: http://www.va.gov/opa/Plain_Language.asp
   officials:
-    - name: Tonia Bock
+    - name: Carrie McVicker
       title: Executive Secretary
   contacts: VAPlainLanguage@va.gov
 - department: Environmental Protection Agency
