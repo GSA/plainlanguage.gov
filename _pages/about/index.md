@@ -24,7 +24,9 @@ To promote plain language, we:
 
 We meet monthly to discuss plain language issues. Our meetings are open to all federal employees. [Subscribe to our mailing list](https://www.digitalgov.gov/communities/plain-language/) to learn about upcoming events.
 
-Please [contact us](mailto:{{ site.email }}) if you have questions about how to promote plain language within your agency. We can only accept help from federal government employees. 
+Please [contact us](mailto:{{ site.email }}) if you have questions about how to promote plain language within your agency. 
+
+We can only accept **volunteer** help from federal government employees. We are unable to approve membership requests from or accept assistance from international governments. 
 
 ## Our officers
 
