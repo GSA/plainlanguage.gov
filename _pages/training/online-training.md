@@ -12,7 +12,7 @@ Plain language training is available in many forms. This page provides links to 
 
 - The Centers for Medicare and Medicaid Services developed a [Toolkit for Making Written Material Clear and Effective](https://www.cms.gov/Outreach-and-Education/Outreach/WrittenMaterialsToolkit/index.html). It focuses on healthcare and health literacy, but its principles can be used for any discipline.
 
-- The Deparment of Defense [training](https://www.esd.whs.mil/Portals/54/Documents/DD/iss_training/PlainLanguageNONinteractive.mp4?ver=2020-02-03-145233-077) covers what plain language is, why you should write in plain language, and how to write in plain language. 
+- The Department of Defense [training](https://www.esd.whs.mil/Portals/54/Documents/DD/iss_training/PlainLanguageNONinteractive.mp4?ver=2020-02-03-145233-077) covers what plain language is, why you should write in plain language, and how to write in plain language. 
 
 - The Department of the Army made their [training for staff officers]({{ site.baseurl }}/media/actionoff.pdf) (PDF) available to us.
 
