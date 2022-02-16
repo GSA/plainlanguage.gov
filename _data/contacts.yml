@@ -147,7 +147,7 @@
       title: Deputy Executive Secretary
   contacts: plainwriting@treasury.gov
 - department: Internal Revenue Service
-  website: http://www.irs.gov/uac/plain-language-at-irs
+  website: https://home.treasury.gov/subfooter/site-policies-and-notices/plain-writing
   officials:
     - name: Terry Lemons
       title: Chief, Communications & Liaison
@@ -197,12 +197,13 @@
       title: Senior Advisor
   contacts: plainlanguage@fhfa.gov
 - department: Federal Maritime Commission
-  website: http://www.fmc.gov/about/plain_language_guidelines.aspx
+  website: https://www.fmc.gov/about-the-fmc/plain-language-guidelines-plan-and-report/
   officials:
     - name: Karen V. Gregory
       title: Secretary
   contacts: secretary@fmc.gov
 - department: Federal Trade Commission
+  website: https://www.ftc.gov/site-information/plain-writing
   officials:
     - name: Christian S. White
       title: Deputy General Counsel
@@ -302,7 +303,7 @@
       title: Associate Commissioner, Office of Public Inquiries
       email: Susan.Camarena@ssa.gov
 - department: U.S. Agency for International Development
-  website: http://www.usaid.gov/open/
+  website: https://www.usaid.gov/plain-writing
   officials:
     - name: Angelique Crumbly
       title: Acting Assistant to the Administrator, Bureau for Management
