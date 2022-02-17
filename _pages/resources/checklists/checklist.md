@@ -20,5 +20,4 @@ Use this checklist to see if your document meets plain language standards. (If y
 - [uses concrete, familiar words]({{ site.baseurl }}/guidelines/words/use-simple-words-phrases/)
 - [uses "must" to express requirements; avoids the ambiguous word "shall"]({{ site.baseurl }}/guidelines/conversational/use-must-to-indicate-requirements/)
 - [places words carefully]({{ site.baseurl }}/guidelines/words/place-words-carefully/) (avoids large gaps between the subject, the verb and the object; puts exceptions last; places modifiers correctly)
-- uses [lists]({{ site.baseurl }}/guidelines/organize/use-lists/) and [tables]({{ site.baseurl }}/guidelines/design/use-tables-to-make-complex-material-easier-to-understand/) to simplify complex material
-- [uses no more than two or three subordinate levels]({{ site.baseurl }})
+- uses [lists]({{ site.baseurl }}/guidelines/organize/use-lists/) with no more than two or three subordinate levels and [tables]({{ site.baseurl }}/guidelines/design/use-tables-to-make-complex-material-easier-to-understand/) to simplify complex material
