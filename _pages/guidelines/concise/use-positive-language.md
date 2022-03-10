@@ -26,7 +26,7 @@ sources:
     page: pp. 75-76
 ---
 
-We're accustomed to thinking and speaking positively. When we write in the negative, we place another stumbling block in audience's way and make it more difficult for them to understand us. When you're going to meet a friend at the airport, do you say, "If you fail to arrive by 5:00, I cannot pick you up," or do you say, "You have to arrive by 5:00 if you want me to pick you up?"
+We're accustomed to thinking and speaking positively. When we write in the negative, we place another stumbling block in audience's way and make it more difficult for them to understand us. When you're going to meet a friend at the airport, do you say, "If you fail to arrive by 5:00, I cannot pick you up," or do you say, "You have to arrive by 5:00 if you want me to pick you up"?
 
 ## Avoid double negatives
 
