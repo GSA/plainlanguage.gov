@@ -17,7 +17,7 @@ sitewide_notification:
   display: true
   heading: Information Status
   text: >-
-    In light of OPM guidance and increasing concerns about COVID-19 (coronavirus), we are suspending accepting training requests.
+    We have suspended in-person training. We are accepting requests for virtual training only. Only federal agencies can request training; classes depend on whether we have trainers available. [Learn more on our training page.](https://www.plainlanguage.gov/training/)
 
 
 theme: uswds-jekyll
