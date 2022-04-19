@@ -20,6 +20,8 @@ sources:
     publisher: W3C
   - title: '18F Content Guide: Link Text'
     link: 'https://content-guide.18f.gov/urls-and-filenames/#link-text'
+  - title: U.S. Web Design System: Links
+  - link: https://designsystem.digital.gov/components/link/
 ---
 
 Links are about both content and navigation. Effective link names are key to satisfying your customers. Eyetracking studies show that links written in plain language are the most effective. Plain language links are written clearly so that the user understands exactly where the link will take them.
