@@ -32,5 +32,8 @@
     "pa11y-ci": "^2.3.0",
     "stickyfilljs": "^2.0.2",
     "webpack": "^5.72.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.9.2"
   }
 }
