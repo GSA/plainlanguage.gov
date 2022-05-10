@@ -44,8 +44,8 @@
     - name: Jerry Mande
       title: Senior Advisor to the Under Secretary for Food, Nutrition, and Consumer Services
   contacts:
-    - name: Maureen Wood
-      email: plainlanguage@osec.usda.gov
+    - name: Perry Stevens
+      email: plainlanguage@usda.gov
 - department: Department of Commerce
   website: http://www.commerce.gov/plain-language
   officials:
@@ -81,9 +81,9 @@
 - department: Department of Health and Human Services
   website: http://www.hhs.gov/open/recordsandreports/plainwritingact/index.html
   officials:
-    - name: Oliver Potts
-      title: Deputy Executive Secretary and Plain Writing Coordinator
-  contacts: hhsplainwriting@hhs.gov
+    - name: Dr. Ekaterini Malliou
+      title: Senior Policy Coordinator, Immediate Office of the Secretary
+  contacts: PlainLanguage@hhs.gov
 - department: Centers for Disease Control and Prevention
   website: http://www.cdc.gov/other/plainwriting.html
 - department: Centers for Medicare &amp; Medicaid Services
@@ -114,8 +114,11 @@
 - department: Department of Interior
   website: https://www.doi.gov/plainlanguage
   officials:
-    - name: Mark Patrick
+    - name: Sarah Greenberger 
       title: Associate Deputy Secretary
+  contacts: 
+     - name: 
+       email: plainlanguage@ios.doi.gov
 - department: Department of Justice
   website: http://www.justice.gov/open/plainlanguage.html
   officials:
@@ -263,9 +266,12 @@
 - department: Occupational Safety and Health Review Commission
   website: https://www.oshrc.gov/plain-writing/
   officials:
-    - name: Donald G. Shalhoub
+    - name: Katherine Tracy
       title: Chief Counsel to the Chairman
-  contacts: plain@oshrc.gov
+      email: ktracy@oshrc.gov
+  contacts: 
+      - name: John X. Cerveny
+        email: jcerveny@oshrc.gov
 - department: Office of Management and Budget
   officials:
     - name: Lauren Wright
@@ -317,3 +323,7 @@
   contacts:
     - name: Cliff Tatum 
       email: ctatum@eac.gov
+- department: Advisory Council on Historic Preservation
+  officials: 
+    - name: Shayla Shrieves Hatlestad
+      title: Senior Writer-Editor
