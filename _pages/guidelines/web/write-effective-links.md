@@ -20,7 +20,7 @@ sources:
     publisher: W3C
   - title: '18F Content Guide: Link Text'
     link: 'https://content-guide.18f.gov/urls-and-filenames/#link-text'
-  - title: U.S. Web Design System: Links
+  - title: 'U.S. Web Design System: Links'
   - link: https://designsystem.digital.gov/components/link/
 ---
 
