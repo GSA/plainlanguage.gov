@@ -19,7 +19,6 @@ redirect_from:
 - [Environmental Protection Agency](https://www.epa.gov/home/plain-writing)
 - [Federal Aviation Administration](https://www.faa.gov/about/initiatives/plain_language/)
   - [Federal Aviation Administration Writing Standards](https://www.faa.gov/documentlibrary/media/order/branding_writing/order1000_36.pdf)
-- [Fish and Wildlife Service](https://www.fws.gov/pdm/plainlang.html)
 - [Government Publishing Office](https://www.govinfo.gov/content/pkg/GPO-STYLEMANUAL-2016/pdf/GPO-STYLEMANUAL-2016.pdf)
 - [National Aeronautics and Space Administration](https://www.nasa.gov/open/plainlanguage.html)
 - [National Institutes of Health](https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/clear-communication/plain-language)
