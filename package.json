@@ -24,6 +24,7 @@
   "dependencies": {
     "@babel/core": "^7.17.10",
     "@babel/preset-env": "^7.17.10",
+    "@uswds/uswds": "^3.0.2",
     "babel-loader": "^8.2.3",
     "babel-plugin-transform-es2015-modules-commonjs": "^6.24.1",
     "babel-preset-es2015": "^6.14.0",
