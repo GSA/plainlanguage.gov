@@ -5,8 +5,8 @@
       email: ahogan@flra.gov  
 - department: U.S. Agency for Global Media 
   contacts:
-    - name: Pamela Prah
-      email: pprah@usagm.gov 
+    - name: Laurie Moy
+      email: lmoy@usagm.gov 
 - department: U.S. Patent and Trademark Office
   contacts:
     - name: Eric Atkisson
@@ -21,8 +21,8 @@
 - department: Agency for Healthcare Research and Quality
   website: https://www.ahrq.gov/policy/electronic/plain-writing/index.html
   contacts: 
-    - name: Bruce Seeman
-      title: Media Relations Director
+    - name: Cindy Brach
+      email: Cindy.Brach@ahrq.hhs.gov
 - department: Consumer Finance Protection Bureau
   website: http://www.consumerfinance.gov/plain-writing/
   officials:
@@ -127,9 +127,9 @@
 - department: Department of Labor
   website: https://www.dol.gov/general/plainwriting
   officials:
-    - name: Kathleen E. Franks
-      title: Director of Regulatory and Programmatic Policy, Office of the Assistant Secretary for Policy (OASP)
-  contacts: plainlanguage@dol.gov
+    - name: Marisela Douglass
+      title: Senior Official for Plain Language
+  contacts: DOL-Plain-Language@dol.gov
 - department: Department of State
   website: http://www.state.gov/m/a/dir/plainwriting/
   officials:
@@ -188,7 +188,7 @@
       title: Assistant Staff Director, Information Division
   contacts: plainlanguage@fec.gov
 - department: Federal Energy Regulatory Commission
-  website: http://www.ferc.gov/open/plain-language.asp
+  website: 
   officials:
     - name: Mary O'Driscoll
       title: Press Secretary and Director of Media Relations
