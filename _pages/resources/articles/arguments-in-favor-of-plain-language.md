@@ -23,8 +23,6 @@ This page includes some of the key articles that support using plain language.
 
 - Rose Grotsky reported on a recent study of the benefits of plain language and [its effect on organizational performance]({{ site.baseurl }}/resources/articles/its-effect-on-organizational-performance/) in a financial-services company. The article appeared in _Clarity_, a periodical devoted to plain legal language.
 
-- John Klotsche, an attorney who was a political appointee in IRS during the Bush administration, is a strong advocate for plain language, especially in tax matters. Read his blog, [Plain Tax Talk](http://www.plaintaxtalk.org/).
-
 - Gwynne Kostin, a federal employee and blogger, weighs in on the need for [plain language to advance the goal of transparency](http://www.ondotgov.com/2009/02/transparency-requires-plain-language.html).
 
 - Cheryl Stephens, a leading spokesperson for plain language in Canada, wrote [this essay](https://web.archive.org/web/20100713115200/http://plainlanguagenetwork.org/stephens/bzneeds.html) about the business benefits of plain language.
