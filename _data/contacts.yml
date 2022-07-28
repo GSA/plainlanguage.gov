@@ -26,14 +26,15 @@
 - department: Consumer Finance Protection Bureau
   website: http://www.consumerfinance.gov/plain-writing/
   officials:
-    - name: Gena Chieco
-      title: Executive Secretary and Counsel to the Director
-  contacts: CFPB_Plain_Writing_Act@cfpb.gov
+    - name: Jocelyn Sutton
+      title: Deputy Chief of Staff
+  contacts: CFPB_Plain_Writing_Act@consumerfinance.gov
 - department: Corporation for National and Community Service
-  website: http://www.nationalservice.gov/about/open/index.asp
+  website: https://www.americorps.gov/about/agency-overview/plain-writing
   officials:
     - name: Amy Borgstrom
       title: Senior Agency Official for Plain Language
+      email: aborgstrom@cns.gov 
   contacts:
     - name: Aaron Olszewski
       title: Plain Writing Coordinator
@@ -83,15 +84,19 @@
   officials:
     - name: Dr. Ekaterini Malliou
       title: Senior Policy Coordinator, Immediate Office of the Secretary
+      email: Ekaterini.Malliou@hhs.gov 
   contacts: PlainLanguage@hhs.gov
 - department: Centers for Disease Control and Prevention
   website: http://www.cdc.gov/other/plainwriting.html
 - department: Centers for Medicare &amp; Medicaid Services
   website: http://www.medicare.gov/about-us/plain-writing/plain-writing.html
+  contact form: https://www.medicare.gov/plain-language
   officials:
     - name: Mary Wallace
       title: Deputy Director, Office of Communications
       email: mary.wallace@cms.hhs.gov
+  contacts: 
+    - name: Erin Gordon, Cate Kortzeborn
 - department: Food and Drug Administration
   website: http://www.fda.gov/AboutFDA/PlainLanguage/default.htm
   officials:
@@ -102,23 +107,21 @@
       email: FDAUniversity@fda.hhs.gov
 - department: Department of Homeland Security
   website: http://www.dhs.gov/plain-writing-dhs
+  email: DHSPlainWriting@hq.dhs.gov 
   officials:
-    - name: Dr. Kimberly O’Connor
-      title: Executive Secretary
+    - name: Tammy Howard
+      title: Chief of Staff
   contacts:
-    - name: Michael Broome
-      email: michael.broome@hq.dhs.gov
+    - name: Stephanie Fauquet      
 - department: Department of Housing and Urban Development
   website: https://www.hud.gov/program_offices/spm/plain_language
   contacts: webmanager@hud.gov
 - department: Department of Interior
   website: https://www.doi.gov/plainlanguage
+   email: plainlanguage@ios.doi.gov
   officials:
     - name: Sarah Greenberger 
       title: Associate Deputy Secretary
-  contacts: 
-     - name: 
-       email: plainlanguage@ios.doi.gov
 - department: Department of Justice
   website: http://www.justice.gov/open/plainlanguage.html
   officials:
@@ -126,18 +129,21 @@
       title: Deputy Assistant Attorney General
 - department: Department of Labor
   website: https://www.dol.gov/general/plainwriting
+  email: DOL-Plain-Language@dol.gov
   officials:
     - name: Marisela Douglass
       title: Senior Official for Plain Language
-  contacts: DOL-Plain-Language@dol.gov
+      email: douglass.marisela@dol.gov
+  contact: Laura McGinnis
+  email: mcginnis.laura.k@dol.gov
 - department: Department of State
   website: http://www.state.gov/m/a/dir/plainwriting/
   officials:
-    - name: Patrick Kennedy
-      title: Under Secretary for Management
+    - name: Alaina Teplitz
+      title: Assistant Secretary of State of Administration
   contacts:
-    - name: Janet Freer
-      email: FreerJM@state.gov
+    - name: Alden Fahy
+      email: FahyA@state.gov
 - department: Department of Transportation
   website: http://www.dot.gov/regulations/plain-language
   officials:
@@ -169,9 +175,10 @@
   website: http://www.fca.gov/home/plainwriting.html
   officials:
     - name: Mike Stokke
-      title: Director of Congressional and Public Affairs
+      title: Director of the Office of Congressional and Public Affairs
   contacts:
     - name: Emily Yaghmour
+      title: Deputy Director of the Office of Congressional and Public Affairs
       email: yaghmoure@fca.gov
 - department: Federal Communications Commission
   website: http://www.fcc.gov/encyclopedia/plain-writing-fcc
@@ -183,10 +190,13 @@
   contacts: PlainWriting@fdic.gov
 - department: Federal Election Commission
   website: https://www.fec.gov/about/plain-language/
+  email: plainlanguage@fec.gov
   officials:
     - name: Gregg Scott
       title: Assistant Staff Director, Information Division
-  contacts: plainlanguage@fec.gov
+  contacts: 
+    - name: Amy Kort
+    - name: Steve Hajjar
 - department: Federal Energy Regulatory Commission
   website: 
   officials:
@@ -196,13 +206,13 @@
 - department: Federal Housing Finance Agency
   website: http://www.fhfa.gov/AboutUs/Policies/pages/plain-writing-act-of-2010.aspx
   officials:
-    - name: Carrie Johnson
-      title: Senior Advisor
+    - name: Sam Valverde
+      title: Interim Senior Agency Official
   contacts: plainlanguage@fhfa.gov
 - department: Federal Maritime Commission
   website: https://www.fmc.gov/about-the-fmc/plain-language-guidelines-plan-and-report/
   officials:
-    - name: Karen V. Gregory
+    - name: William Cody
       title: Secretary
   contacts: secretary@fmc.gov
 - department: Federal Trade Commission
