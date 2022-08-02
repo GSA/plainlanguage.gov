@@ -53,3 +53,19 @@
   normal,
   $file-formats: ttf
 );
+
+@include font-face(
+  'Source Sans Pro Web',
+  '../fonts/sourcesanspro-regular',
+  400,
+  normal,
+  $file-formats: woff2 woff
+);
+
+@include font-face(
+  'Source Sans Pro Web',
+  '../fonts/sourcesanspro-bold',
+  700,
+  normal,
+  $file-formats: woff2 woff
+);

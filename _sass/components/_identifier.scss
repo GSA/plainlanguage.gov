@@ -1,0 +1,146 @@
+.contact-bar {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.usa-identifier {
+  background-color: #1b1b1b;
+  color: #a9aeb1;
+  padding: 1rem 0;
+
+  font-family: 'Source Sans Pro Web';
+  font-weight: 400;
+
+  a {
+    color: #a9aeb1;
+  }
+
+  ul, ol {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  }
+}
+
+.usa-identifier__required-links-list a {
+  color: #a9aeb1;
+  font-size: 1.6rem;
+}
+
+.usa-identifier__required-link a {
+  color: #a9aeb1;
+}
+
+.usa-identifier__required-link:hover {
+  color: #dfe1e2;;
+}
+
+.usa-identifier__container {
+  display: block;
+}
+
+@media #{$breakpoint-lg} {
+  .usa-identifier__container {
+    display: flex;
+  }
+}
+
+.usa-identifier__logos {
+  padding: 1rem 2rem 0 0;
+}
+
+@media #{$breakpoint-lg} {
+  .usa-identifier__logos {
+    padding: 0 2rem 0 0;
+  }
+}
+
+.usa-identifier__logo {
+  width: 5rem;
+  display: block;
+}
+
+.usa-identifier__identity-disclaimer a,
+.usa-link--external,
+a.usa-identifier__identity-disclaimer-link {
+  font-weight: 700;
+}
+
+.usa-identifier__identity-disclaimer-link a,
+.usa-identifier__identity-disclaimer a:visited {
+  color: #dfe1e2;
+}
+
+a.usa-identifier__identity-disclaimer-link:hover {
+  color: #f0f0f0;
+}
+
+.identifier__identity-disclaimer a:hover {
+  color: #f0f0f0;
+}
+
+.usa-identifier__identity {
+  padding: 1rem 0 0 0;
+}
+
+@media #{$breakpoint-lg} {
+  .usa-identifier__identity {
+    padding: 0;
+  }
+}
+
+.usa-identifier__identity p {
+  padding: 0;
+  line-height: 1;
+  margin: .5rem 0 0 0;
+}
+
+.usa-identifier__identity-domain {
+  font-weight: 700;
+  color: #a9aeb1;
+  font-family: 'Source Sans Pro Web';
+  font-weight: 400;
+}
+
+.usa-identifier__identity-disclaimer {
+  color: white;
+  font-family: 'Source Sans Pro Web';
+  font-weight: 700;
+}
+
+.identifier-links {
+  padding: 1rem 0;
+  align-items: baseline;
+}
+
+.usa-identifier__required-links-item, .usa-identifier__required-links-item:last-child {
+  margin-bottom: .75rem;
+}
+
+@media #{$breakpoint-lg} {
+  .usa-identifier__required-links-item {
+    margin-bottom: .5rem;
+  }
+}
+
+.usa-identifier__usagov-description {
+  color: white;
+}
+
+.usa-identifier__section--usagov {
+  padding: 1.5rem 0 0 0;
+}
+
+.usa-link--external {
+  padding: 0;
+}
+
+@media #{$breakpoint-lg} {
+  .usa-link--external {
+    padding: 0 0 0 0.5ch;
+  }
+}
+
+a.usa-identifier__identity-disclaimer-link {
+  color: #dfe1e2;
+}
