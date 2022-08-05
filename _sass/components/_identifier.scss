@@ -4,15 +4,15 @@
 }
 
 .usa-identifier {
-  background-color: #1b1b1b;
-  color: #a9aeb1;
+  background-color: $theme-identifier-background-color;
+  color: $theme-identifier-color;
   padding: 1rem 0;
 
-  font-family: 'Source Sans Pro Web';
+  font-family: $font-sans;
   font-weight: 400;
 
   a {
-    color: #a9aeb1;
+    color: $theme-identifier-color;
   }
 
   ul, ol {
@@ -23,36 +23,30 @@
 }
 
 .usa-identifier__required-links-list a {
-  color: #a9aeb1;
   font-size: 1.6rem;
 }
 
 .usa-identifier__required-link a {
-  color: #a9aeb1;
-}
+  color: $theme-identifier-color;
 
-.usa-identifier__required-link:hover {
-  color: #dfe1e2;;
+	 &:hover {
+     color: $theme-identifier-font-color-secondary;
+   }
 }
 
 .usa-identifier__container {
-  display: block;
-}
-
-@media #{$breakpoint-lg} {
-  .usa-identifier__container {
+  @media #{$breakpoint-lg} {
     display: flex;
   }
 }
 
 .usa-identifier__logos {
-  padding: 1rem 2rem 0 0;
-}
+	padding-top: 1rem;
+  padding-right: 2rem;
 
-@media #{$breakpoint-lg} {
-  .usa-identifier__logos {
-    padding: 0 2rem 0 0;
-  }
+	@media #{$breakpoint-lg} {
+    padding-right: 2rem;
+	}
 }
 
 .usa-identifier__logo {
@@ -68,43 +62,37 @@ a.usa-identifier__identity-disclaimer-link {
 
 .usa-identifier__identity-disclaimer-link a,
 .usa-identifier__identity-disclaimer a:visited {
-  color: #dfe1e2;
+  color: $theme-identifier-font-color-secondary;
 }
 
-a.usa-identifier__identity-disclaimer-link:hover {
-  color: #f0f0f0;
-}
-
+a.usa-identifier__identity-disclaimer-link:hover,
 .identifier__identity-disclaimer a:hover {
   color: #f0f0f0;
 }
 
 .usa-identifier__identity {
-  padding: 1rem 0 0 0;
-}
+  padding-top: 1rem;
 
-@media #{$breakpoint-lg} {
-  .usa-identifier__identity {
-    padding: 0;
-  }
-}
+	@media #{$breakpoint-lg} {
+		padding-top: 0;
+	}
 
-.usa-identifier__identity p {
-  padding: 0;
-  line-height: 1;
-  margin: .5rem 0 0 0;
+	p {
+		padding: 0;
+		line-height: 1;
+		margin: .5rem 0 0 0;
+	}
 }
 
 .usa-identifier__identity-domain {
-  font-weight: 700;
-  color: #a9aeb1;
-  font-family: 'Source Sans Pro Web';
+  color: $theme-identifier-color;
+  font-family: $font-sans;
   font-weight: 400;
 }
 
 .usa-identifier__identity-disclaimer {
-  color: white;
-  font-family: 'Source Sans Pro Web';
+  color: $theme-identifier-font-color;
+  font-family: $font-sans;
   font-weight: 700;
 }
 
@@ -113,34 +101,33 @@ a.usa-identifier__identity-disclaimer-link:hover {
   align-items: baseline;
 }
 
-.usa-identifier__required-links-item, .usa-identifier__required-links-item:last-child {
+.usa-identifier__required-links-item,
+.usa-identifier__required-links-item:last-child {
   margin-bottom: .75rem;
 }
 
-@media #{$breakpoint-lg} {
-  .usa-identifier__required-links-item {
-    margin-bottom: .5rem;
-  }
+.usa-identifier__required-links-item {
+	@media #{$breakpoint-lg} {
+		margin-bottom: .5rem;
+	}
 }
 
 .usa-identifier__usagov-description {
-  color: white;
+  color: $theme-identifier-font-color;
 }
 
 .usa-identifier__section--usagov {
-  padding: 1.5rem 0 0 0;
+  padding-top: 1.5rem;
 }
 
 .usa-link--external {
   padding: 0;
-}
 
-@media #{$breakpoint-lg} {
-  .usa-link--external {
-    padding: 0 0 0 0.5ch;
-  }
+	@media #{$breakpoint-lg} {
+    padding-left: 0.5ch;
+	}
 }
 
 a.usa-identifier__identity-disclaimer-link {
-  color: #dfe1e2;
+  color: $theme-identifier-font-color-secondary;
 }
