@@ -6,7 +6,8 @@
 .usa-identifier {
   background-color: $theme-identifier-background-color;
   color: $theme-identifier-color;
-  padding: 1rem 0;
+  padding-top: 1rem;
+  padding-bottom: 3rem;
 
   font-family: $font-sans;
   font-weight: 400;
@@ -26,7 +27,7 @@
   font-size: 1.6rem;
 }
 
-.usa-identifier__required-link a {
+a.usa-identifier__required-link {
   color: $theme-identifier-color;
 
 	 &:hover {
@@ -37,6 +38,7 @@
 .usa-identifier__container {
   @media #{$breakpoint-lg} {
     display: flex;
+    align-items: center;
   }
 }
 
