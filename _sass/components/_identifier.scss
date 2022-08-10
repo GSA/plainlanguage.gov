@@ -106,7 +106,7 @@ a.usa-identifier__identity-disclaimer-link:hover,
 }
 
 .identifier-links {
-  padding: 1rem 0;
+  padding: 1.5rem 0;
   align-items: baseline;
 }
 
@@ -124,10 +124,6 @@ a.usa-identifier__identity-disclaimer-link:hover,
 .usa-identifier__usagov-description {
   color: $theme-identifier-font-color;
 	font-size: 1.6rem;
-}
-
-.usa-identifier__section--usagov {
-  padding-top: 1.5rem;
 }
 
 .usa-link--external {
