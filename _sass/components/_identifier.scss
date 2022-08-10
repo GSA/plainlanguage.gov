@@ -11,6 +11,7 @@
 
   font-family: $font-sans;
   font-weight: 400;
+  font-size: 1.5rem;
 
   a {
     color: $theme-identifier-color;
@@ -24,7 +25,7 @@
 }
 
 .usa-identifier__required-links-list a {
-  font-size: 1.6rem;
+  font-size: 1.5rem;
 }
 
 a.usa-identifier__required-link {
@@ -54,6 +55,11 @@ a.usa-identifier__required-link {
 .usa-identifier__logo {
   width: 5rem;
   display: block;
+}
+
+
+.usa-identifier__identity-disclaimer {
+  font-size: 1.6rem;
 }
 
 .usa-identifier__identity-disclaimer a,
@@ -90,6 +96,7 @@ a.usa-identifier__identity-disclaimer-link:hover,
   color: $theme-identifier-color;
   font-family: $font-sans;
   font-weight: 400;
+	font-size: 1.6rem;
 }
 
 .usa-identifier__identity-disclaimer {
@@ -116,6 +123,7 @@ a.usa-identifier__identity-disclaimer-link:hover,
 
 .usa-identifier__usagov-description {
   color: $theme-identifier-font-color;
+	font-size: 1.6rem;
 }
 
 .usa-identifier__section--usagov {
@@ -132,4 +140,5 @@ a.usa-identifier__identity-disclaimer-link:hover,
 
 a.usa-identifier__identity-disclaimer-link {
   color: $theme-identifier-font-color-secondary;
+	font-size: 1.6rem;
 }
