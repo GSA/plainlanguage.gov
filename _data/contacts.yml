@@ -1,12 +1,12 @@
-- department: U.S. Federal Labor Relations Authority 
+- department: U.S. Federal Labor Relations Authority
   website: https://www.flra.gov/plain_language
-  contacts: 
-    - name: Aloysius Hogan, Esq. 
-      email: ahogan@flra.gov  
-- department: U.S. Agency for Global Media 
+  contacts:
+    - name: Aloysius Hogan, Esq.
+      email: ahogan@flra.gov
+- department: U.S. Agency for Global Media
   contacts:
     - name: Laurie Moy
-      email: lmoy@usagm.gov 
+      email: lmoy@usagm.gov
 - department: U.S. Patent and Trademark Office
   contacts:
     - name: Eric Atkisson
@@ -20,7 +20,7 @@
       title: Writer/Editor, Director's Office
 - department: Agency for Healthcare Research and Quality
   website: https://www.ahrq.gov/policy/electronic/plain-writing/index.html
-  contacts: 
+  contacts:
     - name: Cindy Brach
       email: Cindy.Brach@ahrq.hhs.gov
 - department: Consumer Finance Protection Bureau
@@ -34,7 +34,7 @@
   officials:
     - name: Amy Borgstrom
       title: Senior Agency Official for Plain Language
-      email: aborgstrom@cns.gov 
+      email: aborgstrom@cns.gov
   contacts:
     - name: Aaron Olszewski
       title: Plain Writing Coordinator
@@ -84,7 +84,7 @@
   officials:
     - name: Dr. Ekaterini Malliou
       title: Senior Policy Coordinator, Immediate Office of the Secretary
-      email: Ekaterini.Malliou@hhs.gov 
+      email: Ekaterini.Malliou@hhs.gov
   contacts: PlainLanguage@hhs.gov
 - department: Centers for Disease Control and Prevention
   website: http://www.cdc.gov/other/plainwriting.html
@@ -95,7 +95,7 @@
     - name: Mary Wallace
       title: Deputy Director, Office of Communications
       email: mary.wallace@cms.hhs.gov
-  contacts: 
+  contacts:
     - name: Erin Gordon, Cate Kortzeborn
 - department: Food and Drug Administration
   website: http://www.fda.gov/AboutFDA/PlainLanguage/default.htm
@@ -107,20 +107,20 @@
       email: FDAUniversity@fda.hhs.gov
 - department: Department of Homeland Security
   website: http://www.dhs.gov/plain-writing-dhs
-  email: DHSPlainWriting@hq.dhs.gov 
+  email: DHSPlainWriting@hq.dhs.gov
   officials:
     - name: Tammy Howard
       title: Chief of Staff
   contacts:
-    - name: Stephanie Fauquet      
+    - name: Stephanie Fauquet
 - department: Department of Housing and Urban Development
   website: https://www.hud.gov/program_offices/spm/plain_language
   contacts: webmanager@hud.gov
 - department: Department of Interior
   website: https://www.doi.gov/plainlanguage
-   email: plainlanguage@ios.doi.gov
+  email: plainlanguage@ios.doi.gov
   officials:
-    - name: Sarah Greenberger 
+    - name: Sarah Greenberger
       title: Associate Deputy Secretary
 - department: Department of Justice
   website: http://www.justice.gov/open/plainlanguage.html
@@ -134,8 +134,9 @@
     - name: Marisela Douglass
       title: Senior Official for Plain Language
       email: douglass.marisela@dol.gov
-  contact: Laura McGinnis
-  email: mcginnis.laura.k@dol.gov
+  contacts:
+    - name: Laura McGinnis
+      email: mcginnis.laura.k@dol.gov
 - department: Department of State
   website: http://www.state.gov/m/a/dir/plainwriting/
   officials:
@@ -194,11 +195,11 @@
   officials:
     - name: Gregg Scott
       title: Assistant Staff Director, Information Division
-  contacts: 
+  contacts:
     - name: Amy Kort
     - name: Steve Hajjar
 - department: Federal Energy Regulatory Commission
-  website: 
+  website:
   officials:
     - name: Mary O'Driscoll
       title: Press Secretary and Director of Media Relations
@@ -223,10 +224,10 @@
 - department: General Services Administration
   website: http://www.gsa.gov/plainlanguage
   officials:
-   - name: Teressa Wykpisz-Lee
-     title:  Associate Administrator for the Office of Strategic Communications
+  - name: Teressa Wykpisz-Lee
+    title:  Associate Administrator for the Office of Strategic Communications
   contacts:
-    - name: Katherine Spivey 
+    - name: Katherine Spivey
       email: katherine.spivey@gsa.gov
 - department: Institute of Museum and Library Services
   website: http://www.imls.gov/about-us/open-government/plain-language
@@ -279,7 +280,7 @@
     - name: Katherine Tracy
       title: Chief Counsel to the Chairman
       email: ktracy@oshrc.gov
-  contacts: 
+  contacts:
       - name: John X. Cerveny
         email: jcerveny@oshrc.gov
 - department: Office of Management and Budget
@@ -331,9 +332,9 @@
 - department: U.S. Election Assistance Commission
   website: https://www.eac.gov/about/plain-language-initiative/
   contacts:
-    - name: Cliff Tatum 
+    - name: Cliff Tatum
       email: ctatum@eac.gov
 - department: Advisory Council on Historic Preservation
-  officials: 
+  officials:
     - name: Shayla Shrieves Hatlestad
       title: Senior Writer-Editor
