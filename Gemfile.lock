@@ -86,6 +86,7 @@ GEM
       ethon (>= 0.9.0)
     uswds-jekyll (1.4.1)
       jekyll (~> 3.4)
+    webrick (1.7.0)
     yell (2.2.2)
 
 PLATFORMS
@@ -99,6 +100,7 @@ DEPENDENCIES
   jekyll_pages_api_search
   kramdown-parser-gfm
   uswds-jekyll (= 1.4.1)
+  webrick (~> 1.7)
 
 BUNDLED WITH
    2.1.4
