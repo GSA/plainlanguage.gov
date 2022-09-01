@@ -43,7 +43,8 @@
     }
   }
 
-  a.usa-current { // scss-lint:disable QualifyingElement
+  a.usa-current {
+    // scss-lint:disable QualifyingElement
     border-left: 0;
   }
 }

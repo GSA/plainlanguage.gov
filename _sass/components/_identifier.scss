@@ -16,7 +16,8 @@
     color: $theme-identifier-color;
   }
 
-  ul, ol {
+  ul,
+  ol {
     list-style: none;
     margin: 0;
     padding: 0;
@@ -70,7 +71,7 @@
 
   p {
     line-height: 1;
-    margin: .5rem 0 0 0;
+    margin: 0.5rem 0 0 0;
     padding: 0;
   }
 }
@@ -92,12 +93,12 @@
 
 .usa-identifier__required-links-item,
 .usa-identifier__required-links-item:last-child {
-  margin-bottom: .75rem;
+  margin-bottom: 0.75rem;
 }
 
 .usa-identifier__required-links-item {
   @media #{$breakpoint-lg} {
-    margin-bottom: .5rem;
+    margin-bottom: 0.5rem;
   }
 }
 

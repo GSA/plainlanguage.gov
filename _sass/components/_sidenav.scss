@@ -10,7 +10,7 @@
 
     &.usa-label {
       line-height: 1;
-      padding: .4rem .7rem .3rem;
+      padding: 0.4rem 0.7rem 0.3rem;
     }
 
     &:hover {
@@ -43,7 +43,7 @@
   border-color: $border-color;
 }
 
- // scss-lint:disable SelectorFormat, QualifyingElement
+// scss-lint:disable SelectorFormat, QualifyingElement
 .usa-sidenav-sub_list a,
 .usa-sidenav-sub_list a:hover,
 .usa-sidenav-sub_list a.usa-current {
@@ -58,4 +58,4 @@
 .usa-sidenav-sub_list a.usa-current {
   font-weight: $font-bold;
 }
- // scss-lint:enable SelectorFormat
+// scss-lint:enable SelectorFormat
