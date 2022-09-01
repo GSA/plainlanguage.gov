@@ -9,6 +9,7 @@
     "guidelines-mkdir": "mkdir -p howto/guidelines/FederalPLGuidelines/",
     "federalist": "npm run build-js && npm run guidelines",
     "test:pa11y": "pa11y-ci --config .pa11yci --sitemap http://localhost:4000/sitemap.xml --sitemap-exclude pdf",
+    "stylelint": "stylelint _sass/**/*.scss",
     "watch-js": "webpack -w --progress"
   },
   "repository": {
@@ -35,6 +36,9 @@
     "webpack": "^5.72.0"
   },
   "devDependencies": {
+    "@18f/identity-stylelint-config": "^1.0.0",
+    "prettier": "^2.7.1",
+    "stylelint": "^14.11.0",
     "webpack-cli": "^4.9.2"
   }
 }
