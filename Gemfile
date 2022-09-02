@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'jekyll'
 gem 'kramdown-parser-gfm'
+gem "webrick", "~> 1.7"
 
 group :jekyll_plugins do
   gem 'html-proofer'
@@ -10,3 +11,4 @@ group :jekyll_plugins do
   gem 'uswds-jekyll', '1.4.1'
   gem 'jekyll-sitemap'
 end
+
