@@ -4,16 +4,19 @@
     - name: Aloysius Hogan, Esq.
       email: ahogan@flra.gov
 
+
 - department: U.S. Agency for Global Media
   contacts:
     - name: Laurie Moy
       email: lmoy@usagm.gov
+
 
 - department: U.S. Patent and Trademark Office
   contacts:
     - name: Eric Atkisson
       email: eric.atkisson@uspto.gov
       title: Director Of Communications
+
 
 - department: National Institute of Corrections
   website: https://nicic.gov/plainlanguage
@@ -22,11 +25,13 @@
       email: dledbetter@bop.gov
       title: Writer/Editor, Director's Office
 
+
 - department: Agency for Healthcare Research and Quality
   website: https://www.ahrq.gov/policy/electronic/plain-writing/index.html
   contacts:
     - name: Cindy Brach
       email: Cindy.Brach@ahrq.hhs.gov
+
 
 - department: Consumer Finance Protection Bureau
   website: http://www.consumerfinance.gov/plain-writing/
@@ -34,7 +39,8 @@
     - name: Jocelyn Sutton
       title: Deputy Chief of Staff
   contacts:
-    - email: CFPB_Plain_Writing_Act@consumerfinance.gov
+    - name: CFPB_Plain_Writing_Act@consumerfinance.gov
+	  email: CFPB_Plain_Writing_Act@consumerfinance.gov
 
 - department: Corporation for National and Community Service
   website: https://www.americorps.gov/about/agency-overview/plain-writing
@@ -47,6 +53,7 @@
       title: Plain Writing Coordinator
       email: aolszewski.guest@cns.gov
 
+
 - department: Department of Agriculture
   website: http://www.usda.gov/plain-writing
   officials:
@@ -56,13 +63,16 @@
     - name: Perry Stevens
       email: plainlanguage@usda.gov
 
+
 - department: Department of Commerce
   website: http://www.commerce.gov/plain-language
   officials:
     - name: Parker Sheedy
       title: Special Assistant and Editor
   contacts:
-    - email: PlainLanguage@doc.gov
+    - name: PlainLanguage@doc.gov
+	  email: PlainLanguage@doc.gov
+
 
 - department: U.S. Census Bureau
   website: http://www.census.gov/about/policies/plain_writing.html
@@ -71,13 +81,16 @@
       title: Special Assistant
       email: michele.c.hedrick@census.gov
 
+
 - department: Department of Defense
   website: http://www.esd.whs.mil/DD/plainlanguage/
   officials:
     - name: Thomas Muir
       title: Acting Director of Administration and Management
   contacts:
-    - email: whs.mc-alex.esd.mbx.dod-plain-language@mail.mil
+    - name: whs.mc-alex.esd.mbx.dod-plain-language@mail.mil
+	  email: whs.mc-alex.esd.mbx.dod-plain-language@mail.mil
+
 
 - department: Department of Education
   website: http://www.ed.gov/plain-language
@@ -85,6 +98,7 @@
     - name: Katherine Devine
       title: Plain Language Officer
       email: katherine.devine@ed.gov
+
 
 - department: Department of Energy
   website: http://www.energy.gov/about-us/open-government/plain-language-commitment-writing-you-can-understand
@@ -95,6 +109,7 @@
     - name: Michael Coogan
       email: Michael.Coogan@hq.doe.gov
 
+
 - department: Department of Health and Human Services
   website: http://www.hhs.gov/open/recordsandreports/plainwritingact/index.html
   officials:
@@ -102,10 +117,13 @@
       title: Senior Policy Coordinator, Immediate Office of the Secretary
       email: Ekaterini.Malliou@hhs.gov
   contacts:
-    - email: PlainLanguage@hhs.gov
+    - name: PlainLanguage@hhs.gov
+	  email: PlainLanguage@hhs.gov
+
 
 - department: Centers for Disease Control and Prevention
   website: http://www.cdc.gov/other/plainwriting.html
+
 
 - department: Centers for Medicare &amp; Medicaid Services
   website: http://www.medicare.gov/about-us/plain-writing/plain-writing.html
@@ -117,6 +135,7 @@
   contacts:
     - name: Erin Gordon, Cate Kortzeborn
 
+
 - department: Food and Drug Administration
   website: http://www.fda.gov/AboutFDA/PlainLanguage/default.htm
   officials:
@@ -125,6 +144,7 @@
   contacts:
     - name: Julie Frandsen
       email: FDAUniversity@fda.hhs.gov
+
 
 - department: Department of Homeland Security
   website: http://www.dhs.gov/plain-writing-dhs
@@ -135,10 +155,13 @@
   contacts:
     - name: Stephanie Fauquet
 
+
 - department: Department of Housing and Urban Development
   website: https://www.hud.gov/program_offices/spm/plain_language
   contacts:
-    - email: webmanager@hud.gov
+    - name: webmanager@hud.gov
+	  email: webmanager@hud.gov
+
 
 - department: Department of Interior
   website: https://www.doi.gov/plainlanguage
@@ -147,11 +170,13 @@
     - name: Sarah Greenberger
       title: Associate Deputy Secretary
 
+
 - department: Department of Justice
   website: http://www.justice.gov/open/plainlanguage.html
   officials:
     - name: Michael H. Allen
       title: Deputy Assistant Attorney General
+
 
 - department: Department of Labor
   website: https://www.dol.gov/general/plainwriting
@@ -164,6 +189,7 @@
     - name: Laura McGinnis
       email: mcginnis.laura.k@dol.gov
 
+
 - department: Department of State
   website: http://www.state.gov/m/a/dir/plainwriting/
   officials:
@@ -173,11 +199,13 @@
     - name: Alden Fahy
       email: FahyA@state.gov
 
+
 - department: Department of Transportation
   website: http://www.dot.gov/regulations/plain-language
   officials:
     - name: Carol C. Darr
       title: Director, Executive Secretariat
+
 
 - department: Department of Treasury
   website: http://www.treasury.gov/open/Pages/plainwriting.aspx
@@ -185,7 +213,9 @@
     - name: Rebecca Ewing
       title: Deputy Executive Secretary
   contacts:
-    - email: plainwriting@treasury.gov
+    - name: plainwriting@treasury.gov
+	  email: plainwriting@treasury.gov
+
 
 - department: Internal Revenue Service
   website: https://home.treasury.gov/subfooter/site-policies-and-notices/plain-writing
@@ -193,19 +223,23 @@
     - name: Terry Lemons
       title: Chief, Communications and Liaison
 
+
 - department: Department of Veterans Affairs
   website: http://www.va.gov/opa/Plain_Language.asp
   officials:
     - name: Carrie McVicker
       title: Executive Secretary
   contacts:
-    - email: VAPlainLanguage@va.gov
+    - name: VAPlainLanguage@va.gov
+	  email: VAPlainLanguage@va.gov
+
 
 - department: Environmental Protection Agency
   website: https://www.epa.gov/home/plain-writing
   officials:
     - name: Eric Wachter
       title: Director of the Office of the Executive Secretariat in the Office of the Administrator
+
 
 - department: Farm Credit Administration
   website: http://www.fca.gov/home/plainwriting.html
@@ -217,16 +251,20 @@
       title: Deputy Director of the Office of Congressional and Public Affairs
       email: yaghmoure@fca.gov
 
+
 - department: Federal Communications Commission
   website: http://www.fcc.gov/encyclopedia/plain-writing-fcc
   officials:
     - name: Howard Parnell
       title: Chief, Web and Print Publishing Division
 
+
 - department: Federal Deposit Insurance Corporation
   website: http://www.fdic.gov/plainlanguage/
   contacts:
-    - email: PlainWriting@fdic.gov
+    - name: PlainWriting@fdic.gov
+	  email: PlainWriting@fdic.gov
+
 
 - department: Federal Election Commission
   website: https://www.fec.gov/about/plain-language/
@@ -238,13 +276,16 @@
     - name: Amy Kort
     - name: Steve Hajjar
 
+
 - department: Federal Energy Regulatory Commission
   website:
   officials:
     - name: Mary O'Driscoll
       title: Press Secretary and Director of Media Relations
   contacts:
-    - email: customer@ferc.gov
+    - name: customer@ferc.gov
+	  email: customer@ferc.gov
+
 
 - department: Federal Housing Finance Agency
   website: http://www.fhfa.gov/AboutUs/Policies/pages/plain-writing-act-of-2010.aspx
@@ -252,7 +293,9 @@
     - name: Sam Valverde
       title: Interim Senior Agency Official
   contacts:
-    - email: plainlanguage@fhfa.gov
+    - name: plainlanguage@fhfa.gov
+	  email: plainlanguage@fhfa.gov
+
 
 - department: Federal Maritime Commission
   website: https://www.fmc.gov/about-the-fmc/plain-language-guidelines-plan-and-report/
@@ -260,13 +303,16 @@
     - name: William Cody
       title: Secretary
   contacts:
-    - email: secretary@fmc.gov
+    - name: secretary@fmc.gov
+	  email: secretary@fmc.gov
+
 
 - department: Federal Trade Commission
   website: https://www.ftc.gov/site-information/plain-writing
   officials:
     - name: Christian S. White
       title: Deputy General Counsel
+
 
 - department: General Services Administration
   website: http://www.gsa.gov/plainlanguage
@@ -277,6 +323,7 @@
     - name: Katherine Spivey
       email: katherine.spivey@gsa.gov
 
+
 - department: Institute of Museum and Library Services
   website: http://www.imls.gov/about-us/open-government/plain-language
   officials:
@@ -285,6 +332,7 @@
   contacts:
     - name: Elizabeth Holtan
       email: eholtan@imls.gov
+
 
 - department: National Aeronautics and Space Administration
   website: http://www.nasa.gov/open/plainlanguage.html
@@ -295,13 +343,16 @@
     - name: Gina Hall
       email: gina.s.hall@nasa.gov
 
+
 - department: National Archives and Records Administration
   website: http://www.archives.gov/open/plain-writing/
   officials:
     - name: Maria Stanwich
       title: Senior Official for Plain Writing
   contacts:
-    - email: plainwriting@nara.gov
+    - name: plainwriting@nara.gov
+	  email: plainwriting@nara.gov
+
 
 - department: National Capitol Planning Commission
   website: https://www.ncpc.gov/policies/plainwriting/
@@ -309,7 +360,9 @@
     - name: Barry Socks
       title: Chief Operating Officer
   contacts:
-    - email: plainwriting@ncpc.gov
+    - name: plainwriting@ncpc.gov
+	  email: plainwriting@ncpc.gov
+
 
 - department: National Credit Union Administration
   website: https://www.ncua.gov/About/Pages/open-government/plain-writing.aspx
@@ -317,7 +370,9 @@
     - name: John Kutchey
       title: Deputy Executive Director
   contacts:
-    - email: PlainWriting@ncua.gov
+    - name: PlainWriting@ncua.gov
+	  email: PlainWriting@ncua.gov
+
 
 - department: National Endowment for the Arts
   website: https://www.arts.gov/open/plain-language
@@ -325,13 +380,16 @@
     - name: Don Ball
       title: Assistant Director, Office of Public Affairs
   contacts:
-    - email: plainlanguage@arts.gov
+    - name: plainlanguage@arts.gov
+	  email: plainlanguage@arts.gov
+
 
 - department: Nuclear Regulatory Commission
   website: http://www.nrc.gov/public-involve/open/plain-writing/fed-mandates.html
   officials:
     - name: Darren B. Ash
       title: Deputy Executive Director for Corporate Management
+
 
 - department: Occupational Safety and Health Review Commission
   website: https://www.oshrc.gov/plain-writing/
@@ -343,10 +401,12 @@
       - name: John X. Cerveny
         email: jcerveny@oshrc.gov
 
+
 - department: Office of Management and Budget
   officials:
     - name: Lauren Wright
       title: Assistant Director for Management and Operations
+
 
 - department: Office of Navajo and Hopi Indian Relocation
   website: https://www.onhir.gov/plain-writing/index.html
@@ -357,13 +417,16 @@
     - name: Scott Kuhr
       email: skuhr@onhir.gov
 
+
 - department: Office of Personnel Management
   website: http://www.opm.gov/plainlanguage/
   officials:
     - name: Steve Hickman
       title: Acting Executive Secretary
   contacts:
-    - email: OPMExecSec@opm.gov
+    - name: OPMExecSec@opm.gov
+	  email: OPMExecSec@opm.gov
+
 
 - department: Pension Benefit Guaranty Corporation
   website: http://www.pbgc.gov/about/pbgc-in-plain-english.html
@@ -371,14 +434,17 @@
     - name: J. Jioni Palmer
       title: Senior Advisor and Director of Communications and Public Affairs
 
+
 - department: Securities and Exchange Commission
   website: http://www.sec.gov/plainwriting.shtml
   officials:
     - name: Lori J. Schock
       title: Director, Office of Investor Education and Advocacy
 
+
 - department: Small Business Administration
   website: http://www.sba.gov/content/plain-language-page-0
+
 
 - department: Social Security Administration
   website: http://www.ssa.gov/plain-language/
@@ -386,6 +452,7 @@
     - name: Susan Camarena
       title: Associate Commissioner, Office of Public Inquiries
       email: Susan.Camarena@ssa.gov
+
 
 - department: U.S. Agency for International Development
   website: https://www.usaid.gov/plain-writing
@@ -398,11 +465,13 @@
     - name: Christine Brown
       email: chbrown@usaid.gov
 
+
 - department: U.S. Election Assistance Commission
   website: https://www.eac.gov/about/plain-language-initiative/
   contacts:
     - name: Cliff Tatum
       email: ctatum@eac.gov
+
 
 - department: Advisory Council on Historic Preservation
   officials:
