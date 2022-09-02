@@ -34,7 +34,8 @@
     - name: Jocelyn Sutton
       title: Deputy Chief of Staff
   contacts:
-    - email: CFPB_Plain_Writing_Act@consumerfinance.gov
+    - name: CFPB Plain Writing Act
+      email: CFPB_Plain_Writing_Act@consumerfinance.gov
 
 - department: Corporation for National and Community Service
   website: https://www.americorps.gov/about/agency-overview/plain-writing
@@ -62,7 +63,9 @@
     - name: Parker Sheedy
       title: Special Assistant and Editor
   contacts:
-    - email: PlainLanguage@doc.gov
+    - name: Plain Language
+      email: PlainLanguage@doc.gov
+
 
 - department: U.S. Census Bureau
   website: http://www.census.gov/about/policies/plain_writing.html
@@ -77,7 +80,8 @@
     - name: Thomas Muir
       title: Acting Director of Administration and Management
   contacts:
-    - email: whs.mc-alex.esd.mbx.dod-plain-language@mail.mil
+    - name: Plain Language
+      email: whs.mc-alex.esd.mbx.dod-plain-language@mail.mil
 
 - department: Department of Education
   website: http://www.ed.gov/plain-language
@@ -102,7 +106,8 @@
       title: Senior Policy Coordinator, Immediate Office of the Secretary
       email: Ekaterini.Malliou@hhs.gov
   contacts:
-    - email: PlainLanguage@hhs.gov
+    - name: Plain Language
+      email: PlainLanguage@hhs.gov
 
 - department: Centers for Disease Control and Prevention
   website: http://www.cdc.gov/other/plainwriting.html
@@ -138,7 +143,8 @@
 - department: Department of Housing and Urban Development
   website: https://www.hud.gov/program_offices/spm/plain_language
   contacts:
-    - email: webmanager@hud.gov
+    - name: Web Manager
+      email: webmanager@hud.gov
 
 - department: Department of Interior
   website: https://www.doi.gov/plainlanguage
@@ -185,7 +191,8 @@
     - name: Rebecca Ewing
       title: Deputy Executive Secretary
   contacts:
-    - email: plainwriting@treasury.gov
+    - name: Plain Writing
+      email: plainwriting@treasury.gov
 
 - department: Internal Revenue Service
   website: https://home.treasury.gov/subfooter/site-policies-and-notices/plain-writing
@@ -199,7 +206,8 @@
     - name: Carrie McVicker
       title: Executive Secretary
   contacts:
-    - email: VAPlainLanguage@va.gov
+    - name: VA Plain Language
+      email: VAPlainLanguage@va.gov
 
 - department: Environmental Protection Agency
   website: https://www.epa.gov/home/plain-writing
@@ -226,7 +234,8 @@
 - department: Federal Deposit Insurance Corporation
   website: http://www.fdic.gov/plainlanguage/
   contacts:
-    - email: PlainWriting@fdic.gov
+    - name: Plain Writing
+      email: PlainWriting@fdic.gov
 
 - department: Federal Election Commission
   website: https://www.fec.gov/about/plain-language/
@@ -244,7 +253,8 @@
     - name: Mary O'Driscoll
       title: Press Secretary and Director of Media Relations
   contacts:
-    - email: customer@ferc.gov
+    - name: FERC Customer
+      email: customer@ferc.gov
 
 - department: Federal Housing Finance Agency
   website: http://www.fhfa.gov/AboutUs/Policies/pages/plain-writing-act-of-2010.aspx
@@ -252,7 +262,8 @@
     - name: Sam Valverde
       title: Interim Senior Agency Official
   contacts:
-    - email: plainlanguage@fhfa.gov
+    - name: Plain Language
+      email: plainlanguage@fhfa.gov
 
 - department: Federal Maritime Commission
   website: https://www.fmc.gov/about-the-fmc/plain-language-guidelines-plan-and-report/
@@ -260,7 +271,8 @@
     - name: William Cody
       title: Secretary
   contacts:
-    - email: secretary@fmc.gov
+    - name: FMC Secretary
+      email: secretary@fmc.gov
 
 - department: Federal Trade Commission
   website: https://www.ftc.gov/site-information/plain-writing
@@ -301,7 +313,8 @@
     - name: Maria Stanwich
       title: Senior Official for Plain Writing
   contacts:
-    - email: plainwriting@nara.gov
+    - name: Plain Writing
+      email: plainwriting@nara.gov
 
 - department: National Capitol Planning Commission
   website: https://www.ncpc.gov/policies/plainwriting/
@@ -309,7 +322,8 @@
     - name: Barry Socks
       title: Chief Operating Officer
   contacts:
-    - email: plainwriting@ncpc.gov
+    - name: Plain Writing
+      email: plainwriting@ncpc.gov
 
 - department: National Credit Union Administration
   website: https://www.ncua.gov/About/Pages/open-government/plain-writing.aspx
@@ -317,7 +331,8 @@
     - name: John Kutchey
       title: Deputy Executive Director
   contacts:
-    - email: PlainWriting@ncua.gov
+    - name: Plain Writing
+      email: PlainWriting@ncua.gov
 
 - department: National Endowment for the Arts
   website: https://www.arts.gov/open/plain-language
@@ -325,7 +340,8 @@
     - name: Don Ball
       title: Assistant Director, Office of Public Affairs
   contacts:
-    - email: plainlanguage@arts.gov
+    - name: Plain Language
+      email: plainlanguage@arts.gov
 
 - department: Nuclear Regulatory Commission
   website: http://www.nrc.gov/public-involve/open/plain-writing/fed-mandates.html
@@ -363,7 +379,8 @@
     - name: Steve Hickman
       title: Acting Executive Secretary
   contacts:
-    - email: OPMExecSec@opm.gov
+    - name: OPM Executive Secretary
+      email: OPMExecSec@opm.gov
 
 - department: Pension Benefit Guaranty Corporation
   website: http://www.pbgc.gov/about/pbgc-in-plain-english.html
