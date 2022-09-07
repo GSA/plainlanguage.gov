@@ -20,7 +20,7 @@
   }
 }
 
-.usa-layout-docs-main_content {
+.usa-layout__docs-main-content {
   // scss-lint:disable SelectorFormat
   a[href*="//"]:not([href*="plainlangugage.gov"])::after
   {
@@ -52,7 +52,7 @@
 }
 
 @media (max-width: #{$large-screen}) {
-  .usa-layout-docs-main_content {
+  .usa-layout__docs-main-content {
     // scss-lint:disable SelectorFormat
     float: none;
     width: 100%;

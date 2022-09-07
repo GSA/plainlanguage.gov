@@ -3,8 +3,7 @@
     font-weight: $font-bold;
   }
 
-  .usa-footer-secondary_section {
-    // scss-lint:disable SelectorFormat
+  .usa-footer__secondary-section {
     a {
       color: $color-base;
     }
@@ -22,8 +21,7 @@
 
 @media #{$breakpoint-lg} {
   .usa-footer {
-    .usa-footer-secondary_section {
-      // scss-lint:disable SelectorFormat
+    .usa-footer__secondary-section {
       li {
         display: block;
         margin-right: 0;
