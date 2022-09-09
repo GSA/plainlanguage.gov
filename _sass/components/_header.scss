@@ -7,7 +7,7 @@
 }
 
 .sticky-nav .usa-header {
-  position: -webkit-sticky; // scss-lint:disable VendorPrefix
+  position: -webkit-sticky;
   position: sticky;
   top: 0;
   z-index: 9000;
@@ -44,7 +44,6 @@
   }
 
   a.usa-current {
-    // scss-lint:disable QualifyingElement
     border-left: 0;
   }
 }

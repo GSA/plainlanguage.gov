@@ -16,7 +16,7 @@ jobs:
           command: bundle install
       - run:
           name: Run Stylelint
-          command: npm run stylelint:fix         
+          command: npm run stylelint:check
       - run:
           name: Build site
           command: bundle exec jekyll build

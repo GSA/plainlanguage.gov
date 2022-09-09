@@ -4,7 +4,7 @@
 }
 
 .sticky {
-  position: -webkit-sticky; // scss-lint:disable VendorPrefix
+  position: -webkit-sticky;
   position: sticky;
   top: 0;
 }

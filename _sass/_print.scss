@@ -41,7 +41,6 @@
   }
 
   .usa-layout__docs-main-content {
-    // scss-lint:disable SelectorFormat
     float: none;
     margin: 0;
     padding: 0;
@@ -59,7 +58,6 @@
     }
 
     a[href^="http"]::after {
-      // scss-lint:disable QualifyingElement
       content: ' <" attr(href) "> ';
     }
   }

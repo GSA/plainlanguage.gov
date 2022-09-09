@@ -43,18 +43,13 @@
   border-color: $border-color;
 }
 
-.usa-sidenav__sub-list {
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-.usa-sidenav__sub-list a,
-.usa-sidenav__sub-list a:hover,
-.usa-sidenav__sub-list a.usa-current {
+.usa-sidenav-sub_list a,
+.usa-sidenav-sub_list a:hover,
+.usa-sidenav-sub_list a.usa-current {
   padding-left: $spacing-md-small;
 }
 
-.usa-sidenav__sub-list a:hover,
+.usa-sidenav-sub_list a:hover,
 .usa-sidenav__sub-list a.usa-current {
   color: $color-primary-darker;
 }
