@@ -107,7 +107,7 @@ Your agency will designate a senior official to be responsible for implementing 
 
 ### Where can I get help in rewriting my documents in plain language?
 
-Start with your agency plain language official. [plainlanguage.gov]({{ site.baseurl }}) offers more detailed guidance, good examples, related reference documents, links to other plain language sites, and a list of people willing to give you advice and assistance. If you still need help, [contact us](mailto:{{ site.email }}).
+Start with your agency plain language official. [plainlanguage.gov]({{ site.url }}) offers more detailed guidance, good examples, related reference documents, links to other plain language sites, and a list of people willing to give you advice and assistance. If you still need help, [contact us](mailto:{{ site.email }}).
 
 ## Rulemaking documents
 
