@@ -22,4 +22,4 @@ jobs:
           command: bundle exec jekyll build
       - run:
           name: Test with htmlproofer
-          command: bundle exec htmlproofer ./_site --check-html --allow-hash-href --empty-alt-ignore --disable-external
+          command: bundle exec htmlproofer ./_site --allow-hash-href=true --disable-external=true --enforce-https=false --ignore-empty-alt=true

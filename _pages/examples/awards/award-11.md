@@ -26,7 +26,7 @@ The original manual was written in "legalese", was poorly organized and mixed ad
 
 Today's award builds on an Executive Memorandum the Vice President announced on June 1, 1998. The memorandum directed all executive departments and agencies to: (1) write any new document that tells the public how to get a benefit or comply with a requirement in plain language by October 1, 1998; (2) write all new government regulations in plain language by January 1, 1999; and (3) revise all existing letters and notices into plain language by 2002.
 
-With regard to today's announcement, below is a sample of the language both before and after it was re-written. Additional material from the manual and past plain language awards may be found on [plainlanguage.gov]({{ site.baseurl }}).
+With regard to today's announcement, below is a sample of the language both before and after it was re-written. Additional material from the manual and past plain language awards may be found on [plainlanguage.gov]({{ site.url }}).
 
 ## Chapter 204: Cryogenic Materials
 
