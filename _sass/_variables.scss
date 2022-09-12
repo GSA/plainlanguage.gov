@@ -1,19 +1,19 @@
 // Basscss
 
 $bold-font-weight: $font-bold;
-$caps-letter-spacing: .1em;
+$caps-letter-spacing: 0.1em;
 
 $border-color: #d5e5ed;
 $border-radius: 3px;
 $border-width: 1px;
 
-$breakpoint-sm: '(min-width: #{$small-screen})';
-$breakpoint-md: '(min-width: #{$medium-screen})';
-$breakpoint-lg: '(min-width: #{$large-screen})';
+$breakpoint-sm: "(min-width: #{$small-screen})";
+$breakpoint-md: "(min-width: #{$medium-screen})";
+$breakpoint-lg: "(min-width: #{$large-screen})";
 
-$breakpoint-xs: '(max-width: #{$small-screen})';
-$breakpoint-sm-md: '(min-width: #{$small-screen}) and (max-width: #{$medium-screen})';
-$breakpoint-md-lg: '(min-width: #{$medium-screen}) and (max-width: #{$large-screen})';
+$breakpoint-xs: "(max-width: #{$small-screen})";
+$breakpoint-sm-md: "(min-width: #{$small-screen}) and (max-width: #{$medium-screen})";
+$breakpoint-md-lg: "(min-width: #{$medium-screen}) and (max-width: #{$large-screen})";
 
 $color-blue-light: #ebf3f7;
 $color-tan: #faf8f2;
