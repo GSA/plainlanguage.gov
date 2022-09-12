@@ -1,54 +1,54 @@
 @include font-face(
-  '18Franklin-webfont',
-  '../fonts/18Franklin-Light',
+  "18Franklin-webfont",
+  "../fonts/18Franklin-Light",
   300,
   normal,
   $file-formats: woff2 woff ttf
 );
 
 @include font-face(
-  '18Franklin-webfont',
-  '../fonts/18Franklin-LightItalic',
+  "18Franklin-webfont",
+  "../fonts/18Franklin-LightItalic",
   300,
   italic,
   $file-formats: eot woff2 woff ttf
 );
 
 @include font-face(
-  '18Franklin-webfont',
-  '../fonts/18Franklin-Regular',
+  "18Franklin-webfont",
+  "../fonts/18Franklin-Regular",
   400,
   normal,
   $file-formats: woff2 woff ttf
 );
 
 @include font-face(
-  '18Franklin-webfont',
-  '../fonts/18Franklin-Medium',
+  "18Franklin-webfont",
+  "../fonts/18Franklin-Medium",
   500,
   normal,
   $file-formats: woff2 woff ttf
 );
 
 @include font-face(
-  '18Franklin-webfont',
-  '../fonts/18Franklin-Bold',
+  "18Franklin-webfont",
+  "../fonts/18Franklin-Bold",
   700,
   normal,
   $file-formats: woff2 woff ttf
 );
 
 @include font-face(
-  'Roboto Mono',
-  '../fonts/RobotoMono-Regular',
+  "Roboto Mono",
+  "../fonts/RobotoMono-Regular",
   400,
   normal,
   $file-formats: ttf
 );
 
 @include font-face(
-  'Roboto Mono',
-  '../fonts/RobotoMono-Bold',
+  "Roboto Mono",
+  "../fonts/RobotoMono-Bold",
   700,
   normal,
   $file-formats: ttf
