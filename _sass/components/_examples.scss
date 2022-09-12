@@ -76,9 +76,9 @@ $example-good-color: #0d8259;
       color: $example-bad-color;
 
       &::before {
-        background-image: url('../img/icons/times.svg');
+        background-image: url("../img/icons/times.svg");
         background-size: auto $example-heading-size;
-        content: ' ';
+        content: " ";
         display: inline-block;
         height: $example-heading-size;
         margin-right: $spacing-small;
@@ -92,9 +92,9 @@ $example-good-color: #0d8259;
       color: $example-good-color;
 
       &::before {
-        background-image: url('../img/icons/check.svg');
+        background-image: url("../img/icons/check.svg");
         background-size: auto $example-heading-size;
-        content: ' ';
+        content: " ";
         display: inline-block;
         height: $example-heading-size;
         margin-right: $spacing-small;
@@ -146,9 +146,9 @@ $example-good-color: #0d8259;
         color: $example-bad-color;
 
         &::before {
-          background-image: url('../img/icons/times.svg');
+          background-image: url("../img/icons/times.svg");
           background-size: auto $example-heading-size;
-          content: ' ';
+          content: " ";
           display: inline-block;
           height: $example-heading-size;
           margin-right: $spacing-small;
@@ -164,9 +164,9 @@ $example-good-color: #0d8259;
         color: $example-good-color;
 
         &::before {
-          background-image: url('../img/icons/check.svg');
+          background-image: url("../img/icons/check.svg");
           background-size: auto $example-heading-size;
-          content: ' ';
+          content: " ";
           display: inline-block;
           height: $example-heading-size;
           margin-right: $spacing-small;
@@ -195,11 +195,13 @@ $example-good-color: #0d8259;
 
   &::before,
   &::after {
-    content: ' ';
+    content: " ";
     display: table;
   }
 
-  &::after { clear: both; }
+  &::after {
+    clear: both;
+  }
 }
 
 @media #{$breakpoint-md} {
