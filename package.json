@@ -10,7 +10,6 @@
     "federalist": "npm run build-js && npm run guidelines",
     "test:pa11y": "pa11y-ci --config .pa11yci --sitemap http://localhost:4000/sitemap.xml --sitemap-exclude pdf",
     "start": "bundle exec jekyll serve",
-    "stylelint:check": "stylelint _sass/**/*.scss _sass/*.scss",
     "stylelint:fix": "stylelint --fix _sass/**/*.scss _sass/*.scss",
     "watch-js": "webpack -w --progress"
   },
