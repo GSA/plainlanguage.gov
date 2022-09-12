@@ -34,7 +34,7 @@ Notes for basic setup:
 To run the site locally, from the project folder, run:
 
 ```
-bundle exec jekyll serve
+npm start
 ```
 
 If all goes well, visit the site at `http://localhost:4000`.
