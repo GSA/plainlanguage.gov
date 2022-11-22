@@ -12,7 +12,6 @@
     font-size: $h5-font-size;
   }
 
-
   .usa-width-one-half {
     margin-bottom: $spacing-medium;
   }
@@ -23,7 +22,7 @@
     margin-bottom: 0;
   }
 
-  .about-grid  > :first-child > .usa-width-one-half {
+  .about-grid > :first-child > .usa-width-one-half {
     padding-right: $spacing-medium;
   }
 }

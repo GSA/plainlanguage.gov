@@ -1,7 +1,7 @@
 // Web Design Standards
 
-$font-path: '../uswds/fonts';
-$image-path: '../uswds/img';
+$font-path: "../uswds/fonts";
+$image-path: "../uswds/img";
 
 $h1-font-size: 3rem;
 $h2-font-size: 2.5rem;
@@ -10,16 +10,18 @@ $h4-font-size: 1.5rem;
 $h5-font-size: 1.3rem;
 $h6-font-size: 1rem;
 
-$font-sans: '18Franklin-webfont', system, -apple-system, BlinkMacSystemFont, 'Roboto', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
-$font-serif: 'Georgia', 'Cambria', 'Times New Roman', 'Times', serif;
-$font-mono: 'Roboto Mono', 'Bitstream Vera Sans Mono', 'Consolas', 'Courier', monospace;
+$font-sans: "18Franklin-webfont", system, -apple-system, BlinkMacSystemFont,
+  "Roboto", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+$font-serif: "Georgia", "Cambria", "Times New Roman", "Times", serif;
+$font-mono: "Roboto Mono", "Bitstream Vera Sans Mono", "Consolas", "Courier",
+  monospace;
 
 $font-normal: 400;
 $font-bold: 600;
 
-$small-screen:  481px;
+$small-screen: 481px;
 $medium-screen: 600px;
-$large-screen:  951px;
+$large-screen: 951px;
 
 $color-base: #394040;
 $color-primary: #3f76a3;
@@ -32,7 +34,7 @@ $site-max-width: 1040px;
 $site-margins: 3rem;
 $site-margins-mobile: 1.5rem;
 
-$spacing-x-small: .5rem;
+$spacing-x-small: 0.5rem;
 $spacing-small: 1rem;
 $spacing-md-small: 1.5rem;
 $spacing-medium: 3rem;

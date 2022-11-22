@@ -1,10 +1,10 @@
 .arrow::after {
-  content: '\00a0\00BB';
+  content: "\00a0\00BB";
   display: inline;
 }
 
 .sticky {
-  position: -webkit-sticky; // scss-lint:disable VendorPrefix
+  position: -webkit-sticky;
   position: sticky;
   top: 0;
 }
