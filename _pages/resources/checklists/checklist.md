@@ -6,7 +6,7 @@ redirect_from:
   - /howto/quickreference/checklist.cfm
 ---
 
-Use this checklist to see if your document meets plain language standards. (If you're writing for the web, here's the [web checklist]({{ site.baseurl }}{% link _pages/resources/checklists/web-checklist.md %}).)
+Use this checklist to see if your document meets plain language standards. (If you're writing for the web, here's the [web checklist]({{ site.url }}{% link _pages/resources/checklists/web-checklist.md %}).)
 
 - [written for the average reader]({{ site.baseurl }}/guidelines/audience)
 - [organized to serve the reader's needs]({{ site.baseurl }}/guidelines/organize)
@@ -21,4 +21,4 @@ Use this checklist to see if your document meets plain language standards. (If y
 - [uses "must" to express requirements; avoids the ambiguous word "shall"]({{ site.baseurl }}/guidelines/conversational/use-must-to-indicate-requirements/)
 - [places words carefully]({{ site.baseurl }}/guidelines/words/place-words-carefully/) (avoids large gaps between the subject, the verb and the object; puts exceptions last; places modifiers correctly)
 - uses [lists]({{ site.baseurl }}/guidelines/organize/use-lists/) and [tables]({{ site.baseurl }}/guidelines/design/use-tables-to-make-complex-material-easier-to-understand/) to simplify complex material
-- [uses no more than two or three subordinate levels]({{ site.baseurl }})
+- [uses no more than two or three subordinate levels]({{ site.url }})

@@ -12,7 +12,7 @@
         {{ link.text }}
       </a>
       {% if (_current or (page.url contains _href or page.permalink contains _href)) and link.subnav %}
-        <ul class="usa-sidenav-sub_list">
+        <ul class="usa-sidenav__sub-list">
           {% for sublink in link.subnav %}
             <li>
               <a href="{% if sublink.external == true %}{{ sublink.href }}{% else %}{{ sublink.href | relative_url }}{% endif %}" {% if page.url == sublink.href or page.permalink == sublink.href %}class="usa-current"{% endif %}>{{ sublink.text }}</a>

@@ -6,6 +6,10 @@ redirect_from:
   - /howto/guidelines/
   - /howto/guidelines/index.cfm
 ---
+Style guides are not a plain language issue, except that your style guide should include directions to write in plain language. Plain language works with whatever style you follow. 
+
+Here are some style guides. If you have an update, please let us know at info@plainlanguage.gov. 
+
 
 ## Federal government
 
