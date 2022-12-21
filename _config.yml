@@ -11,7 +11,7 @@ instagram: https://www.instagram.com/govplainlang/
 github:
   organization: GSA
   repository: plainlanguage.gov
-  default_branch: master
+  default_branch: main
 
 sitewide_notification:
   display: true
