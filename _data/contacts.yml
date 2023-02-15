@@ -146,6 +146,12 @@
     - name: Web Manager
       email: webmanager@hud.gov
 
+- department: U.S. National Science Foundation
+  website: https://nsf.gov/policies/nsf_plain_language.jsp
+  contacts:
+    - name: Office of Legislative and Public Affairs (OPLA) Copyedit
+      email: copyedit@nsf.gov
+
 - department: Department of Interior
   website: https://www.doi.gov/plainlanguage
   email: plainlanguage@ios.doi.gov
@@ -395,7 +401,13 @@
       title: Director, Office of Investor Education and Advocacy
 
 - department: Small Business Administration
-  website: http://www.sba.gov/content/plain-language-page-0
+  website: https://www.sba.gov/about-sba/open-government/information-quality/plain-language
+  officials:
+    - name: Kim Bradley
+      title: Director, Office of the Executive Secretariat
+  contacts:
+    - name: Aungelic Nelson, SBA Plain Language Coordinator
+      email: plain.language@sba.gov
 
 - department: Social Security Administration
   website: http://www.ssa.gov/plain-language/
