@@ -55,7 +55,7 @@ Staff Attorney, Office of the Federal Register
 <div class="usa-width-one-half">
 #### Jamie Stark
 ##### Training coordinator
-Writer-Editor, Office of Customer Engagement & Strategic  Communication
+Chief, Engagements Branch 
 [U.S. Citizenship and Immigration Services](https://www.uscis.gov)  
 </div>
 </div>

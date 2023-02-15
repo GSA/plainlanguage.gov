@@ -44,7 +44,7 @@ The United States is fast becoming a leader in the world-wide plain language mov
 
 - Oregon also has a [plain language program](http://plainlanguage.oregon.gov/).
 
-- The [Quality and Productivity Commission](http://qpc.co.la.ca.us/pl.asp), established by the Board of Supervisors of the County of Los Angeles, also has its own site.
+- The [Quality and Productivity Commission](https://qpc.lacounty.gov/), established by the Board of Supervisors of the County of Los Angeles, also has its own site.
 
 - Minnesota state agencies must comply with [former Governor Dayton’s Executive Order on plain language](https://www.leg.state.mn.us/lrl/execorders/eoresults?gov=all&title=&number=14-07&ft). Their plain language program started in the Minnesota Department of Revenue and has spread to many other state agencies.
 
@@ -54,7 +54,7 @@ Governments and private organizations around the world support plain language. M
 
 - [Plain Language Association International](http://www.plainlanguagenetwork.org/) includes professionals who plan, write, design, and create communications projects to better serve the needs of the public, clients, customers, students, and staff. Their site provides free plain language articles, writing tutorials, Web links, news, networking opportunities, professional support, and an e-mail discussion group.
 
-- [Clarity](http://www.clarity-international.net/) is a worldwide group of lawyers and interested lay people. Its aim is the use of good, clear language by the legal profession.
+- [Clarity](https://www.clarity-international.org/) is a worldwide group of lawyers and interested lay people. Its aim is the use of good, clear language by the legal profession.
 
 - Sweden has one of the oldest programs. It's managed by the Ministry of Justice. Even bills headed to the legislature go through plain language editing. In fall 2004, a representative of the Ministry of Justice spoke at the kickoff of Mexico's new plain language program: [Plain language in Sweden, the results after 30 years]({{ site.baseurl }}{% link _pages/resources/articles/plain-language-in-sweden-the-results-after-30-years.md %}).
 
