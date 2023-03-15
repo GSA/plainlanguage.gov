@@ -34,7 +34,7 @@
     "jquery": "^3.6.0",
     "pa11y-ci": "^2.3.0",
     "stickyfilljs": "^2.0.2",
-    "webpack": "^5.72.0"
+    "webpack": "^5.76.0"
   },
   "devDependencies": {
     "@18f/identity-stylelint-config": "^1.0.0",
