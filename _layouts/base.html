@@ -12,6 +12,7 @@
       <meta name="twitter:card" content="summary">
     {% endif %}
     {% if page.title %}
+      <title>{{ page.title }}</title>
       <meta property="og:title" content="{{ site.title | xml_escape }} | {{ page.title | xml_escape }}" />
       <meta name="twitter:title" content="{{ site.title | xml_escape }} | {{ page.title | xml_escape }}">
     {% else %}
@@ -37,11 +38,6 @@
       <meta name="image" content="{{ site.image | absolute_url }}">
       <meta property="og:image" content="{{ site.image | absolute_url }}" />
       <meta name="twitter:image" content="{{ site.image | absolute_url }}">
-    {% endif %}
-
-    
-    {% if page.title %}
-      <title>{{ page.title }}</title>
     {% endif %}
 
     <!-- Sitemap-->
