@@ -44,7 +44,9 @@ It is so wrapped up in red tape that the situation is about hopeless.
 
 10\. WE WILL LOOK INTO IT
 
-Forget it! We have enough problems for now. | 11\. PLEASE NOTE AND INITIAL
+Forget it! We have enough problems for now.
+
+11\. PLEASE NOTE AND INITIAL
 
 Let's spread the responsibility for the mistake.
 
