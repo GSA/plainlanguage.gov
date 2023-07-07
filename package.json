@@ -39,7 +39,7 @@
   "devDependencies": {
     "@18f/identity-stylelint-config": "^1.0.0",
     "prettier": "^2.8.7",
-    "stylelint": "^14.11.0",
+    "stylelint": "^15.10.1",
     "webpack-cli": "^4.9.2"
   }
 }
