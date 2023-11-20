@@ -3,6 +3,8 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: 'en-US' }}">
   <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     {% unless site.env == "production" %}
       <meta name="robots" content="noindex, nofollow">
     {% endunless %}
@@ -12,6 +14,7 @@
       <meta name="twitter:card" content="summary">
     {% endif %}
     {% if page.title %}
+      <title>{{ page.title }}</title>
       <meta property="og:title" content="{{ site.title | xml_escape }} | {{ page.title | xml_escape }}" />
       <meta name="twitter:title" content="{{ site.title | xml_escape }} | {{ page.title | xml_escape }}">
     {% else %}
@@ -41,6 +44,7 @@
 
     <!-- Sitemap-->
     <link rel="sitemap" type="application/xml" title="{{ site.title }} Sitemap" href="{{ "/sitemap.xml" | absolute_url }}" />
+
 
     {% include styles.html %}
 
