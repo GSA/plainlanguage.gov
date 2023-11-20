@@ -198,7 +198,6 @@ regarding | about, of, on
 relative to | about, on
 relocate | move
 remain | stay
-remain | stay
 remainder | rest
 remuneration | pay, payment
 render | give, make
