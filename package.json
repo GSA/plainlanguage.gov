@@ -32,7 +32,7 @@
     "basscss-sass": "^4.0.0",
     "glob-parent": "^6.0.2",
     "jquery": "^3.7.1",
-    "pa11y-ci": "^2.3.0",
+    "pa11y-ci": "^2.4.2",
     "stickyfilljs": "^2.1.0",
     "webpack": "^5.89.0"
   },
