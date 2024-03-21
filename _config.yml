@@ -14,10 +14,9 @@ github:
   default_branch: main
 
 sitewide_notification:
-  display: true
+  display: false
   heading: Information Status
   text: >-
-    We are currently revising content on plainlanguage.gov, including the federal guidelines, training materials, and other online resources. We’ve temporarily paused accepting training requests until after this update is complete. We hope to resume training later in the fall 2023.
 
 
 theme: uswds-jekyll
