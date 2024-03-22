@@ -19,10 +19,9 @@ To promote plain language, we:
 
 - develop and maintain the content of this site
 - [manage the plain language community of practice](https://www.digitalgov.gov/communities/plain-language/)
-- [offer free half-day training sessions to federal agencies]({{ site.baseurl }}/training/introductory-classes/)
 - sponsor occasional seminars about plain language
 
-We meet monthly to discuss plain language issues. Our meetings are open to all federal employees. [Subscribe to our mailing list](https://www.digitalgov.gov/communities/plain-language/) to learn about upcoming events.
+[Join the Plain Language community of practice](https://www.digitalgov.gov/communities/plain-language/) to learn about upcoming events.
 
 Please [contact us](mailto:{{ site.email }}) if you have questions about how to promote plain language within your agency. 
 

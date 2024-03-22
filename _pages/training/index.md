@@ -14,17 +14,11 @@ redirect_from:
   - /resources/take_training/plaintraining.cfm
 ---
 
-## Classes for federal agencies
+## Elevate your communications with online plain language training
 
-We offer two kinds of plain language training:
+We understand that in-person training sessions aren't always convenient. That's why we've compiled a collection of on-demand, online plain language training resources.
 
-### [Introductory classes]({{ site.baseurl }}/training/introductory-classes/)
-
-We provide a free half-day introduction to plain language to federal agencies. You must have at least 20 participants. Ask if one of our experienced trainers is available for your agency.
-
-### [Train-the-trainer bootcamp]({{ site.baseurl }}/training/train-the-trainer-bootcamp/)
-
-We need trainers to help us provide plain language training to government agencies. Our trainers are federal employees from across the government who volunteer 1–2 classes a year (outside of their own agencies). We offer these periodically; we can add you to the waitlist.
+Find expert guidance and tools to simplify writing and communicate with greater clarity. Explore our selection of the best online materials, available whenever you're ready to learn.
 
 ## Public resources
 

@@ -6,7 +6,7 @@ redirect_from:
   - /resources/for_trainers/PLAIN.cfm
 ---
 
-PLAIN offers a variety of introductory classes on plain language. You may use these materials as the basis of your own class.
+You may use these materials as the basis of your own class.
 
 ## Half-day presentations
 
