@@ -18,8 +18,8 @@ redirect_from:
 
 ## PLAIN Meetings
 
-- [2019 PLAIN Summit](https://www.youtube.com/embed/cny1CIMuv3o)
-- [2018 PLAIN Summit](https://www.youtube.com/embed/W4gzfemW0Rc)
+- [2019 PLAIN Summit](https://www.youtube.com/watch?v=cny1CIMuv3o)
+- [2018 PLAIN Summit](https://www.youtube.com/watch?v=W4gzfemW0Rc)
 - [June 2021 Meeting: Using Words to Build Better Digital Experiences](https://digital.gov/event/2021/06/09/plain-language-webinar-using-words-to-build-better-digital-experiences/)
 -  [May 2021 Meeting: Positioning Yourself as a Plain Language Editor](https://digital.gov/event/2021/05/19/positioning-yourself-as-a-plain-language-editor/)
 -  [April 2021 Meeting: How Testing Your Documents Can Improve Plain Language Compliance](https://digital.gov/event/2021/04/14/how-testing-your-documents-can-improve-plain-language-compliance/)
