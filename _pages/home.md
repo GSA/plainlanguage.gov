@@ -75,7 +75,7 @@ redirect_from:
     <div class="usa-width-one-third">
       <h3>Join the Plain Language Community</h3>
         <p>Learn about upcoming events and get the latest news from the federal plain language community.</p>
-        <a class="usa-button usa-button-primary block m0 nowrap" href="https://www.digitalgov.gov/communities/plain-language/">Join</a>
+        <a class="usa-button usa-button-primary block m0 nowrap" href="https://www.digitalgov.gov/communities/plain-language/">Join the community</a>
     </div>
   </div>
 </section>
