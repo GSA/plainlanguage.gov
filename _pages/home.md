@@ -73,9 +73,9 @@ redirect_from:
     <p class="usa-font-lead">The Plain Language Action and Information Network (PLAIN) is a community of federal employees dedicated to the idea that citizens deserve clear communication from government. We believe that using plain language saves federal agencies time and money and provides better service to the American public.</p>
     </div>
     <div class="usa-width-one-third">
-      <h3>Subscribe to our mailing list</h3>
+      <h3>Join the Plain Language Community</h3>
         <p>Learn about upcoming events and get the latest news from the federal plain language community.</p>
-        <a class="usa-button usa-button-primary block m0 nowrap" href="https://www.digitalgov.gov/communities/plain-language/">Subscribe</a>
+        <a class="usa-button usa-button-primary block m0 nowrap" href="https://www.digitalgov.gov/communities/plain-language/">Join the Plain Language Community</a>
     </div>
   </div>
 </section>
