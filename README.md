@@ -14,7 +14,7 @@ This is the public repo for [plainlanguage.gov](http://www.plainlanguage.gov), w
 
 You will need to have the following installed on your machine before following the commands below:
 
-- Ruby v2.7.1+, [Installation guides](https://www.ruby-lang.org/en/documentation/installation/)
+- Ruby v3.1.1, [Installation guides](https://www.ruby-lang.org/en/documentation/installation/)
 - Fork this repo
 - Clone the repo you just forked
 
