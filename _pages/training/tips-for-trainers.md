@@ -16,8 +16,6 @@ Starting a plain language program can be challenging. But like most challenges, 
 
 As a first step, you'll want to look at our training materials to get an idea of what you should cover:
 
-- We periodically offer a [Train-the-Trainer Bootcamp]({{ site.baseurl }}/training/train-the-trainer-bootcamp/).
-
 - The [Federal Plain Language Guidelines]({{ site.baseurl }}/guidelines/) is our handbook for writers. You can use it to structure a training course. It makes a good text or reference for your students.
 
 - You can also use our training materials to [create your own class]({{ site.baseurl }}/training/create-your-own-class/).
@@ -47,11 +45,3 @@ SMART goals are specific, measurable, achievable, realistic, and have a timefram
 - [Use tables]({{ site.baseurl }}/guidelines/design/use-tables-to-make-complex-material-easier-to-understand/). You can use tables effectively for much more than just showing numerical data.
 
 - [Use lists]({{ site.baseurl }}/guidelines/organize/use-lists/). Using lists instead of traditional paragraphs can help you convey detailed information quickly without overloading your readers.
-
-## Work with us
-
-We can also help you work with one of our trained instructors to set up a course.
-
-[The Plain Writing Act of 2010](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=111_cong_bills&docid=f:h946enr.txt.pdf) requires agencies to train their staff in plain language. PLAIN offers free consultation to federal agencies on how to start an internal agency plain language program. We have previously worked with the National Institutes of Health, U.S Citizenship and Immigration Services, and Veterans Benefits Administration (to name a few). These agencies now have self-run, thriving plain language programs.
-
-If you have any questions or need more help, [contact us](mailto:{{ site.email }}).
