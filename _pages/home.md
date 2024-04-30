@@ -55,7 +55,7 @@ redirect_from:
 
 <section class="usa-section bg-tan home-events" markdown="0">
   <div class="usa-grid">
-    <h2 class="mt0 mb3">Upcoming events</h2>
+    <h2 class="mt0 mb3">Events</h2>
     {% assign events = site.data.events | sort: 'date' %}
     {% assign events_sorted = events | reverse %}
     {% for event in events_sorted %}
