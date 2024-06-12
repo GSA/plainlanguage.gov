@@ -1,6 +1,6 @@
 ---
 title: Fungi Hazards and Flood Cleanup
-author: Federal Emergency Management Administration
+author: Federal Emergency Management Agency
 permalink: /examples/before-and-after/fungi-hazards/
 sidenav: examples
 
