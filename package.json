@@ -24,17 +24,13 @@
   },
   "homepage": "https://github.com/GSA/plainlanguage.gov#readme",
   "dependencies": {
-    "@babel/core": "^7.24.4",
-    "@babel/preset-env": "^7.24.4",
+    "@babel/core": "^7.24.9",
+    "@babel/preset-env": "^7.24.8",
     "babel-loader": "^8.2.3",
-    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
-    "babel-preset-es2015": "^6.14.0",
     "basscss-sass": "^4.0.0",
     "glob-parent": "^6.0.2",
-    "jquery": "^3.7.1",
     "pa11y-ci": "^2.4.2",
-    "stickyfilljs": "^2.1.0",
-    "webpack": "^5.91.0"
+    "webpack": "^5.93.0"
   },
   "devDependencies": {
     "@18f/identity-stylelint-config": "^1.0.0",
