@@ -64,6 +64,6 @@ Chief, Engagements Branch
 
 This site launched in 1994, and was redesigned in 2004 with volunteers from PLAIN and student work facilitated by [Thom Haller](http://onlinelibrary.wiley.com/doi/10.1002/bult.2006.1720320411/epdf).
 
-In 2017, we partnered with [18F](https://18f.gsa.gov/) to redesign the site and make it more accessible in modern browsers. plainlanguage.gov is built with the [U.S. Web Design Standards](https://standards.usa.gov/) and is hosted on [Pages](https://cloud.gov/pages/) by the [General Services Administration](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services).
+In 2017, we partnered with [18F](https://18f.gsa.gov/) to redesign the site and make it more accessible in modern browsers. PlainLanguage.gov is built with the [U.S. Web Design System](https://designsystem.digital.gov/) and is hosted on [Pages](https://www.cloud.gov/pages/) by the [U.S. General Services Administration](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services).
 
 We are continuing to improve the site and [welcome your feedback](mailto:{{ site.email }}).
