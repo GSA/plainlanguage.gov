@@ -36,7 +36,7 @@ SMART goals are specific, measurable, achievable, realistic, and have a timefram
 
 ## Follow plain language guidelines
 
-There are some best practices to follow when writing with plain language. Below are a few to help you get started, and more can be found on [Federal plain language guidelines]({{site.basurl }} /guidelines/).
+There are some best practices to follow when writing with plain language. Below are a few to help you get started, and more can be found on [Federal plain language guidelines]({{ site.basurl }}/guidelines/).
 
 - [Have a topic sentence]({{ site.baseurl }}/guidelines/organize/have-a-topic-sentence/). Good opening sentences help organize the structure of writing. 
 
