@@ -36,12 +36,14 @@ SMART goals are specific, measurable, achievable, realistic, and have a timefram
 
 ## Follow plain language guidelines
 
-- [Have a topic sentence]({{ site.baseurl }}/guidelines/organize/have-a-topic-sentence/). In [First Things First: The Lost Art of Summarizing](http://aja.ncsc.dni.us/courtrv/cr38-2/CR38-2Kimble.pdf), Professor Joe Kimble emphasizes the importance of a good opening sentence.
+There are some best practices to follow when writing with plain language. Below are a few to help you get started, and more can be found on [Federal plain language guidelines] ({{site.basurl }} /guidelines/).
 
-- [Use the active voice]({{ site.baseurl }}/guidelines/conversational/use-active-voice/). The European Commission's Translation Service is running a "Fight the Fog" campaign, which includes many online resources for improving writing. In its [Write Clearly](http://www.au.af.mil/au/awc/awcgate/eu/fight_the_fog_en.pdf) booklet, Fight the Fog gives tips on changing passive voice to active by naming the agent of an action.
+- [Have a topic sentence]({{ site.baseurl }}/guidelines/organize/have-a-topic-sentence/). Good opening sentences help organize the structure of writing. 
 
-- [Organize the information]({{ site.baseurl }}/guidelines/organize/). In [Plain Language: A Handbook for Writers in the U.S. Federal Government](http://www.lauchmangroup.com/PDFfiles/PLHandbook.PDF),  Richard Lauchman explains how to prepare the reader for what to expect by using summary statements, being precise on the subject lines of letters and email messages, and summarizing lengthy documents in one, up-front paragraph.
+- [Use the active voice]({{ site.baseurl }}/guidelines/conversational/use-active-voice/). Active voice helps the message stay clear and easy-to-read.
 
+- [Organize the information]({{ site.baseurl }}/guidelines/organize/). Prepare readers for what to expect by summarizing lengthy documents up-front and being precise on the subject lines of letters and email messages.
+  
 - [Use tables]({{ site.baseurl }}/guidelines/design/use-tables-to-make-complex-material-easier-to-understand/). You can use tables effectively for much more than just showing numerical data.
 
 - [Use lists]({{ site.baseurl }}/guidelines/organize/use-lists/). Using lists instead of traditional paragraphs can help you convey detailed information quickly without overloading your readers.
