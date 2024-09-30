@@ -38,5 +38,4 @@ Read Gore's [announcement speech]({{ site.baseurl }}/examples/awards/gore-speech
 * [Award 11]({{ site.baseurl }}/examples/awards/award-11/): Dan Clem, NASA
 * [Award 12]({{ site.baseurl }}/examples/awards/award-12/): Marlene Pegg and Maruita Bontz, Social Security Administration
 * [Award 13]({{ site.baseurl }}/examples/awards/award-13/): Sharon L. Natanblut, Food and Drug Administration
-* [Award 14](https://one.nhtsa.gov/nhtsa/announce/press/1999/pr030599.html): Mary Versailles and Nicole Fredette, National Highway Traffic Safety Administration
-* [Award 15](https://www.gpo.gov/fdsys/pkg/FR-1999-08-02/pdf/99-19584.pdf): Farm Credit Administration
+
