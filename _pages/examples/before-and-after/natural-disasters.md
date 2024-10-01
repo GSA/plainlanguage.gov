@@ -1,6 +1,6 @@
 ---
 title: Protect Yourself from Natural Disasters
-author: Federal Emergency Management Administration
+author: Federal Emergency Management Agency
 permalink: /examples/before-and-after/natural-disasters/
 sidenav: examples
 
