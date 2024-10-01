@@ -1,8 +1,9 @@
 ---
 title: 'Disaster Regulation'
-author: Federal Emergency Management Administration
+author: Federal Emergency Management Agency
 permalink: /examples/regulations/disaster-regulation/
 sidenav: examples
+
 ---
 
 _This example was created for training and is not official agency text._
