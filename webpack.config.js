@@ -14,13 +14,6 @@ module.exports = {
     path: __dirname + '/assets/js/build'
   },
 
-  plugins: [
-    new webpack.ProvidePlugin({
-      $: 'jquery',
-      jQuery: 'jquery'
-    })
-  ],
-
   devtool: 'eval-cheap-module-source-map',
 
   module: {
